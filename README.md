@@ -6,8 +6,6 @@
 
 ## Sobre o aplicativo
 
- <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ifut.com.br%2Fstatics%2Fifut.png&imgrefurl=https%3A%2F%2Fwww.ifut.com.br%2F&tbnid=081T-ylTplkOPM&vet=12ahUKEwjqzr3BmLfrAhWcDrkGHZErDCsQMygAegUIARCUAQ..i&docid=_Kd-kpdNx1rTIM&w=120&h=150&q=ifut&ved=2ahUKEwjqzr3BmLfrAhWcDrkGHZErDCsQMygAegUIARCUAQ" width="350">
-
 <p align="justify"> O iFut é um gerenciador de campeonatos que facilita o planejamento de torneios de futebol. O app planeja todas as etapas de campeonatos de futebol, como inscrições, criação de tabelas e rodadas, além de oferecer uma opção de gameficação que gera engajamento dos usuários na plataforma online. </p>
 
 ## Equipe
