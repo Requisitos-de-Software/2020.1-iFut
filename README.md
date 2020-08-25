@@ -12,6 +12,9 @@
 
 | Nome | Matrícula | GitHub | Email |
 | --- | --- | --- | --- |
-| Isabella Carneiro Godinho de Morais Sá | 18/0019066  | isabellacgmsa | isabellacgmsa1@gmail.com |
+| Bruna Almeida Santos | 17/0100626 | brunaalmeidasantos | brunaalmeida48@gmail.com |
+| Damarcones dos Santos Duque Porto | 15/0122187 | damarcones | damarcones@gmail.com |
 | Geraldo Victor Alves Barbosa | 17/0011119  | geraldovictor | geraldovictor@outlook.com |
+| Isabella Carneiro Godinho de Morais Sá | 18/0019066  | isabellacgmsa | isabellacgmsa1@gmail.com |
+| Lucas lopes|
 
