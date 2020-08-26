@@ -1,4 +1,6 @@
-# 2020.1-iFut
+![alt text](https://www.ifut.com.br/statics/ifut.png "Logo iFut")
+
+# 2020.1-iFut 
 
 ## Sobre o Projeto
 
