@@ -1,0 +1,1 @@
+# Épico: Gerenciamento de [conteúdo](/modelagem/lexico#conteudo)

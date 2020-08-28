@@ -35,5 +35,8 @@ nav:
         
 theme: readthedocs
 
+docs_dir: ifut_docs/
+site_dir: docs/
+
 extra_css:
     - 'stylesheets/common.css'
