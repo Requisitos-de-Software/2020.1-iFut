@@ -33,7 +33,7 @@ nav:
         - Forward-from: pos-rastreabilidade/forward_from.md 
 
         
-theme: journal
+theme: readthedocs
 
 extra_css:
     - 'stylesheets/common.css'

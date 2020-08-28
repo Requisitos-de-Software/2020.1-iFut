@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../assets/favicon.ico">
+  
+  <title>MoScoW - Deezer</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  <link href="../../stylesheets/common.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "MoScoW";
+    var mkdocs_page_input_path = "elicitacao/moscow1.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> Deezer</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Inicial</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../planejamento/">Planejamento</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Pré-rastreabilidade</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../pre-rastreabilidade/pre_rastreabilidade/">Sobre</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../pre-rastreabilidade/backward_from/">Backward-from</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../pontocontrole/">Ponto de Controle</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Elicitação</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">MoScoW</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#participantes">Participantes</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#resultado">Resultado</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../introspeccao/">Introspecção</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../obs_part/">Observação Participativa</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../analise_de_protocolo/">Análise de Protocolo</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../questionario2/">Questionário</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../entrevista/">Entrevista</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Modelagem</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../modelagem/cenarios/cenarios/">Cenários</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../modelagem/lexico/">Léxico</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../modelagem/especificacao_suplementar/">Especificação Suplementar</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../modelagem/caso_de_uso/">Casos de Uso</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../modelagem/diagrama_caso_uso/">Diagramas de Caso de Uso</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../modelagem/historia_de_usuario/">Histórias de Usuário</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../modelagem/nfr/">NFR</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Análise</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../analise/verificacao/">Verificação</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../analise/validacaoprototipo/">Validação</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Pós-rastreabilidade</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../pos-rastreabilidade/pos_rastreabilidade/">Sobre</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../pos-rastreabilidade/forward_from/">Forward-from</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">Deezer</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Elicitação &raquo;</li>
+        
+      
+    
+    <li>MoScoW</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="moscow">MoSCoW</h1>
+<p><div class="line"></div></p>
+<p><strong>MoSCoW</strong> é uma técnica de priorização de requisitos, onde os requisitos elicitados são dividos em quatro categorias
+de prioridade, sendo elas:</p>
+<ul>
+<li>
+<p><strong><em>Must</em></strong> = Maior prioridade, crítico para o negócio ou sistema.</p>
+</li>
+<li>
+<p><strong><em>Should</em></strong> = Importante, porém não é crítico do ponto de vista estratégico.</p>
+</li>
+<li>
+<p><strong><em>Could</em></strong> = Desejável, mas não necessário. Geralmente melhoram a satisfação do cliente.</p>
+</li>
+<li>
+<p><strong><em>Would</em></strong> = Menos crítico ao projeto, requisitos que devem ter a concordância do cliente.</p>
+</li>
+</ul>
+<p>Após as respostas que obtivemos nas entrevistas, obtivemos alguns requisitos a mais, além disso, decidimos classificá-los quanto a funcionais (F) ou não funcionais (NF).</p>
+<table>
+<thead>
+<tr>
+<th>Número</th>
+<th>Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Versão 1</td>
+<td><a href="../moscow/">MoSCoW 1</a> (10/09/2019)</td>
+</tr>
+<tr>
+<td>Versão 1.1</td>
+<td>MoSCoW 1.1(Atual) (22/09/2019 a 25/09/2019)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="participantes">Participantes</h2>
+<ul>
+<li>Eduardo Lima</li>
+<li>Samuel Pereira</li>
+<li>Micaella Gouveia</li>
+<li>Sofia Patrocínio</li>
+<li>Luís Taira</li>
+</ul>
+<h2 id="resultado">Resultado</h2>
+<table>
+<thead>
+<tr>
+<th>Nº</th>
+<th>Requisito</th>
+<th>MoSCoW</th>
+<th>Classificação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>O usuário deve poder se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> pela <a href="/modelagem/lexico#conta">conta</a> do Google.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>2</td>
+<td>O usuário deve poder se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> pela <a href="/modelagem/lexico#conta">conta</a> do Facebook.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>3</td>
+<td>O usuário deve poder se <a href="/modelagem/lexico#cadastrar">Cadastrar</a> inserindo nome, telefone, gênero e idade.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>4</td>
+<td>O usuário deve poder fazer <a href="/modelagem/lexico#login">Login</a> pelo email.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>5</td>
+<td>O usuário deve poder fazer <a href="/modelagem/lexico#login">Login</a> pelo número do telefone.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>6</td>
+<td>O sistema deve pedir ao usuário escolher até 5 gêneros de seu gosto.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>7</td>
+<td>O sistema deve pedir ao usuário escolher <a href="/modelagem/lexico#artista">Artistas</a> de seu gosto.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>8</td>
+<td>O sistema deve <a href="/modelagem/lexico#recomendacao">recomendar</a> músicas, <a href="/modelagem/lexico#playlist">Playlists</a>, <a href="/modelagem/lexico#estacoes-de-radio">Estações de rádio</a> para o usuário, dependendo do seu gosto.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>9</td>
+<td>O usuário deve poder escutar um <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>10</td>
+<td>O usuário deve poder controlar o <a href="/modelagem/lexico#conteudo">conteúdo</a> que está em reprodução enquanto usa o aplicativo.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>11</td>
+<td>O usuário deve poder controlar o <a href="/modelagem/lexico#conteudo">conteúdo</a> que está em reprodução fora do aplicativo, pela barra de tarefas do celular.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>12</td>
+<td>O usuário deve poder criar seu <a href="/modelagem/lexico#flow">Flow</a>.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>13</td>
+<td>O usuário deve poder visualizar a <a href="/modelagem/lexico#fila-de-espera">Fila de espera</a>.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>14</td>
+<td>O usuário deve poder adicionar <a href="/modelagem/lexico#conteudo">conteúdo</a> a <a href="/modelagem/lexico#fila-de-espera">Fila de espera</a>.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>15</td>
+<td>O usuário deve poder configurar a qualidade de áudio.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>16</td>
+<td>O usuário deve poder configurar o <a href="/modelagem/lexico#equalizador">Equalizador</a>.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>17</td>
+<td>O usuário deve poder configurar o <a href="/modelagem/lexico#download">download</a> apenas Wi-Fi ou com Redes Móveis.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>18</td>
+<td>O usuário deve poder bloquear o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>19</td>
+<td>O usuário deve poder adicionar o <a href="/modelagem/lexico#conteudo">conteúdo</a> às <a href="/modelagem/lexico#mais-queridas">Mais queridas</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>20</td>
+<td>O usuário deve poder criar <a href="/modelagem/lexico#playlist">Playlists</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>21</td>
+<td>O usuário deve poder adicionar o <a href="/modelagem/lexico#conteudo">conteúdo</a> em alguma <a href="/modelagem/lexico#playlist">Playlist</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>22</td>
+<td>O usuário deve poder <a href="/modelagem/lexico#compartilhar">Compartilhar</a> o <a href="/modelagem/lexico#conteudo">conteúdo</a> para outras plataformas.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>23</td>
+<td>O usuário deve poder acessar a página do <a href="/modelagem/lexico#artista">Artista</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>24</td>
+<td>O usuário deve poder acessar a página do <a href="/modelagem/lexico#album">álbum</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>25</td>
+<td>O usuário deve poder acessar a página de perfis de outros usuários.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>26</td>
+<td>O usuário deve poder visualizar <a href="/modelagem/lexico#playlist">Playlists</a>, <a href="/modelagem/lexico#album">álbuns</a>, <a href="/modelagem/lexico#podcast">Podcasts</a>, <a href="/modelagem/lexico#mix">Mixers</a> e músicas públicas de outros usuários.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>27</td>
+<td>O usuário deve poder começar um <a href="/modelagem/lexico#flow">Flow</a>, mesclando seu gosto musical com o de outro usuário.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>28</td>
+<td>O usuário deve poder acompanhar a letras das músicas enquanto as ouve.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>29</td>
+<td>O usuário deve poder <a href="/modelagem/lexico#compartilhar">Compartilhar</a> a letra da música no <a href="/modelagem/lexico#instagram-stories">Instagram Stories</a>.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>30</td>
+<td>O sistema deve poder <a href="/modelagem/lexico#recomendacao">recomenda</a> <a href="/modelagem/lexico#conteudo">conteúdo</a> de acordo com a atividade do usuário.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>31</td>
+<td>O sistema deve poder criar <a href="/modelagem/lexico#playlist">Playlists</a> de acordo com o <a href="/modelagem/lexico#conteudo">conteúdo</a> mais ouvido pelos usuários.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>32</td>
+<td>O sistema deve poder gerar <a href="/modelagem/lexico#conteudo">conteúdos</a> tocados recentemente.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>33</td>
+<td>O usuário deve poder ver suas músicas <a href="/modelagem/lexico#mais-queridas">Mais queridas</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>34</td>
+<td>O usuário deve poder ver suas <a href="/modelagem/lexico#playlist">Playlists</a> favoritas e criadas.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>35</td>
+<td>O usuário deve poder ver seus <a href="/modelagem/lexico#album">álbuns</a> favoritos.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>36</td>
+<td>O usuário deve poder ver seus <a href="/modelagem/lexico#artista">Artistas</a> favoritos.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>37</td>
+<td>O usuário deve poder ver seus <a href="/modelagem/lexico#mix">Mixes</a> criados.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>38</td>
+<td>O usuário deve poder ver seus <a href="/modelagem/lexico#podcast">Podcasts</a> favoritos.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>39</td>
+<td>O sistema deve poder oferecer episódios do mesmo <a href="/modelagem/lexico#podcast">Podcast</a> que o usuário está ouvindo.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>40</td>
+<td>O usuário deve poder ser notificado com as atualizações e novidades mais recentes.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>41</td>
+<td>O usuário deve poder acessar suas notificações.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>42</td>
+<td>O usuário deve poder seguir <a href="/modelagem/lexico#artista">Artistas</a> e outros usuários.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>43</td>
+<td>O usuário deve poder ser seguido.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Criações do usuário devem poder ser seguidas.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>45</td>
+<td>O usuário devem poder gerenciar sua conta.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>46</td>
+<td>O usuário devem poder configurar o aplicativo.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>47</td>
+<td>O usuário devem poder gerenciar os dispositivos conectados.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>48</td>
+<td>O usuário devem poder testar recursos experimentais.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>49</td>
+<td>O usuário deve poder <a href="/modelagem/lexico#busca">Buscar</a> por texto um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>50</td>
+<td>O usuário deve poder visualizar na página de <a href="/modelagem/lexico#busca">Busca</a> <a href="/modelagem/lexico#conteudo">conteúdos</a> relacionados a pesquisa.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>51</td>
+<td>O usuário deve poder <a href="/modelagem/lexico#busca">Buscar</a> a partir de um som um <a href="/modelagem/lexico#conteudo">conteúdo</a> específico.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>52</td>
+<td>O usuário deve poder filtrar sua <a href="/modelagem/lexico#busca">Busca</a> por gêneros e <a href="/modelagem/lexico#moods">Moods</a>.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>53</td>
+<td>O usuário deve poder ampliar sua <a href="/modelagem/lexico#busca">Busca</a> de forma específica.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>54</td>
+<td>O usuário deve poder ver as Top Músicas, últimos lançamentos, <a href="/modelagem/lexico#album">discografia</a> de um <a href="/modelagem/lexico#artista">Artista</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>55</td>
+<td>O usuário deve poder, a partir de um <a href="/modelagem/lexico#artista">Artista</a>, encontrar <a href="/modelagem/lexico#artista">Artistas</a> similares.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Na Página do <a href="/modelagem/lexico#artista">Artista</a>, o usuário deve poder visualizar <a href="/modelagem/lexico#playlist">Playlists</a> em que o <a href="/modelagem/lexico#artista">Artista</a> está.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Na página do <a href="/modelagem/lexico#artista">Artista</a>, o usuário deve poder visualizar faixas em que o <a href="/modelagem/lexico#artista">Artista</a> aparece.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Na Página do <a href="/modelagem/lexico#artista">Artista</a>, o usuário deve poder visualizar a quantidade de usuários que <a href="/modelagem/lexico#curtir">curtiram</a> o <a href="/modelagem/lexico#artista">Artista</a> e seu lançamento mais popular.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>59</td>
+<td>O usuário deve poder <a href="/modelagem/lexico#curtir">curtir</a> <a href="/modelagem/lexico#artista">Artistas</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>60</td>
+<td>O <a href="/modelagem/lexico#usuario-free">Usuário free</a> deve poder experimentar o <a href="/modelagem/lexico#plano-premium">Deezer Premium</a> por um tempo determinado.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>61</td>
+<td>O <a href="/modelagem/lexico#usuario-free">Usuário free</a> deve receber anúncios durante o uso da aplicação.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>62</td>
+<td>O <a href="/modelagem/lexico#usuario-free">Usuário free</a> deve ter um número limitado para pular o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>63</td>
+<td>O <a href="/modelagem/lexico#usuario-free">Usuário free</a> deve ter que escutar o <a href="/modelagem/lexico#conteudo">conteúdo</a> de forma aleatória.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>64</td>
+<td>O <a href="/modelagem/lexico#usuario-free">Usuário free</a> deve poder iniciar, pausar e pular o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>65</td>
+<td>O <a href="/modelagem/lexico#usuario-free">Usuário free</a> deve possuir conexão com internet para acessar o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>66</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> deve pagar uma mensalidade.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>67</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> deve poder pular o <a href="/modelagem/lexico#conteudo">conteúdo</a> de forma ilimitada.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>68</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> deve poder <a href="/modelagem/lexico#[download](/modelagem/lexico#download)">baixar</a> <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>69</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> deve poder iniciar, pausar, pular e voltar o <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>70</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> deve poder escutar o <a href="/modelagem/lexico#conteudo">conteúdo</a> <a href="/modelagem/lexico#offline">Offline</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>71</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> deve poder escolher o <a href="/modelagem/lexico#conteudo">conteúdo</a> a ser tocado.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>72</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> não deve receber anúncios durante o uso da aplicação.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>73</td>
+<td>O sistema deve permitir que o usuário consiga ver informações sobre uma faixa de áudio.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>74</td>
+<td>O usuário deve conseguir repetir um <a href="/modelagem/lexico#conteudo">conteúdo</a>, <a href="/modelagem/lexico#playlist">Playlists</a>, <a href="/modelagem/lexico#album">álbuns</a>, <a href="/modelagem/lexico#podcast">Podcasts</a>.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>75</td>
+<td>O usuário deve poder avaliar <a href="/modelagem/lexico#recomendacao">recomendações</a> do sistema.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>76</td>
+<td>O <a href="/modelagem/lexico#usuario-premium">Usuário premium</a> deve poder alterar a ordem da lista a ser tocada.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>77</td>
+<td>O usuário deve poder <a href="/modelagem/lexico#busca">Buscar</a> a partir de um trecho de música específica.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>79</td>
+<td>O sistema deve priorizar o gosto do usuário para <a href="/modelagem/lexico#recomendacao">sugestão</a> de <a href="/modelagem/lexico#conteudo">conteúdo</a>.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>80</td>
+<td>O sistema deve poder criar meios de pontuação para promoções, assim como ter um sistema de cupons.</td>
+<td>Would</td>
+<td>F</td>
+</tr>
+<tr>
+<td>82</td>
+<td>O sistema deve oferecer uma <a href="/modelagem/lexico#busca">Busca</a> mais flexível em relação a <a href="/modelagem/lexico#busca">Busca</a> do usuário.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>83</td>
+<td>O sistema deve oferecer planos acessíveis aos usuários.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>84</td>
+<td>O sistema deve permitir a utilização de múltiplas formas de pagamento.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>85</td>
+<td>O usuário deve poder ter uma página de usuário customizável.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>86</td>
+<td>O usuário deve poder ter seu gosto musical compartilhado em sua página de usuário.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>87</td>
+<td>O sistema deve fornecer feedbacks do seu status.</td>
+<td>Should</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>88</td>
+<td>O sistema deve fornecer feedbacks acerca das ações realizadas pelo usuário.</td>
+<td>Should</td>
+<td>NF</td>
+</tr>
+<tr>
+<td>89</td>
+<td>O sistema deve retomar na mesma aba quando a aplicação é minimizada e reaberta.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>90</td>
+<td>O sistema deve pesquisar em tempo real de acordo com a <a href="/modelagem/lexico#busca">Busca</a> do usuário.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>91</td>
+<td>O sistema deve realizar confirmações de <a href="/modelagem/lexico#cadastrar">cadastro</a>.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>92</td>
+<td>O sistema deve automatizar etapas do processo de <a href="/modelagem/lexico#cadastrar">cadastro</a>.</td>
+<td>Should</td>
+<td>F</td>
+</tr>
+<tr>
+<td>93</td>
+<td>O usuário deve poder visualizar políticas do sistema.</td>
+<td>Must</td>
+<td>F</td>
+</tr>
+<tr>
+<td>94</td>
+<td>O usuário deve poder visualizar as capas de <a href="/modelagem/lexico#album">álbuns</a>.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>95</td>
+<td>O aplicativo deve tocar musica assim que conectado com um sistema de som de um carro por bluetooth.</td>
+<td>Could</td>
+<td>F</td>
+</tr>
+<tr>
+<td>96</td>
+<td>O sistema deve apresentar uma interface intuitiva.</td>
+<td>Must</td>
+<td>NF</td>
+</tr>
+</tbody>
+</table>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../introspeccao/" class="btn btn-neutral float-right" title="Introspecção">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../../pontocontrole/" class="btn btn-neutral" title="Ponto de Controle"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../../pontocontrole/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../introspeccao/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
