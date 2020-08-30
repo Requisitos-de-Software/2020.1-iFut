@@ -1,4 +1,0 @@
-# Planejamento
-
-
-## Heatmap
