@@ -1,0 +1,1 @@
+# Épico: Configurações do aplicativo
