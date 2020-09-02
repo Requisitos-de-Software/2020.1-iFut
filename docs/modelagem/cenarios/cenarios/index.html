@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../../assets/favicon.ico">
+  
+  <title>Cenários - iFut</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../../css/theme.css" />
+  <link rel="stylesheet" href="../../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  <link href="../../../stylesheets/common.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Cen\u00e1rios";
+    var mkdocs_page_input_path = "modelagem/cenarios/cenarios.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../../.." class="icon icon-home"> iFut</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../..">Inicial</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../planejamento/">Planejamento</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Pré-rastreabilidade</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../pre-rastreabilidade/pre_rastreabilidade/">Sobre</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../pre-rastreabilidade/backward_from/">Backward-from</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../pre-rastreabilidade/rich-pictures/">Rich Pictures</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../pontocontrole/">Ponto de Controle</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Elicitação</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../elicitacao/moscow1/">MoScoW</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../elicitacao/introspeccao/">Introspecção</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../elicitacao/obs_part/">Observação Participativa</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../elicitacao/analise_de_protocolo/">Análise de Protocolo</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../elicitacao/questionario2/">Questionário</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../elicitacao/entrevista/">Entrevista</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Modelagem</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Cenários</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#versoes">Versões</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#participantes">Participantes</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#finalidade">Finalidade</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#1-cadastrar-usuario-com-o-facebook">1. Cadastrar Usuário com o Facebook</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#2-cadastrar-usuario-com-o-numero-de-celular">2. Cadastrar Usuário com o Número de celular</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#3-cadastrar-usuario-com-o-google">3. Cadastrar Usuário com o Google</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#4-escutar-um-conteudo">4. Escutar um conteúdo</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#5-procurar-um-conteudo">5. Procurar um conteúdo</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#6-baixar-um-conteudo">6. Baixar um conteúdo</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#7-criar-uma-playlist">7. Criar uma Playlist</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#8-adicionar-conteudo-em-uma-playlist">8. Adicionar Conteúdo em uma Playlist</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#9-curtir-um-conteudo">9. Curtir um Conteúdo</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#10-seguir-outro-usuario">10. Seguir outro Usuário</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#11-tornar-se-usuario-premium">11. Tornar-se Usuário Premium</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#12-tornar-se-usuario-hifi">12. Tornar-se Usuário HiFi</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#13-comecar-um-flow">13. Começar um Flow</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#14-seguir-artistas">14. Seguir Artistas</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../lexico/">Léxico</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../especificacao_suplementar/">Especificação Suplementar</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../caso_de_uso/">Casos de Uso</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../diagrama_caso_uso/">Diagramas de Caso de Uso</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../historia_de_usuario/">Histórias de Usuário</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../nfr/">NFR</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Análise</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../analise/verificacao/">Verificação</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../analise/validacaoprototipo/">Validação</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Pós-rastreabilidade</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../pos-rastreabilidade/pos_rastreabilidade/">Sobre</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../pos-rastreabilidade/forward_from/">Forward-from</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../../..">iFut</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Modelagem &raquo;</li>
+        
+      
+    
+    <li>Cenários</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="cenarios">Cenários</h1>
+<p><div class="line"></div></p>
+<h2 id="versoes">Versões</h2>
+<table class="versions">
+    <tr>
+        <th class="version_header">Versão</th>
+        <th>Detalhes</th>
+        <th>Data</th>
+    </tr>
+    <tr>
+        <td>1.0</td>
+        <td>Versão Inicial.</td>
+        <td>26/09/2019</td>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Adição de cenários 2,3,4 e 5.</td>
+        <td>27/09/2019</td>
+    </tr>
+    <tr>
+        <td>1.2</td>
+        <td>Adição de cenários 6 e 7.</td>
+        <td>29/09/2019</td>
+    </tr>
+    <tr>
+        <td>1.3</td>
+        <td>Adição de cenários 8, 9 e 10.</td>
+        <td>07/11/2019</td>
+    </tr>
+    <tr>
+        <td>1.3</td>
+        <td>Adição de cenários 11, 12, 13 e 14.</td>
+        <td>08/11/2019</td>
+    </tr>
+</table>
+
+<p><br></p>
+<h2 id="participantes">Participantes</h2>
+<ul>
+<li>Eduardo Lima</li>
+<li>Micaella Gouveia</li>
+</ul>
+<h2 id="finalidade">Finalidade</h2>
+<p>Trata-se de uma estratégia reconhecida para compreender as interações entre ambientes e sistemas, assim como elicitar a parte comportamental do software, sua dinâmica e/ou seu fluxo.</p>
+<p><br />
+<br /></p>
+<h3 id="1-cadastrar-usuario-com-o-facebook">1. <a href="../cenario1/">Cadastrar Usuário com o Facebook</a></h3>
+<p><br/></p>
+<h3 id="2-cadastrar-usuario-com-o-numero-de-celular">2. <a href="../cenario2/">Cadastrar Usuário com o Número de celular</a></h3>
+<p><br/></p>
+<h3 id="3-cadastrar-usuario-com-o-google">3. <a href="../cenario3/">Cadastrar Usuário com o Google</a></h3>
+<p><br/></p>
+<h3 id="4-escutar-um-conteudo">4. <a href="../cenario4/">Escutar um conteúdo</a></h3>
+<p><br/></p>
+<h3 id="5-procurar-um-conteudo">5. <a href="../cenario5/">Procurar um conteúdo</a></h3>
+<p><br/></p>
+<h3 id="6-baixar-um-conteudo">6. <a href="../cenario6/">Baixar um conteúdo</a></h3>
+<p><br/></p>
+<h3 id="7-criar-uma-playlist">7. <a href="../cenario7/">Criar uma Playlist</a></h3>
+<p><br/></p>
+<h3 id="8-adicionar-conteudo-em-uma-playlist">8. <a href="../cenario8/">Adicionar Conteúdo em uma Playlist</a></h3>
+<p><br/></p>
+<h3 id="9-curtir-um-conteudo">9. <a href="../cenario9/">Curtir um Conteúdo</a></h3>
+<p><br/></p>
+<h3 id="10-seguir-outro-usuario">10. <a href="../cenario10/">Seguir outro Usuário</a></h3>
+<p><br/></p>
+<h3 id="11-tornar-se-usuario-premium">11. <a href="../cenario11/">Tornar-se Usuário Premium</a></h3>
+<p><br/></p>
+<h3 id="12-tornar-se-usuario-hifi">12. <a href="../cenario12/">Tornar-se Usuário HiFi</a></h3>
+<p><br/></p>
+<h3 id="13-comecar-um-flow">13. <a href="../cenario13/">Começar um Flow</a></h3>
+<p><br/></p>
+<h3 id="14-seguir-artistas">14. <a href="../cenario14/">Seguir Artistas</a></h3>
+<p><br/></p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../../lexico/" class="btn btn-neutral float-right" title="Léxico">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../../../elicitacao/entrevista/" class="btn btn-neutral" title="Entrevista"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../../../elicitacao/entrevista/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../../lexico/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../../..';</script>
+    <script src="../../../js/theme.js" defer></script>
+      <script src="../../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
