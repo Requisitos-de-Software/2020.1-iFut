@@ -12,10 +12,10 @@
 
 ## Equipe
 
-| Nome | Matrícula | GitHub | :smile:  |
+| Nome | Matrícula | GitHub |<span style='font-size:50px;'>&#128512;</span>|
 | --- | --- | --- | --- |
-| Bruna Almeida Santos | 17/0100626 | brunaalmeidasantos | brunaalmeida48@gmail.com |
-| Damarcones dos Santos Duque Porto | 15/0122187 | damarcones | damarcones@gmail.com |
-| Geraldo Victor Alves Barbosa | 17/0011119  | geraldovictor | geraldovictor@outlook.com |
-| Isabella Carneiro Godinho de Morais Sá | 18/0019066  | isabellacgmsa | isabellacgmsa1@gmail.com |
-| Lucas Lopes Pereira | 15/0137290  | LucasPLopes | l.lopes.fga@gmail.com |
+| Bruna Almeida Santos | 17/0100626 | brunaalmeidasantos | <img src="./images/bruna.jpg" alt="Bruna" width="200" height="200" style="border-radius:50%;">|
+| Damarcones dos Santos Duque Porto | 15/0122187 | damarcones | <img src="./images/damarcondes.jpg" alt="Damarcones" width="200" height="200" style="border-radius:50%;"> |
+| Geraldo Victor Alves Barbosa | 17/0011119  | geraldovictor |  <img src="./images/geraldo.jpg" alt="Geraldo" width="200" height="200" style="border-radius:50%;" >|
+| Isabella Carneiro Godinho de Morais Sá | 18/0019066  | isabellacgmsa |  <img src="./images/isabella.jpg" alt="Isabella" width="200" height="200" style="border-radius:50%;"> |
+| Lucas Lopes Pereira | 15/0137290  | LucasPLopes |  <img src="./images/lucas.jpg" alt="Lucas" width="200" height="200" style="border-radius:50%;">|
