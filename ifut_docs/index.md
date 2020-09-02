@@ -12,7 +12,7 @@
 
 ## Equipe
 
-| Nome | Matrícula | GitHub | Email |
+| Nome | Matrícula | GitHub | :smile:  |
 | --- | --- | --- | --- |
 | Bruna Almeida Santos | 17/0100626 | brunaalmeidasantos | brunaalmeida48@gmail.com |
 | Damarcones dos Santos Duque Porto | 15/0122187 | damarcones | damarcones@gmail.com |
