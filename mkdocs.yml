@@ -33,7 +33,7 @@ nav:
         - Forward-from: pos-rastreabilidade/forward_from.md 
 
         
-theme: readthedocs
+theme: bootstrap4
 
 docs_dir: ifut_docs/
 site_dir: docs/
