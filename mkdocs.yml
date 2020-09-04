@@ -1,6 +1,6 @@
 site_name: iFut
 
-site_favicon: assets/favicon.ico
+site_favicon: ./images/favicon.ico
 
 nav:
     - Inicial: index.md

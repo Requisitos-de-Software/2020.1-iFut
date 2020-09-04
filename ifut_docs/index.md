@@ -12,10 +12,58 @@
 
 ## Equipe
 
-| Nome | Matrícula | GitHub |<span style='font-size:50px;'>&#128512;</span>|
-| --- | --- | --- | --- |
-| Bruna Almeida Santos | 17/0100626 | brunaalmeidasantos | <img src="./images/bruna.jpg" alt="Bruna" width="200" height="200" style="border-radius:50%;">|
-| Damarcones dos Santos Duque Porto | 15/0122187 | damarcones | <img src="./images/damarcondes.jpg" alt="Damarcones" width="200" height="200" style="border-radius:50%;"> |
-| Geraldo Victor Alves Barbosa | 17/0011119  | geraldovictor |  <img src="./images/geraldo.jpg" alt="Geraldo" width="200" height="200" style="border-radius:50%;" >|
-| Isabella Carneiro Godinho de Morais Sá | 18/0019066  | isabellacgmsa |  <img src="./images/isabella.jpg" alt="Isabella" width="200" height="200" style="border-radius:50%;"> |
-| Lucas Lopes Pereira | 15/0137290  | LucasPLopes |  <img src="./images/lucas.jpg" alt="Lucas" width="200" height="200" style="border-radius:50%;">|
+<div class="container">
+    <div class="row">
+    <div class="col-sm container-img">
+            <a href="https://github.com/brunaalmeidasantos"><img class="image-perfil" src="./images/bruna.jpg" width="200" height="200" style="border-radius:50%;"></a>
+        </div>
+        <div class="col-sm container-img">
+            <a href="https://github.com/damarcones"><img class="image-perfil" src="./images/damarcondes.jpg" width="200" height="200" style="border-radius:50%;"></a>
+        </div>
+        <div class="col-sm container-img">
+            <a href="https://github.com/geraldovictor"><img class="image-perfil" src="./images/geraldo.jpg" width="200" height="200" style="border-radius:50%;"></a>
+        </div>
+        <div class="col-sm container-img">
+            <a href="https://github.com/isabellacgmsa"><img class="image-perfil" src="./images/isabella.jpg" width="200" height="200" style="border-radius:50%;"></a>
+        </div>
+        <div class="col-sm container-img">
+            <a href="https://github.com/LucasPLopes"><img class="image-perfil" src="./images/lucas.jpg" width="200" height="200" style="border-radius:50%;"></a>
+        </div>
+    </div>  
+</div>
+
+<br/>
+
+
+## Ferramentas 
+
+<div class="toolgrid">
+	<div>
+		<img height="125px" src="./images/drive.jpg">
+		<p align="center">O Google Drive será utilizado pela equipe para a realização de documentos em conjunto.</p>
+	</div>
+	<div>
+		<img height="125px" src="./images/meet.jpg">
+		<p align="center">O Google Meet será utilizado para a realização de reuniões e atividades em conjunto.</p>
+	</div>
+	<div>
+		<img height="125px" src="./images/calendar.jpg">
+		<p align="center">O Google Calendar será utilizado para o planejamento dos horários dos membros do grupo.</p>
+	</div>
+</div>
+
+<div class="toolgrid">
+	<div>
+		<img height="125px" src="./images/git.jpg">
+		<p align="center">O Github será utilizado para o versionamento e armazenamento de todos os documentos que serão produzidos pelo grupo.</p>
+	</div>
+	<div>
+		<img height="125px" src="./images/telegram.jpg">
+		<p align="center">O Telegram será utilizado para a facilitar a comunicação entre os membros do grupo.</p>
+	</div>
+	<div>
+		<img height="125px" src="./images/trello.jpg">
+		<p align="center">O Trello será utilizado para a organização e planejamento do grupo.</p>
+	</div>
+</div>
+
