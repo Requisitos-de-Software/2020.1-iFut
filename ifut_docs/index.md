@@ -1,4 +1,4 @@
-<img src="../images/ifut.jpg">
+![alt text](https://www.ifut.com.br/statics/ifut.png "Logo iFut")
 
 # 2020.1-iFut 
 
