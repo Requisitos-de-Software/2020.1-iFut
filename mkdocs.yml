@@ -9,14 +9,22 @@ nav:
         - Sobre: pre-rastreabilidade/pre_rastreabilidade.md
         - Backward-from: pre-rastreabilidade/backward_from.md 
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
-        - Ponto de Controle: pontocontrole.md
     - Elicitação:
-        - MoScoW: elicitacao/moscow1.md
-        - Introspecção: elicitacao/introspeccao.md
+        - Sobre Técnicas de Elicitação: elicitacao/sobre_elicitacao.md
         - Observação Participativa: elicitacao/obs_part.md
+        - Introspecção: elicitacao/introspeccao.md
+.md
+        - Brainstorming: elicitacao/brainstorming.md
         - Análise de Protocolo: elicitacao/analise_de_protocolo.md
-        - Questionário: elicitacao/questionario2.md
+        - Análise de Discurso: elicitacao/analise_de_discurso.md
+        - Etnografia: elicitacao/etnografia.md
         - Entrevista: elicitacao/entrevista.md
+        - Storytelling: elicitacao/storytelling.md
+        - Resultado: elicitacao/resultado.md
+        - Sobre Técnicas de Priorização: elicitacao/sobre_priorizacao.md
+        - MoScoW: elicitacao/moscow.md
+        - First Things First: elicitacao/first_things_first.md
+
     - Modelagem:
         - Cenários: modelagem/cenarios/cenarios.md
         - Léxico: modelagem/lexico.md
@@ -31,6 +39,8 @@ nav:
     - Pós-rastreabilidade:
         - Sobre: pos-rastreabilidade/pos_rastreabilidade.md
         - Forward-from: pos-rastreabilidade/forward_from.md 
+    - Apresentações:
+        - Primeira Entrega: apresentacao/primeira_entrega.md
 
         
 theme: bootstrap4
