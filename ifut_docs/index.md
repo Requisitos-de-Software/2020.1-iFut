@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-<p align="justify" font size= 10; font=Palatino;> Repositório destinado à disciplina de Requisitos de Software sobre o aplicativo iFut. Serão documentados os métodos e técnicas para levantamento e especificação de requisitos da aplicação selecionada.</p>
+<p align="justify"> Repositório destinado à disciplina de Requisitos de Software sobre o aplicativo iFut. Serão documentados os métodos e técnicas para levantamento e especificação de requisitos da aplicação selecionada.</p>
 
 ## Sobre o aplicativo
 
