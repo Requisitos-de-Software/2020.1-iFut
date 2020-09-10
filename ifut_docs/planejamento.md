@@ -29,7 +29,20 @@ Planejamento|Bruna           |Isabella                    |01/09  |05/09
 
 Tarefa                  |Participante(s) |Revisado por|Entrega|Entrega prevista
 ------------------------|----------------|------------|-------|-----------------
-Análise de protocolo    |                |            |       |26/09
-Introspecção            |                |            |       |26/09
-Observação Participativa|                |            |       |26/09
-MosCow                  |                |            |       |26/09
+Técnicas de elicitação  |Bruna           |            |       |25/09
+Observação              |                |            |       |25/09
+Introspecção            |                |            |       |25/09
+Questionário            |                |            |       |25/09
+Brainstorming           |                |            |       |25/09
+Análise de protocolo    |                |            |       |25/09
+Análise de discurso     |Isabella        |            |       |25/09
+Storytelling            |                |            |       |25/09
+Resultado               |                |            |       |25/09
+Técnicas de priorização |Bruna           |            |       |25/09
+Personas                |Bruna           |            |       |25/09
+MosCow                  |Isabella        |            |       |25/09
+First Things            |                |            |       |25/09
+Rich Picture            |Damarcones      |            |       |25/09
+Cenários                |Isabella        |            |       |25/09
+Léxico                  |                |            |       |25/09
+Etnografia              |Isabella        |            |       |25/09
