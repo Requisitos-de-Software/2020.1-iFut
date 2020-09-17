@@ -1,6 +1,3 @@
-# Planejamento
-
-
 # Heatmap
 
 <img src="../images/heatmap.jpg">
