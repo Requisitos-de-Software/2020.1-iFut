@@ -21,7 +21,7 @@
         <th>Participante(s)</th>
         <th>Revisor(es)</th>
         <th>Entrega</th>
-        <th>Prevista</th>
+        <th>Previsão</th>
     </thead>
     <tbody>
         <tr>
@@ -55,12 +55,178 @@
     </tbody>
 </table>
 
-#### Realizado de 08/09 até 28/09
+* Realizado de 08/09 até 28/09
 
-<img src="../images/cronograma_2.png">
-<img src="../images/cronograma_3.png">
+<table class="table table-striped" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Entrega</th>
+        <th>Previsão</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Técnicas de elicitação</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Introspecção</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Observação Participativa</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Análise de Protocolo</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Etnografia</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Storytelling</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Brainstorm</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Entrevista</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Questionário</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Personas</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Resultados</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>Técnicas de priorização</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>First Things First</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td>MoScoW</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>26/09</td>
+        </tr>
+    </tbody>
+</table>
 
+* Realizado de 15/09 até 09/10
 
-#### Realizado de 15/09 até 09/10
-
-<img src="../images/cronograma_4.png">
+<table class="table table-striped" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Entrega</th>
+        <th>Previsão</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cenários</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>07/10</td>
+        </tr>
+        <tr>
+            <td>Léxicos</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>07/10</td>
+        </tr>
+        <tr>
+            <td>Casos de uso</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>07/10</td>
+        </tr>
+        <tr>
+            <td>Diagramas</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>07/10</td>
+        </tr>
+        <tr>
+            <td>Especificação Suplementar</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>07/10</td>
+        </tr>
+        
+    </tbody>
+</table>
