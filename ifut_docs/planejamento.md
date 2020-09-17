@@ -1,7 +1,7 @@
 # Planejamento
 
 
-## Heatmap
+# Heatmap
 
 <img src="../images/heatmap.jpg">
 <p>O Heatmap é uma excelente maneira de mapear quais são os dias da semana e o horário em que
