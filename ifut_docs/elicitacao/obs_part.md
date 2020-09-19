@@ -1,17 +1,13 @@
-#  Observação Participativa
-  Observação Participativa
+#  **Observação Participativa**
+
 <div class="line"></div>
 
 ##  Metodologia
 
 <p align="justify">&emsp;
 
-A observação participativa é uma técnica que possibilita a inserção dos desenvolvedores no contexto da aplicação. Essa técnica consiste na observação da aplicação a fim conhecer suas funcionalidades e observar tarefas que podem ser executadas pelo usuário, bem como a experiência do usuário na aplicação.
+A observação participativa é uma técnica usada para elicitar requisitos, e a principal tarefa consiste em o engenheiro de requisitos passar a agir como um determinado usuário para observar, entender  e documentar suas necessidades e funcionalidades. 
 
-</p>
-
-<p align="justify">&emsp;
-O intuito dessa técnica é elicitar requisitos por meio da análise das tarefas que podem ser realizadas no site da aplicação iFut, assim como outras que foram realizadas nessa etapa, para que assim conhecer melhor o site da aplicação.
 </p>
 
 <p align="justify">&emsp;
