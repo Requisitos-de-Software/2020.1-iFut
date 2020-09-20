@@ -10,6 +10,7 @@ nav:
         - Backward-from: pre-rastreabilidade/backward_from.md 
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
     - Elicitação:
+        - Personas: elicitacao/personas.md
         - Observação Participativa: elicitacao/obs_part.md
         - Introspecção: elicitacao/introspeccao.md
         - Questionário: elicitacao/questionario.md
