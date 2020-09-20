@@ -1,5 +1,6 @@
 # **Brainstorming**
-<br>
+
+<div class="line"></div>
 
 ## Metodologia
 
@@ -12,9 +13,11 @@
     <p align="justify"><em>(Sommerville, 2003)</em> </p>
 
  </div>
- <br>
+
+<div class="line"></div>
 
 ## Participantes
 
+<div class="line"></div>
 
 ##  Resultado

@@ -1,10 +1,10 @@
 # **MoSCoW**
-<br>
+<div class="line"></div>
 
 ## Metodologia
 
  <div>
-    <p align="justify">
+    <p align="justify">&emsp;
     As quatro letras maiúsculas no esquema de priorização MoSCoW representam quatro classificações prioritárias possíveis para os requisitos em um conjunto (IIBA 2009):</p>
     <p align="justify">
     - Must: A exigência deve ser satisfeita para que a solução seja considerada um sucesso.</p>
@@ -17,9 +17,10 @@
     <p align="justify"><em>(Wiegers e Beatty, 2013)</em> </p>
 
  </div>
- <br>
+<div class="line"></div>
 
 ## Participantes
 
+<div class="line"></div>
 
 ##  Resultado
