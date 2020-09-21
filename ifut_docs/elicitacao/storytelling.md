@@ -25,9 +25,9 @@
 
 ##  Resultado
 
-<img scr="./images/story1.png">
+<img height="250px" src="../../images/story1.jpg"> 
 
-<img scr="./images/story1.png">
+<img height="250px" src="../../images/story2.png"> 
 
 <table class="table table-striped" style="color:black;">
     <thead style="background-color: #00ff2b;">
