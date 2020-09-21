@@ -5,7 +5,7 @@ site_favicon: ./images/favicon.ico
 nav:
     - Inicial: index.md
     - Planejamento: planejamento.md
-     - Apresentações:
+    - Apresentações:
         - Primeira Entrega: apresentacao/primeira_entrega.md
     - Pré-rastreabilidade:
         - Sobre: pre-rastreabilidade/pre_rastreabilidade.md
