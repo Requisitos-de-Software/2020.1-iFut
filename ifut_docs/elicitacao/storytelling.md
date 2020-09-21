@@ -19,11 +19,34 @@
 
 ## Participantes
 
+- Isabella Carneiro
 
 <div class="line"></div>
 
 ##  Resultado
 
+<img scr="./images/story1.png">
 
+<img scr="./images/story1.png">
 
+<table class="table table-striped" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>Número</th>
+        <th>Requisito</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1      </td> <td>O usuário deve ser capaz de visualizar a sua agenda de jogos.    </td>
+        </tr>
+        <tr>
+            <td>2      </td> <td>O sistema deve atualizar a agenda de jogos com base nos campeonatos do usuário.         </td>
+        </tr>
+        <tr>
+            <td>3      </td> <td>O usuário deve ser capaz de visualizar suas estatísticas após os jogos.                                              </td>
+        </tr>
+        <tr>
+            <td>4      </td> <td>O sistema deve atualizar constantemente as estatísticas dos jogadores.                                  </td>
+        </tr>
+        </tbody>
+</table>
 

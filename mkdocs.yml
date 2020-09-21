@@ -5,6 +5,8 @@ site_favicon: ./images/favicon.ico
 nav:
     - Inicial: index.md
     - Planejamento: planejamento.md
+     - Apresentações:
+        - Primeira Entrega: apresentacao/primeira_entrega.md
     - Pré-rastreabilidade:
         - Sobre: pre-rastreabilidade/pre_rastreabilidade.md
         - Backward-from: pre-rastreabilidade/backward_from.md 
@@ -14,7 +16,7 @@ nav:
         - Observação Participativa: elicitacao/obs_part.md
         - Introspecção: elicitacao/introspeccao.md
         - Questionário: elicitacao/questionario.md
-        - Brainstorming: el icitacao/brainstorming.md
+        - Brainstorming: elicitacao/brainstorming.md
         - Análise de Protocolo: elicitacao/analise_de_protocolo.md
         - Análise de Discurso: elicitacao/analise_de_discurso.md
         - Entrevista: elicitacao/entrevista.md
@@ -38,8 +40,6 @@ nav:
     - Pós-rastreabilidade:
         - Sobre: pos-rastreabilidade/pos_rastreabilidade.md
         - Forward-from: pos-rastreabilidade/forward_from.md 
-    - Apresentações:
-        - Primeira Entrega: apresentacao/primeira_entrega.md
 
         
 theme: bootstrap4
