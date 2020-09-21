@@ -10,17 +10,17 @@ nav:
         - Backward-from: pre-rastreabilidade/backward_from.md 
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
     - Elicitação:
-        - Personas: elicitacao/personas.md
+        - Sobre Técnicas de Elicitação: elicitacao/sobre_elicitacao.md
         - Observação Participativa: elicitacao/obs_part.md
         - Introspecção: elicitacao/introspeccao.md
         - Questionário: elicitacao/questionario.md
-        - Brainstorming: elicitacao/brainstorming.md
+        - Brainstorming: el icitacao/brainstorming.md
         - Análise de Protocolo: elicitacao/analise_de_protocolo.md
         - Análise de Discurso: elicitacao/analise_de_discurso.md
-        - Etnografia: elicitacao/etnografia.md
         - Entrevista: elicitacao/entrevista.md
         - Storytelling: elicitacao/storytelling.md
         - Resultado: elicitacao/resultado.md
+        - Sobre Técnicas de Priorização: elicitacao/sobre_priorizacao.md
         - MoScoW: elicitacao/moscow.md
         - First Things First: elicitacao/first_things_first.md
 
