@@ -18,6 +18,7 @@
 <div class="line"></div>
 
 ## Escopo
+
 <div>
     <p align="justify">&emsp;
         Para melhor aplicação dessa técnica de elicitação foi definido um escopo de quais áreas do aplicativo seriam analisadas.
@@ -25,6 +26,7 @@ Por fim, decidiu-se que seria aplicado em toda a parte grátis do aplicativo, is
  </div>
 
  ## Resultado
+
 <div>
     <p align="justify">&emsp;
         A integrante do grupo Isabella fez o papel de usuário e descreveu sua experiência utilizando o aplicativo. O registro dessa narração será evidenciado a seguir.
