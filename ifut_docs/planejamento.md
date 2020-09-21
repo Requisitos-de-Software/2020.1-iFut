@@ -86,23 +86,23 @@
         </tr>
         <tr>
             <td>Análise de Protocolo</td>
+            <td>Isabella Carneiro</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>21/09</td>
             <td>26/09</td>
         </tr>
         <tr>
-            <td>Etnografia</td>
+            <td>Análise de Discurso</td>
+            <td>Isabella Carneiro</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>21/09</td>
             <td>26/09</td>
         </tr>
         <tr>
             <td>Storytelling</td>
+            <td>Isabella Carneiro</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>21/09</td>
             <td>26/09</td>
         </tr>
         <tr>
@@ -129,7 +129,7 @@
         <tr>
             <td>Personas</td>
             <td></td>
-            <td></td>
+            <td>Isabella Carneiro</td>
             <td></td>
             <td>26/09</td>
         </tr>
@@ -210,6 +210,5 @@
             <td></td>
             <td>07/10</td>
         </tr>
-        
     </tbody>
 </table>
