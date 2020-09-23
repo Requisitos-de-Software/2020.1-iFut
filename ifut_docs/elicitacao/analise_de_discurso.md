@@ -39,7 +39,7 @@
 
 Tema da conversa: Proposta de novas funcionalidades
 
-- Geraldo: “ O que vocês acham do app ter uma aba dos produtos ao invés dos anúncios?”
+- Geraldo: “ O que vocês acham do app ter uma aba dos produtos ao invés dos anúncios”
 - Lucas: “Acho que iria fugir da proposta deles que não é ser vendedores.”
 - Isabella: “Acredito que o Geraldo esteja falando dos anúncios dos parceiros”.
 - Geraldo: “Mas no site não consigo encontrar onde estão os parceiros.”
