@@ -65,9 +65,9 @@
     <tbody>
         <tr>
             <td>Técnicas de elicitação</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Bruna Almeida</td>
+            <td>Damarcones</td>
+            <td>20/09</td>
             <td>26/09</td>
         </tr>
         <tr>
@@ -101,12 +101,12 @@
         <tr>
             <td>Storytelling</td>
             <td>Isabella Carneiro</td>
-            <td></td>
+            <td>Bruna</td>
             <td>21/09</td>
             <td>26/09</td>
         </tr>
         <tr>
-            <td>Brainstorm</td>
+            <td>Brainstorming</td>
             <td></td>
             <td></td>
             <td></td>
@@ -121,16 +121,16 @@
         </tr>
         <tr>
             <td>Questionário</td>
-            <td></td>
+            <td>Damarcones Porto</td>
             <td></td>
             <td></td>
             <td>26/09</td>
         </tr>
         <tr>
             <td>Personas</td>
-            <td></td>
-            <td>Isabella Carneiro</td>
-            <td></td>
+            <td>Bruna Almeida</td>
+            <td>Isabella Carneiro, Damarcones</td>
+            <td>20/09</td>
             <td>26/09</td>
         </tr>
         <tr>
@@ -142,9 +142,9 @@
         </tr>
         <tr>
             <td>Técnicas de priorização</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Bruna Almeida</td>
+            <td>Damarcones</td>
+            <td>19/09</td>
             <td>26/09</td>
         </tr>
         <tr>
