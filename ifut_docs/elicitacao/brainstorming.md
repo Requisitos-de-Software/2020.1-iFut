@@ -27,9 +27,12 @@ Lucas Lopes.
 <div class="line"></div>
 
 ##  Resultado
+
 Após uma reunião remota foi discutido quais seriam ideias que poderam ser interessantes para o iFut.
-<img  src="../images/brainstorming.png">
+
 Através das ideias os seguintes requisitos foram levantados.
+
+<img  src="../../images/brainstorming.png" width="1390" height="521">
 
 <table class="table table-striped" style="color:black;">
     <thead style="background-color: #00ff2b;">
@@ -71,4 +74,4 @@ Por mais que não seja o escopo do aplicativo outros esportes, talvez possa exis
 ### Requisito 6
 Ao fazer uma simples pesquisa foi constatado que o aplicativo em questão não aparecia nas primeiras página o que consequentemente ajuda a concorrência. O grupo reconheceu que nesse quesito o aplicativo poderia se beneficiar implementando em seu sistema algum mecanismo de impulsionamento.
 
-A discussão sobre esses requisitos pode ser encontrada no link https://youtu.be/rwG9vel-nCk .
+A discussão sobre esses requisitos pode ser encontrada no link de [video](https://youtu.be/rwG9vel-nCk "Discursão para brainstorm").
