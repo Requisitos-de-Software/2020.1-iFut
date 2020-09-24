@@ -1,6 +1,6 @@
 # **Análise de discurso**
 
-<hr>
+<hr class="my-4">
 
 ## Metodologia
 
