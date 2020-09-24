@@ -72,16 +72,16 @@
         </tr>
         <tr>
             <td>Introspecção</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Lucas Lopes</td>
+            <td>Isabella</td>
+            <td>24/09</td>
             <td>26/09</td>
         </tr>
         <tr>
             <td>Observação Participativa</td>
+            <td>Geraldo </td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>19/09</td>
             <td>26/09</td>
         </tr>
         <tr>
@@ -107,9 +107,9 @@
         </tr>
         <tr>
             <td>Brainstorming</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Geraldo</td>
+            <td>Isabella</td>
+            <td>24/06</td>
             <td>26/09</td>
         </tr>
         <tr>
@@ -156,7 +156,7 @@
         </tr>
         <tr>
             <td>MoScoW</td>
-            <td></td>
+            <td>Isabella</td>
             <td></td>
             <td></td>
             <td>26/09</td>
