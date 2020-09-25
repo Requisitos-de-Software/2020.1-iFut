@@ -94,7 +94,7 @@
     </div>
 </div>
 
-### Seção destinada para quem já utilizou o iFut
+### 3. Seção destinada para quem já utilizou o iFut
 
 <div class="toolgrid">
 	<div>
@@ -163,3 +163,21 @@
 </div>
 
 A partir dos resultados obtidos com o questionário, verificou-se que entre os usuários do aplicativo a funcionalidade de súmula automática é a mais importante e as funcionalidades de criar campeonato e visualização de estatísticas indivíduais são medianamente importantes. Além disso, baseando-se na quantidade de respostasde usuários que não usam o aplicativo, observa-se que há uma deficiência na visibilidade do aplicativo, visto que muitos nunca ouviram falar sobre o aplicativo iFut.
+
+<table class="table table-striped" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>Número</th>
+        <th>Requisito</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1  </td> <td>O usuário deve poder gerar súmulas automáticamente</td>
+        </tr>
+        <tr>
+            <td>2  </td> <td>O usuário deve poder ver estatísticas de jogadores e do time</td>
+        </tr>
+        <tr>
+            <td>3  </td> <td>O usuário deve poder criar campeonatos</td>
+        </tr>
+    </tbody>
+</table>
