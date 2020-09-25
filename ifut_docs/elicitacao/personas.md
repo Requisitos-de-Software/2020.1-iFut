@@ -128,9 +128,46 @@
 <!-- --------------------------------------------------------------------- -->
 <div class="toolgrid">
 	<div>
+        <img height="250px" src="../../images/persona_paulo.jpg"> 
+    </div>
+</div>
+
+### **Persona: Paulo Oster**
+- Idade: 50
+- Sexo: Masculino
+- Escolaridade: Graduado
+- Cargo: olheiro
+- Renda mensal: 5.000
+- Ramo de atuação: Esportes
+- Região de moradia: Região Sul
+
+<p align="justify">
+    <em>”Me perco no meio de tanta papelada sobre estatística. Seria interessante trocar o papel por um aplicativo.”</em>
+</p>
+
+<p align="justify">
+    Paulo Oster trabalha como olheiro. Viaja bastante em busca de jogadores talentosos. Paulo possui uma linguagem mais informal, e é um influenciador no processo de desenvolvimento. Os assuntos que mais interessam Paulo na internet são times de futebol, carros e passagens de avião.
+</p>
+
+<p align="justify">
+    Paulo precisa de um app que o ajude a organizar as estatísticas dos jogadores em que ele está interessado. E na hora de buscar solução, Paulo Oster pensa se o que é proposto à ele atende todas as suas necessidades.
+</p>
+
+<p align="justify">
+    Como Paulo resolve seus problemas atualmente? Faz as estatísticas no papel. Para resolver os problemas de Paulo, a principal funionalidade do app deve ser a geração de estáticas individual e do time.
+</p>
+
+</br>
+
+
+<!-- --------------------------------------------------------------------- -->
+<div class="toolgrid">
+	<div>
         <img height="250px" src="../../images/antipersona_vanessa.jpg"> 
     </div>
 </div>
+
+
 
 ### **Antipersona: Vanessa Maria**
 - Idade: 40
