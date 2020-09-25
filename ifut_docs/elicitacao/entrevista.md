@@ -130,23 +130,23 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td></td>
+            <td>Perdia muito tempo utilizando excel e outros meios para gerenciar minhas tarefas em relação ao time.</td>
         </tr>
         <tr>
             <td>2</td>
-            <td></td>
+            <td>Eu gosto e uso mais a geração de súmulas, me poupa muito tempo e esforço. Utilizo as outras igualmente e não tenho uma que eu goste menos.</td>
         </tr>
         <tr>
             <td>3</td>
-            <td></td>
+            <td>A possibilidade de criar uma página personalizada para meu time.</td>
         </tr>
         <tr>
             <td>4</td>
-            <td></td>
+            <td>Não gosto das propagandas no aplicativo.</td>
         </tr>
         <tr>
             <td>5</td>
-            <td></td>
+            <td>Bem agradável, achei o aplicativo bem leve.</td>
         </tr>
 </table>
 <br>
@@ -154,7 +154,7 @@
 ##### **Entrevista 4**
 
 - Entrevistador: Bruna Almeida
-- Entrevistado:
+- Entrevistado: Paulo Oster
 
 <div class="line"></div>
 
@@ -166,22 +166,22 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td></td>
+            <td>Para me ajudar a organizar as estatísticas dos jogadores que estou interessado.</td>
         </tr>
         <tr>
             <td>2</td>
-            <td></td>
+            <td>A que eu mais utilizo e gosto é a de gerenciar as estatísticas dos jogadores. Todas as funcionalidades são interessantes, mas a que eu menos uso é a de criar campeonatos. Nunca usei, na verdade.</td>
         </tr>
         <tr>
             <td>3</td>
-            <td></td>
+            <td>Eu nunca usei outro aplicativo, mas acredito que o iFut seja o melhor. Pelo menos na parte da funcionalidade que eu mais uso.</td>
         </tr>
         <tr>
             <td>4</td>
-            <td></td>
+            <td>Propagandas.</td>
         </tr>
         <tr>
             <td>5</td>
-            <td></td>
+            <td>Realmente atendeu minhas expectativas. Achei bem simples de mexer.</td>
         </tr>
 </table>
