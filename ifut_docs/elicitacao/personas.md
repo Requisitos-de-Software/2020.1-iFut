@@ -63,9 +63,9 @@
 ### **Persona: Helena Matias**
 - Idade: 35
 - Sexo: Feminino
-- Escolaridade: Doutorado
-- Cargo: Professora universitária
-- Renda mensal: 12.000
+- Escolaridade: Superior
+- Cargo: Professora
+- Renda mensal: 4.500
 - Ramo de atuação: Educação
 - Região de moradia: Brasília
 
@@ -103,7 +103,7 @@
 - Sexo: Masculino
 - Escolaridade: Graduado
 - Cargo: Gerente de time
-- Renda mensal: 8.000
+- Renda mensal: 6.000
 - Ramo de atuação: Esportes
 - Região de moradia: Região Nordeste
 
@@ -137,7 +137,7 @@
 - Sexo: Feminino
 - Escolaridade: Graduada
 - Cargo: Gerente de vendas
-- Renda mensal: 4.000
+- Renda mensal: 6.500
 - Ramo de atuação: Loja de roupas
 - Região de moradia: RJ
 
