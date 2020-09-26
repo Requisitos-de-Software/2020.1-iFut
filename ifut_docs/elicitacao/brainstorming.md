@@ -12,7 +12,7 @@
         <tr>
             <td> 19.09.2020 </td>
             <td>  0.1   </td>
-            <td> Criação do documento </td>
+            <td> Criação do documento e adição da metodologia</td>
             <td> Bruna Almeida  </td>
         </tr>
         <tr>

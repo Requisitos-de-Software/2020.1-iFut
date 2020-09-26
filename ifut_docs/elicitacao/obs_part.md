@@ -17,6 +17,12 @@
             <td> Criação do documento </td>
             <td> Geraldo Victor </td>
         </tr>
+        <tr>
+            <td> 20.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição da metodologia </td>
+            <td> Bruna Almeida</td>
+        </tr>
     </tbody>
 </table>
 
