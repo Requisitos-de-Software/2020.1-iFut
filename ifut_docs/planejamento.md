@@ -187,8 +187,8 @@
         <tr>
             <td>Questionário</td>
             <td>Damarcones Porto</td>
-            <td></td>
-            <td></td>
+            <td>Isabella Carneiro</td>
+            <td>25/09</td>
             <td>26/09</td>
         </tr>
         <tr>

@@ -2,6 +2,34 @@
 
 <div class="line"></div>
 
+## Histórico de Versão
+<table class="table table-striped">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+        <tbody>
+        <tr>
+            <td> 20.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Adiciona Metodologia </td>
+            <td> Bruna Almeida </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td> 25.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Questionário </td>
+            <td> Damarcones Porto </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
 ## Metodologia
 
  <div>
@@ -181,3 +209,5 @@ A partir dos resultados obtidos com o questionário, verificou-se que entre os u
         </tr>
     </tbody>
 </table>
+
+<br>
