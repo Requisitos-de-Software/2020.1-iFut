@@ -1,5 +1,30 @@
 # **Entrevista**
 
+## Histórico de Versão
+
+<table class="table table-striped">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 24.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento </td>
+            <td> Isabella Carneiro, Lucas Lopes, Bruna Almeida, Damarcones dos Santos  </td>
+        </tr>
+        <tr>
+            <td> 26.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição da tabela de versionamento </td>
+            <td> Isabella Carneiro  </td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="line"></div>
 
 ## Metodologia
@@ -94,23 +119,23 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td></td>
+            <td>Para organizar melhor o campeonato que eu e minhas amigas jogamos. </td>
         </tr>
         <tr>
             <td>2</td>
-            <td></td>
+            <td>Eu gosto da funcionalidade de poder ver as estatísticas de outros jogadores. Eu utilizo muito a agenda de jogos que me ajuda a sempre lembrar as datas. Não tem uma função que eu não goste.</td>
         </tr>
         <tr>
             <td>3</td>
-            <td></td>
+            <td>Eu não conheço a fundo os outros aplicativos que têm funções parecidas.</td>
         </tr>
         <tr>
             <td>4</td>
-            <td></td>
+            <td>Não identifiquei uma característica que não me agradou.</td>
         </tr>
         <tr>
             <td>5</td>
-            <td></td>
+            <td>Muito boa. Cumpriu as necessidades que eu tinha.</td>
         </tr>
 </table>
 <br>

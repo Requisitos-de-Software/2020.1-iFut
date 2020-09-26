@@ -1,5 +1,30 @@
 # **Análise de discurso**
 
+## Histórico de Versão
+
+<table class="table table-striped">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 21.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento </td>
+            <td> Isabella Carneiro  </td>
+        </tr>
+        <tr>
+            <td> 26.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição da tabela de versionamento </td>
+            <td> Isabella Carneiro  </td>
+        </tr>
+    </tbody>
+</table>
+
 <hr class="my-4">
 
 ## Metodologia
