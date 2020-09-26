@@ -16,11 +16,41 @@
             <td> Criação do documento </td>
             <td> Isabella Carneiro, Lucas Lopes, Bruna Almeida, Damarcones dos Santos  </td>
         </tr>
+                <tr>
+            <td> 24.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição da metodologia</td>
+            <td> Bruna Almeida </td>
+        </tr>
+        <tr>
+            <td> 25.09.2020 </td>
+            <td>  0.3   </td>
+            <td> Adição da entrevista 1</td>
+            <td> Damarcones dos Santos</td>
+        </tr>
+        <tr>
+            <td> 25.09.2020 </td>
+            <td>  0.4   </td>
+            <td> Adição da entrevista 2</td>
+            <td> Isabella Carneiro</td>
+        </tr>
+        <tr>
+            <td> 25.09.2020 </td>
+            <td>  0.5   </td>
+            <td> Adição da entrevista 3</td>
+            <td> Damarcones dos Santos</td>
+        </tr>
+        <tr>
+            <td> 25.09.2020 </td>
+            <td>  0.6   </td>
+            <td> Adição da entrevista 4 </td>
+            <td> Bruna Almeida </td>
+        </tr>
         <tr>
             <td> 26.09.2020 </td>
-            <td>  0.2   </td>
-            <td> Adição da tabela de versionamento </td>
-            <td> Isabella Carneiro  </td>
+            <td>  0.7   </td>
+            <td> Adição dos resultados da entrevista </td>
+            <td> Bruna Almeida e Damarcones dos Santos</td>
         </tr>
     </tbody>
 </table>
@@ -70,7 +100,7 @@
 
 ##### **Entrevista 1**
 
-- Entrevistador: Lucas Lopes
+- Entrevistador: Damarcones dos Santos
 - Entrevistado: José Santos
 
 <div class="line"></div>
@@ -83,23 +113,23 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td></td>
+            <td>Eu participo de vários campeonatos que eu mesmo organizo. Eu perdia muito tempo na hora de montar as chaves, e muitas das vezes eu errava uma ou duas vezes esse processo. Então eu procurei algum aplicativo que me ajudasse nessa parte.</td>
         </tr>
         <tr>
             <td>2</td>
-            <td></td>
+            <td>Eu utilizo mais a geração de campeonatos e súmulas. Fora isso, não tem outra ferramenta que eu menos goste ou menos utilize.</td>
         </tr>
         <tr>
             <td>3</td>
-            <td></td>
+            <td>No iFut, eu tenho a opção de personalizar o aplicativo para a minha escolinha. Mas isso é um plano para o futuro.</td>
         </tr>
         <tr>
             <td>4</td>
-            <td></td>
+            <td>Ter que cadastrar todos os jogadores.</td>
         </tr>
         <tr>
             <td>5</td>
-            <td></td>
+            <td>No início eu tive dificuldade, pois era algo novo para mim. Mas depois que aprendi a usar, poupei muito do meu tempo de serviço.</td>
         </tr>
 </table>
 <br>
@@ -210,3 +240,82 @@
             <td>Realmente atendeu minhas expectativas. Achei bem simples de mexer.</td>
         </tr>
 </table>
+<br>
+
+## **Requisitos elicitados**
+- ENT: Entrevista
+<br>
+
+<table class="table table-striped" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>ID</th>
+        <th>Descrição</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ENT01</td>
+            <td>O usuário deve poder criar um campeonato</td>
+        </tr>
+        <tr>
+            <td>ENT01</td>
+            <td>O usuário deve poder compartilhar a classificação do seus torneios</td>
+        </tr>
+        <tr>
+            <td>ENT01</td>
+            <td>O sistema deve poder gerar confrontos automaticamente</td>
+        </tr>
+        <tr>
+            <td>ENT01</td>
+            <td>O usuário deve poder preencher o formulário com o formato do campeonato</td>
+        </tr>
+        <tr>
+            <td>ENT01</td>
+            <td>O usuário deve poder criar manualmente os confrontos</td>
+        </tr>
+        <tr>
+            <td>ENT01</td>
+            <td>O usuário deve poder baixar uma súmula em branco</td>
+        </tr>
+        <tr>
+            <td>ENT01</td>
+            <td>O usuário deve poder adicionar jogadores ao time</td>
+        </tr>
+        <tr>
+            <td>ENT02</td>
+            <td>O usuário deve poder preencher o formulário com as informações do campeonato</td>
+        </tr>
+        <tr>
+            <td>ENT02</td>
+            <td>O usuário deve poder abrir inscrições online</td>
+        </tr>
+        <tr>
+            <td>ENT02</td>
+            <td>O sistema deve ser capaz de gerar uma pontuação de cada jogador</td>
+        </tr>
+        <tr>
+            <td>ENT02</td>
+            <td>O usuário atleta deve poder, ao realizar login, ver informações dos campeonatos que ele está participando e suas estatísticas em jogos</td>
+        </tr>
+        <tr>
+            <td>ENT02</td>
+            <td>O usuário deve poder saber quem pagou a inscrição</td>
+        </tr>
+        <tr>
+            <td>ENT03</td>
+            <td>O sistema deve ser capaz de gerar links de compartilhamento do campeonato</td>
+        </tr>
+        <tr>
+            <td>ENT04</td>
+            <td>O usuário deve poder ver estatísticas do jogadores</td>
+        </tr>
+        
+</table>
+
+
+
+
+
+
+
+
+
