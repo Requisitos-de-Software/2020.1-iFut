@@ -1,5 +1,42 @@
 # **Personas**
 
+## Histórico de Versão
+
+<table class="table table-striped">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 19.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento </td>
+            <td> Isabella Carneiro  </td>
+        </tr>
+        <tr>
+            <td> 20.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição da metodologia </td>
+            <td> Bruna Almeida  </td>
+        </tr>
+        <tr>
+            <td> 20.09.2020 </td>
+            <td>  0.3   </td>
+            <td> Adição das personas </td>
+            <td> Bruna Almeida e Damarcones dos Santos</td>
+        </tr>
+        <tr>
+            <td> 25.09.2020 </td>
+            <td>  0.4   </td>
+            <td> Adição de mais uma persona </td>
+            <td> Bruna Almeida  </td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="line"></div>
 
 ## Metodologia

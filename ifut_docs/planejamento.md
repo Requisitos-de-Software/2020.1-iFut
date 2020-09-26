@@ -61,6 +61,12 @@
             <td> Adição da tabela de versionamento</td>
             <td> Geraldo Victor </td>
         </tr>
+        <tr>
+            <td> 26.09.2020 </td>
+            <td>  1.0   </td>
+            <td> Adição de informações no cronograma</td>
+            <td> Bruna Almeida </td>
+        </tr>
     </tbody>
 </table>
 # Heatmap
@@ -74,8 +80,9 @@
 </p>
 
 # Cronograma
+<br>
 
-* Realizado de 18/08 até 07/09
+##### **Realizado de 18/08 até 07/09**
 
 <table class="table table-striped" style="color:black;">
     <thead style="background-color: #00ff2b;">
@@ -116,8 +123,9 @@
         </tr>
     </tbody>
 </table>
+<br>
 
-* Realizado de 08/09 até 28/09
+##### **Realizado de 08/09 até 28/09**
 
 <table class="table table-striped" style="color:black;">
     <thead style="background-color: #00ff2b;">
@@ -145,21 +153,21 @@
         <tr>
             <td>Observação Participativa</td>
             <td>Geraldo </td>
-            <td></td>
+            <td>Bruna</td>
             <td>19/09</td>
             <td>26/09</td>
         </tr>
         <tr>
             <td>Análise de Protocolo</td>
             <td>Isabella Carneiro</td>
-            <td></td>
+            <td>Bruna, Damarcones</td>
             <td>21/09</td>
             <td>26/09</td>
         </tr>
         <tr>
             <td>Análise de Discurso</td>
             <td>Isabella Carneiro</td>
-            <td></td>
+            <td>Bruna, Damarcones</td>
             <td>21/09</td>
             <td>26/09</td>
         </tr>
@@ -179,9 +187,9 @@
         </tr>
         <tr>
             <td>Entrevista</td>
+            <td>Bruna, Isabella, Damarcones</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>26/09</td>
             <td>26/09</td>
         </tr>
         <tr>
@@ -228,8 +236,9 @@
         </tr>
     </tbody>
 </table>
+<br>
 
-* Realizado de 15/09 até 09/10
+##### **Realizado de 15/09 até 09/10**
 
 <table class="table table-striped" style="color:black;">
     <thead style="background-color: #00ff2b;">
