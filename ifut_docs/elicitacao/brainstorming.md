@@ -1,5 +1,36 @@
 # **Brainstorming**
 
+## Histórico de Versão
+<table class="table table-striped">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 19.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento </td>
+            <td> Bruna Almeida  </td>
+        </tr>
+        <tr>
+            <td> 23.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição do brainstorming </td>
+            <td> Geraldo Victor  </td>
+        </tr>
+        <tr>
+            <td> 26.09.2020 </td>
+            <td>  0.3   </td>
+            <td> Adição da tabela de versionamento</td>
+            <td> Geraldo Victor </td>
+        </tr>
+    </tbody>
+</table>
+
+
 <div class="line"></div>
 
 ## Metodologia
@@ -18,11 +49,11 @@
 
 ## Participantes
 
-Bruna Almeida,
-Damarcones dos Santos,
-Geraldo Victor,
-Isabella Carneiro,
-Lucas Lopes.
+* Bruna Almeida,
+* Damarcones dos Santos,
+* Geraldo Victor,
+* Isabella Carneiro,
+* Lucas Lopes.
 
 <div class="line"></div>
 
@@ -32,7 +63,7 @@ Após uma reunião remota foi discutido quais seriam ideias que poderam ser inte
 
 Através das ideias os seguintes requisitos foram levantados.
 
-<img  src="../../images/brainstorming.png" width="1390" height="521">
+<img  src="../../images/brainstorming.png" width="800" height="450">
 
 <table class="table table-striped" style="color:black;">
     <thead style="background-color: #00ff2b;">
@@ -61,17 +92,17 @@ Através das ideias os seguintes requisitos foram levantados.
     </tbody>
 </table>
 
-### Requisito 1
+##### Requisito 1
 O grupo chegou a conclusão que faz sentido que o aplicativo invista em publicidade para tornar-se mais conhecido, esse <i>marketing</i> por meio de cupons é bastante utilizado atualmente.
-### Requisito 2
+##### Requisito 2
 O grupo chegou a concluiu que ter um placar no jogo em tempo faz com que pessoas acessem o aplicativo para ver o placar e possivelmente aumente a chance de comprar algum dos produtos dos patrocinadores já que o aplicativo contém anúncios.
-### Requisito 3
+##### Requisito 3
 O grupo chegou a concordou que poder buscar um jogador pelo nome traz facilidade ao usuário para que ele ache as estatísticas do jogador que deseja acompanhar.
-### Requisito 4
+##### Requisito 4
 Foi de comum acordo por todos os integrantes que seria interessante ter uma maneira facilitada de criar um campeonato para categoria virtual.
-### Requisito 5
+##### Requisito 5
 Por mais que não seja o escopo do aplicativo outros esportes, talvez possa existir a chance de um aplicativo mais abrangente ter uma demanda de mercado maior do que somente a de futebol, foi essa a conclusão que o grupo chegou. 
-### Requisito 6
+##### Requisito 6
 Ao fazer uma simples pesquisa foi constatado que o aplicativo em questão não aparecia nas primeiras página o que consequentemente ajuda a concorrência. O grupo reconheceu que nesse quesito o aplicativo poderia se beneficiar implementando em seu sistema algum mecanismo de impulsionamento.
 
 A discussão sobre esses requisitos pode ser encontrada no link de [video](https://youtu.be/rwG9vel-nCk "Discursão para brainstorm").

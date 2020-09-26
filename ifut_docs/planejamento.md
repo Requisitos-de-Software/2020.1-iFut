@@ -1,3 +1,68 @@
+## Histórico de Versão
+<table class="table table-striped">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 01.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento </td>
+            <td> Lucas Lopes, Geraldo Victor  </td>
+        </tr>
+        <tr>
+            <td> 07.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição do cronograma </td>
+            <td> Bruna Almeida  </td>
+        </tr>
+        <tr>
+            <td> 07.09.2020 </td>
+            <td>  0.3   </td>
+            <td> Edição do cronograma </td>
+            <td> Bruna Almeida  </td>
+        </tr>
+        <tr>
+            <td> 08.09.2020 </td>
+            <td>  0.4   </td>
+            <td> Edição do cronograma </td>
+            <td> Bruna Almeida  </td>
+        </tr>
+        <tr>
+            <td> 10.09.2020 </td>
+            <td>  0.5   </td>
+            <td> Adição do cronograma formato de imagem </td>
+            <td> Isabella Carneiro Godinho</td>
+        </tr>
+        <tr>
+            <td> 10.09.2020 </td>
+            <td>  0.6   </td>
+            <td> Adição do cronograma formato de imagem </td>
+            <td> Isabella Carneiro Godinho</td>
+        </tr>
+        <tr>
+            <td> 16.09.2020 </td>
+            <td>  0.7   </td>
+            <td> Removoção das imagens do cronograma e adição da tabela </td>
+            <td> Lucas Lopes</td>
+        </tr>
+        <tr>
+            <td> 24.06.2020 </td>
+            <td>  0.8   </td>
+            <td> Adição de informações </td>
+            <td>Isabella Carneiro Godinho</td>
+        </tr>        
+        <tr>
+            <td> 26.09.2020 </td>
+            <td>  0.9   </td>
+            <td> Adição da tabela de versionamento</td>
+            <td> Geraldo Victor </td>
+        </tr>
+    </tbody>
+</table>
 # Heatmap
 
 <img src="../images/heatmap.jpg">
