@@ -49,7 +49,7 @@
 ##  Resultado
 <div>
     <p align="justify">
-        Usaremos as personas (completar depois)</p>
+        Usaremos as personas para fazer o papel de entrevistado. As respostas serão com base no perfil de cada persona e no que imaginamos que se adapta nas características definidas para cada um.</p>
     <p align="justify">
         </p>
     <p align="justify">
