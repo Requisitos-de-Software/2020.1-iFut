@@ -227,6 +227,16 @@
             <td>O atualização de tabelas, ranking, resultados e estatísticas deverá ser feito de forma automática da cada fim de rodada</td>
             <td>Análise de Protocolo</td>
         </tr>
+        <tr>
+            <td>39</td>
+            <td>O usuário deve ser capaz de ver os anúncios dos parceiros e interagir com os mesmos</td>
+            <td>Análise de discurso</td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>O usuário deve ser capaz de visualizar a sua agenda de jogos</td>
+            <td>Análise de Protocolo</td>
+        </tr>
     </tbody>
 </table>
 
@@ -269,6 +279,11 @@
             <td>6</td>
             <td>O App deverá ser construido em um framework multiplataforma</td>
             <td>Análise de Protocolo</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>O usuário poderá navegar navegar pelos menus</td>
+            <td>StoryBoard</td>
         </tr>
     </tbody>
 </table>
