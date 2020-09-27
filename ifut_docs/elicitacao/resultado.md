@@ -235,7 +235,7 @@
         <tr>
             <td>40</td>
             <td>O usuário deve ser capaz de visualizar a sua agenda de jogos</td>
-            <td>Análise de Protocolo</td>
+            <td>Análise de discurso</td>
         </tr>
     </tbody>
 </table>
