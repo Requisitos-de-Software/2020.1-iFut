@@ -203,7 +203,7 @@
         <tr>
             <td>Questionário</td>
             <td>Damarcones Porto</td>
-            <td>Isabella Carneiro</td>
+            <td>Isabella Carneiro, Bruna Almeida</td>
             <td>25/09</td>
             <td>26/09</td>
         </tr>
@@ -232,7 +232,7 @@
             <td>First Things First</td>
             <td></td>
             <td></td>
-            <td></td>
+            <td>27/09</td>
             <td>26/09</td>
         </tr>
         <tr>

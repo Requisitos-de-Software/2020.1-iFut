@@ -49,11 +49,11 @@
 
 ## Participantes
 
-* Bruna Almeida,
-* Damarcones dos Santos,
-* Geraldo Victor,
-* Isabella Carneiro,
-* Lucas Lopes.
+* Bruna Almeida
+* Damarcones dos Santos
+* Geraldo Victor
+* Isabella Carneiro
+* Lucas Lopes
 
 <div class="line"></div>
 
