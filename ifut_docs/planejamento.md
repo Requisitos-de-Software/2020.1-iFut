@@ -188,7 +188,7 @@
         <tr>
             <td>Entrevista</td>
             <td>Bruna, Isabella, Damarcones</td>
-            <td></td>
+            <td>Lucas</td>
             <td>26/09</td>
             <td>26/09</td>
         </tr>
@@ -208,9 +208,9 @@
         </tr>
         <tr>
             <td>Resultados</td>
+            <td>Lucas</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>27/09</td>
             <td>26/09</td>
         </tr>
         <tr>
@@ -229,9 +229,9 @@
         </tr>
         <tr>
             <td>MoScoW</td>
-            <td>Isabella</td>
+            <td>Isabella, Lucas</td>
             <td></td>
-            <td></td>
+            <td>27/09</td>
             <td>26/09</td>
         </tr>
     </tbody>
