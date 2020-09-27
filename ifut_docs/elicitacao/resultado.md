@@ -16,7 +16,6 @@
             <td> Criação do documento </td>
             <td> Lucas Lopes </td>
         </tr>
-
     </tbody>
 </table>
 
