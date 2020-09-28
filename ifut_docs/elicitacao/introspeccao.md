@@ -30,7 +30,7 @@
         </tr>
         <tr>
             <td> 27.09.2020 </td>
-            <td> 0.3 </td>
+            <td> 0.4 </td>
             <td> Formatação e ajustes </td>
             <td> Lucas Lopes </td>
         </tr>
@@ -90,7 +90,7 @@
         </tr>
         <tr>
             <td>6 </td>
-            <td>O usuário deve ser capaz de criar um campeonato.</td>
+            <td>O usuário deve ser capaz de criar um campeonato</td>
         </tr>
         <tr>
             <td>7 </td>
@@ -119,8 +119,7 @@
         </tr>
         <tr>
             <td>13</td>
-            <td>No início do aplicativo ao lado do botão *criar campeonato* terá um botão *atleta* que direcionará entro
-                do app para tela de login</td>
+            <td>No início do aplicativo ao lado do botão *criar campeonato* terá um botão *atleta* que direcionará, dentro do app, para tela de login</td>
         </tr>
         <tr>
             <td>14</td>

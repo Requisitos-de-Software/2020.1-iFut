@@ -19,6 +19,10 @@
     </tbody>
 </table>
 
+## Participantes
+- Lucas Lopes
+<br>
+
 ## Requisitos funcionais
 
 
