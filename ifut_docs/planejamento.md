@@ -72,7 +72,13 @@
             <td> 27.09.2020 </td>
             <td>  1.1   </td>
             <td> Adição de informações no cronograma</td>
-            <td> Bruna Almeida </td>
+            <td> Geraldo Victor</td>
+        </tr>
+        <tr>
+            <td> 27.09.2020 </td>
+            <td>  1.2   </td>
+            <td> Adição de informações no cronograma</td>
+            <td> Geraldo Victor </td>
         </tr>
     </tbody>
 </table>
@@ -230,9 +236,9 @@
         </tr>
         <tr>
             <td>First Things First</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Lucas, Isabella, Bruna, Damarcones, Geraldo</td>
+            <td>Lucas, Bruna, Damarcones</td>
+            <td>27/09</td>
             <td>26/09</td>
         </tr>
         <tr>
