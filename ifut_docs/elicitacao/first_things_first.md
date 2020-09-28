@@ -2462,7 +2462,7 @@
 
 <hr>
 
-### geraldo
+### Geraldo
 
 <table cellspacing="0" border="0">
 	<colgroup span="10" width="107"></colgroup>
