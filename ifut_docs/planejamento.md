@@ -1,4 +1,5 @@
 ## Histórico de Versão
+
 <table class="table table-striped">
     <thead>
         <th>Data</th> 
@@ -67,6 +68,12 @@
             <td> Adição de informações no cronograma</td>
             <td> Bruna Almeida </td>
         </tr>
+        <tr>
+            <td> 27.09.2020 </td>
+            <td>  1.1   </td>
+            <td> Adição de informações no cronograma</td>
+            <td> Bruna Almeida </td>
+        </tr>
     </tbody>
 </table>
 # Heatmap
@@ -80,6 +87,7 @@
 </p>
 
 # Cronograma
+
 <br>
 
 ##### **Realizado de 18/08 até 07/09**
@@ -160,14 +168,14 @@
         <tr>
             <td>Análise de Protocolo</td>
             <td>Isabella Carneiro</td>
-            <td>Bruna, Damarcones</td>
+            <td>Bruna, Damarcones, Geraldo</td>
             <td>21/09</td>
             <td>26/09</td>
         </tr>
         <tr>
             <td>Análise de Discurso</td>
             <td>Isabella Carneiro</td>
-            <td>Bruna, Damarcones</td>
+            <td>Bruna, Damarcones, Geraldo</td>
             <td>21/09</td>
             <td>26/09</td>
         </tr>
@@ -195,7 +203,7 @@
         <tr>
             <td>Questionário</td>
             <td>Damarcones Porto</td>
-            <td>Isabella Carneiro</td>
+            <td>Isabella Carneiro, Bruna Almeida</td>
             <td>25/09</td>
             <td>26/09</td>
         </tr>
@@ -209,7 +217,7 @@
         <tr>
             <td>Resultados</td>
             <td>Lucas</td>
-            <td></td>
+            <td>Isabella</td>
             <td>27/09</td>
             <td>26/09</td>
         </tr>
@@ -224,13 +232,13 @@
             <td>First Things First</td>
             <td></td>
             <td></td>
-            <td></td>
+            <td>27/09</td>
             <td>26/09</td>
         </tr>
         <tr>
             <td>MoScoW</td>
             <td>Isabella, Lucas</td>
-            <td></td>
+            <td>Lucas,Isabella</td>
             <td>27/09</td>
             <td>26/09</td>
         </tr>
@@ -251,14 +259,14 @@
     <tbody>
         <tr>
             <td>Cenários</td>
-            <td></td>
+            <td>Isabella</td>
             <td></td>
             <td></td>
             <td>07/10</td>
         </tr>
         <tr>
             <td>Léxicos</td>
-            <td></td>
+            <td>Geraldo</td>
             <td></td>
             <td></td>
             <td>07/10</td>

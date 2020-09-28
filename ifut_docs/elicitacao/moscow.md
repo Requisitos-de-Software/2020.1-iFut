@@ -83,13 +83,13 @@
       </tr>
       <tr>
          <td>5 </td>
-         <td>O usuário ao selecionar um campeonato poderá escolher classificação, ranking e notícias dentro daquele
+         <td>O usuário, ao selecionar um campeonato, poderá escolher classificação, ranking e notícias dentro daquele
             campeonato </td>
          <td>Could</td>
       </tr>
       <tr>
          <td>6</td>
-         <td>O usuário ao selecionar um campeonato poderá escolher classificação, ranking e notícias dentro daquele
+         <td>O usuário, ao selecionar um campeonato, poderá escolher classificação, ranking e notícias dentro daquele
             campeonato </td>
          <td>Must </td>
       </tr>
@@ -110,7 +110,7 @@
       </tr>
       <tr>
          <td>10</td>
-         <td>O login só será permitido aqueles usuários que recebeu o acesso/cadastro via email </td>
+         <td>O login só será permitido àqueles usuários que receberam o acesso/cadastro via email </td>
          <td>Must </td>
       </tr>
       <tr>
@@ -120,12 +120,12 @@
       </tr>
       <tr>
          <td>12 </td>
-         <td>O envio de convites para cadastrados só será permitido a perfils de treinadores ou administradores </td>
+         <td>O envio de convites para cadastrados só será permitido a perfis de treinadores ou administradores </td>
          <td>Could </td>
       </tr>
       <tr>
          <td>13 </td>
-         <td>Usuário poderá visualizar o placar de um jogo em tempo real </td>
+         <td>O usuário poderá visualizar o placar de um jogo em tempo real </td>
          <td>Won’t </td>
       </tr>
       <tr>
@@ -145,7 +145,7 @@
       </tr>
       <tr>
          <td>17 </td>
-         <td>O cadastro terá com informações básicas nome, email, contato e senha </td>
+         <td>O cadastro terá informações básicas como nome, email, contato e senha </td>
          <td>Should </td>
       </tr>
       <tr>
@@ -201,12 +201,12 @@
       </tr>
       <tr>
          <td>28 </td>
-         <td>O sistema poderá enviar links mensagens por media social </td>
+         <td>O sistema poderá enviar links de mensagens por media social </td>
          <td>Won’t </td>
       </tr>
       <tr>
          <td>29</td>
-         <td>O usuário administrador de um campeonato fazer upload de arquivos </td>
+         <td>O usuário administrador de um campeonato pode fazer upload de arquivos </td>
          <td> Must</td>
       </tr>
       <tr>
@@ -272,18 +272,18 @@
       </tr>
       <tr>
          <td>42 </td>
-         <td>O sistema ter otimização para ter SEO e para identificação por mecanismo de busca dentro de lojas de app
+         <td>O sistema pode ter otimização para ter SEO e para identificação por mecanismo de busca dentro de lojas de app
          </td>
          <td>Must </td>
       </tr>
       <tr>
          <td>43 </td>
-         <td>O App deverá disponível tanto para IOS e ANDROID </td>
+         <td>O App deverá estar disponível para IOS e ANDROID </td>
          <td>Should </td>
       </tr>
       <tr>
          <td>44 </td>
-         <td>O App deverá ser compatível com normas de acessibilidade e compatilibidade com solução assistência/ajuda
+         <td>O App deverá ser compatível com normas de acessibilidade e compatilibidade, com solução assistência/ajuda
             para debilidades </td>
          <td>Could </td>
       </tr>
@@ -299,12 +299,12 @@
       </tr>
       <tr>
          <td>47 </td>
-         <td>O App deverá ser construido em um framework multiplataforma </td>
+         <td>O App deverá ser construído em um framework multiplataforma </td>
          <td>Could</td>
       </tr>
       <tr>
          <td>48 </td>
-         <td>O usuário poderá navegar navegar pelos menus </td>
+         <td>O usuário poderá navegar pelos menus </td>
          <td>Could</td>
       </tr>
    </tbody>
