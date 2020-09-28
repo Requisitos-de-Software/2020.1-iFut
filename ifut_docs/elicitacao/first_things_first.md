@@ -2462,3 +2462,608 @@
 
 <hr>
 
+### geraldo
+
+<table cellspacing="0" border="0">
+	<colgroup span="10" width="107"></colgroup>
+	<tr>
+		<td height="21" align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Requisitos</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Beneficio Relativo</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Penalidade Relativa</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Valor Total</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Valor %</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Custo Relativo</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Custo %</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Risco Relativo</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Risco %</font></b></td>
+		<td align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Prioridade</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="1.47248780487805" sdnum="1033;"><b><font color="#000000">1.47248780487805</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="1.47248780487805" sdnum="1033;"><b><font color="#000000">1.47248780487805</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="13" sdnum="1033;"><b><font color="#000000">13</font></b></td>
+		<td align="right" valign=bottom sdval="0.0173333333333333" sdnum="1033;"><b><font color="#000000">0.017333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0155038759689922" sdnum="1033;"><b><font color="#000000">0.015503875968992</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.720694214876033" sdnum="1033;"><b><font color="#000000">0.720694214876033</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="15" sdnum="1033;"><b><font color="#000000">15</font></b></td>
+		<td align="right" valign=bottom sdval="0.02" sdnum="1033;"><b><font color="#000000">0.02</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.560557103064067" sdnum="1033;"><b><font color="#000000">0.560557103064067</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.67266852367688" sdnum="1033;"><b><font color="#000000">0.67266852367688</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.454779661016949" sdnum="1033;"><b><font color="#000000">0.454779661016949</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.353717514124294" sdnum="1033;"><b><font color="#000000">0.353717514124294</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0116279069767442" sdnum="1033;"><b><font color="#000000">0.011627906976744</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.649910034602076" sdnum="1033;"><b><font color="#000000">0.649910034602076</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;"><b><font color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="0.016" sdnum="1033;"><b><font color="#000000">0.016</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0116279069767442" sdnum="1033;"><b><font color="#000000">0.011627906976744</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.557065743944637" sdnum="1033;"><b><font color="#000000">0.557065743944637</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="10" sdnum="1033;"><b><font face="Cambria" color="#000000">10</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="0.0193798449612403" sdnum="1033;"><b><font color="#000000">0.01937984496124</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.533086092715232" sdnum="1033;"><b><font color="#000000">0.533086092715232</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="11" sdnum="1033;"><b><font face="Cambria" color="#000000">11</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="1.30887804878049" sdnum="1033;"><b><font color="#000000">1.30887804878049</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="12" sdnum="1033;"><b><font face="Cambria" color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="13" sdnum="1033;"><b><font color="#000000">13</font></b></td>
+		<td align="right" valign=bottom sdval="0.0173333333333333" sdnum="1033;"><b><font color="#000000">0.017333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.354487804878049" sdnum="1033;"><b><font color="#000000">0.354487804878049</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="13" sdnum="1033;"><b><font face="Cambria" color="#000000">13</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="11" sdnum="1033;"><b><font color="#000000">11</font></b></td>
+		<td align="right" valign=bottom sdval="0.0146666666666667" sdnum="1033;"><b><font color="#000000">0.014666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="0.0310077519379845" sdnum="1033;"><b><font color="#000000">0.031007751937985</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="0.0769230769230769" sdnum="1033;"><b><font color="#000000">0.076923076923077</font></b></td>
+		<td align="right" valign=bottom sdval="0.135889502762431" sdnum="1033;"><b><font color="#000000">0.135889502762431</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="14" sdnum="1033;"><b><font face="Cambria" color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="0.0310077519379845" sdnum="1033;"><b><font color="#000000">0.031007751937985</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="0.0427350427350427" sdnum="1033;"><b><font color="#000000">0.042735042735043</font></b></td>
+		<td align="right" valign=bottom sdval="0.289293800539084" sdnum="1033;"><b><font color="#000000">0.289293800539084</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="15" sdnum="1033;"><b><font face="Cambria" color="#000000">15</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.391390599675851" sdnum="1033;"><b><font color="#000000">0.391390599675851</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="16" sdnum="1033;"><b><font face="Cambria" color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;"><b><font color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="0.016" sdnum="1033;"><b><font color="#000000">0.016</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.981658536585366" sdnum="1033;"><b><font color="#000000">0.981658536585366</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="17" sdnum="1033;"><b><font face="Cambria" color="#000000">17</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;"><b><font color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="0.016" sdnum="1033;"><b><font color="#000000">0.016</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.981658536585366" sdnum="1033;"><b><font color="#000000">0.981658536585366</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="18" sdnum="1033;"><b><font face="Cambria" color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="0.0348837209302326" sdnum="1033;"><b><font color="#000000">0.034883720930233</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.461736137667304" sdnum="1033;"><b><font color="#000000">0.461736137667304</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="19" sdnum="1033;"><b><font face="Cambria" color="#000000">19</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.436292682926829" sdnum="1033;"><b><font color="#000000">0.436292682926829</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="20" sdnum="1033;"><b><font face="Cambria" color="#000000">20</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;"><b><font color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="0.016" sdnum="1033;"><b><font color="#000000">0.016</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.396532019704433" sdnum="1033;"><b><font color="#000000">0.396532019704433</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="21" sdnum="1033;"><b><font face="Cambria" color="#000000">21</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;"><b><font color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="0.016" sdnum="1033;"><b><font color="#000000">0.016</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.981658536585366" sdnum="1033;"><b><font color="#000000">0.981658536585366</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="22" sdnum="1033;"><b><font face="Cambria" color="#000000">22</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="0.0193798449612403" sdnum="1033;"><b><font color="#000000">0.01937984496124</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.658005449591281" sdnum="1033;"><b><font color="#000000">0.658005449591281</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="23" sdnum="1033;"><b><font face="Cambria" color="#000000">23</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="0.0193798449612403" sdnum="1033;"><b><font color="#000000">0.01937984496124</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.584893732970027" sdnum="1033;"><b><font color="#000000">0.584893732970027</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="24" sdnum="1033;"><b><font face="Cambria" color="#000000">24</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.490829268292683" sdnum="1033;"><b><font color="#000000">0.490829268292683</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="25" sdnum="1033;"><b><font face="Cambria" color="#000000">25</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.490829268292683" sdnum="1033;"><b><font color="#000000">0.490829268292683</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="26" sdnum="1033;"><b><font face="Cambria" color="#000000">26</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.718714285714286" sdnum="1033;"><b><font color="#000000">0.718714285714286</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="27" sdnum="1033;"><b><font face="Cambria" color="#000000">27</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.965952" sdnum="1033;"><b><font color="#000000">0.965952</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="28" sdnum="1033;"><b><font face="Cambria" color="#000000">28</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;"><b><font color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="0.016" sdnum="1033;"><b><font color="#000000">0.016</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="0.0310077519379845" sdnum="1033;"><b><font color="#000000">0.031007751937985</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.245414634146341" sdnum="1033;"><b><font color="#000000">0.245414634146341</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="29" sdnum="1033;"><b><font face="Cambria" color="#000000">29</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0116279069767442" sdnum="1033;"><b><font color="#000000">0.011627906976744</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.643968" sdnum="1033;"><b><font color="#000000">0.643968</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="30" sdnum="1033;"><b><font face="Cambria" color="#000000">30</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0155038759689922" sdnum="1033;"><b><font color="#000000">0.015503875968992</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.88700826446281" sdnum="1033;"><b><font color="#000000">0.88700826446281</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="31" sdnum="1033;"><b><font face="Cambria" color="#000000">31</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="0.0193798449612403" sdnum="1033;"><b><font color="#000000">0.01937984496124</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.859387900355872" sdnum="1033;"><b><font color="#000000">0.859387900355872</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="32" sdnum="1033;"><b><font face="Cambria" color="#000000">32</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="1.47248780487805" sdnum="1033;"><b><font color="#000000">1.47248780487805</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="33" sdnum="1033;"><b><font face="Cambria" color="#000000">33</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.381756097560976" sdnum="1033;"><b><font color="#000000">0.381756097560976</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="34" sdnum="1033;"><b><font face="Cambria" color="#000000">34</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.381756097560976" sdnum="1033;"><b><font color="#000000">0.381756097560976</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="35" sdnum="1033;"><b><font face="Cambria" color="#000000">35</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="12" sdnum="1033;"><b><font color="#000000">12</font></b></td>
+		<td align="right" valign=bottom sdval="0.016" sdnum="1033;"><b><font color="#000000">0.016</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.5031" sdnum="1033;"><b><font color="#000000">0.5031</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="36" sdnum="1033;"><b><font face="Cambria" color="#000000">36</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="5" sdnum="1033;"><b><font face="Cambria" color="#000000">5</font></b></td>
+		<td align="right" valign=bottom sdval="0.0193798449612403" sdnum="1033;"><b><font color="#000000">0.01937984496124</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.859387900355872" sdnum="1033;"><b><font color="#000000">0.859387900355872</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="37" sdnum="1033;"><b><font face="Cambria" color="#000000">37</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.00775193798449612" sdnum="1033;"><b><font color="#000000">0.007751937984496</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="1.47248780487805" sdnum="1033;"><b><font color="#000000">1.47248780487805</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="38" sdnum="1033;"><b><font face="Cambria" color="#000000">38</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="0.0348837209302326" sdnum="1033;"><b><font color="#000000">0.034883720930233</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.308857553956835" sdnum="1033;"><b><font color="#000000">0.308857553956835</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="39" sdnum="1033;"><b><font face="Cambria" color="#000000">39</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="0.0348837209302326" sdnum="1033;"><b><font color="#000000">0.034883720930233</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.308857553956835" sdnum="1033;"><b><font color="#000000">0.308857553956835</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="40" sdnum="1033;"><b><font face="Cambria" color="#000000">40</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="0.0348837209302326" sdnum="1033;"><b><font color="#000000">0.034883720930233</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.552604118993135" sdnum="1033;"><b><font color="#000000">0.552604118993135</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="41" sdnum="1033;"><b><font face="Cambria" color="#000000">41</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.462620689655172" sdnum="1033;"><b><font color="#000000">0.462620689655172</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="42" sdnum="1033;"><b><font face="Cambria" color="#000000">42</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><b><font face="Cambria" color="#000000">9</font></b></td>
+		<td align="right" valign=bottom sdval="18" sdnum="1033;"><b><font color="#000000">18</font></b></td>
+		<td align="right" valign=bottom sdval="0.024" sdnum="1033;"><b><font color="#000000">0.024</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><b><font face="Cambria" color="#000000">3</font></b></td>
+		<td align="right" valign=bottom sdval="0.0256410256410256" sdnum="1033;"><b><font color="#000000">0.025641025641026</font></b></td>
+		<td align="right" valign=bottom sdval="0.454779661016949" sdnum="1033;"><b><font color="#000000">0.454779661016949</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="43" sdnum="1033;"><b><font face="Cambria" color="#000000">43</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="0.0310077519379845" sdnum="1033;"><b><font color="#000000">0.031007751937985</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.327219512195122" sdnum="1033;"><b><font color="#000000">0.327219512195122</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="44" sdnum="1033;"><b><font face="Cambria" color="#000000">44</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="0.0310077519379845" sdnum="1033;"><b><font color="#000000">0.031007751937985</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.327219512195122" sdnum="1033;"><b><font color="#000000">0.327219512195122</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="45" sdnum="1033;"><b><font face="Cambria" color="#000000">45</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.304414910858995" sdnum="1033;"><b><font color="#000000">0.304414910858995</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="46" sdnum="1033;"><b><font face="Cambria" color="#000000">46</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="0.0271317829457364" sdnum="1033;"><b><font color="#000000">0.027131782945737</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0341880341880342" sdnum="1033;"><b><font color="#000000">0.034188034188034</font></b></td>
+		<td align="right" valign=bottom sdval="0.304414910858995" sdnum="1033;"><b><font color="#000000">0.304414910858995</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="47" sdnum="1033;"><b><font face="Cambria" color="#000000">47</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="7" sdnum="1033;"><b><font face="Cambria" color="#000000">7</font></b></td>
+		<td align="right" valign=bottom sdval="14" sdnum="1033;"><b><font color="#000000">14</font></b></td>
+		<td align="right" valign=bottom sdval="0.0186666666666667" sdnum="1033;"><b><font color="#000000">0.018666666666667</font></b></td>
+		<td align="right" valign=bottom sdval="6" sdnum="1033;"><b><font face="Cambria" color="#000000">6</font></b></td>
+		<td align="right" valign=bottom sdval="0.0232558139534884" sdnum="1033;"><b><font color="#000000">0.023255813953488</font></b></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><b><font face="Cambria" color="#000000">2</font></b></td>
+		<td align="right" valign=bottom sdval="0.0170940170940171" sdnum="1033;"><b><font color="#000000">0.017094017094017</font></b></td>
+		<td align="right" valign=bottom sdval="0.462620689655172" sdnum="1033;"><b><font color="#000000">0.462620689655172</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="right" valign=bottom sdval="48" sdnum="1033;"><b><font face="Cambria" color="#000000">48</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="8" sdnum="1033;"><b><font face="Cambria" color="#000000">8</font></b></td>
+		<td align="right" valign=bottom sdval="16" sdnum="1033;"><b><font color="#000000">16</font></b></td>
+		<td align="right" valign=bottom sdval="0.0213333333333333" sdnum="1033;"><b><font color="#000000">0.021333333333333</font></b></td>
+		<td align="right" valign=bottom sdval="4" sdnum="1033;"><b><font face="Cambria" color="#000000">4</font></b></td>
+		<td align="right" valign=bottom sdval="0.0155038759689922" sdnum="1033;"><b><font color="#000000">0.015503875968992</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font face="Cambria" color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="0.00854700854700855" sdnum="1033;"><b><font color="#000000">0.008547008547009</font></b></td>
+		<td align="right" valign=bottom sdval="0.88700826446281" sdnum="1033;"><b><font color="#000000">0.88700826446281</font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="left" valign=bottom><b><font face="Cambria" color="#000000">TOTAL</font></b></td>
+		<td align="right" valign=bottom sdval="379" sdnum="1033;"><b><font color="#000000">379</font></b></td>
+		<td align="right" valign=bottom sdval="371" sdnum="1033;"><b><font color="#000000">371</font></b></td>
+		<td align="right" valign=bottom sdval="750" sdnum="1033;"><b><font color="#000000">750</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="258" sdnum="1033;"><b><font color="#000000">258</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="117" sdnum="1033;"><b><font color="#000000">117</font></b></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><b><font color="#000000">1</font></b></td>
+		<td align="right" valign=bottom sdval="30.4835265913319" sdnum="1033;"><b><font color="#000000">30.4835265913319</font></b></td>
+	</tr>
+</table>
