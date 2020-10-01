@@ -6,9 +6,9 @@ nav:
     - Inicial: index.md
     - Planejamento: planejamento.md
     - Apresentações:
+        - Pontos de Controle: pontocontrole.md
         - Primeira Entrega: apresentacao/primeira_entrega.md
         - Segunda Entrega: apresentacao/segunda_entrega.md
-
     - Pré-rastreabilidade:
         - Sobre: pre-rastreabilidade/pre_rastreabilidade.md
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
