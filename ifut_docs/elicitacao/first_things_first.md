@@ -21,7 +21,7 @@
 
 ### Lucas
 
-<table cellspacing="0" border="0">
+<table class ="table table-striped" cellspacing="0" border="0">
 	<colgroup width="107"></colgroup>
 	<colgroup width="122"></colgroup>
 	<colgroup width="141"></colgroup>
@@ -637,7 +637,7 @@
 
 ### Damarcones
 
-<table cellspacing="0" border="0">
+<table class ="table table-striped" cellspacing="0" border="0">
 	<colgroup span="7" width="107"></colgroup>
 	<colgroup width="106"></colgroup>
 	<colgroup span="2" width="107"></colgroup>
@@ -1248,7 +1248,7 @@
 ### Bruna
 
 
-<table cellspacing="0" border="0">
+<table class ="table table-striped" cellspacing="0" border="0">
 	<colgroup span="10" width="107"></colgroup>
 	<tr>
 		<td height="21" align="left" valign=bottom bgcolor="#00FF00"><b>Requisitos</b></td>
@@ -1856,7 +1856,7 @@
 
 ### Isabella
 
-<table cellspacing="0" border="0">
+<table class ="table table-striped" cellspacing="0" border="0">
 	<colgroup span="10" width="107"></colgroup>
 	<tr>
 		<td height="21" align="left" valign=bottom bgcolor="#00FF00"><b><font color="#333333">Requisitos</font></b></td>
@@ -2464,7 +2464,7 @@
 
 ### Geraldo
 
-<table cellspacing="0" border="0">
+<table class ="table table-striped" cellspacing="0" border="0">
 	<colgroup span="10" width="107"></colgroup>
 	<tr>
 		<td height="21" align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Requisitos</font></b></td>
