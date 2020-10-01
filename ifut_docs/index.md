@@ -17,23 +17,25 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-sm container-img">
+		<div class="col">
 			<a href="https://github.com/brunaalmeidasantos"><img class="image-perfil" src="./images/bruna.jpg"
 					width="200" height="200" style="border-radius:50%;"></a>
 		</div>
-		<div class="col-sm container-img">
+		<div class="col">
 			<a href="https://github.com/damarcones"><img class="image-perfil" src="./images/damarcondes.jpg" width="200"
 					height="200" style="border-radius:50%;"></a>
 		</div>
-		<div class="col-sm container-img">
+		<div class="col">
 			<a href="https://github.com/geraldovictor"><img class="image-perfil" src="./images/geraldo.jpg" width="200"
 					height="200" style="border-radius:50%;"></a>
 		</div>
-		<div class="col-sm container-img">
+	</div>
+	<div class="row">
+		<div class="col" style="margin-left: 130px;">
 			<a href="https://github.com/isabellacgmsa"><img class="image-perfil" src="./images/isabella.jpg" width="200"
 					height="200" style="border-radius:50%;"></a>
 		</div>
-		<div class="col-sm container-img">
+		<div class="col" style="margin-right: 130px;">
 			<a href="https://github.com/LucasPLopes"><img class="image-perfil" src="./images/lucas.jpg" width="200"
 					height="200" style="border-radius:50%;"></a>
 		</div>
