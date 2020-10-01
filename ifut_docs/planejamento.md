@@ -80,6 +80,12 @@
             <td> Adição de informações no cronograma</td>
             <td> Geraldo Victor </td>
         </tr>
+        <tr>
+            <td> 30.09.2020 </td>
+            <td>  1.3   </td>
+            <td> Adição de informações no cronograma</td>
+            <td> Isabella Carneiro </td>
+        </tr>
     </tbody>
 </table>
 # Heatmap
