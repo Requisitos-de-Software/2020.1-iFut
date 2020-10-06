@@ -127,7 +127,7 @@
         </tr>
         <tr>
             <td>18</td>
-            <td>A recuperação de senha poderá ser enviada por email ou mensagem</td>
+            <td>A recuperação de senha do perfil Atleta poderá ser enviada por mensagem</td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
@@ -193,17 +193,17 @@
         </tr>
         <tr>
             <td>31</td>
-            <td>O usuário ELITE deve poder adicionar patrocinadores e produtos </td>
+            <td>Poderá ser adicionado produtos nos espaços de propaganda</td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
             <td>32</td>
-            <td>O sistema deve ser capaz de gerar súmula digital</td>
+            <td>O sistema deve ser capaz de gerar súmula digital e todos podem acessar</td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
             <td>33</td>
-            <td>O usuário PREMIUM/ELITE deve poder ter acesso a súmula digital</td>
+            <td>O usuário PREMIUM/ELITE tem acesso a súmula física</td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
@@ -228,7 +228,7 @@
         </tr>
         <tr>
             <td>38</td>
-            <td>O atualização de tabelas, ranking, resultados e estatísticas deverá ser feito de forma automática da cada fim de rodada</td>
+            <td>O atualização de tabelas, ranking, resultados e estatísticas deverá ser feito de forma automática ao final dos jogos</td>
             <td>Análise de Protocolo</td>
         </tr>
         <tr>
@@ -240,6 +240,11 @@
             <td>40</td>
             <td>O usuário deve ser capaz de visualizar a sua agenda de jogos</td>
             <td>Análise de Discurso</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>A recuperação de senha do perfil Técnico terá que ser enviada por email</td>
+            <td>Observação Participativa</td>
         </tr>
     </tbody>
 </table>
@@ -286,7 +291,7 @@
         </tr>
         <tr>
             <td>7</td>
-            <td>O usuário poderá navegar navegar pelos menus</td>
+            <td>O usuário poderá navegar pelos menus</td>
             <td>StoryBoard</td>
         </tr>
     </tbody>
