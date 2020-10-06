@@ -31,10 +31,11 @@
     </tbody>
 </table>
 <br>
+<p><font color="#00ff2b"> Caso de Uso 01 :</font></p>
 <table class="table table-striped">
     <tr>
         <td>
-            <b><font color="#00ff2b">Título</font></b>
+            <b>Título</b>
         </td>
         <td>
             Título
