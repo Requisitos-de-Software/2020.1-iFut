@@ -46,10 +46,10 @@
             <b>Objetivo</b>
         </td>
         <td>
-            <b>Pré-condição:</b> Pré-condição
+         <b>Pré-condição:</b> <td><b>Pré-condição</td></b>
             <br>
-            <b>Pós-condição:</b> Pós-condição
-        </td>
+           <td> <b>Pós-condição:</td></b> <td><b>Pós-condição
+        </b></td>
     </tr>
     <tr>
         <td>
