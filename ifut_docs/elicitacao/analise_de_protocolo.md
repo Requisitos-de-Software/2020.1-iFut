@@ -34,6 +34,12 @@
             <td> Novos itens e formatação </td>
             <td> Lucas </td>
         </tr>
+        <tr>
+            <td> 05.10.2020 </td>
+            <td> 0.5 </td>
+            <td> Novos itens </td>
+            <td> Isabella </td>
+        </tr>
     </tbody>
 </table>
 
@@ -79,7 +85,7 @@
         Na parte superior da tela tenho a opção de criar campeonato que me leva ao site do iFut e a opção de login para
         entrar na área do atleta, que é uma funcionalidade paga.
         Quando seleciono um campeonato consigo ver a tabela de classificação dos times e as rodadas (passadas e
-        futuras). É possível ver o ranking de pontuação dos atletas, podendo filtrar por posição ou por pontuações.
+        futuras), ao selecionar um jogo vejo quem fez os gols, assistências e quem levou os cartões naquele jogo, também há uma aba que mostra a escalação daquele jogo. Ao clicar em um time na tabela é possível ver os jogadores que jogam nele, os jogos que ele jogou e as estatísticas do time. É possível ver o ranking de pontuação dos atletas, podendo filtrar por posição ou por pontuações.
         Nessa tela posso ver as regras das pontuações e também as notícias do campeonato.
         Quando clico no nome do jogador vejo o extrato da pontuação dele na rodada e nessa nova tela ao clicar no nome
         sou redirecionada ao perfil do jogador onde consigo ver as informações pessoais e técnicas do mesmo. Nela são
@@ -146,6 +152,14 @@
         <tr>
             <td>14 </td>
             <td>O aplicativo cliente deve ser multiplatarforma e de fácil integração com API de terceiros.</td>
+        </tr>
+        <tr>
+            <td>15 </td>
+            <td>O usuário pode verificar o extrato do jogo, assim como sua escalação.</td>
+        </tr>
+        <tr>
+            <td>16 </td>
+            <td>O usuário pode checar quem são os jogadores de um time, assim como os jogos que ele jogou e suas estatísticas.</td>
         </tr>
     </tbody>
 </table>
