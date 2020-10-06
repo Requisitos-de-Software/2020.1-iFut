@@ -14,8 +14,14 @@
        </tr>
        <tr>
            <td> 27.09.2020 </td>
-           <td> 0.3 </td>
+           <td> 0.2 </td>
            <td> Revisão </td>
+           <td> Isabella Carneiro </td>
+       </tr>
+       <tr>
+           <td> 05.10.2020 </td>
+           <td> 0.3 </td>
+           <td> Adição de itens </td>
            <td> Isabella Carneiro </td>
        </tr>
    </tbody>
@@ -306,6 +312,16 @@
          <td>48 </td>
          <td>O usuário poderá navegar pelos menus </td>
          <td>Could</td>
+      </tr>
+        <tr>
+         <td>49 </td>
+         <td>O usuário pode verificar o extrato do jogo, assim como sua escalação.	 </td>
+         <td>Should</td>
+      </tr>
+      <tr>
+         <td>50 </td>
+         <td>O usuário pode checar quem são os jogadores de um time, assim como os jogos que ele jogou e suas estatísticas.	 </td>
+         <td>Should</td>
       </tr>
    </tbody>
 </table>
