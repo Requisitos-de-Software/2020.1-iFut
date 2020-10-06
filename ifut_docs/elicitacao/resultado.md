@@ -16,6 +16,12 @@
             <td> Criação do documento </td>
             <td> Lucas Lopes </td>
         </tr>
+         <tr>
+            <td> 05.10.2020 </td>
+            <td> 0.2 </td>
+            <td> Adição de itens</td>
+            <td> Isabella </td>
+        </tr>
     </tbody>
 </table>
 
@@ -245,6 +251,16 @@
             <td>41</td>
             <td>A recuperação de senha do perfil Técnico terá que ser enviada por email</td>
             <td>Observação Participativa</td>
+        </tr>
+        <tr>
+            <td>42 </td>
+            <td>O usuário pode verificar o extrato do jogo, assim como sua escalação.</td>
+            <td>Análise de Protocolo</td>
+        </tr>
+        <tr>
+            <td>43 </td>
+            <td>O usuário pode checar quem são os jogadores de um time, assim como os jogos que ele jogou e suas estatísticas.</td>
+            <td>Análise de Protocolo</td>
         </tr>
     </tbody>
 </table>
