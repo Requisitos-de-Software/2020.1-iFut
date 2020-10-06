@@ -31,7 +31,7 @@
     </tbody>
 </table>
 <br>
-<table>
+<table class="table table-striped">
     <tr>
         <td>
             <b>Título</b>
