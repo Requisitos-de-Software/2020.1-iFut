@@ -95,7 +95,7 @@
         <tr>
             <td>7 </td>
             <td>O usuário ao clicar em classificação em um campeonato poderá alternar entre classificação e
-                eliminátorias</td>
+                eliminatórias</td>
         </tr>
         <tr>
             <td>8 </td>
