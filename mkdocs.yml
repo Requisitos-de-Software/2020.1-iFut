@@ -27,7 +27,7 @@ nav:
         - First Things First: elicitacao/first_things_first.md
 
     - Modelagem:
-        - Cenários: modelagem/cenarios/cenarios.md
+        - Cenários: modelagem/cenarios/cenariosTotais.md
         - Léxico: modelagem/lexico.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Casos de Uso: modelagem/caso_de_uso.md
