@@ -1,5 +1,35 @@
 # **First Things First**
+
 <div class="line"></div>
+## Histórico de Versão
+<table class="table table-striped border">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+        <tbody>
+        <tr>
+            <td> 19.09.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento </td>
+            <td> Bruna Almeida </td>
+        </tr>
+        <tr>
+            <td> 25.09.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição da tabela de resultados </td>
+            <td> Lucas Lopes</td>
+        </tr>
+		<tr>
+            <td> 06.10.2020 </td>
+            <td>  0.3   </td>
+            <td> Adição da tabela de versionamento </td>
+            <td> Geraldo Victor</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Metodologia
 
@@ -13,15 +43,21 @@
 
 ## Participantes
 
+* Bruna Almeida
+* Damarcones dos Santos
+* Geraldo Victor
+* Isabella Carneiro
+* Lucas Lopes
+
 <div class="line"></div>
 
-##  Resultado
+## Resultado
 
 <hr>
 
 ### Lucas
 
-<table class ="table table-striped" cellspacing="0" border="0">
+<table class ="table table-striped border" cellspacing="0" border="0">
 	<colgroup width="107"></colgroup>
 	<colgroup width="122"></colgroup>
 	<colgroup width="141"></colgroup>
@@ -637,7 +673,7 @@
 
 ### Damarcones
 
-<table class ="table table-striped" cellspacing="0" border="0">
+<table class ="table table-striped border" cellspacing="0" border="0">
 	<colgroup span="7" width="107"></colgroup>
 	<colgroup width="106"></colgroup>
 	<colgroup span="2" width="107"></colgroup>
@@ -1247,8 +1283,7 @@
 
 ### Bruna
 
-
-<table class ="table table-striped" cellspacing="0" border="0">
+<table class ="table table-striped border" cellspacing="0" border="0">
 	<colgroup span="10" width="107"></colgroup>
 	<tr>
 		<td height="21" align="left" valign=bottom bgcolor="#00FF00"><b>Requisitos</b></td>
@@ -1856,7 +1891,7 @@
 
 ### Isabella
 
-<table class ="table table-striped" cellspacing="0" border="0">
+<table class ="table table-striped border" cellspacing="0" border="0">
 	<colgroup span="10" width="107"></colgroup>
 	<tr>
 		<td height="21" align="left" valign=bottom bgcolor="#00FF00"><b><font color="#333333">Requisitos</font></b></td>
@@ -2464,7 +2499,7 @@
 
 ### Geraldo
 
-<table class ="table table-striped" cellspacing="0" border="0">
+<table class ="table table-striped border" cellspacing="0" border="0">
 	<colgroup span="10" width="107"></colgroup>
 	<tr>
 		<td height="21" align="left" valign=bottom bgcolor="#00FF00"><b><font color="#000000">Requisitos</font></b></td>

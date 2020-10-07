@@ -3,7 +3,7 @@
 <br>
 
 ## Histórico de Versão
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 
@@ -17,8 +17,6 @@
             <td> Rich Picture Visão Geral V0 </td>
             <td> Damarcones Porto </td>
         </tr>
-    </tbody>
-        <tbody>
         <tr>
             <td> 23.09.2020 </td>
             <td>  0.1   </td>

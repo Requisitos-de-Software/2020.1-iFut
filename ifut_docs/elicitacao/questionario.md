@@ -3,7 +3,7 @@
 <div class="line"></div>
 
 ## Histórico de Versão
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 
@@ -17,8 +17,6 @@
             <td> Adiciona Metodologia </td>
             <td> Bruna Almeida </td>
         </tr>
-    </tbody>
-    <tbody>
         <tr>
             <td> 25.09.2020 </td>
             <td>  0.2   </td>
@@ -192,7 +190,7 @@
 
 A partir dos resultados obtidos com o questionário, verificou-se que entre os usuários do aplicativo a funcionalidade de súmula automática é a mais importante e as funcionalidades de criar campeonato e visualização de estatísticas indivíduais são medianamente importantes. Além disso, baseando-se na quantidade de respostasde usuários que não usam o aplicativo, observa-se que há uma deficiência na visibilidade do aplicativo, visto que muitos nunca ouviram falar sobre o aplicativo iFut.
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Número</th>
         <th>Requisito</th>

@@ -2,7 +2,7 @@
 
 ## Histórico de Versão
 
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 
@@ -105,7 +105,7 @@
 
 <div class="line"></div>
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Questão</th>
         <th>Resposta</th>
@@ -141,7 +141,7 @@
 
 <div class="line"></div>
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Questão</th>
         <th>Resposta</th>
@@ -177,7 +177,7 @@
 
 <div class="line"></div>
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Questão</th>
         <th>Resposta</th>
@@ -213,7 +213,7 @@
 
 <div class="line"></div>
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Questão</th>
         <th>Resposta</th>
@@ -246,7 +246,7 @@
 - ENT: Entrevista
 <br>
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>ID</th>
         <th>Descrição</th>

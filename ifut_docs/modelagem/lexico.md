@@ -1,5 +1,5 @@
 # Léxicos
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 
@@ -16,12 +16,12 @@
     </tbody>
 </table>
 
-## Título
+## Usuário
 
-<table class="table table-striped">
+<table class="table table-striped border">
     <tr>
         <td>
-            <b>Nome</b>
+            <b>Usuário</b>
         </td>
         <td>
             Nome
@@ -60,3 +60,4 @@
         </td>
     </tr>
 </table>
+

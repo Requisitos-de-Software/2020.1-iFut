@@ -3,7 +3,7 @@
 <div class="line"></div>
 
 ## Histórico de Versão
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 
@@ -48,7 +48,7 @@ O membro Geraldo Victor se cadastrou e passou a ser usuário, e após 2 dias de 
 
 Data de realização: 19/09/2020.
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Número</th>
         <th>Requisito</th>

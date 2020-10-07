@@ -2,7 +2,7 @@
 
 ## Histórico de Versão
 
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 

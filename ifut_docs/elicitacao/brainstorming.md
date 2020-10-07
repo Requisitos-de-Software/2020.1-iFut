@@ -1,7 +1,7 @@
 # **Brainstorming**
 
 ## Histórico de Versão
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 
@@ -65,7 +65,7 @@ Através das ideias os seguintes requisitos foram levantados.
 
 <img  src="../../images/brainstorming.png" width="800" height="450">
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Número</th>
         <th>Requisito</th>

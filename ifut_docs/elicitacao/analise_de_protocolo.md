@@ -2,7 +2,7 @@
 
 ## Histórico de Versão
 
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th>
         <th>Versão </th>
@@ -95,7 +95,7 @@
 
 ## Requisitos Elicitados
 
-<table class="table table-striped" style="color:black;">
+<table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Número</th>
         <th>Requisito</th>

@@ -2,7 +2,7 @@
 <div class="line"></div>
 
 ## Histórico de Versão
-<table class="table table-striped">
+<table class="table table-striped border">
     <thead>
         <th>Data</th> 
         <th>Versão </th> 
@@ -32,7 +32,7 @@
 </table>
 <br>
 <p><font color="#00ff2b"> Caso de Uso 01 :</font></p>
-<table class="table table-striped">
+<table class="table table-striped border">
     <tr>
         <td>
             <b>Título</b>
