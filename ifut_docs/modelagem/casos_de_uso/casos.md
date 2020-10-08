@@ -5,7 +5,7 @@
 <p><a href = "../uc02"> UC02 - Visualizar agenda de jogos</a></p>
 <p><a href = "../uc03"> UC03 - Visualizar Rodadas</a></p>
 <p><a href = "../uc04"> UC04</a></p>
-<p><a href = "../uc05"> UC05</a></p>
+<p><a href = "../uc05"> UC05 - Acessar súmula digital</a></p>
 <p><a href = "../uc06"> UC06</a></p>
 <p><a href = "../uc07"> UC07</a></p>
 <p><a href = "../uc08"> UC08</a></p>
