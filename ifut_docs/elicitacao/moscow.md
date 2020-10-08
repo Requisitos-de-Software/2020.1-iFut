@@ -57,6 +57,8 @@
 - Lucas
 - Isabella
 
+## Nota Importante
+ <p>Este será o método em que o grupo baseará os outros artefatos.</p>
 
 ## Resultado
 
