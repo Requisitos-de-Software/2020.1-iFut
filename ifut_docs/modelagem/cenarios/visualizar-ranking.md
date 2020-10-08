@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            1
+            Visualizar ranking
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            1
+            Visualizar a colocação dos times em um campeonato.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição:</p>
-            <p>Pós-condição:</p>
+            <p>Pré-condição: Ter acesso a um campeonato existente.</p>
+            <p>Pós-condição: Acesso ao ranking de times do campeonato.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,8 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+            <p>Usuário;</p>
+            <p>Sistema.</p>
         </td>
     </tr>
     <tr>
@@ -40,7 +41,8 @@
             <b>Recursos</b>
         </td>
         <td>
-            Conexão estável com a internet.
+            <p>1. Conexão estável com a internet;</p>
+            <p>2. Aplicativo iFut instalado.</p>
         </td>
     </tr>
     <tr>
@@ -48,10 +50,10 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. </p>
-            <p>2. </p>
-            <p>3. </p>
-            <p>4. </p>
+            <p>1. O usuário acessa o site ou o aplicativo iFut;</p>
+            <p>2. O usuário acessa um campeonato;</p>
+            <p>3. O usuário seleciona a opção “ranking”;</p>
+            <p>4. O usuário tem acesso ao ranking dos times.</p>
         </td>
     </tr>
     <tr>
@@ -59,7 +61,7 @@
             <b>Restrições</b>
         </td>
         <td>
-            <p> 1. </p>
+            <p>Fluxo intuitivo</p>
         </td>
     </tr>
     <tr>
@@ -67,8 +69,7 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. </p>
-            <p>2. </p>
+            <p>A internet parar de funcionar no meio da ação.</p>
         </td>
     </tr>
 </table>

@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            1
+            Acessar súmula física
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            1
+            Ter acesso a uma súmula em branco para impressão.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição:</p>
-            <p>Pós-condição:</p>
+            <p>Pré-condição: Ter acesso a um campeonato.</p>
+            <p>Pós-condição: O usuário terá um arquivo de uma súmula em branco para impressão.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,8 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+            <p>Usuário;</p>
+            <p>Sistema.</p>
         </td>
     </tr>
     <tr>
@@ -48,10 +49,11 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. </p>
-            <p>2. </p>
-            <p>3. </p>
-            <p>4. </p>
+            <p>1. O usuário administrador acessa o site iFut;</p>
+            <p>2. O usuário administrador acessa um campeonato;</p>
+            <p>3. O usuário administrador acessa a página “Jogos”;</p>
+            <p>4. O usuário administrador seleciona a opção “súmula em branco”;</p>
+            <p>5. O usuário administrador salva o arquivo em seu dispositivo.</p>
         </td>
     </tr>
     <tr>
@@ -59,7 +61,7 @@
             <b>Restrições</b>
         </td>
         <td>
-            <p> 1. </p>
+            <p>Fluxo intuitivo.</p>
         </td>
     </tr>
     <tr>
@@ -67,8 +69,7 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. </p>
-            <p>2. </p>
+            <p>A internet parar de funcionar no meio da ação.</p>
         </td>
     </tr>
 </table>

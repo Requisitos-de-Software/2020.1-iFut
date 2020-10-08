@@ -32,7 +32,8 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+            <p>Usuário;</p>
+            <p>Sistema.</p>
         </td>
     </tr>
     <tr>
