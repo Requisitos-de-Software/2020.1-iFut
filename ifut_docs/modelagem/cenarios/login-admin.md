@@ -1,40 +1,30 @@
-<p><font color="#00ff2b"> Caso de Uso 01 :</font></p>
+## Login - Perfil do administrador
+<br>
+
 <table class="table table-striped border">
     <tr>
         <td>
             <b>Título</b>
         </td>
         <td>
-            Título
+            Login - Perfil do administrador
         </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
-    </tr>
-    <tr>
-    <td>
-            <b>Pré-condição</b>
-        </td>
         <td>
-            Pré-condição
+            Carregar/Recuperar as informações de uma conta do tipo administrador do iFut.
         </td>
     </tr>
-     <tr>
-    <td>
-            <b>Pós-condição</b>
-        </td>
-        <td>
-            Pós-condição
-        </td>
-    </tr> 
     <tr>
         <td>
             <b>Contexto</b>
         </td>
         <td>
-            Contexto
+            <p>Pré-condição: Usuário não logado no site.</p>
+            <p>Pós-condição: Usuário logado no site.</p>
         </td>
     </tr>
     <tr>
@@ -42,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            Atores
+            Usuário.
         </td>
     </tr>
     <tr>
@@ -50,7 +40,7 @@
             <b>Recursos</b>
         </td>
         <td>
-            Recursos
+            Conexão estável com a internet.
         </td>
     </tr>
     <tr>
@@ -58,7 +48,10 @@
             <b>Episódios</b>
         </td>
         <td>
-            Episódios
+            <p>1. O usuário acessa o site do iFut.</p>
+            <p>2. O usuário seleciona a opção “Entrar”.</p>
+            <p>3. O usuário preenche os campos “email” e “senha”.</p>
+            <p>4. Os dados do usuário são apresentados.</p>
         </td>
     </tr>
     <tr>
@@ -66,7 +59,7 @@
             <b>Restrições</b>
         </td>
         <td>
-            Restrições
+            Fluxo intuitivo.
         </td>
     </tr>
     <tr>
@@ -74,7 +67,9 @@
             <b>Exceção</b>
         </td>
         <td>
-            Exceção
+            <p>1. O usuário não ter uma conta registrada no site.</p>
+            <p>2. A internet parar de funcionar no meio da ação.</p>
+            <p>3. O usuário fechar o site antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

@@ -33,8 +33,8 @@
 <br>
 
 <!-- Linkagens dos cenários -->
-<p><a href="../login-atleta">Login do perfil atleta</a></p>
-<p><a href="../login-admin">Login do perfil administrador</a></p>
+<p><a href="../login-atleta">Login - Perfil atleta</a></p>
+<p><a href="../login-admin">Login - Perfil administrador</a></p>
 
 <p><font color="#00ff2b"> Caso de Uso 01 :</font></p>
 <table class="table table-striped border">
