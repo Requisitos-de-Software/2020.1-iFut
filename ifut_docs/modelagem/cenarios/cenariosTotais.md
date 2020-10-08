@@ -35,6 +35,14 @@
 <!-- Linkagens dos cenários -->
 <p><a href="../login-atleta">Login - Perfil atleta</a></p>
 <p><a href="../login-admin">Login - Perfil administrador</a></p>
+<p><a href="../logout-atleta">Logout - Perfil atleta</a></p>
+<p><a href="../logout-admin">Logout - Perfil administrador</a></p>
+<p><a href="../editar-perfil-atleta">Editar perfil do tipo atleta</a></p>
+<p><a href="../editar-perfil-admin">Editar perfil do tipo administrador</a></p>
+<p><a href="../adicionar-patrocinador">Adicionar patrocinador a um campeonato</a></p>
+<p><a href="../adicionar-noticia">Adicionar uma notícia a um campeonato</a></p>
+
+
 
 <table class="table table-striped border">
     <tr>

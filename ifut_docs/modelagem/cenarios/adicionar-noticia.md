@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Login - Perfil do administrador
+            1
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Carregar/Recuperar as informações de uma conta do tipo administrador do iFut.
+            1
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário não logado no site.</p>
-            <p>Pós-condição: Usuário logado no site.</p>
+            <p>Pré-condição:</p>
+            <p>Pós-condição:</p>
         </td>
     </tr>
     <tr>
@@ -48,10 +48,10 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa o site do iFut.</p>
-            <p>2. O usuário seleciona a opção “Entrar”.</p>
-            <p>3. O usuário preenche os campos “email” e “senha”.</p>
-            <p>4. Os dados do usuário são apresentados.</p>
+            <p>1. </p>
+            <p>2. </p>
+            <p>3. </p>
+            <p>4. </p>
         </td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@
             <b>Restrições</b>
         </td>
         <td>
-            Fluxo intuitivo.
+            <p> 1. </p>
         </td>
     </tr>
     <tr>
@@ -67,9 +67,8 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. O usuário não ter uma conta registrada no site.</p>
-            <p>2. A internet parar de funcionar no meio da ação.</p>
-            <p>3. O usuário fechar o site antes de terminar a ação.</p>
+            <p>1. </p>
+            <p>2. </p>
         </td>
     </tr>
 </table>
