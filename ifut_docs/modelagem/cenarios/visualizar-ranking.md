@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Visualizar a colocação dos times em um campeonato.
+            Visualizar a colocação dos jogadores em um ranking.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Ter acesso a um campeonato existente.</p>
-            <p>Pós-condição: Acesso ao ranking de times do campeonato.</p>
+            <p>Pré-condição: Ter acesso a um perfil de atleta.</p>
+            <p>Pós-condição: Acesso ao ranking de jogadores.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            <p>Usuário;</p>
+            <p>Usuário atleta;</p>
             <p>Sistema.</p>
         </td>
     </tr>
@@ -50,10 +50,9 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa o site ou o aplicativo iFut;</p>
-            <p>2. O usuário acessa um campeonato;</p>
-            <p>3. O usuário seleciona a opção “ranking”;</p>
-            <p>4. O usuário tem acesso ao ranking dos times.</p>
+            <p>1. Abrir o app iFut.</p>
+            <p>2. Fazer login na parte do atleta.</p>
+            <p>3. Selecionar a aba do Ranking no menu.</p>
         </td>
     </tr>
     <tr>
