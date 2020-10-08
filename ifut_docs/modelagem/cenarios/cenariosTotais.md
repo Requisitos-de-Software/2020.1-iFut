@@ -53,7 +53,7 @@
 <p><a href="../visualizar_estatistica">Visualizar as estatísticas do usuário</a></p>
 <p><a href="../visualizar_noticias">Visualizar as notícias de um campeonato</a></p>
 <p><a href="../visualizar_perfil_jogador">Visualizar perfil de um jogador</a></p>
-<p><a href="../visualizar_ranking">Visualizar o ranking de jogadores de um campeonato</a></p>
+<p><a href="../visualizar_ranking_campeonato">Visualizar o ranking de jogadores de um campeonato</a></p>
 <p><a href="../visualizar_rodadas">Visualizar as rodadas de jogos de um campeonato</a></p>
 <p><a href="../visualizar_tabela">Visualizar a tabela de jogos de um campeonato</a></p>
 
