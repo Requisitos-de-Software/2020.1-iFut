@@ -8,7 +8,7 @@
       
       
       <link rel="shortcut icon" href="../../../images/favicon.ico">
-      <title>Cadastro do Usuário - iFut</title>
+      <title>UC10 - Abrir inscrições para um campeonato - iFut</title>
       <script src="../../../dist/bundle.js"></script>
     
   </head>
@@ -213,14 +213,154 @@
       
       
         <li class="breadcrumb-item active" aria-current="page">
-          Cadastro do Usuário
+          UC10 - Abrir inscrições para um campeonato
         </li>
       
     </ol>
   </nav>
 
 
-<h1 id="cadastro-do-usuario">Cadastro do Usuário</h1></div>
+<h1 id="uc10-abrir-inscricoes-para-um-campeonato">UC10 - Abrir inscrições para um campeonato</h1>
+<p><b>Descrição:</b> A funcionalidade abre o menu que permite inscrições para torneios.</p>
+
+<p><b>Ator principal:</b> Usuários treinador</p>
+
+<p><b>Pré-requisito:</b> Gerar um torneio .</p>
+
+<p><b>Fluxo Principal:</b>
+<p class = "text-justify">1. O usuário acessa o site.</p>
+<p class = "text-justify">2. O usuário clica em torneios.</p>
+<p class = "text-justify">3. O usuário clica em times</p>
+<p class = "text-justify">4. O usuário acessa o menu inscrições.</p>
+<p class = "text-justify">5. O usuário preenche os dados solicitados para inscrição.</p>
+<p class = "text-justify">6. Clicar no botão de salvar</p></p>
+<p><b>Regras de Negócio 01:</b></p>
+
+<table class="table table-striped border">
+    <tr>
+        <td>
+            <b>Campo</b>
+        </td>
+        <td>
+            <b>Formato</b>
+        </td>
+        <td>
+            <b>Obrigatoriedade</b>
+        </td>
+        <td>
+            <b>Valor</b>
+        </td>
+    </tr>
+    <tr>
+    <td>
+        Nome Campeonato
+    </td>
+    <td>
+        Não definido
+    </td>
+    <td>
+        Sim
+    </td>
+    <td>
+        Nome do Campeonato
+    </td>
+    <tr>
+    <td>
+        Onse será o campeonato
+    </td>
+    <td>
+        Pré-definido
+    </td>
+    <td>
+        Sim
+    </td>
+    <td>
+        Local válido
+    </td>
+        <tr>
+    <td>
+        Sexo do torneio
+    </td>
+    <td>
+        Pré-definido
+    </td>
+    <td>
+        Sim
+    </td>
+    <td>
+        Sexo válido
+    </td>
+        <tr>
+    <td>
+        Categoria do torneio
+    </td>
+    <td>
+        Pré-definido
+    </td>
+    <td>
+        SIm
+    </td>
+    <td>
+        Categoria válida
+    </td>
+        <tr>
+    <td>
+        Modalidade do torneio
+    </td>
+    <td>
+        Pré-definido
+    </td>
+    <td>
+        Sim
+    </td>
+    <td>
+        Modalidade válida
+    </td>
+        <tr>
+    <td>
+        Formato do Campeonato
+    </td>
+    <td>
+        Pré-definido
+    </td>
+    <td>
+        Sim
+    </td>
+    <td>
+        Formato válido
+    </td>
+        <tr>
+    <td>
+        Quantidade de times participantes
+    </td>
+    <td>
+        XX
+    </td>
+    <td>
+        Sim
+    </td>
+    <td>
+        Quantidade válida
+    </td>
+        <tr>
+    <td>
+        Fase do início do mata mata
+    </td>
+    <td>
+        Pré-definida
+    </td>
+    <td>
+        Sim
+    </td>
+    <td>
+        Fase válida
+    </td>
+</table>
+
+<p><b>Fluxo de exceção 01: </b>Usuário não é treinador
+<p class = "text-justify">1. O usuário acessa o site.</p>
+<p class = "text-justify">1. O usuário não tem permissão de fazer inscrições.</p>
+<p class = "text-justify"><b>Pós-condição: </b>O usuário criou inscrições para torneios.</p></p></div>
         <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
   <div class="navbar-header">
     <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
@@ -230,7 +370,7 @@
 
   <div id="toc-collapse" class="navbar-collapse collapse card">
     <ul class="nav flex-column bs-sidenav">
-        <li class="nav-item main"><a class="nav-link" href="#cadastro-do-usuario">Cadastro do Usuário</a></li>
+        <li class="nav-item main"><a class="nav-link" href="#uc10-abrir-inscricoes-para-um-campeonato">UC10 - Abrir inscrições para um campeonato</a></li>
     </ul>
   </div>
 </div></div>
