@@ -2042,8 +2042,10 @@
 </table>
 <br>
 
-* # N 
+* # N
+<br>
 
+* # O
 ### Online
 
 <table class="table table-striped border">
@@ -2068,7 +2070,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Conectado direta ou remotamente a um computador e pronto para uso.
         </td>
     </tr>
     <tr>
@@ -2076,7 +2078,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário administrador/treinador poderá alterar o status de seu link como online.
         </td>
     </tr>
     <tr>
@@ -2090,7 +2092,7 @@
 </table>
 <br>
 
-* # O 
+ 
 
 ### Offline
 
@@ -2116,7 +2118,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Sem conexão a um computador associado.
         </td>
     </tr>
     <tr>
@@ -2124,7 +2126,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário administrador/treinador poderá alterar o status de seu link como offline.
         </td>
     </tr>
     <tr>
@@ -2132,7 +2134,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado
         </td>
     </tr>
 </table>
@@ -2164,7 +2166,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Parceiro é quem arca com os custos da realização de um espetáculo ou competição esportiva.
         </td>
     </tr>
     <tr>
@@ -2172,7 +2174,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve ser capaz de ver os anúncios dos parceiros e interagir com os mesmos.
         </td>
     </tr>
     <tr>
@@ -2180,7 +2182,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2210,7 +2212,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Patrocinador é quem arca com os custos da realização de um espetáculo ou competição esportiva.
         </td>
     </tr>
     <tr>
@@ -2218,7 +2220,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário ELITE deve poder adicionar patrocinadores e produtos.
         </td>
     </tr>
     <tr>
@@ -2226,7 +2228,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2256,7 +2258,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Perfil se refere a um cadastro de dados pessoais, de contato, e preferências de um determinado usuário.
         </td>
     </tr>
     <tr>
@@ -2264,7 +2266,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O perfil de JOGADOR deverá armazenar os times que ele participa.
         </td>
     </tr>
     <tr>
@@ -2272,7 +2274,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2302,7 +2304,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Pesquisa é um conjunto de ações que visam a descoberta de novos conhecimentos em uma determinada área.
         </td>
     </tr>
     <tr>
@@ -2310,7 +2312,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá pesquisar um jogador e ver suas informações.
         </td>
     </tr>
     <tr>
@@ -2318,7 +2320,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2348,7 +2350,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Placar é um quadro onde se registram os pontos nas competições esportivas.
         </td>
     </tr>
     <tr>
@@ -2356,7 +2358,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá visualizar o placar de um jogo em tempo real.
         </td>
     </tr>
     <tr>
@@ -2364,7 +2366,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2394,7 +2396,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Plano é um pacote de adesão pago que contêm funcionalidades a mais que um pacote gratuito.
         </td>
     </tr>
     <tr>
@@ -2402,7 +2404,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá adquirir um plano do tipo PREMIUM ou ELITE.
         </td>
     </tr>
     <tr>
@@ -2410,7 +2412,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2432,7 +2434,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Loja de aplicativos para sistemas Android.
+            Loja de aplicativos, loja de apps.
         </td>
     </tr>
     <tr>
@@ -2440,7 +2442,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Loja de aplicativos para sistemas Android.
         </td>
     </tr>
     <tr>
@@ -2448,7 +2450,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema pode ter otimização para ter SEO e para identificação por mecanismo de busca dentro de lojas de app.
         </td>
     </tr>
     <tr>
@@ -2456,7 +2458,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2486,7 +2488,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Política de privacidade é um conjunto de termos que descreve as práticas adotadas pelo site ou aplicativo em relação às informações dos usuários.
         </td>
     </tr>
     <tr>
@@ -2494,7 +2496,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O App deverá ser compatível com normas de política de privacidade.
         </td>
     </tr>
     <tr>
@@ -2502,7 +2504,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2532,7 +2534,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Pontos que determinado time obtém ao longo de uma competição.
         </td>
     </tr>
     <tr>
@@ -2540,7 +2542,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá visualizar tabela de pontuação e rodadas ao clicar em campeonato.
         </td>
     </tr>
     <tr>
@@ -2548,7 +2550,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2578,7 +2580,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Experiência UX é o conjunto de elementos e fatores relativos à interação do usuário com um determinado produto, sistema ou serviço cujo resultado gera uma percepção positiva ou negativa.
         </td>
     </tr>
     <tr>
@@ -2586,7 +2588,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            A experiência do usuário deve ser a melhor possível.
         </td>
     </tr>
     <tr>
@@ -2594,7 +2596,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado
         </td>
     </tr>
 </table>
@@ -2629,7 +2631,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Ranking é a posição que algo ou alguém ocupa numa escala que destaca seu mérito em relação aos demais.
         </td>
     </tr>
     <tr>
@@ -2637,7 +2639,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá filtrar jogadores em um ranking.
         </td>
     </tr>
     <tr>
@@ -2645,7 +2647,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2675,7 +2677,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Um resultado é a consequência final de uma sequência de ações ou eventos expressos qualitativa ou quantitativamente.
         </td>
     </tr>
     <tr>
@@ -2683,7 +2685,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            A atualização de tabelas, ranking, resultados e estatísticas deverá ser feito de forma automática da cada fim de rodada.
         </td>
     </tr>
     <tr>
@@ -2691,7 +2693,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2721,7 +2723,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Uma nova partida ou ciclo de jogos.
         </td>
     </tr>
     <tr>
@@ -2729,7 +2731,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema de tabelas deve ser auto gerenciável a cada rodada.
         </td>
     </tr>
     <tr>
@@ -2737,7 +2739,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2761,7 +2763,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Servidor,
+            Servidor.
         </td>
     </tr>
     <tr>
@@ -2769,7 +2771,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Um servidor é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de cliente.
         </td>
     </tr>
     <tr>
@@ -2777,7 +2779,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O App CLIENT deverá requisitar dados ao final de cada partida ao SERVER.
         </td>
     </tr>
     <tr>
@@ -2785,7 +2787,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2815,7 +2817,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Otimização para Mecanismos de Buscas.
         </td>
     </tr>
     <tr>
@@ -2823,7 +2825,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema pode ter otimização para ter SEO e para identificação por mecanismo de busca dentro de lojas de app.
         </td>
     </tr>
     <tr>
@@ -2831,7 +2833,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado
         </td>
     </tr>
 </table>
@@ -2861,7 +2863,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            A súmula é o documento do jogo. Nela são anotados os dados e informações da partida. 
         </td>
     </tr>
     <tr>
@@ -2869,7 +2871,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário PREMIUM/ELITE deve poder ter acesso a súmula digital.
         </td>
     </tr>
     <tr>
@@ -2877,7 +2879,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2907,7 +2909,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            A súmula é o documento do jogo. Nela são anotados os dados e informações da partida.
         </td>
     </tr>
     <tr>
@@ -2915,7 +2917,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema deve ser capaz de gerar súmula física.
         </td>
     </tr>
     <tr>
@@ -2923,7 +2925,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -2955,7 +2957,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Designação de coisas segundo determinada ordem, para registro, fixação ou recordação.
         </td>
     </tr>
     <tr>
@@ -2963,7 +2965,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema de tabelas deve ser auto gerenciável a cada rodada.
         </td>
     </tr>
     <tr>
@@ -2971,7 +2973,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3001,7 +3003,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Menu tab é um menu que se localiza nas laterais de uma página de um site ou aplicativo.
         </td>
     </tr>
     <tr>
@@ -3009,7 +3011,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário pode acessar um menu tab.
         </td>
     </tr>
     <tr>
@@ -3017,7 +3019,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3047,7 +3049,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Disseminação de propagandas em redes sociais.
         </td>
     </tr>
     <tr>
@@ -3055,7 +3057,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            Dentro do aplicativo pode existir um botão que direciona para redes sociais.
         </td>
     </tr>
     <tr>
@@ -3063,7 +3065,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado
         </td>
     </tr>
 </table>
@@ -3093,7 +3095,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Transmissão ao vivo.
         </td>
     </tr>
     <tr>
@@ -3101,7 +3103,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá visualizar o placar de um jogo em tempo real.
         </td>
     </tr>
     <tr>
@@ -3109,57 +3111,12 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado
         </td>
     </tr>
 </table>
 <br>
 
-### Terceiros
-
-<table class="table table-striped border">
-    <tr>
-        <td>
-            <b>Nome</b>
-        </td>
-        <td>
-        Terceiros
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Mediadores, intercessores.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Noção</b>
-        </td>
-        <td>
-            Noção
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Impacto</b>
-        </td>
-        <td>
-            Impacto
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Classificação</b>
-        </td>
-        <td>
-            Classificação
-        </td>
-    </tr>
-</table>
-<br>
 
 ### Time
 
@@ -3185,7 +3142,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Grupo de atletas que participam de certos esportes de conjunto.
         </td>
     </tr>
     <tr>
@@ -3193,7 +3150,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá compartilhar por link informações de um time, campeonato ou jogador.
         </td>
     </tr>
     <tr>
@@ -3201,7 +3158,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3232,7 +3189,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Admiradores de um time.
         </td>
     </tr>
     <tr>
@@ -3240,7 +3197,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            Os torcedores poderão acompanhar os campeonatos que seus times participam através do aplicativo.
         </td>
     </tr>
     <tr>
@@ -3248,7 +3205,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3281,7 +3238,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Upload refere-se à transmissão de dados de um sistema de computador para outro por meio de uma rede.
         </td>
     </tr>
     <tr>
@@ -3289,7 +3246,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário administrador de um campeonato pode fazer upload de arquivos.
         </td>
     </tr>
     <tr>
@@ -3297,7 +3254,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3327,7 +3284,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Os usuários são pessoas que utilizam um determinado tipo de serviço e podem ser classificados segundo a área de interesse.
         </td>
     </tr>
     <tr>
@@ -3335,7 +3292,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            Um usuário logado poderá fazer logout.
         </td>
     </tr>
     <tr>
@@ -3343,7 +3300,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3373,7 +3330,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Os usuários básicos são pessoas que utilizam o pacote básico gratuito do iFut.
         </td>
     </tr>
     <tr>
@@ -3381,7 +3338,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá pesquisar um jogador e ver suas informações.
         </td>
     </tr>
     <tr>
@@ -3389,7 +3346,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3419,7 +3376,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Os usuários elite são pessoas que utilizam o plano elite do iFut.
         </td>
     </tr>
     <tr>
@@ -3427,7 +3384,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário ELITE deve poder adicionar notícias a um campeonato.
         </td>
     </tr>
     <tr>
@@ -3435,7 +3392,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3466,7 +3423,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Os usuários premium são pessoas que utilizam o plano premium do iFut.
         </td>
     </tr>
     <tr>
@@ -3474,7 +3431,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário PREMIUM deve poder ter acesso a súmula digital.
         </td>
     </tr>
     <tr>
@@ -3482,7 +3439,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3496,7 +3453,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Usuário treinador/administrador
+            Usuário treinador/administrador
         </td>
     </tr>
     <tr>
@@ -3512,7 +3469,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Os usuários administradores são pessoas que podem criar campeonatos, através do site iFut.
         </td>
     </tr>
     <tr>
@@ -3520,7 +3477,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário administrador/treinador poderá restringir o compartilhamento de suas informações.
         </td>
     </tr>
     <tr>
@@ -3528,7 +3485,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -3561,7 +3518,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Algum objeto que pode ser acessado online.
         </td>
     </tr>
     <tr>
@@ -3569,7 +3526,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário pro pode acessar uma súmula de rodada de forma virtual.
         </td>
     </tr>
     <tr>
@@ -3577,7 +3534,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado
         </td>
     </tr>
 </table>
@@ -3609,7 +3566,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            WhatsApp é um aplicativo multiplataforma de mensagens instantâneas e chamadas de voz para smartphones.
         </td>
     </tr>
     <tr>
@@ -3617,7 +3574,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário administrador pode enviar o link inscrição para um campeonato através do whatsapp. 
         </td>
     </tr>
     <tr>
@@ -3625,7 +3582,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
