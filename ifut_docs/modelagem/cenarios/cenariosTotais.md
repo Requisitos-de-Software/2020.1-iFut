@@ -52,22 +52,6 @@
         </td>
     </tr>
     <tr>
-    <td>
-            <b>Pré-condição</b>
-        </td>
-        <td>
-            Pré-condição
-        </td>
-    </tr>
-     <tr>
-    <td>
-            <b>Pós-condição</b>
-        </td>
-        <td>
-            Pós-condição
-        </td>
-    </tr> 
-    <tr>
         <td>
             <b>Contexto</b>
         </td>
