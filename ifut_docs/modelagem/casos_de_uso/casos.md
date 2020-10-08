@@ -18,3 +18,4 @@
 <p><a href = "../uc15"> UC15</a></p>
 <p><a href = "../uc16"> UC16 - Visualizar campeonatos cadastrados</a></p>
 <p><a href = "../uc17"> UC17</a></p>
+<p><a href = "../uc18"> UC18 - Verificar o extrato do jogo</a></p>
