@@ -1,9 +1,9 @@
 # UCn - nome
 
-<p><b>Descrição:</b></p>
-<p><b>Ator principal:</b></p>
-<p><b>Pré-requisito:</b></p>
-<p><b>Fluxo Principal:</b></p>
+<b>Descrição:</b><p class = "text-justify">teste</p>
+<b>Ator principal:</b><p class = "text-justify">teste</p>
+<b>Pré-requisito:</b><p class = "text-justify">teste</p>
+<b>Fluxo Principal:</b><p class = "text-justify">teste</p>
 
 
 <p><b>Regras de Negócio 01:</b></p>
