@@ -26,20 +26,165 @@
             <td> Adição de mais léxicos</td>
             <td> Geraldo Victor</td>
         </tr>
+        </tr>
+            <tr>
+            <td> 07.10.2020 </td>
+            <td>  0.4   </td>
+            <td> Adição dos sinônimos</td>
+            <td> Bruna Almeida e Damarcones Porto</td>
+        </tr>
     </tbody>
 </table>
 
-* A 
+* # A 
 
-## Acessibilidade
+### Acessibilidade
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Acessibilidade</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+            Acessibilidade
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Disponibilidade, praticabilidade.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Noção</b>
+        </td>
+        <td>
+            Noção
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Impacto</b>
+        </td>
+        <td>
+            Impacto
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Classificação</b>
+        </td>
+        <td>
+            Classificação
+        </td>
+    </tr>
+</table>
+<br>
+
+### Agenda de jogos
+
+<table class="table table-striped border">
+    <tr>
+        <td>
+            <b>Nome</b>
+        </td> 
+        <td>
+            Agenda de jogos
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Marcações de jogos, rodadas.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Noção</b>
+        </td>
+        <td>
+            Noção
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Impacto</b>
+        </td>
+        <td>
+            Impacto
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Classificação</b>
+        </td>
+        <td>
+            Classificação
+        </td>
+    </tr>
+</table>
+<br>
+
+### API
+
+<table class="table table-striped border">
+    <tr>
+        <td>
+            <b>Nome</b>
+        </td>
+        <td>
+            API
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Interface de programação de aplicativos.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Noção</b>
+        </td>
+        <td>
+            Noção
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Impacto</b>
+        </td>
+        <td>
+            Impacto
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Classificação</b>
+        </td>
+        <td>
+            Classificação
+        </td>
+    </tr>
+</table>
+<br>
+
+### App
+
+<table class="table table-striped border">
+    <tr>
+        <td>
+            <b>Nome</b>
+        </td>
+        <td>
+            App
         </td>
     </tr>
     <tr>
@@ -75,152 +220,17 @@
         </td>
     </tr>
 </table>
+<br>
 
-## Agenda de jogos
-
-<table class="table table-striped border">
-    <tr>
-        <td>
-            <b>Agenda de jogos</b>
-        </td>
-        <td>
-            Nome
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Aplicação, programa aplicativo.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Noção</b>
-        </td>
-        <td>
-            Noção
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Impacto</b>
-        </td>
-        <td>
-            Impacto
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Classificação</b>
-        </td>
-        <td>
-            Classificação
-        </td>
-    </tr>
-</table>
-agenda de jogos
-
-## API
+### AppleStore
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>API</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Aplicação, programa aplicativo.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Noção</b>
-        </td>
-        <td>
-            Noção
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Impacto</b>
-        </td>
-        <td>
-            Impacto
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Classificação</b>
-        </td>
-        <td>
-            Classificação
-        </td>
-    </tr>
-</table>
-
-## App
-
-<table class="table table-striped border">
-    <tr>
-        <td>
-            <b>App</b>
-        </td>
-        <td>
-            Nome
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Aplicação, programa aplicativo.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Noção</b>
-        </td>
-        <td>
-            Noção
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Impacto</b>
-        </td>
-        <td>
-            Impacto
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Classificação</b>
-        </td>
-        <td>
-            Classificação
-        </td>
-    </tr>
-</table>
-
-## AppleStore
-
-<table class="table table-striped border">
-    <tr>
-        <td>
-            <b>AppleStore</b>
-        </td>
-        <td>
-            Nome
+            AppleStore
         </td>
     </tr>
     <tr>
@@ -256,16 +266,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Árbitro
+### Árbitro
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Árbitro</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+            Árbitro
         </td>
     </tr>
     <tr>
@@ -301,16 +312,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Atletas
+### Atleta
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Atletas</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+            Atletas
         </td>
     </tr>
     <tr>
@@ -346,16 +358,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Auto gerenciável
+### Auto gerenciável
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Auto gerenciável</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+            Auto gerenciável
         </td>
     </tr>
     <tr>
@@ -363,7 +376,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Jogador, esportista, desportiva.
+            Auto administrável.
         </td>
     </tr>
     <tr>
@@ -391,18 +404,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-* B 
+* # B 
 
-## Baixar
+### Baixar
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Baixar</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Baixar
         </td>
     </tr>
     <tr>
@@ -438,16 +452,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Buscador
+### Buscador
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Buscador</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+            Buscador
         </td>
     </tr>
     <tr>
@@ -455,7 +470,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Pesquisador, 
+            Pesquisador. 
         </td>
     </tr>
     <tr>
@@ -483,18 +498,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-* C 
+* # C 
 
-## Cadastrar
+### Cadastrar
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Cadastrar</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Cadastrar
         </td>
     </tr>
     <tr>
@@ -530,16 +546,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Campeonato
+### Campeonato
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Campeonato</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Campeonato
         </td>
     </tr>
     <tr>
@@ -575,16 +592,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Chaves
+### Chaves
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Chaves</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Chaves
         </td>
     </tr>
     <tr>
@@ -592,7 +610,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Quem faz uso do pacote elite.
+            Combinações, disposição de partidas.
         </td>
     </tr>
     <tr>
@@ -620,16 +638,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Classificação
+### Classificação
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Classificação</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Classificação
         </td>
     </tr>
     <tr>
@@ -665,16 +684,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Clientes
+### Clientes
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Clientes</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Clientes
         </td>
     </tr>
     <tr>
@@ -710,16 +730,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Compartilhar
+### Compartilhar
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Compartilhar</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Compartilhar
         </td>
     </tr>
     <tr>
@@ -727,7 +748,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Anunciantes.
+            Partilhar, distribuir.
         </td>
     </tr>
     <tr>
@@ -755,16 +776,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Criar
+### Criar
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Criar</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Criar
         </td>
     </tr>
     <tr>
@@ -800,16 +822,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Confrontos
+### Confrontos
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Confrontos</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Confrontos
         </td>
     </tr>
     <tr>
@@ -845,18 +868,22 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* D 
-* E 
+<br>
 
-## Eliminatórias
+* # D
+<br>
+
+* # E 
+
+### Eliminatórias
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Eliminatórias</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Eliminatórias
         </td>
     </tr>
     <tr>
@@ -892,16 +919,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Escalação
+### Escalação
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Escalação</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Escalação
         </td>
     </tr>
     <tr>
@@ -909,7 +937,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Escolha, seleção, designação.
         </td>
     </tr>
     <tr>
@@ -937,16 +965,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Esportes
+### Esportes
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Esportes</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Esportes
         </td>
     </tr>
     <tr>
@@ -982,16 +1011,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Estatísticas
+### Estatísticas
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Estatísticas</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Estatísticas
         </td>
     </tr>
     <tr>
@@ -1027,16 +1057,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Extrato do jogo
+### Extrato do jogo
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Extrato do jogo</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Extrato do jogo
         </td>
     </tr>
     <tr>
@@ -1044,7 +1075,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Resultado da partida.
         </td>
     </tr>
     <tr>
@@ -1072,17 +1103,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* F 
+<br>
 
-## Favoritar
+* # F 
+
+### Favoritar
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Favoritar</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Favoritar
         </td>
     </tr>
     <tr>
@@ -1118,16 +1151,63 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Filtrar
+### Filtrar
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Filtrar</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Filtrar
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Peneirar, separar, seletar.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Noção</b>
+        </td>
+        <td>
+            Noção
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Impacto</b>
+        </td>
+        <td>
+            Impacto
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Classificação</b>
+        </td>
+        <td>
+            Classificação
+        </td>
+    </tr>
+</table>
+<br>
+
+### Formulário
+
+<table class="table table-striped border">
+    <tr>
+        <td>
+            <b>Nome</b>
+        </td>
+        <td>
+        Formulário
         </td>
     </tr>
     <tr>
@@ -1163,61 +1243,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Formulário
-
-<table class="table table-striped border">
-    <tr>
-        <td>
-            <b>Formulário</b>
-        </td>
-        <td>
-            Nome
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Impresso, ficha.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Noção</b>
-        </td>
-        <td>
-            Noção
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Impacto</b>
-        </td>
-        <td>
-            Impacto
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Classificação</b>
-        </td>
-        <td>
-            Classificação
-        </td>
-    </tr>
-</table>
-
-## Framework
+### Framework
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Framework</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Framework
         </td>
     </tr>
     <tr>
@@ -1253,17 +1289,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* G 
+<br>
 
-## Guia de ajuda
+* # G 
+
+### Guia de ajuda
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Guia de ajuda</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Guia de ajuda
         </td>
     </tr>
     <tr>
@@ -1299,17 +1337,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* H 
+<br>
 
-## Home
+* # H 
+
+### Home
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Home</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Home
         </td>
     </tr>
     <tr>
@@ -1345,17 +1385,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* I
+<br>
 
-## Informações pessoais
+* # I
+
+### Informações pessoais
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Informações pessoais</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Informações pessoais
         </td>
     </tr>
     <tr>
@@ -1363,7 +1405,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Impresso, ficha.
+            Dados próprios.
         </td>
     </tr>
     <tr>
@@ -1391,16 +1433,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Informações técnicas
+### Informações técnicas
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Informações técnicas</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Informações técnicas
         </td>
     </tr>
     <tr>
@@ -1408,7 +1451,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Impresso, ficha.
+            Dados estratégicos.
         </td>
     </tr>
     <tr>
@@ -1436,16 +1479,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Inscrição
+### Inscrição
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Inscrição</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Inscrição
         </td>
     </tr>
     <tr>
@@ -1481,16 +1525,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Integração
+### Integração
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Integração</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Integração
         </td>
     </tr>
     <tr>
@@ -1498,7 +1543,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Inclusão, inserção, adaptação.
         </td>
     </tr>
     <tr>
@@ -1526,16 +1571,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## IOS
+### IOS
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>IOS</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        IOS
         </td>
     </tr>
     <tr>
@@ -1543,7 +1589,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Resumo, quadro.
+            Sistema operacional da Apple.
         </td>
     </tr>
     <tr>
@@ -1571,18 +1617,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-* J 
+* # J 
 
 ## Jogadores
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Jogadores</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Jogadores
         </td>
     </tr>
     <tr>
@@ -1618,18 +1665,22 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* K 
-* L 
+<br>
 
-## Legislação
+* # K 
+<br>
+
+* # L 
+
+### Legislação
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Legislação</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Legislação
         </td>
     </tr>
     <tr>
@@ -1637,7 +1688,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Leis, legislatura.
         </td>
     </tr>
     <tr>
@@ -1665,16 +1716,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## LGBD
+### LGPD
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>LGBD</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        LGPD
         </td>
     </tr>
     <tr>
@@ -1682,7 +1734,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Lei geral de proteção de dados.
         </td>
     </tr>
     <tr>
@@ -1710,16 +1762,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Links
+### Links
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Links</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Links
         </td>
     </tr>
     <tr>
@@ -1755,16 +1808,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Login
+### Login
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Login</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Login
         </td>
     </tr>
     <tr>
@@ -1800,16 +1854,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Logout
+### Logout
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Logout</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Logout
         </td>
     </tr>
     <tr>
@@ -1845,17 +1900,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* M 
+<br>
 
-## Media social
+* # M 
+
+### Media social
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Media social</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Media social
         </td>
     </tr>
     <tr>
@@ -1863,7 +1920,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Seletiva, eliminadora.
+            111111111111111111111111111
         </td>
     </tr>
     <tr>
@@ -1891,16 +1948,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Mensagem
+### Mensagem
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Mensagem</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Mensagem
         </td>
     </tr>
     <tr>
@@ -1908,7 +1966,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Seletiva, eliminadora.
+            Aviso, recado, comunicado.
         </td>
     </tr>
     <tr>
@@ -1936,16 +1994,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Multiplataforma
+### Multiplataforma
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Multiplataforma</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Multiplataforma
         </td>
     </tr>
     <tr>
@@ -1953,7 +2012,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Portabilidade.
         </td>
     </tr>
     <tr>
@@ -1981,17 +2040,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* N 
+<br>
 
-## Online
+* # N 
+
+### Online
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Online</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Online
         </td>
     </tr>
     <tr>
@@ -2027,18 +2088,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-* O 
+* # O 
 
-## Offline
+### Offline
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Offline</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Offline
         </td>
     </tr>
     <tr>
@@ -2074,18 +2136,65 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-* P 
+* # P 
 
-## Parceiros
+### Parceiros
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Parceiros</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Parceiros
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Aliados, sócios, associados.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Noção</b>
+        </td>
+        <td>
+            Noção
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Impacto</b>
+        </td>
+        <td>
+            Impacto
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Classificação</b>
+        </td>
+        <td>
+            Classificação
+        </td>
+    </tr>
+</table>
+<br>
+
+### Patrocinadores
+
+<table class="table table-striped border">
+    <tr>
+        <td>
+            <b>Nome</b>
+        </td>
+        <td>
+        Patrocinadores
         </td>
     </tr>
     <tr>
@@ -2121,16 +2230,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Patrocinadores
+### Perfil
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Patrocinadores</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Perfil
         </td>
     </tr>
     <tr>
@@ -2138,7 +2248,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Anunciantes.
+            Conta, descrição.
         </td>
     </tr>
     <tr>
@@ -2166,16 +2276,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Perfil
+### Pesquisas
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Perfil</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Pesquisas
         </td>
     </tr>
     <tr>
@@ -2183,7 +2294,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Impresso, ficha.
+            Procuras, buscas.
         </td>
     </tr>
     <tr>
@@ -2211,17 +2322,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-
-## Pesquisas
+### Placar
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Pesquisas</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Placar
         </td>
     </tr>
     <tr>
@@ -2229,7 +2340,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Impresso, ficha.
+            Contagem, pontuação, score.
         </td>
     </tr>
     <tr>
@@ -2257,61 +2368,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Placar
-
-<table class="table table-striped border">
-    <tr>
-        <td>
-            <b>Placar</b>
-        </td>
-        <td>
-            Nome
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Contagem, pontuação, escore.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Noção</b>
-        </td>
-        <td>
-            Noção
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Impacto</b>
-        </td>
-        <td>
-            Impacto
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <b>Classificação</b>
-        </td>
-        <td>
-            Classificação
-        </td>
-    </tr>
-</table>
-
-## Planos
+### Planos
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Planos</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Planos
         </td>
     </tr>
     <tr>
@@ -2347,16 +2414,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## PlayStore
+### PlayStore
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>PlayStore</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        PlayStore
         </td>
     </tr>
     <tr>
@@ -2392,16 +2460,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Política de privacidade
+### Política de privacidade
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Política de privacidade</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Política de privacidade
         </td>
     </tr>
     <tr>
@@ -2437,16 +2506,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Pontuação
+### Pontuação
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Pontuação</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Pontuação
         </td>
     </tr>
     <tr>
@@ -2454,7 +2524,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Placar, contagem.
+            Marcação.
         </td>
     </tr>
     <tr>
@@ -2482,16 +2552,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Prática UX
+### Prática UX
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Prática UX</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Prática UX
         </td>
     </tr>
     <tr>
@@ -2499,7 +2570,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Experiência do usuário.
         </td>
     </tr>
     <tr>
@@ -2527,18 +2598,22 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* Q 
-* R 
+<br>
 
-## Ranking
+* # Q
+<br>
+
+* # R 
+
+### Ranking
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Ranking</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Ranking
         </td>
     </tr>
     <tr>
@@ -2574,16 +2649,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Resultados
+### Resultados
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Resultados</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Resultados
         </td>
     </tr>
     <tr>
@@ -2591,7 +2667,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Impresso, ficha.
+            Decorrência, conclusões.
         </td>
     </tr>
     <tr>
@@ -2619,16 +2695,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Rodadas
+### Rodadas
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Rodadas</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Rodadas
         </td>
     </tr>
     <tr>
@@ -2664,18 +2741,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-* S 
+* # S 
 
-## Server
+### Server
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Server</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Server
         </td>
     </tr>
     <tr>
@@ -2683,7 +2761,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Servidor,
         </td>
     </tr>
     <tr>
@@ -2711,16 +2789,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## SEO
+### SEO
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>SEO</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        SEO
         </td>
     </tr>
     <tr>
@@ -2728,7 +2807,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Resumo, quadro.
+            Técnicas de otimização.
         </td>
     </tr>
     <tr>
@@ -2756,16 +2835,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Súmula digital
+### Súmula digital
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Súmula digital</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Súmula digital
         </td>
     </tr>
     <tr>
@@ -2773,7 +2853,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Resumo, quadro.
+            Quadro online.
         </td>
     </tr>
     <tr>
@@ -2801,17 +2881,65 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* T 
+<br>
 
-## Tabela
+### Súmula física
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Tabela</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Súmula física
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Quadro que pode ser impresso.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Noção</b>
+        </td>
+        <td>
+            Noção
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Impacto</b>
+        </td>
+        <td>
+            Impacto
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <b>Classificação</b>
+        </td>
+        <td>
+            Classificação
+        </td>
+    </tr>
+</table>
+<br>
+
+* # T 
+
+### Tabela
+
+<table class="table table-striped border">
+    <tr>
+        <td>
+            <b>Nome</b>
+        </td>
+        <td>
+        Tabela
         </td>
     </tr>
     <tr>
@@ -2847,16 +2975,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Tabs
+### Tabs
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Tabs</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Tabs
         </td>
     </tr>
     <tr>
@@ -2892,16 +3021,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Tecnologia de impulsionamento
+### Tecnologia de impulsionamento
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Tecnologia de impulsionamento</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Tecnologia de impulsionamento
         </td>
     </tr>
     <tr>
@@ -2937,16 +3067,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Tempo real
+### Tempo real
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Tempo real</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Tempo real
         </td>
     </tr>
     <tr>
@@ -2982,16 +3113,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Terceiros
+### Terceiros
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Terceiros</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Terceiros
         </td>
     </tr>
     <tr>
@@ -2999,7 +3131,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Aplicação, programa aplicativo.
+            Mediadores, intercessores.
         </td>
     </tr>
     <tr>
@@ -3027,16 +3159,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Time
+### Time
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Time</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Time
         </td>
     </tr>
     <tr>
@@ -3072,17 +3205,18 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
 
-## Torcedores
+### Torcedores
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Torcedores</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Torcedores
         </td>
     </tr>
     <tr>
@@ -3118,18 +3252,20 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-* U 
+* # U
+<br> 
 
-## Upload
+### Upload
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Upload</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Upload
         </td>
     </tr>
     <tr>
@@ -3165,16 +3301,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Usuário
+### Usuário
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Usuário</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Usuário
         </td>
     </tr>
     <tr>
@@ -3210,16 +3347,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Usuário básico
+### Usuário básico
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Usuário básico</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Usuário básico
         </td>
     </tr>
     <tr>
@@ -3227,7 +3365,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Quem faz uso do pacote básico.
+            Utilizador do pacote básico.
         </td>
     </tr>
     <tr>
@@ -3255,16 +3393,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Usuário elite
+### Usuário elite
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Usuário elite</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Usuário elite
         </td>
     </tr>
     <tr>
@@ -3272,7 +3411,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Quem faz uso do pacote elite.
+            Utilizador do pacote elite.
         </td>
     </tr>
     <tr>
@@ -3300,17 +3439,18 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
 
-## Usuário premium
+### Usuário premium
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Usuário premium</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Usuário premium
         </td>
     </tr>
     <tr>
@@ -3318,7 +3458,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Quem faz uso do pacote premium.
+            Utilizador do pacote premium.
         </td>
     </tr>
     <tr>
@@ -3346,16 +3486,17 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
-## Usuário treinador/administrador
+### Usuário treinador/administrador
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Usuário treinador/administrador</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Usuário treinador/administrador
         </td>
     </tr>
     <tr>
@@ -3363,7 +3504,7 @@ agenda de jogos
             <b>Sinônimos</b>
         </td>
         <td>
-            Quem faz uso do pacote elite.
+            Usuário técnico.
         </td>
     </tr>
     <tr>
@@ -3391,18 +3532,20 @@ agenda de jogos
         </td>
     </tr>
 </table>
+<br>
 
 
-* V 
-## Virtual
+* # V
+
+### Virtual
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>Virtual</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        Virtual
         </td>
     </tr>
     <tr>
@@ -3438,17 +3581,19 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* W 
+<br>
 
-## WhatApp
+* # W 
+
+### WhatApp
 
 <table class="table table-striped border">
     <tr>
         <td>
-            <b>WhatApp</b>
+            <b>Nome</b>
         </td>
         <td>
-            Nome
+        WhatApp
         </td>
     </tr>
     <tr>
@@ -3484,9 +3629,15 @@ agenda de jogos
         </td>
     </tr>
 </table>
-* X 
-* Y 
-* Z 
+<br>
+
+* # X
+<br>
+
+* # Y
+<br>
+
+* # Z
 
 
 
