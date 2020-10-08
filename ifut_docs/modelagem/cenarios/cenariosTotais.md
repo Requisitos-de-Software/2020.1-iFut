@@ -36,7 +36,6 @@
 <p><a href="../login-atleta">Login - Perfil atleta</a></p>
 <p><a href="../login-admin">Login - Perfil administrador</a></p>
 
-<p><font color="#00ff2b"> Caso de Uso 01 :</font></p>
 <table class="table table-striped border">
     <tr>
         <td>
