@@ -28,10 +28,18 @@
             <td> Adição tabela de cenário</td>
             <td> Geraldo Victor </td>
         </tr>
+        <tr>
+            <td> 08.10.2020 </td>
+            <td>  0.4   </td>
+            <td> Adição dos cenários</td>
+            <td> Bruna Almeida, Isabella Carneiro, Geraldo Victor </td>
+        </tr>
     </tbody>
 </table>
 <br>
 
+## CENÁRIOS
+<BR>
 <!-- Linkagens dos cenários -->
 <p><a href="../login-atleta">Login - Perfil atleta</a></p>
 <p><a href="../login-admin">Login - Perfil administrador</a></p>
@@ -56,6 +64,12 @@
 <p><a href="../visualizar_ranking_campeonato">Visualizar o ranking de jogadores de um campeonato</a></p>
 <p><a href="../visualizar_rodadas">Visualizar as rodadas de jogos de um campeonato</a></p>
 <p><a href="../visualizar_tabela">Visualizar a tabela de jogos de um campeonato</a></p>
+<p><a href="../agenda-jogos">Visualizar agenda de jogos</a></p>
+<p><a href="../editar-pagante">Editar pagantes em um campeonato</a></p>
+<p><a href="../sumula-digital">Acessar súmula digital</a></p>
+<p><a href="../sumula-fisica">Acessar súmula física</a></p>
+<p><a href="../visualizar-pagante">Visualizar pagantes em um campeonato</a></p>
+<p><a href="../visualizar-ranking">Visualizar ranking de um campeonato</a></p>
 
 
 
