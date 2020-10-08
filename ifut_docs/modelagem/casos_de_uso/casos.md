@@ -1,7 +1,7 @@
 # Casos de Uso
 
 <p><a href = "../template"> template</a></p>
-<p><a href = "../uc01"> UC01</a></p>
+<p><a href = "../uc01"> UC01 - Visualizar agenda de jogos</a></p>
 <p><a href = "../uc02"> UC02</a></p>
 <p><a href = "../uc03"> UC03</a></p>
 <p><a href = "../uc04"> UC04</a></p>
