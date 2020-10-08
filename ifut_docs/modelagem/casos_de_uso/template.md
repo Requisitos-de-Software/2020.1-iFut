@@ -1,8 +1,8 @@
 # UCn - nome
 
-<b>Descrição:</b><p class = "text-justify">teste</p>
-<b>Ator principal:</b><p class = "text-justify">teste</p>
-<b>Pré-requisito:</b><p class = "text-justify">teste</p>
+<p class = "text-justify"><b>Descrição: </b>teste</p>
+<p class = "text-justify"><b>Ator principal: </b>teste</p>
+<p class = "text-justify"><b>Pré-requisito: </b>teste</p>
 <b>Fluxo Principal:</b><p class = "text-justify">teste</p>
 
 
