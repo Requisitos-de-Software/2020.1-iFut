@@ -12,7 +12,7 @@
 <p><a href = "../uc09"> UC09</a></p>
 <p><a href = "../uc10"> UC10 - Abrir inscrições para um campeonato</a></p>
 <p><a href = "../uc11"> UC11</a></p>
-<p><a href = "../uc12"> UC12</a></p>
+<p><a href = "../uc12"> UC12 - Manipular uma rodada de um campeonato</a></p>
 <p><a href = "../uc13"> UC13</a></p>
 <p><a href = "../uc14"> UC14</a></p>
 <p><a href = "../uc15"> UC15</a></p>
