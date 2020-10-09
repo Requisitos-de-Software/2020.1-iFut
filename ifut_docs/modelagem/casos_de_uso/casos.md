@@ -25,7 +25,7 @@
     </tbody>
 </table>
 
-## CENÁRIOS
+## Casos de Uso
 <BR>
 
 <p><a href = "../uc01"> UC01 - Editar perfil do Usuário</a></p>
