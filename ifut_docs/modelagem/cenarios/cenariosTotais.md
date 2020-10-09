@@ -34,6 +34,12 @@
             <td> Adição dos cenários</td>
             <td> Bruna Almeida, Isabella Carneiro, Geraldo Victor </td>
         </tr>
+        <tr>
+            <td> 09.10.2020 </td>
+            <td>  0.5   </td>
+            <td> Adição de cenários</td>
+            <td> Geraldo Victor </td>
+        </tr>
     </tbody>
 </table>
 <br>
@@ -51,12 +57,14 @@
 <p><a href="../adicionar-noticia">Adicionar uma notícia a um campeonato</a></p>
 <p><a href="../assinar_premium">Assinar Planos Premium</a></p>
 <p><a href="../buscar_campeonato">Buscar Campeonato</a></p>
+<p><a href="../disponibilizar_inscricao">Disponibilizar inscrição</a></p>
 <p><a href="../favoritar_campeonato">Favoritar Campeonato</a></p>
 <p><a href="../filtrar_jogadores_ranking">Filtrar jogadores no ranking</a></p>
 <p><a href="../recuperar_senha_atleta">Recuperar senha de perfil atleta</a></p>
 <p><a href="../verificar_estatistica_time">Verificar estatística de um time</a></p>
 <p><a href="../verificar_jogadores_time">Verificar jogadores de um time</a></p>
 <p><a href="../verificar_jogos_time">Verificar jogos de um time</a></p>
+<p><a href="../visualizar_anuncios_interagir">Visualizar anúncios e interagir com eles</a></p>
 <p><a href="../Visualizar_campeonatos_cadastrados">Visualizar os campeonatos cadastrados</a></p>
 <p><a href="../visualizar_estatistica">Visualizar as estatísticas do usuário</a></p>
 <p><a href="../visualizar_noticias">Visualizar as notícias de um campeonato</a></p>
