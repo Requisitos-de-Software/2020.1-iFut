@@ -1,1 +1,1 @@
-# [Cadastrar](/modelagem/lexico#cadastrar) Usuário com o Facebook
+# [Cadastrar](/modelagem/lexico/#cadastrar) Usuário com o Facebook
