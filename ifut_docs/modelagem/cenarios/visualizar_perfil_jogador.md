@@ -1,21 +1,18 @@
-## CENÁRIO:
-<br>
+# CENÁRIO :
 
 <table class="table table-striped border">
     <tr>
         <td>
             <b>Título</b>
         </td>
-        <td>
-            Logout - Perfil do administrador
-        </td>
+        <td>      Visualizar perfil de um jogador  </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-            Encerrar a sessão com o perfil de administrador.
+                    Visualizar informações e estatísticas de um jogador
         </td>
     </tr>
     <tr>
@@ -23,8 +20,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário logado no site.</p>
-            <p>Pós-condição: Usuário não logado no site.</p>
+           <b>Pré-condição:</b> Possuir o app iFut;
+           <p><b>Pós-condição:</b>O usuário verá o perfil completo do jogador, com suas informações e estatísticas.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +29,8 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+            - Usuário
+            <p>- Sistema</p> 
         </td>
     </tr>
     <tr>
@@ -40,7 +38,7 @@
             <b>Recursos</b>
         </td>
         <td>
-            Conexão estável com a internet.
+            Acesso à internet.
         </td>
     </tr>
     <tr>
@@ -48,8 +46,11 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário seleciona o botão “sair”.</p>
-            <p>2. O usuário é redirecionado para a tela inicial do site.</p>
+            1. Acessar o app ifut.
+	<p>2. Selecionar um campeonato</p>
+	<p>3. Selecionar um time dentro do campeonato</p>
+	<p>4. Selecionar um jogador.</p>
+	<p>5. Selecionar o perfil dele.</p>
         </td>
     </tr>
     <tr>
@@ -57,7 +58,7 @@
             <b>Restrições</b>
         </td>
         <td>
-            Fluxo intuitivo.
+              Fluxo intuitivo.
         </td>
     </tr>
     <tr>
@@ -65,7 +66,8 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. A internet parar de funcionar no meio da ação.</p> 
+            <p>1. A internet parar de funcionar no meio da ação.</p>
+            <p>2. O usuário fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Login - Perfil do administrador
+            Visualizar agenda de jogos
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Carregar/Recuperar as informações de uma conta do tipo administrador do iFut.
+            Visualizar agenda de rodadas das partidas do campeonato.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário não logado no site.</p>
-            <p>Pós-condição: Usuário logado no site.</p>
+            <p>Pré-condição: Ter acesso a um campeonato existente.</p>
+            <p>Pós-condição: Acesso às rodadas do campeonato.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,8 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+            <p>Usuário;</p>
+            <p>Sistema.</p>
         </td>
     </tr>
     <tr>
@@ -40,7 +41,8 @@
             <b>Recursos</b>
         </td>
         <td>
-            Conexão estável com a internet.
+            <p>1. Conexão estável com a internet;</p>
+            <p>2. Aplicativo iFut instalado.</p>
         </td>
     </tr>
     <tr>
@@ -48,10 +50,11 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa o site do iFut.</p>
-            <p>2. O usuário seleciona a opção “Entrar”.</p>
-            <p>3. O usuário preenche os campos “email” e “senha”.</p>
-            <p>4. Os dados do usuário são apresentados.</p>
+            <p>1. O usuário acessa o aplicativo iFut;</p>
+            <p>2. O usuário acessa um campeonato;</p>
+            <p>3. O usuário seleciona a opção “rodadas”;</p>
+            <p>4. O usuário escolhe qual rodada quer visualizar;</p>
+            <p>5. O usuário tem acesso à agenda de jogos da rodada escolhida.</p>
         </td>
     </tr>
     <tr>
@@ -59,7 +62,7 @@
             <b>Restrições</b>
         </td>
         <td>
-            Fluxo intuitivo.
+            <p>Fluxo intuitivo</p>
         </td>
     </tr>
     <tr>
@@ -67,9 +70,7 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. O usuário não ter uma conta registrada no site.</p>
-            <p>2. A internet parar de funcionar no meio da ação.</p>
-            <p>3. O usuário fechar o site antes de terminar a ação.</p>
+            <p>A internet parar de funcionar no meio da ação.</p>
         </td>
     </tr>
 </table>
