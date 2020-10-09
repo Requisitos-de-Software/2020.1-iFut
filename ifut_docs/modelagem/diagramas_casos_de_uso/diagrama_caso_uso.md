@@ -40,9 +40,10 @@
 <p><a href = "../duc10"> UCD10 - Abrir inscrições para um campeonato</a></p>
 <p><a href = "../duc11"> UCD11 - Editar/excluir um time de um campeonato</a></p>
 <p><a href = "../duc12"> UCD12 - Manipular uma rodada de um campeonato</a></p>
-<!-- <p><a href = "../duc13"> UCD13 - Restringir o compartilhamento de informações</a></p>
+<p><a href = "../duc13"> UCD13 - Restringir o compartilhamento de informações</a></p>
 <p><a href = "../duc14"> UCD14 - Recuperar Senha</a></p>
 <p><a href = "../duc15"> UCD15 - Buscar campeonatos</a></p>
 <p><a href = "../duc16"> UCD16 - Visualizar campeonatos cadastrados</a></p>
 <p><a href = "../duc17"> UCD17 - Checar as informações de um time</a></p>
-<p><a href = "../duc18"> UCD18 - Verificar o extrato do jogo</a></p> -->
+<p><a href = "../duc18"> UCD18 - Verificar o extrato do jogo</a></p>
+<p><a href = "../duc19"> UCD19 - Adicionar patrocinadores e notícias a um campeonato</a></p>
