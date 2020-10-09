@@ -79,3 +79,4 @@
 <p><a href="../visualizar-pagante">Visualizar pagantes em um campeonato</a></p>
 <p><a href="../visualizar-ranking">Visualizar ranking de um campeonato</a></p>
 <p><a href="../criar-rodadas">Criar rodadas em um campeonato</a></p>
+<p><a href="../alterar-chaves">Alterar chaveamento de um campeonato</a></p>

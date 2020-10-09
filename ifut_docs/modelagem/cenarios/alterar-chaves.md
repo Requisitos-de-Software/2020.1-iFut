@@ -5,14 +5,14 @@
         <td>
             <b>Título</b>
         </td>
-        <td> Criar rodadas de um campeonato. </td>
+        <td> Alterar chaveamento de um campeonato. </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-            Criação de rodadas a partir de times inscritos. </td>
+            Permitir alterar chaves em um campeonato. </td>
     </tr>
     <tr>
         <td>
@@ -45,11 +45,10 @@
         <td>
             <b>Episódios</b>
         </td>
-        <td> <p>1. Acessar o site ifut.</p>
-            <p>2. Realizar login.</p>
-            <p>3. Criar campeonato.</p>
-            <p>4. Inscrever times.</p>
-            <p>5. Finalizar validações.</p>
+        <td> <p>1. Selecionar campeonato responsável.</p>
+            <p>2. Selecionar times.</p>
+            <p>3. Trocar Times.</p>
+            <p>4. Confirmar alterações.</p>
         </td>
     </tr>
     <tr>
@@ -65,8 +64,8 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. Usuário ser treinador</p>
-            <p>2. Criar campeonatos com sem número de inscritos.</p>
+            <p>1. Usuário ser treinador/responsável</p>
+            <p>2. Se não há número mínimo de times.</p>
         </td>
     </tr>
 </table>
