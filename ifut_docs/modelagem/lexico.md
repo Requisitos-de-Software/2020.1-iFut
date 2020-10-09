@@ -47,6 +47,20 @@
             <td> Adição de informações</td>
             <td> Geraldo Victor</td>
         </tr>
+        </tr>
+            <tr>
+            <td> 08.10.2020 </td>
+            <td>  0.7   </td>
+            <td> Adição de informações</td>
+            <td> Bruna Almeida</td>
+        </tr>
+        </tr>
+            <tr>
+            <td> 09.10.2020 </td>
+            <td>  0.8   </td>
+            <td> Adição de informações</td>
+            <td> Geraldo Victor</td>
+        </tr>
     </tbody>
 </table>
 
@@ -1097,7 +1111,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            O saldo de gols cada time e de cada jogador, faltas que o jogador cometeu assim como assistências, substituições de cada time.
         </td>
     </tr>
     <tr>
@@ -1105,7 +1119,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder ter acesso a todas essa informações.
         </td>
     </tr>
     <tr>
@@ -1113,7 +1127,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1145,7 +1159,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            O usuário quando busca o campeonato tem a opção de favoritá-lo, isso facilita para que ele possa ter uma lista dos seus campeonatos preferidos.
         </td>
     </tr>
     <tr>
@@ -1153,7 +1167,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder favoritar os campeonatos de sua preferência.
         </td>
     </tr>
     <tr>
@@ -1161,7 +1175,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Ação.
         </td>
     </tr>
 </table>
@@ -1191,7 +1205,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Ao clicar em um time na tabela é possível ver os jogadores que jogam nele, os jogos que ele jogou e as estatísticas do time. É possível ver o ranking de pontuação dos atletas, podendo filtrar por posição ou por pontuações.
         </td>
     </tr>
     <tr>
@@ -1199,7 +1213,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder filtrar o ranking de pontuação dos atletas por posição ou por pontuação.
         </td>
     </tr>
     <tr>
@@ -1207,7 +1221,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Ação.
         </td>
     </tr>
 </table>
@@ -1237,7 +1251,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Formulário onde serão preenchidos dados pertinentes ao contexto, sendo eles campeonado ou cadastro, inscrições.
         </td>
     </tr>
     <tr>
@@ -1245,7 +1259,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder preecher os dados necessários ao contexto em questão de forma que não haja dificuldade nessa tarefa.
         </td>
     </tr>
     <tr>
@@ -1253,7 +1267,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1283,7 +1297,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Ferramenta que auxilia no desenvolvimento do App ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1291,7 +1305,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            A equipe de desenvolvimento deve saber como integrar o uso dos frameworks às suas atividades de desenvolvimento.
         </td>
     </tr>
     <tr>
@@ -1299,7 +1313,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1331,7 +1345,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Trata-se de um guia que tem o objeto de instruir os usuários no que tange a utilização do App ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1339,7 +1353,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve ter acesso a esse guia para que assim consiga superar suas dificuldades para utilizar o App ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1347,7 +1361,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1379,7 +1393,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            A tela principal que é exibida assim que o App ou plataforma Web é iniciado, nela são expostos as informações principais.
         </td>
     </tr>
     <tr>
@@ -1387,7 +1401,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder ter na tela principal as informações mais importantes do sistema.
         </td>
     </tr>
     <tr>
@@ -1395,7 +1409,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1427,7 +1441,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Dados pessoais de cada usuário, como nome, email, telefone.
         </td>
     </tr>
     <tr>
@@ -1435,7 +1449,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve ter seus dados pessoais resgardados de forma que se sinta seguro ao usar o App ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1443,7 +1457,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1473,7 +1487,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Informações de cunho técnico, que precisam de um certo nível de conhecimento na área para o entendimento, no caso para o entendimento do jogador.
         </td>
     </tr>
     <tr>
@@ -1481,7 +1495,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O jogador deve poder ter acesso às suas informações técnicas.
         </td>
     </tr>
     <tr>
@@ -1489,7 +1503,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1519,7 +1533,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            O usuário acessa o site, clica em torneios, clica em times, acessa o menu inscrições, preenche os dados solicitados para incrição, clicar no botão de salvar.
         </td>
     </tr>
     <tr>
@@ -1527,7 +1541,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder se inscrever em campeonatos.
         </td>
     </tr>
     <tr>
@@ -1535,7 +1549,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Ação.
         </td>
     </tr>
 </table>
@@ -1565,7 +1579,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Integrar o sistema com APIs que possam vir a facilitar o desenvolvimento de alguma funcioanlidade.
         </td>
     </tr>
     <tr>
@@ -1573,7 +1587,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema deve ser multiplataforma e poder se integrar com APIs externas.
         </td>
     </tr>
     <tr>
@@ -1581,7 +1595,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1611,7 +1625,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Sistema operacional de dispositivos Apple.
         </td>
     </tr>
     <tr>
@@ -1619,7 +1633,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder conseguir baixar o App pela AppleStore.
         </td>
     </tr>
     <tr>
@@ -1627,7 +1641,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1659,7 +1673,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Usuários que participam dos jogos e que tem sua pontuação gerada.
         </td>
     </tr>
     <tr>
@@ -1667,7 +1681,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder ter todas as informações quanto ao jogos que participou.
         </td>
     </tr>
     <tr>
@@ -1675,7 +1689,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1710,7 +1724,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Leis que determinam como o App ou plataforma Web deve proceder com dados dos seus usuários.
         </td>
     </tr>
     <tr>
@@ -1718,7 +1732,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema deve respeitar a legislação dos direitos dos usuários.
         </td>
     </tr>
     <tr>
@@ -1726,7 +1740,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1756,7 +1770,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Lei que trata especificamente da proteção dos dados pessoais dos usuários.
         </td>
     </tr>
     <tr>
@@ -1764,7 +1778,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve ter seus dados protegidos contra qualquer ameaça.
         </td>
     </tr>
     <tr>
@@ -1772,7 +1786,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1802,7 +1816,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Liks são caminhos mais curtos de se chegar a uma parte do App ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1810,7 +1824,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder gerar links de compartilhamento de campeonato. 
         </td>
     </tr>
     <tr>
@@ -1818,7 +1832,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1848,7 +1862,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Acesso à certas funcionalidades dado a disponibilidade que o o usuário possui.
         </td>
     </tr>
     <tr>
@@ -1856,7 +1870,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve ser capaz de poder realizar o login inserindo os dados necessários para o mesmo.
         </td>
     </tr>
     <tr>
@@ -1864,7 +1878,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1894,7 +1908,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Retirada dos privilégios que aquele login concedia.
         </td>
     </tr>
     <tr>
@@ -1902,7 +1916,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve ser capaz de encerrar a sua sessão de acesso.
         </td>
     </tr>
     <tr>
@@ -1910,7 +1924,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1934,6 +1948,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
+            Meios sociais, redes sociais.
         </td>
     </tr>
     <tr>
@@ -1941,7 +1956,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            São as redes sociais que o App ou plataforma Web permitem interação.
         </td>
     </tr>
     <tr>
@@ -1949,7 +1964,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder ter meios utilizar funcionalidades que tenham interação com as redes sociais.
         </td>
     </tr>
     <tr>
@@ -1957,7 +1972,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1987,7 +2002,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Mensagem que pode ser enviada tanto por email quanto para o telefone do usuário.
         </td>
     </tr>
     <tr>
@@ -1995,7 +2010,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder recuperar a senha tanto pelo email quanto pelo telefone recebendo uma mensagem de confirmação.
         </td>
     </tr>
     <tr>
@@ -2003,7 +2018,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -2033,7 +2048,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            App que seja disponível para mais de uma plataforma.
         </td>
     </tr>
     <tr>
@@ -2041,7 +2056,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder ter acesso ao App em mais de uma plataforma.
         </td>
     </tr>
     <tr>
@@ -2049,16 +2064,16 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
 <br>
 
-* # N
+* ## N
 <br>
 
-* # O
+* ## O
 ### Online
 
 <table class="table table-striped border">
@@ -2107,7 +2122,7 @@
 
  
 
-### Offline
+## Offline
 
 <table class="table table-striped border">
     <tr>
