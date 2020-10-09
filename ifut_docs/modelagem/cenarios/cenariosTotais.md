@@ -78,3 +78,4 @@
 <p><a href="../sumula-fisica">Acessar súmula física</a></p>
 <p><a href="../visualizar-pagante">Visualizar pagantes em um campeonato</a></p>
 <p><a href="../visualizar-ranking">Visualizar ranking de um campeonato</a></p>
+<p><a href="../criar-rodadas">Criar rodadas em um campeonato</a></p>
