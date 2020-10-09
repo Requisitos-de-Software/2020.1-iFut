@@ -46,3 +46,4 @@
 <p><a href = "../uc16"> UC16 - Visualizar campeonatos cadastrados</a></p>
 <p><a href = "../uc17"> UC17 - Checar as informações de um time</a></p>
 <p><a href = "../uc18"> UC18 - Verificar o extrato do jogo</a></p>
+<p><a href = "../uc19"> UC19 - Adicionar patrocinadores e notícias a um campeonato</a></p>

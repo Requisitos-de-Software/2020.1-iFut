@@ -9,6 +9,7 @@ nav:
         - Pontos de Controle: pontocontrole.md
         - Primeira Entrega: apresentacao/primeira_entrega.md
         - Segunda Entrega: apresentacao/segunda_entrega.md
+        - Terceira Entrega: apresentacao/terceira_entrega.md
     - Pré-rastreabilidade:
         - Sobre: pre-rastreabilidade/pre_rastreabilidade.md
         - Rich Pictures: pre-rastreabilidade/rich-pictures.md
@@ -31,7 +32,7 @@ nav:
         - Léxico: modelagem/lexico.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Casos de Uso: modelagem/casos_de_uso/casos.md
-        - Diagramas de Caso de Uso: modelagem/diagrama_caso_uso.md
+        - Diagramas de Caso de Uso: modelagem/diagramas_casos_de_uso/diagrama_caso_uso.md
         - Histórias de Usuário: modelagem/historia_de_usuario.md
         - NFR: modelagem/nfr.md
     - Análise:
