@@ -33,6 +33,13 @@
             <td> Adição dos sinônimos</td>
             <td> Bruna Almeida e Damarcones Porto</td>
         </tr>
+        </tr>
+            <tr>
+            <td> 08.10.2020 </td>
+            <td>  0.5   </td>
+            <td> Adição de formatação</td>
+            <td> Geraldo Victor</td>
+        </tr>
     </tbody>
 </table>
 
@@ -42,7 +49,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -50,7 +57,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -58,7 +65,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -66,7 +73,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -74,7 +81,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -88,7 +95,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td> 
         <td>
@@ -96,7 +103,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -104,7 +111,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -112,7 +119,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -120,7 +127,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -134,7 +141,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -142,7 +149,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -150,7 +157,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -158,7 +165,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -166,7 +173,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -180,7 +187,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -188,7 +195,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -196,7 +203,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -204,7 +211,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -212,7 +219,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -226,7 +233,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -234,7 +241,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -242,7 +249,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -250,7 +257,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -258,7 +265,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -272,7 +279,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -280,7 +287,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -288,7 +295,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -296,7 +303,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -304,7 +311,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -318,7 +325,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -326,7 +333,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -334,7 +341,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -342,7 +349,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -350,7 +357,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -364,7 +371,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -372,7 +379,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -380,7 +387,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -388,7 +395,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -396,7 +403,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -412,7 +419,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -420,7 +427,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -428,7 +435,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -436,7 +443,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -444,7 +451,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -458,7 +465,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -466,7 +473,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -474,7 +481,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -482,7 +489,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -490,7 +497,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -506,7 +513,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -514,7 +521,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -522,7 +529,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -530,7 +537,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -538,7 +545,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -552,7 +559,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -560,7 +567,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -568,7 +575,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -576,7 +583,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -584,7 +591,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -598,7 +605,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -606,7 +613,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -614,7 +621,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -622,7 +629,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -630,7 +637,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -644,7 +651,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -652,7 +659,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -660,7 +667,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -668,7 +675,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -676,7 +683,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -690,7 +697,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -698,7 +705,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -706,7 +713,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -714,7 +721,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -722,7 +729,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -736,7 +743,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -744,7 +751,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -752,7 +759,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -760,7 +767,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -768,7 +775,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -782,7 +789,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -790,7 +797,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -798,7 +805,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -806,7 +813,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -814,7 +821,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -828,7 +835,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -836,7 +843,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -844,7 +851,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -852,7 +859,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -860,7 +867,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -879,7 +886,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -887,7 +894,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -895,7 +902,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -903,7 +910,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -911,7 +918,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -925,7 +932,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -933,7 +940,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -941,7 +948,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -949,7 +956,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -957,7 +964,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -971,7 +978,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -979,7 +986,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -987,7 +994,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -995,7 +1002,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1003,7 +1010,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1017,7 +1024,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1025,7 +1032,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1033,7 +1040,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1041,7 +1048,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1049,7 +1056,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1063,7 +1070,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1071,7 +1078,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1079,7 +1086,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1087,7 +1094,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1095,7 +1102,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1111,7 +1118,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1119,7 +1126,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1127,7 +1134,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1135,7 +1142,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1143,7 +1150,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1157,7 +1164,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1165,7 +1172,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1173,7 +1180,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1181,7 +1188,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1189,7 +1196,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1203,7 +1210,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1211,7 +1218,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1219,7 +1226,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1227,7 +1234,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1235,7 +1242,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1249,7 +1256,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1257,7 +1264,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1265,7 +1272,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1273,7 +1280,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1281,7 +1288,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1297,7 +1304,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1305,7 +1312,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1313,7 +1320,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1321,7 +1328,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1329,7 +1336,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1345,7 +1352,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1353,7 +1360,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1361,7 +1368,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1369,7 +1376,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1377,7 +1384,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1393,7 +1400,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1401,7 +1408,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1409,7 +1416,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1417,7 +1424,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1425,7 +1432,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1439,7 +1446,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1447,7 +1454,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1455,7 +1462,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1463,7 +1470,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1471,7 +1478,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1485,7 +1492,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1493,7 +1500,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1501,7 +1508,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1509,7 +1516,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1517,7 +1524,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1531,7 +1538,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1539,7 +1546,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1547,7 +1554,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1555,7 +1562,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1563,7 +1570,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1577,7 +1584,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1585,7 +1592,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1593,7 +1600,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1601,7 +1608,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1609,7 +1616,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1625,7 +1632,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1633,7 +1640,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1641,7 +1648,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1649,7 +1656,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1657,7 +1664,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1676,7 +1683,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1684,7 +1691,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1692,7 +1699,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1700,7 +1707,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1708,7 +1715,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1722,7 +1729,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1730,7 +1737,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1738,7 +1745,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1746,7 +1753,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1754,7 +1761,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1768,7 +1775,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1776,7 +1783,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1784,7 +1791,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1792,7 +1799,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1800,7 +1807,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1814,7 +1821,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1822,7 +1829,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1830,7 +1837,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1838,7 +1845,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1846,7 +1853,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1860,7 +1867,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1868,7 +1875,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1876,7 +1883,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1884,7 +1891,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1892,7 +1899,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1908,7 +1915,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1916,7 +1923,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1924,7 +1931,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1932,7 +1939,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1940,7 +1947,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -1954,7 +1961,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -1962,7 +1969,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -1970,7 +1977,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -1978,7 +1985,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -1986,7 +1993,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2000,7 +2007,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2008,7 +2015,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2016,7 +2023,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2024,7 +2031,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2032,7 +2039,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2048,7 +2055,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2056,7 +2063,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2064,7 +2071,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2072,7 +2079,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2080,7 +2087,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2096,7 +2103,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2104,7 +2111,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2112,7 +2119,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2120,7 +2127,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2128,7 +2135,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2144,7 +2151,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2152,7 +2159,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2160,7 +2167,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2168,7 +2175,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2176,7 +2183,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2190,7 +2197,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2198,7 +2205,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2206,7 +2213,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2214,7 +2221,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2222,7 +2229,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2236,7 +2243,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2244,7 +2251,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2252,7 +2259,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2260,7 +2267,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2268,7 +2275,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2282,7 +2289,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2290,7 +2297,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2298,7 +2305,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2306,7 +2313,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2314,7 +2321,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2328,7 +2335,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2336,7 +2343,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2344,7 +2351,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2352,7 +2359,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2360,7 +2367,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2374,7 +2381,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2382,7 +2389,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2390,7 +2397,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2398,7 +2405,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2406,7 +2413,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2420,7 +2427,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2428,7 +2435,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2436,7 +2443,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2444,7 +2451,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2452,7 +2459,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2466,7 +2473,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2474,7 +2481,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2482,7 +2489,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2490,7 +2497,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2498,7 +2505,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2512,7 +2519,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2520,7 +2527,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2528,7 +2535,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2536,7 +2543,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2544,7 +2551,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2558,7 +2565,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2566,7 +2573,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2574,7 +2581,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2582,7 +2589,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2590,7 +2597,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2609,7 +2616,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2617,7 +2624,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2625,7 +2632,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2633,7 +2640,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2641,7 +2648,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2655,7 +2662,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2663,7 +2670,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2671,7 +2678,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2679,7 +2686,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2687,7 +2694,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2701,7 +2708,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2709,7 +2716,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2717,7 +2724,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2725,7 +2732,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2733,7 +2740,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2749,7 +2756,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2757,7 +2764,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2765,7 +2772,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2773,7 +2780,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2781,7 +2788,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2795,7 +2802,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2803,7 +2810,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2811,7 +2818,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2819,7 +2826,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2827,7 +2834,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2841,7 +2848,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2849,7 +2856,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2857,7 +2864,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2865,7 +2872,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2873,7 +2880,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2887,7 +2894,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2895,7 +2902,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2903,7 +2910,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2911,7 +2918,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2919,7 +2926,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2935,7 +2942,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2943,7 +2950,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2951,7 +2958,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -2959,7 +2966,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -2967,7 +2974,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -2981,7 +2988,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -2989,7 +2996,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -2997,7 +3004,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3005,7 +3012,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3013,7 +3020,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3027,7 +3034,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3035,7 +3042,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3043,7 +3050,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3051,7 +3058,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3059,7 +3066,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3073,7 +3080,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3081,7 +3088,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3089,7 +3096,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3097,7 +3104,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3105,7 +3112,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3119,7 +3126,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3127,7 +3134,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3135,7 +3142,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3143,7 +3150,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3151,7 +3158,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3165,7 +3172,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3173,7 +3180,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3181,7 +3188,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3189,7 +3196,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3197,7 +3204,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3212,7 +3219,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3220,7 +3227,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3228,7 +3235,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3236,7 +3243,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3244,7 +3251,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3261,7 +3268,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3269,7 +3276,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3277,7 +3284,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3285,7 +3292,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3293,7 +3300,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3307,7 +3314,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3315,7 +3322,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3323,7 +3330,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3331,7 +3338,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3339,7 +3346,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3353,7 +3360,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3361,7 +3368,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3369,7 +3376,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3377,7 +3384,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3385,7 +3392,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3399,7 +3406,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3407,7 +3414,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3415,7 +3422,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3423,7 +3430,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3431,7 +3438,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3446,7 +3453,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3454,7 +3461,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3462,7 +3469,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3470,7 +3477,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3478,7 +3485,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3492,7 +3499,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3500,7 +3507,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3508,7 +3515,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3516,7 +3523,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3524,7 +3531,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3541,7 +3548,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3549,7 +3556,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3557,7 +3564,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3565,7 +3572,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3573,7 +3580,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
@@ -3589,7 +3596,7 @@
 
 <table class="table table-striped border">
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Nome</b>
         </td>
         <td>
@@ -3597,7 +3604,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Sinônimos</b>
         </td>
         <td>
@@ -3605,7 +3612,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Noção</b>
         </td>
         <td>
@@ -3613,7 +3620,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Impacto</b>
         </td>
         <td>
@@ -3621,7 +3628,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="width: 100px;">
             <b>Classificação</b>
         </td>
         <td>
