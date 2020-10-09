@@ -24,17 +24,22 @@ Este documento sobre especificações suplementares tem como o objetivo tratar o
 Se resume a um aplicativo mobile junto com uma aplicação web para geração de campeonatos de futebol e gerenciamento de estatísticas de jogadores ou times.
 ## Definições
 iFut - aplicativo que tem como principal função a criação e gerenciamento de campeonatos de futebol, tanto amador como profissional.
-### Compatibilidade:
-- Ter suporte para IOS e Android e plataforma Web
-### Usabilidade:
-- Ter uma linguagem próxima dos usuários
-- Interface de fácil compreensão e intuitiva 
-### Confiabilidade:
-- O sistema deve armazenar com segurança os dados dos usuários no sistema
-### Desempenho:
-- O sistema deve ter um bom desempenho para realização das tarefas
+## Compatibilidade:
+#### Suporte à plataforma Android
+- Deve possuir uma versão estável para smartphones com sistema operacional Android.
+#### Suporte à plataforma IOS
+- Deve possuir uma versão estável para smartphones com sistema operacional IOS.
+#### Compatibilidade com navegadores(Google Chrome, Mozilla Firefox,Safari, etc)
+- O serviço web deve mostrar o mesmo desempenho nos navegadores mais populares. 
+## Usabilidade:
+- Ter uma linguagem próxima dos usuários.
+- Interface de fácil compreensão e intuitiva. 
+## Confiabilidade:
+- O sistema deve armazenar com segurança os dados dos usuários no sistema.
+## Desempenho:
+- O sistema deve ter um bom desempenho para realização das tarefas.
 ### Licenciamento:
-- O sistema deve possui os licenciamentos necessários
+- Licença comercial.
 ### Padrões aplicáveis:
 - Paleta de cores
 

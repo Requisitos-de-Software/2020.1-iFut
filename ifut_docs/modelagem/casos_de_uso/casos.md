@@ -1,4 +1,32 @@
 # Casos de Uso
+<div class="line"></div>
+
+## Histórico de Versão
+<table class="table table-striped border">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 05.10.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento</td>
+            <td> Damarcones, Isabella, Lucas </td>
+        </tr>
+        <tr>
+            <td> 08.10.2020 </td>
+            <td>  0.2   </td>
+            <td> Adiciona Casos de Uso</td>
+            <td> Damarcones, Isabella, Lucas </td>
+        </tr>
+    </tbody>
+</table>
+
+## CENÁRIOS
+<BR>
 
 <p><a href = "../template"> template</a></p>
 <p><a href = "../uc01"> UC01 - Editar perfil do Usuário</a></p>
