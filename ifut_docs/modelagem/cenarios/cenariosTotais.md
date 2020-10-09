@@ -58,6 +58,8 @@
 <p><a href="../assinar_premium">Assinar Planos Premium</a></p>
 <p><a href="../buscar_campeonato">Buscar Campeonato</a></p>
 <p><a href="../disponibilizar_inscricao">Disponibilizar inscrição</a></p>
+<p><a href="../editar_excluir_rodada">Editar ou excluir rodada</a></p>
+<p><a href="../editar_excluir_time">Editar ou excluir time</a></p>
 <p><a href="../favoritar_campeonato">Favoritar Campeonato</a></p>
 <p><a href="../filtrar_jogadores_ranking">Filtrar jogadores no ranking</a></p>
 <p><a href="../recuperar_senha_atleta">Recuperar senha de perfil atleta</a></p>
