@@ -80,3 +80,8 @@
 <p><a href="../visualizar-ranking">Visualizar ranking de um campeonato</a></p>
 <p><a href="../criar-rodadas">Criar rodadas em um campeonato</a></p>
 <p><a href="../alterar-chaves">Alterar chaveamento de um campeonato</a></p>
+<p><a href="../preencher-dados-campeonato">Preencher informações sobre um campeonato </a></p>
+<p><a href="../alterar-chaves"> </a></p>
+<p><a href="../alterar-chaves"> </a></p>
+
+Preencher informações sobre um campeonato
