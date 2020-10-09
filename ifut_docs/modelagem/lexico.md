@@ -40,10 +40,17 @@
             <td> Adição de formatação</td>
             <td> Geraldo Victor</td>
         </tr>
+        </tr>
+            <tr>
+            <td> 08.10.2020 </td>
+            <td>  0.6   </td>
+            <td> Adição de informações</td>
+            <td> Geraldo Victor</td>
+        </tr>
     </tbody>
 </table>
 
-* # A 
+* ## A 
 
 ### Acessibilidade
 
@@ -69,7 +76,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Diz respeito a quanto acessível o App ou plataforma Web é para o usuário.
         </td>
     </tr>
     <tr>
@@ -77,7 +84,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário consegue executar qualquer tarefa dentro do App ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -85,7 +92,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado
         </td>
     </tr>
 </table>
@@ -115,7 +122,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Agenda com os jogos marcados que o usuário possui.
         </td>
     </tr>
     <tr>
@@ -123,7 +130,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário  ao logar no App é direcionado para a agenda de jogos.
         </td>
     </tr>
     <tr>
@@ -131,7 +138,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -161,7 +168,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web.
         </td>
     </tr>
     <tr>
@@ -169,7 +176,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+           Uma API é criada quando uma empresa de software tem a intenção de que outros criadores de software desenvolvam produtos associados ao seu serviço.
         </td>
     </tr>
     <tr>
@@ -177,7 +184,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -207,7 +214,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            A própria aplicação de um modo geral.
         </td>
     </tr>
     <tr>
@@ -215,7 +222,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário poderá utilizar tanto aplicativo seja IOS ou Android como plataforma WeB.
         </td>
     </tr>
     <tr>
@@ -223,7 +230,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -253,7 +260,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Loja de aplicativos da apple onde deve ser disponibilizado o App.
         </td>
     </tr>
     <tr>
@@ -261,7 +268,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder baixar o aplicativo pela loja da Apple.
         </td>
     </tr>
     <tr>
@@ -269,7 +276,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto
         </td>
     </tr>
 </table>
@@ -299,7 +306,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Pessoa que irá ser o juiz do jogo, aplicando faltas, expulsões, tempo de acréscimo.
         </td>
     </tr>
     <tr>
@@ -307,7 +314,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            A partir das determinações do juiz o usuário poderá marcar essas informações nas estatísticas do jogo.
         </td>
     </tr>
     <tr>
@@ -315,7 +322,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -329,7 +336,7 @@
             <b>Nome</b>
         </td>
         <td>
-            Atletas
+            Atleta
         </td>
     </tr>
     <tr>
@@ -345,7 +352,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Usuário que joga os jogos de fato, faz gols, faltas, pode ser escalado ou não, faz parte do time.
         </td>
     </tr>
     <tr>
@@ -353,7 +360,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário jogador pode ver sua pontuação, quantos gols fez, quantas assistências deu.
         </td>
     </tr>
     <tr>
@@ -361,7 +368,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -391,7 +398,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            O sistema de deve gerar as tabelas e confrontos de maneira que ela consiga se auto gerenciar.
         </td>
     </tr>
     <tr>
@@ -399,7 +406,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder colocar os resultados dos confrontos e o sistema gerar pra ele os resultados esperados automaticamente.
         </td>
     </tr>
     <tr>
@@ -407,13 +414,13 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Estado.
         </td>
     </tr>
 </table>
 <br>
 
-* # B 
+* ## B 
 
 ### Baixar
 
@@ -439,7 +446,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Atividade de puxar dados que estão armazenado em algum servidor externo para o dispositivo do usuário. 
         </td>
     </tr>
     <tr>
@@ -447,7 +454,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder baixar as súmulas dos seus campeonatos.
         </td>
     </tr>
     <tr>
@@ -455,7 +462,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Ação.
         </td>
     </tr>
 </table>
@@ -485,7 +492,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Um meio pelo qual o usuário deve poder encontrar as informações de maneira mais rápida do que ter que procurar de forma manual a informação que ele deseja.
         </td>
     </tr>
     <tr>
@@ -493,7 +500,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder buscar campeonatos pelo nome ao final da home.
         </td>
     </tr>
     <tr>
@@ -501,13 +508,13 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
 <br>
 
-* # C 
+* ## C 
 
 ### Cadastrar
 
@@ -533,7 +540,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Cadastro de alguma informação em alguma base de dados.
         </td>
     </tr>
     <tr>
@@ -541,7 +548,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder se cadastrar pelos meios disponibilizados.
         </td>
     </tr>
     <tr>
@@ -549,7 +556,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Ação.
         </td>
     </tr>
 </table>
@@ -579,7 +586,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Meio pelo qual os times se enfrentam onde é determinado um ganhador ao final do mesmo.
         </td>
     </tr>
     <tr>
@@ -587,7 +594,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O campeonado deve estar disponível para os usuários de maneira clara e de fácil compreensão.
         </td>
     </tr>
     <tr>
@@ -595,7 +602,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -625,7 +632,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            São as possíveis combinações de confrontos que venham a ocorrer entre os times.
         </td>
     </tr>
     <tr>
@@ -633,7 +640,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema deve gerar as chaves automaticamente para os campeonatos.
         </td>
     </tr>
     <tr>
@@ -641,7 +648,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -671,7 +678,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Como os times são classificados de acordo com seu desempenho nos campeonatos.
         </td>
     </tr>
     <tr>
@@ -679,7 +686,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder obter informações sobre as classificações dos times que ele desejar.
         </td>
     </tr>
     <tr>
@@ -687,7 +694,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -717,7 +724,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Pessoa a qual o sistema foi feito, que paga ou não pelos serviços ofertados, que utiliza o sistema na sua forma final.
         </td>
     </tr>
     <tr>
@@ -725,7 +732,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            Os usuários devem poder se sentir motivamos a serem clientes dos serviços, para que assim possa se obter lucro.
         </td>
     </tr>
     <tr>
@@ -733,7 +740,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -763,7 +770,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Divulgar de modo a disseminar o App para que outras pessoas possam conhecer.
         </td>
     </tr>
     <tr>
@@ -771,7 +778,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder compartilhar diversas informações relevantes dentro do contexto do aplicativo.
         </td>
     </tr>
     <tr>
@@ -779,7 +786,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Ação.
         </td>
     </tr>
 </table>
@@ -809,7 +816,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Criar jogos e times para que assim os campeonatos possam ocorrer.
         </td>
     </tr>
     <tr>
@@ -817,7 +824,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder criar times e jogos para participação em campeonatos.
         </td>
     </tr>
     <tr>
@@ -825,7 +832,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Ação.
         </td>
     </tr>
 </table>
@@ -855,7 +862,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            O confronto pode ser definido como a disputa entre dois times.
         </td>
     </tr>
     <tr>
@@ -863,7 +870,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder conseguir visualizar os confrontos de cada campeonato.
         </td>
     </tr>
     <tr>
@@ -871,16 +878,16 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
 <br>
 
-* # D
+* ## D
 <br>
 
-* # E 
+* ## E 
 
 ### Eliminatórias
 
@@ -906,7 +913,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Fases em que a dispota entre os times elimina o time perdedor das próximas fases.
         </td>
     </tr>
     <tr>
@@ -914,7 +921,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O sistema deve gerar as eliminatórias automaticamente.
         </td>
     </tr>
     <tr>
@@ -922,7 +929,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -952,7 +959,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            A escalação seria definir quais jogadores que vão jogar a partida.
         </td>
     </tr>
     <tr>
@@ -960,7 +967,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder ver a escalação dos times que estão participando dos campeonatos.
         </td>
     </tr>
     <tr>
@@ -968,7 +975,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -998,7 +1005,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            Esporte é uma forma atividade física praticada com finalidade recreativa, educativa, sociocultural, profissional ou como meio de melhorar a saúde. 
         </td>
     </tr>
     <tr>
@@ -1006,7 +1013,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            Um sugestão seria a de o usuário deve poder sugerir outros esportes para plataforma.
         </td>
     </tr>
     <tr>
@@ -1014,7 +1021,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1044,7 +1051,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Noção
+            São dados organizados de maneira lógica para que o usuário possa obter informações relevantes dentro do App ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1052,7 +1059,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Impacto
+            O usuário deve poder ver estatísticas de cada campeonato, jogador, time, dentro do App.
         </td>
     </tr>
     <tr>
@@ -1060,7 +1067,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            Objeto.
         </td>
     </tr>
 </table>
@@ -1112,7 +1119,7 @@
 </table>
 <br>
 
-* # F 
+* ## F 
 
 ### Favoritar
 
@@ -1298,7 +1305,7 @@
 </table>
 <br>
 
-* # G 
+* ## G 
 
 ### Guia de ajuda
 
@@ -1346,7 +1353,7 @@
 </table>
 <br>
 
-* # H 
+* ## H 
 
 ### Home
 
@@ -1394,7 +1401,7 @@
 </table>
 <br>
 
-* # I
+* ## I
 
 ### Informações pessoais
 
@@ -1626,9 +1633,9 @@
 </table>
 <br>
 
-* # J 
+* ## J 
 
-## Jogadores
+### Jogadores
 
 <table class="table table-striped border">
     <tr>
@@ -1674,10 +1681,10 @@
 </table>
 <br>
 
-* # K 
+* ## K 
 <br>
 
-* # L 
+* ## L 
 
 ### Legislação
 
@@ -1909,7 +1916,7 @@
 </table>
 <br>
 
-* # M 
+* ## M 
 
 ### Media social
 
@@ -1927,7 +1934,6 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            111111111111111111111111111
         </td>
     </tr>
     <tr>
@@ -2049,7 +2055,7 @@
 </table>
 <br>
 
-* # N 
+* ## N 
 
 ### Online
 
@@ -2097,7 +2103,7 @@
 </table>
 <br>
 
-* # O 
+* ## O 
 
 ### Offline
 
@@ -2145,7 +2151,7 @@
 </table>
 <br>
 
-* # P 
+* ## P 
 
 ### Parceiros
 
@@ -2607,10 +2613,10 @@
 </table>
 <br>
 
-* # Q
+* ## Q
 <br>
 
-* # R 
+* ## R 
 
 ### Ranking
 
@@ -2750,7 +2756,7 @@
 </table>
 <br>
 
-* # S 
+* ## S 
 
 ### Server
 
@@ -2936,7 +2942,7 @@
 </table>
 <br>
 
-* # T 
+* ## T 
 
 ### Tabela
 
@@ -3261,7 +3267,7 @@
 </table>
 <br>
 
-* # U
+* ## U
 <br> 
 
 ### Upload
@@ -3542,7 +3548,7 @@
 <br>
 
 
-* # V
+* ## V
 
 ### Virtual
 
@@ -3590,7 +3596,7 @@
 </table>
 <br>
 
-* # W 
+* ## W 
 
 ### WhatApp
 
@@ -3638,13 +3644,13 @@
 </table>
 <br>
 
-* # X
+* ## X
 <br>
 
-* # Y
+* ## Y
 <br>
 
-* # Z
+* ## Z
 
 
 
