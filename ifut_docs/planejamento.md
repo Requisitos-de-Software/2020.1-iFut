@@ -94,6 +94,7 @@
         </tr>
     </tbody>
 </table>
+
 # Heatmap
 
 <img src="../images/heatmap.jpg">
