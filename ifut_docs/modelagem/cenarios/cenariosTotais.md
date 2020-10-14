@@ -40,6 +40,12 @@
             <td> Adição de cenários</td>
             <td> Geraldo Victor </td>
         </tr>
+        <tr>
+            <td> 14.10.2020 </td>
+            <td>  0.5   </td>
+            <td> Adição de cenários</td>
+            <td> Lucas Lopes</td>
+        </tr>
     </tbody>
 </table>
 <br>
@@ -84,4 +90,7 @@
 <p><a href="../alterar-chaves">Alterar chaveamento de um campeonato</a></p>
 <p><a href="../preencher-dados-campeonato">Preencher informações sobre um campeonato </a></p>
 <p><a href="../compartilhar-info">Compartilhamento de informações</a></p>
-<p><a href="../alterar-chaves"> </a></p>
+<p><a href="../recuperar-senha-adm">Recuperar senha</a></p>
+<p><a href="../enviar-convite">Enviar convite</a></p>
+<p><a href="../verificar-extrato">Verificar extrato de jogo</a></p>
+<p><a href="../verificar-escalacao">Verificar escalação de jogos</a></p>
