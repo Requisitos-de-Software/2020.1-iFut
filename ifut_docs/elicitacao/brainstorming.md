@@ -72,22 +72,22 @@ Através das ideias os seguintes requisitos foram levantados.
     </thead>
     <tbody>
         <tr>
-            <td>1  </td> <td>O usuário deve poder indicar amigos para poder ganhar cupons de desconto para seu plano</td>
+            <td>1  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder indicar amigos para poder ganhar cupons de desconto para seu plano</td>
         </tr>
         <tr>
-            <td>2  </td> <td>O usuário deve poder ver placar do jogo em tempo real</td>
+            <td>2  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ver  <a href="../../modelagem/lexico/#placar">placar</a> do jogo em  <a href="../../modelagem/lexico/#tempo-real">tempo real</a></td>
         </tr>
         <tr>
-            <td>3  </td> <td>O usuário deve poder pesquisar jogador por nome para saber sua pontuação</td>
+            <td>3  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder pesquisar jogador por nome para saber sua  <a href="../../modelagem/lexico/#pontuacao">pontuação</a></td>
         </tr>
         <tr>
-            <td>4  </td> <td>O usuário deve poder criar campeonatos virtuais de maneira simplificada</td>
+            <td>4  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s virtuais de maneira simplificada</td>
         </tr>
         <tr>
-            <td>5  </td> <td>O usuário deve poder sugerir a inclusão de outros esportes no aplicativo tanto reais quanto virtuais</td>
+            <td>5  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder sugerir a inclusão de outros  <a href="../../modelagem/lexico/#esportes">esportes</a> no aplicativo tanto reais quanto virtuais</td>
         </tr>
         <tr>
-            <td>6  </td> <td>O sistema deve poder ter alguma tecnologia de impulsionamento nas pesquisas</td>
+            <td>6  </td> <td>O sistema deve poder ter alguma  <a href="../../modelagem/lexico/#tecnologia-de-impulsionamento">tecnologia de impulsionamento</a> nas  <a href="../../modelagem/lexico/#pesquisas">pesquisas</a></td>
         </tr>
     </tbody>
 </table>
@@ -95,13 +95,13 @@ Através das ideias os seguintes requisitos foram levantados.
 ##### Requisito 1
 O grupo chegou a conclusão que faz sentido que o aplicativo invista em publicidade para tornar-se mais conhecido, esse <i>marketing</i> por meio de cupons é bastante utilizado atualmente.
 ##### Requisito 2
-O grupo chegou a concluiu que ter um placar no jogo em tempo faz com que pessoas acessem o aplicativo para ver o placar e possivelmente aumente a chance de comprar algum dos produtos dos patrocinadores já que o aplicativo contém anúncios.
+O grupo chegou a concluiu que ter um  <a href="../../modelagem/lexico/#placar">placar</a> no jogo em tempo faz com que pessoas acessem o aplicativo para ver o  <a href="../../modelagem/lexico/#placar">placar</a> e possivelmente aumente a chance de comprar algum dos produtos dos  <a href="../../modelagem/lexico/#patrocinadores">patrocinadores</a> já que o aplicativo contém anúncios.
 ##### Requisito 3
-O grupo chegou a concordou que poder buscar um jogador pelo nome traz facilidade ao usuário para que ele ache as estatísticas do jogador que deseja acompanhar.
+O grupo chegou a concordou que poder buscar um jogador pelo nome traz facilidade ao  <a href="../../modelagem/lexico/#usuario">usuário</a> para que ele ache as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> do jogador que deseja acompanhar.
 ##### Requisito 4
-Foi de comum acordo por todos os integrantes que seria interessante ter uma maneira facilitada de criar um campeonato para categoria virtual.
+Foi de comum acordo por todos os integrantes que seria interessante ter uma maneira facilitada de criar um <a href="../../modelagem/lexico/#campeonato">campeonato</a> para categoria <a href="../../modelagem/lexico/#virtual">virtual</a>.
 ##### Requisito 5
-Por mais que não seja o escopo do aplicativo outros esportes, talvez possa existir a chance de um aplicativo mais abrangente ter uma demanda de mercado maior do que somente a de futebol, foi essa a conclusão que o grupo chegou. 
+Por mais que não seja o escopo do aplicativo outros  <a href="../../modelagem/lexico/#esportes">esportes</a>, talvez possa existir a chance de um aplicativo mais abrangente ter uma demanda de mercado maior do que somente a de futebol, foi essa a conclusão que o grupo chegou. 
 ##### Requisito 6
 Ao fazer uma simples pesquisa foi constatado que o aplicativo em questão não aparecia nas primeiras página o que consequentemente ajuda a concorrência. O grupo reconheceu que nesse quesito o aplicativo poderia se beneficiar implementando em seu sistema algum mecanismo de impulsionamento.
 

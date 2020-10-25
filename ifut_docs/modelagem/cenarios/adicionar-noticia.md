@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Adicionar notícias a um campeonato
+            Adicionar notícias a um <a href="../../lexico/#campeonato">campeonato</a>
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Adicionar uma nova notícia na página do campeonato.
+            Adicionar uma nova notícia na página do <a href="../../lexico/#campeonato">campeonato</a>.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Ter acesso a um campeonato ativo.</p>
-            <p>Pós-condição: O usuário terá uma nova notícia no feed do campeonato.</p>
+            <p>Pré-condição: Ter acesso a um <a href="../../lexico/#campeonato">campeonato</a> ativo.</p>
+            <p>Pós-condição: O  <a href="../../lexico/#usuario">usuário</a> terá uma nova notícia no feed do <a href="../../lexico/#campeonato">campeonato</a>.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            <p>1. Usuário;</p>
+            <p>1.  <a href="../../lexico/#usuario">usuário</a>;</p>
             <p>2. Sistema.</p>
         </td>
     </tr>
@@ -49,12 +49,12 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário administrador acessa o site iFut;</p>
-            <p>2. O usuário administrador acessa a página de notícias;</p>
-            <p>3. O usuário administrador seleciona a opção “Criar nova notícia”;</p>
-            <p>4. O usuário administrador preenche os campos necessários;</p>
-            <p>5. O usuário administrador salva os dados informados;</p>
-            <p>6. A notícia é adicionada à página do campeonato.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> administrador acessa o site iFut;</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> administrador acessa a página de notícias;</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> administrador seleciona a opção “Criar nova notícia”;</p>
+            <p>4. O  <a href="../../lexico/#usuario">usuário</a> administrador preenche os campos necessários;</p>
+            <p>5. O  <a href="../../lexico/#usuario">usuário</a> administrador salva os dados informados;</p>
+            <p>6. A notícia é adicionada à página do <a href="../../lexico/#campeonato">campeonato</a>.</p>
         </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação;</p>
-            <p>2. O usuário fechar o site antes de confirmar a publicação da notícia.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o site antes de confirmar a publicação da notícia.</p>
         </td>
     </tr>
 </table>

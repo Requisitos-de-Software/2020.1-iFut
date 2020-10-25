@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Editar perfil - Administrador
+            Editar  <a href="../../lexico/#perfil">perfil</a> - Administrador
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Editar informações pessoais no perfil do tipo administrador.
+            Editar  <a href="../../lexico/#informacoes-pessoais">informações pessoais</a> no  <a href="../../lexico/#perfil">perfil</a> do tipo administrador.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário logado no site iFut.</p>
-            <p>Pós-condição: Um ou mais campos de informações do perfil preenchidos.</p>
+            <p>Pré-condição:  <a href="../../lexico/#usuario">usuário</a> logado no site iFut.</p>
+            <p>Pós-condição: Um ou mais campos de informações do  <a href="../../lexico/#perfil">perfil</a> preenchidos.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+             <a href="../../lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -48,10 +48,10 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa o site do iFut.</p>
-            <p>2. O usuário acessa a página de edição de perfil.</p>
-            <p>3. O usuário preenche os campos: Nome, sobrenome, email, telefone.</p>
-            <p>4. O usuário confirma as edições.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> acessa o site do iFut.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> acessa a página de edição de  <a href="../../lexico/#perfil">perfil</a>.</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> preenche os campos: Nome, sobrenome, email, telefone.</p>
+            <p>4. O  <a href="../../lexico/#usuario">usuário</a> confirma as edições.</p>
         </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação.</p>
-            <p>2. O usuário fechar o site antes de confirmar as edições.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o site antes de confirmar as edições.</p>
         </td>
     </tr>
 </table>

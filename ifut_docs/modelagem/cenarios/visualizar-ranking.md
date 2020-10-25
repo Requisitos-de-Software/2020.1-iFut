@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Visualizar ranking
+            Visualizar  <a href="../../lexico/#ranking">ranking</a>
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Visualizar a colocação dos jogadores em um ranking.
+            Visualizar a colocação dos jogadores em um  <a href="../../lexico/#ranking">ranking</a>.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Ter acesso a um perfil de atleta.</p>
-            <p>Pós-condição: Acesso ao ranking de jogadores.</p>
+            <p>Pré-condição: Ter acesso a um  <a href="../../lexico/#perfil">perfil</a> de <a href="../../lexico/#atleta">atleta</a>.</p>
+            <p>Pós-condição: Acesso ao  <a href="../../lexico/#ranking">ranking</a> de jogadores.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            <p>Usuário atleta;</p>
+            <p> <a href="../../lexico/#usuario">usuário</a> <a href="../../lexico/#atleta">atleta</a>;</p>
             <p>Sistema.</p>
         </td>
     </tr>
@@ -50,9 +50,9 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. Abrir o app iFut.</p>
-            <p>2. Fazer login na parte do atleta.</p>
-            <p>3. Selecionar a aba do Ranking no menu.</p>
+            <p>1. Abrir o <a href="../../lexico/#App">App</a> iFut.</p>
+            <p>2. Fazer login na parte do <a href="../../lexico/#atleta">atleta</a>.</p>
+            <p>3. Selecionar a aba do  <a href="../../lexico/#ranking">ranking</a> no menu.</p>
         </td>
     </tr>
     <tr>

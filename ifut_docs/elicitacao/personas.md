@@ -43,7 +43,7 @@
 
  <div>
     <p align="justify">&emsp;    
-        Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo.</p>
+        Uma persona é um personagem fictício, arquétipo hipotético de um grupo de  <a href="../../modelagem/lexico/#usuario">usuário</a>s reais, criada para descrever um  <a href="../../modelagem/lexico/#usuario">usuário</a> típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada principalmente para representar um grupo de  <a href="../../modelagem/lexico/#usuario">usuário</a>s finais durante discussões de design, mantendo todos focados no mesmo alvo.</p>
     <p align="justify">
         <em>(Barbosa e Silva, 2010)</em></p>
 
@@ -69,24 +69,24 @@
 - Idade: 45
 - Sexo: Masculino
 - Escolaridade: Ensino Médio 
-- Cargo: treinador de time infantil
+- Cargo: treinador de  <a href="../../modelagem/lexico/#time">time</a> infantil
 - Renda mensal: 3.000
-- Ramo de atuação: Esportes
+- Ramo de atuação:  <a href="../../modelagem/lexico/#esportes">esportes</a>
 - Região de moradia: SP
 
 <p align="justify">
-    <em>”Gostaria de ter um app que me ajudasse a gerenciar as estatísticas dos meus alunos e dos times aqui da escolinha. Ajudaria muito também se o app facilitasse a organização dos campeonatos que a gente participa.” </em>
+    <em>”Gostaria de ter um <a href="../../modelagem/lexico/#App">App</a> que me ajudasse a gerenciar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos meus alunos e dos  <a href="../../modelagem/lexico/#time">time</a>s aqui da escolinha. Ajudaria muito também se o <a href="../../modelagem/lexico/#App">App</a> facilitasse a organização dos <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que a gente participa.” </em>
 </p>
 <p align="justify">
-    A rotina de José é treinar crianças para jogar futebol durante a semana. Para falar com José é preciso usar um tom mais informal, e ele é um cliente influenciador no processo de desenvolvimento. Os assuntos que José busca na internet são de nível intermediário, e as pesquisas concentram-se na área de campeonatos infantis, tabelas de torneio, descontos em compras, lançamentos de filmes.
-</p>
-
-<p align="justify">
-    José tem dificuldade em organizar torneios e criar rankings de competição. E na hora de buscar solução, José sempre tem essas dúvidas: se determinada aplicação atende todas as sua necessidades, se possui facilidade de uso, e o custo benefício de se obter determinado sistema.
+    A rotina de José é treinar crianças para jogar futebol durante a semana. Para falar com José é preciso usar um tom mais informal, e ele é um cliente influenciador no processo de desenvolvimento. Os assuntos que José busca na internet são de nível intermediário, e as  <a href="../../modelagem/lexico/#pesquisas">pesquisas</a> concentram-se na área de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s infantis, tabelas de torneio, descontos em compras, lançamentos de filmes.
 </p>
 
 <p align="justify">
-    Atualmente, José resolve seus problemas usando tabelas encontradas na internet, ou desenhadas a mão em folhas de papel. Para resolver os problemas de José, o app deve ter os seguintes requisitos: Criar uma tabela de campeonato automático, gerenciar estatísticas individuais e do time.
+    José tem dificuldade em organizar torneios e criar  <a href="../../modelagem/lexico/#ranking">ranking</a>s de competição. E na hora de buscar solução, José sempre tem essas dúvidas: se determinada aplicação atende todas as sua necessidades, se possui facilidade de uso, e o custo benefício de se obter determinado sistema.
+</p>
+
+<p align="justify">
+    Atualmente, José resolve seus problemas usando tabelas encontradas na internet, ou desenhadas a mão em folhas de papel. Para resolver os problemas de José, o <a href="../../modelagem/lexico/#App">App</a> deve ter os seguintes requisitos: Criar uma tabela de <a href="../../modelagem/lexico/#campeonato">campeonato</a> automático, gerenciar  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> individuais e do  <a href="../../modelagem/lexico/#time">time</a>.
 </p>
 </br>
 
@@ -107,7 +107,7 @@
 - Região de moradia: Brasília
 
 <p align="justify">
-    <em>"Tenho semanas estressantes no trabalho. No final de semana, o futebol é o hobby que tenho para relaxar e manter a saúde. Um grupo de amigas minhas organizou um campeonato, e seria interessante ter um app para organizar isso, para facilitar nossas vidas."</em>
+    <em>"Tenho semanas estressantes no trabalho. No final de semana, o futebol é o hobby que tenho para relaxar e manter a saúde. Um grupo de amigas minhas organizou um <a href="../../modelagem/lexico/#campeonato">campeonato</a>, e seria interessante ter um <a href="../../modelagem/lexico/#App">App</a> para organizar isso, para facilitar nossas vidas."</em>
 </p>
 
 <p align="justify">
@@ -115,15 +115,15 @@
 </p>
 
 <p align="justify">
-    As pesquisas de Helena na internet se concentram em artigos científicos, notícias, artesanato, planilhas de gerenciamento de campeonatos, campos society e uniformes de futebol.
+    As  <a href="../../modelagem/lexico/#pesquisas">pesquisas</a> de Helena na internet se concentram em artigos científicos, notícias, artesanato, planilhas de gerenciamento de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s, campos society e uniformes de futebol.
 </p>
 
 <p align="justify">
-    Helena precisa de um app que a ajude a gerenciar seu campeonato amador de futebol feminino. Na hora de buscar uma solução para essa sua necessidade, Helena sempre tem essas dúvidas: a aplicação é de fácil uso? Eu realmente preciso desse app? Atende todas as minhas necessidades?
+    Helena precisa de um <a href="../../modelagem/lexico/#App">App</a> que a ajude a gerenciar seu <a href="../../modelagem/lexico/#campeonato">campeonato</a> amador de futebol feminino. Na hora de buscar uma solução para essa sua necessidade, Helena sempre tem essas dúvidas: a aplicação é de fácil uso? Eu realmente preciso desse <a href="../../modelagem/lexico/#App">App</a>? Atende todas as minhas necessidades?
 </p>
 
 <p align="justify">
-    A forma que Helena arrumou para resolver seu problemas foi pagar uma pessoa para fazer planilhas de gerenciamento. Para resolver os problemas de Helena o app pode: gerenciar seu campeonato; dar acesso às informações do campeonato para todos os jogadores; e facilitar a organização dos jogos. É importante também que o app seja de fácil uso e com preço acessível.
+    A forma que Helena arrumou para resolver seu problemas foi pagar uma pessoa para fazer planilhas de gerenciamento. Para resolver os problemas de Helena o <a href="../../modelagem/lexico/#App">App</a> pode: gerenciar seu <a href="../../modelagem/lexico/#campeonato">campeonato</a>; dar acesso às informações do <a href="../../modelagem/lexico/#campeonato">campeonato</a> para todos os jogadores; e facilitar a organização dos jogos. É importante também que o <a href="../../modelagem/lexico/#App">App</a> seja de fácil uso e com preço acessível.
 </p>
 
 </br>
@@ -139,9 +139,9 @@
 - Idade: 38
 - Sexo: Masculino
 - Escolaridade: Graduado
-- Cargo: Gerente de time
+- Cargo: Gerente de  <a href="../../modelagem/lexico/#time">time</a>
 - Renda mensal: 6.000
-- Ramo de atuação: Esportes
+- Ramo de atuação:  <a href="../../modelagem/lexico/#esportes">esportes</a>
 - Região de moradia: Região Nordeste
 
 <p align="justify">
@@ -149,15 +149,15 @@
 </p>
 
 <p align="justify">
-    Carlos Marques trabalha todos os dias das 08:00 às 16:00, e a noite passa o tempo com a família. Carlos possui uma linguagem mais formal, e é um influenciador no processo de desenvolvimento. Os assuntos que mais interessam Carlos na internet são receitas, carros, times de futebol, patrocínios, gerenciamento de time e organização de campeonatos.
+    Carlos Marques trabalha todos os dias das 08:00 às 16:00, e a noite passa o tempo com a família. Carlos possui uma linguagem mais formal, e é um influenciador no processo de desenvolvimento. Os assuntos que mais interessam Carlos na internet são receitas, carros,  <a href="../../modelagem/lexico/#time">time</a>s de futebol, patrocínios, gerenciamento de  <a href="../../modelagem/lexico/#time">time</a> e organização de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s.
 </p>
 
 <p align="justify">
-    Carlos quer um app que o ajude a organizar os campeonatos que o time que ele administra participa. E na hora de buscar solução, Carlos Marques sempre pensa na facilidade de uso da aplicação, o custo-benefício do app e se o mesmo atende todas as suas necessidades.
+    Carlos quer um <a href="../../modelagem/lexico/#App">App</a> que o ajude a organizar os <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que o  <a href="../../modelagem/lexico/#time">time</a> que ele administra participa. E na hora de buscar solução, Carlos Marques sempre pensa na facilidade de uso da aplicação, o custo-benefício do <a href="../../modelagem/lexico/#App">App</a> e se o mesmo atende todas as suas necessidades.
 </p>
 
 <p align="justify">
-    Como Carlos Marques resolve seus problemas atualmente? Faz planilhas no excel e o resto da organização são feitas de forma bastante complicada. Para resolver os problemas de Carlos Marques deve ter opção de website para o time e a funcionalidade de gerenciamento de campeonatos, estática individual e do time.
+    Como Carlos Marques resolve seus problemas atualmente? Faz planilhas no excel e o resto da organização são feitas de forma bastante complicada. Para resolver os problemas de Carlos Marques deve ter opção de website para o  <a href="../../modelagem/lexico/#time">time</a> e a funcionalidade de gerenciamento de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s, estática individual e do  <a href="../../modelagem/lexico/#time">time</a>.
 </p>
 
 </br>
@@ -175,7 +175,7 @@
 - Escolaridade: Graduado
 - Cargo: olheiro
 - Renda mensal: 5.000
-- Ramo de atuação: Esportes
+- Ramo de atuação:  <a href="../../modelagem/lexico/#esportes">esportes</a>
 - Região de moradia: Região Sul
 
 <p align="justify">
@@ -183,15 +183,15 @@
 </p>
 
 <p align="justify">
-    Paulo Oster trabalha como olheiro. Viaja bastante em busca de jogadores talentosos. Paulo possui uma linguagem mais informal, e é um influenciador no processo de desenvolvimento. Os assuntos que mais interessam Paulo na internet são times de futebol, carros e passagens de avião.
+    Paulo Oster trabalha como olheiro. Viaja bastante em busca de jogadores talentosos. Paulo possui uma linguagem mais informal, e é um influenciador no processo de desenvolvimento. Os assuntos que mais interessam Paulo na internet são  <a href="../../modelagem/lexico/#time">time</a>s de futebol, carros e passagens de avião.
 </p>
 
 <p align="justify">
-    Paulo precisa de um app que o ajude a organizar as estatísticas dos jogadores em que ele está interessado. E na hora de buscar solução, Paulo Oster pensa se o que é proposto à ele atende todas as suas necessidades.
+    Paulo precisa de um <a href="../../modelagem/lexico/#App">App</a> que o ajude a organizar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos jogadores em que ele está interessado. E na hora de buscar solução, Paulo Oster pensa se o que é proposto à ele atende todas as suas necessidades.
 </p>
 
 <p align="justify">
-    Como Paulo resolve seus problemas atualmente? Faz as estatísticas no papel. Para resolver os problemas de Paulo, a principal funionalidade do app deve ser a geração de estáticas individual e do time.
+    Como Paulo resolve seus problemas atualmente? Faz as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> no papel. Para resolver os problemas de Paulo, a principal funionalidade do <a href="../../modelagem/lexico/#App">App</a> deve ser a geração de estáticas individual e do  <a href="../../modelagem/lexico/#time">time</a>.
 </p>
 
 </br>
@@ -216,15 +216,15 @@
 - Região de moradia: RJ
 
 <p align="justify">
-    <em>"Gosto de me inspirar em ideias de decoração que encontro na internet. Gosto de receitas também. Não tenho interesse em esportes."</em>
+    <em>"Gosto de me inspirar em ideias de decoração que encontro na internet. Gosto de receitas também. Não tenho interesse em  <a href="../../modelagem/lexico/#esportes">esportes</a>."</em>
 </p>
 
 <p align="justify">
-    Vanessa trabalha durante toda a semana no shopping e nos finais de semana descansa. As principais pesquisas de Vanessa na internet são sobre moda, boa alimentação e decoração. As preferências de Vanessa são por aplicativos que mostram ideias de decoração e redes sociais. Na hora de buscar uma solução, Vanessa sempre tem essa dúvida: Atenderá minhas necessidades e qual o valor?
+    Vanessa trabalha durante toda a semana no shopping e nos finais de semana descansa. As principais  <a href="../../modelagem/lexico/#pesquisas">pesquisas</a> de Vanessa na internet são sobre moda, boa alimentação e decoração. As preferências de Vanessa são por aplicativos que mostram ideias de decoração e redes sociais. Na hora de buscar uma solução, Vanessa sempre tem essa dúvida: Atenderá minhas necessidades e qual o valor?
 </p>
 
 <p align="justify">
-    Vanessa resolve seus problemas utilizando aplicativos de redes sociais e outros de armazenamento de imagens. O escopo do app iFut não atende as necessidades da usuária.
+    Vanessa resolve seus problemas utilizando aplicativos de redes sociais e outros de armazenamento de imagens. O escopo do <a href="../../modelagem/lexico/#App">App</a> iFut não atende as necessidades da usuária.
 </p>
 
 <p align="justify">

@@ -5,14 +5,14 @@
         <td>
             <b>Título</b>
         </td>
-        <td>      Visualizar rodadas.  </td>
+        <td>      Visualizar  <a href="../../lexico/#rodadas">rodadas</a>.  </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-                    Ver as rodadas de jogos relacionadas ao campeonato selecionado. 
+                    Ver as  <a href="../../lexico/#rodadas">rodadas</a> de jogos relacionadas ao <a href="../../lexico/#campeonato">campeonato</a> selecionado. 
         </td>
     </tr>
     <tr>
@@ -20,8 +20,8 @@
             <b>Contexto</b>
         </td>
         <td>
-           <b>Pré-condição:</b> Possuir o app iFut;
-           <p><b>Pós-condição:</b>O usuário verá as rodadas de jogo do campeonato desejado.</p>
+           <b>Pré-condição:</b> Possuir o <a href="../../lexico/#App">App</a> iFut;
+           <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> verá as  <a href="../../lexico/#rodadas">rodadas</a> de jogo do <a href="../../lexico/#campeonato">campeonato</a> desejado.</p>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário
+            -  <a href="../../lexico/#usuario">usuário</a>
             <p>- Sistema</p> 
         </td>
     </tr>
@@ -46,10 +46,10 @@
             <b>Episódios</b>
         </td>
         <td>
-            1. Acessar o app ifut.
-	<p>2. Selecionar um campeonato.</p>
-	<p>3. Selecionar a aba de Classificação.</p>
-    <p>3. Selecionar a aba de Rodadas.</p>
+            1. Acessar o <a href="../../lexico/#App">App</a> ifut.
+	<p>2. Selecionar um <a href="../../lexico/#campeonato">campeonato</a>.</p>
+	<p>3. Selecionar a aba de <a href="../../lexico/#classificacao">classificação</a>.</p>
+    <p>3. Selecionar a aba de  <a href="../../lexico/#rodadas">rodadas</a>.</p>
         </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação.</p>
-            <p>2. O usuário fechar o aplicativo antes de terminar a ação.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

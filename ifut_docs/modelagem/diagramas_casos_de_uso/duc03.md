@@ -1,6 +1,6 @@
 # Diagramas Casos de Uso
 
-## Visualizar Rodadas
+## Visualizar <a href="../../lexico/#rodadas">rodadas</a>
 
 <div class="toolgrid">
 	<div>

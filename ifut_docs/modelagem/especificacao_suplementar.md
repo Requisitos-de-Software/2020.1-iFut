@@ -21,21 +21,21 @@
 ## Finalidade
 Este documento sobre especificações suplementares tem como o objetivo tratar os requisitos não funcionais levantados nos casos de uso
 ## Escopo
-Se resume a um aplicativo mobile junto com uma aplicação web para geração de campeonatos de futebol e gerenciamento de estatísticas de jogadores ou times.
+Se resume a um aplicativo mobile junto com uma aplicação web para geração de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s de futebol e gerenciamento de  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> de jogadores ou  <a href="../../modelagem/lexico/#time">time</a>s.
 ## Definições
-iFut - aplicativo que tem como principal função a criação e gerenciamento de campeonatos de futebol, tanto amador como profissional.
+iFut - aplicativo que tem como principal função a criação e gerenciamento de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s de futebol, tanto amador como profissional.
 ## Compatibilidade:
 #### Suporte à plataforma Android
 - Deve possuir uma versão estável para smartphones com sistema operacional Android.
-#### Suporte à plataforma IOS
-- Deve possuir uma versão estável para smartphones com sistema operacional IOS.
+#### Suporte à plataforma  <a href="../../modelagem/lexico/#ios">IOS</a>
+- Deve possuir uma versão estável para smartphones com sistema operacional  <a href="../../modelagem/lexico/#ios">IOS</a>.
 #### Compatibilidade com navegadores(Google Chrome, Mozilla Firefox,Safari, etc)
 - O serviço web deve mostrar o mesmo desempenho nos navegadores mais populares. 
 ## Usabilidade:
-- Ter uma linguagem próxima dos usuários.
+- Ter uma linguagem próxima dos  <a href="../../modelagem/lexico/#usuario">usuário</a>s.
 - Interface de fácil compreensão e intuitiva. 
 ## Confiabilidade:
-- O sistema deve armazenar com segurança os dados dos usuários no sistema.
+- O sistema deve armazenar com segurança os dados dos  <a href="../../modelagem/lexico/#usuario">usuário</a>s no sistema.
 ## Desempenho:
 - O sistema deve ter um bom desempenho para realização das tarefas.
 ### Licenciamento:

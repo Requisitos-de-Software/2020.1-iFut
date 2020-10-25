@@ -5,14 +5,14 @@
         <td>
             <b>Título</b>
         </td>
-        <td>     Verificar jogadores de um time.  </td>
+        <td>     Verificar jogadores de um  <a href="../../lexico/#time">time</a>.  </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-        Ver quais são os jogadores de um determinado time.
+        Ver quais são os jogadores de um determinado  <a href="../../lexico/#time">time</a>.
         </td>
     </tr>
     <tr>
@@ -20,8 +20,8 @@
             <b>Contexto</b>
         </td>
         <td>
-           <b>Pré-condição:</b> Possuir o app iFut;
-           <p><b>Pós-condição:</b>O usuário verá os jogadores do time escolhido.
+           <b>Pré-condição:</b> Possuir o <a href="../../lexico/#App">App</a> iFut;
+           <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> verá os jogadores do  <a href="../../lexico/#time">time</a> escolhido.
 </p>
         </td>
     </tr>
@@ -30,7 +30,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário
+            -  <a href="../../lexico/#usuario">usuário</a>
             <p>- Sistema</p> 
         </td>
     </tr>
@@ -47,9 +47,9 @@
             <b>Episódios</b>
         </td>
         <td>
-            1. Acessar o app ifut.
-	<p>2. Selecionar um campeonato.</p>
-    <p>3. Selecionar um time.</p>
+            1. Acessar o <a href="../../lexico/#App">App</a> ifut.
+	<p>2. Selecionar um <a href="../../lexico/#campeonato">campeonato</a>.</p>
+    <p>3. Selecionar um  <a href="../../lexico/#time">time</a>.</p>
     <p>4. Selecionar a aba Elenco.</p>
         </td>
     </tr>
@@ -67,7 +67,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação.</p>
-            <p>2. O usuário fechar o aplicativo antes de terminar a ação.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

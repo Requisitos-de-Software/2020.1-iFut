@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Acessar súmula física
+            Acessar  <a href="../../lexico/#sumula-fisica">súmula fisica</a>
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Ter acesso a um campeonato.</p>
-            <p>Pós-condição: O usuário terá um arquivo de uma súmula em branco para impressão.</p>
+            <p>Pré-condição: Ter acesso a um <a href="../../lexico/#campeonato">campeonato</a>.</p>
+            <p>Pós-condição: O  <a href="../../lexico/#usuario">usuário</a> terá um arquivo de uma súmula em branco para impressão.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            <p>Usuário;</p>
+            <p> <a href="../../lexico/#usuario">usuário</a>;</p>
             <p>Sistema.</p>
         </td>
     </tr>
@@ -49,11 +49,11 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário administrador acessa o site iFut;</p>
-            <p>2. O usuário administrador acessa um campeonato;</p>
-            <p>3. O usuário administrador acessa a página “Jogos”;</p>
-            <p>4. O usuário administrador seleciona a opção “súmula em branco”;</p>
-            <p>5. O usuário administrador salva o arquivo em seu dispositivo.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> administrador acessa o site iFut;</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> administrador acessa um <a href="../../lexico/#campeonato">campeonato</a>;</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> administrador acessa a página “Jogos”;</p>
+            <p>4. O  <a href="../../lexico/#usuario">usuário</a> administrador seleciona a opção “súmula em branco”;</p>
+            <p>5. O  <a href="../../lexico/#usuario">usuário</a> administrador salva o arquivo em seu dispositivo.</p>
         </td>
     </tr>
     <tr>

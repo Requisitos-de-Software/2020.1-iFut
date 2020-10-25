@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Editar - excluir time.
+            Editar - excluir  <a href="../../lexico/#time">time</a>.
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Editar informações dos times ou excluir o time.
+            Editar informações dos  <a href="../../lexico/#time">time</a>s ou excluir o  <a href="../../lexico/#time">time</a>.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário logado no aplicativo iFut.</p>
-            <p>Pós-condição: Pelo menos um time cadastrado no campeonato.</p>
+            <p>Pré-condição:  <a href="../../lexico/#usuario">usuário</a> logado no aplicativo iFut.</p>
+            <p>Pós-condição: Pelo menos um  <a href="../../lexico/#time">time</a> cadastrado no <a href="../../lexico/#campeonato">campeonato</a>.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+             <a href="../../lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -48,14 +48,14 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa o site do iFut.</p>
-            <p>2. O usuário seleciona a opção “Entrar”.</p>
-            <p>3. O usuário preenche os campos “email” e “senha”.</p>
-            <p>4. O usuário na aba na lateral esquerda times.</p>
-            <p>5. O usuário clica no time que deseja editar</p>
-            <p>6. No canto superior direito ele pode editar ou excluir o time</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> acessa o site do iFut.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> seleciona a opção “Entrar”.</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> preenche os campos “email” e “senha”.</p>
+            <p>4. O  <a href="../../lexico/#usuario">usuário</a> na aba na lateral esquerda  <a href="../../lexico/#time">time</a>s.</p>
+            <p>5. O  <a href="../../lexico/#usuario">usuário</a> clica no  <a href="../../lexico/#time">time</a> que deseja editar</p>
+            <p>6. No canto superior direito ele pode editar ou excluir o  <a href="../../lexico/#time">time</a></p>
             <p>7. Se clicar em editar ele será direcionado para página de edição onde ele poderá editar e salvar a edição.</p>
-            <p>8. Se clicar em excluir, será perguntado se o usuário tem certeza da ação, ele confirma e está excluído o time. </p>
+            <p>8. Se clicar em excluir, será perguntado se o  <a href="../../lexico/#usuario">usuário</a> tem certeza da ação, ele confirma e está excluído o  <a href="../../lexico/#time">time</a>. </p>
         </td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação.</p>
-            <p>2. O usuário fechar o aplicativo antes de confirmar as edições.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de confirmar as edições.</p>
         </td>
     </tr>
 </table>

@@ -5,14 +5,14 @@
         <td>
             <b>Título</b>
         </td>
-        <td>      Visualizar campeonatos cadastrados.  </td>
+        <td>      Visualizar <a href="../../lexico/#campeonato">campeonato</a>s cadastrados.  </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-                    Ver os campeonatos em que você está participando. 
+                    Ver os <a href="../../lexico/#campeonato">campeonato</a>s em que você está participando. 
         </td>
     </tr>
     <tr>
@@ -20,8 +20,8 @@
             <b>Contexto</b>
         </td>
         <td>
-           <b>Pré-condição:</b> Possuir login de atleta no app iFut;
-           <p><b>Pós-condição:</b>O usuário verá todos os campeonatos em que foi cadastrado.</p>
+           <b>Pré-condição:</b> Possuir login de <a href="../../lexico/#atleta">atleta</a> no <a href="../../lexico/#App">App</a> iFut;
+           <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> verá todos os <a href="../../lexico/#campeonato">campeonato</a>s em que foi cadastrado.</p>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário atleta
+            -  <a href="../../lexico/#usuario">usuário</a> <a href="../../lexico/#atleta">atleta</a>
             <p>- Sistema</p> 
         </td>
     </tr>
@@ -46,9 +46,9 @@
             <b>Episódios</b>
         </td>
         <td>
-            1. Acessar o app ifut.
-	<p>2. Selecionar no menu o Perfil.</p>
-	<p>3. Selecionar a aba Times</p>
+            1. Acessar o <a href="../../lexico/#App">App</a> ifut.
+	<p>2. Selecionar no menu o  <a href="../../lexico/#perfil">perfil</a>.</p>
+	<p>3. Selecionar a aba  <a href="../../lexico/#time">time</a>s</p>
         </td>
     </tr>
     <tr>
@@ -64,9 +64,9 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. O usuário não ter uma conta registrada no aplicativo.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> não ter uma conta registrada no aplicativo.</p>
             <p>2. A internet parar de funcionar no meio da ação.</p>
-            <p>3. O usuário fechar o aplicativo antes de terminar a ação.</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>
