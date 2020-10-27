@@ -18,8 +18,26 @@
       <tr>
             <td> 26.10.2020 </td>
             <td>  0.2   </td>
-            <td> Adição dos épicos e histórias de usuários</td>
-            <td> Isabella Carneiro, Bruna Almeida </td>
+            <td> Adição dos épicos e dos links dos épicos</td>
+            <td> Lucas Lopes </td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.3   </td>
+            <td> Adição das histórias de usuários do épico visualização</td>
+            <td> Isabella Carneiro</td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.4   </td>
+            <td> Adição das histórias de usuários do épico campeonato e a linkagem das histórias de usuário</td>
+            <td> Bruna Almeida </td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.5   </td>
+            <td> Adição das histórias de usuários do épico assinante</td>
+            <td> Damarcones Porto </td>
         </tr>
     </tbody>
 </table>
