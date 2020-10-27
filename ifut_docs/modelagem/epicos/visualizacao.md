@@ -20,3 +20,51 @@ Eu,  como usuário, desejo visualizar as estatísticas de outros usuários da pl
 #### Critérios de Aceitação:
 - Deve ser possível o usuário ver as estatísticas do usuário.
 - O usuário pode clicar no mesmo e ser levado para a página com informações do usuário.
+
+### US28 Visualizar as notícias de um campeonato
+Eu,  como usuário , desejo visualizar as notícias de um campeonato da plataforma iFut para que eu possa estar informado de qualquer novidade.
+
+#### Critérios de Aceitação:
+- Deve ser possível o usuário ver as notícias de um campeonato.
+
+### US29 Visualizar perfil de um jogador
+Eu,  como usuário, desejo visualizar o perfil de um jogador que esteja cadastrado na plataforma iFut para que eu possa interagir com eles.
+
+#### Critérios de Aceitação:
+- Deve ser possível o usuário ver o perfil de um jogador
+- O usuário pode interagir com o mesmo.
+
+### US30 Visualizar o ranking de jogadores de um campeonato
+Eu,  como usuário, desejo visualizar o ranking de jogadores de um campeonato para que eu possa  interagir com eles.
+
+#### Critérios de Aceitação:
+- Deve ser possível o usuário ver o ranking de jogadores.
+- O usuário pode interagir com o mesmo.
+
+### US31 Visualizar as rodadas de jogos de um campeonato
+Eu,  como usuário, desejo visualizar as rodadas de jogos de um campeonato para que eu possa interagir com ela.
+
+#### Critérios de Aceitação:
+- Deve ser possível o usuário ver as rodadas de jogos de um campeonato
+- O usuário pode interagir com a mesma.
+
+### US32 Visualizar a tabela de jogos de um campeonato
+Eu,  como usuário, desejo visualizar a tabela de jogos de um campeonato para que eu possa interagir com a mesma.
+
+#### Critérios de Aceitação:
+- Deve ser possível o usuário ver a tabela de jogos de um campeonato
+- O usuário pode interagir com a mesma.
+
+### US33 Visualizar a agenda de jogos
+Eu,  como usuário, desejo visualizar a agenda de jogos para que eu possa me manter informado.
+
+#### Critérios de Aceitação:
+- Deve ser possível o usuário ver a agenda de jogos.
+- O usuário pode interagir com a mesma.
+
+### US34 Visualizar Visualizar o ranking de um campeonato
+Eu,  como usuário, desejo visualizar o ranking de um campeonato para que eu possa interagir com ele.
+
+#### Critérios de Aceitação:
+- Deve ser possível o usuário ver o ranking de um campeonato
+- O usuário pode interagir com o mesmo.
