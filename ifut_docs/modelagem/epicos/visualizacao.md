@@ -1,5 +1,28 @@
 # Épico: Visualização
-
+<br>
+<table class="table table-striped border">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 26.10.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento</td>
+            <td> Lucas Lopes </td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição do épico Campeonato e das histórias de usuário</td>
+            <td> Isabella Carneiro </td>
+        </tr>
+    </tbody>
+</table>
+<br>
 ### US25 Visualizar anúncios
 Eu,  como usuário, desejo visualizar os anúncios disponíveis na plataforma para que eu possa interagir com eles.
 
