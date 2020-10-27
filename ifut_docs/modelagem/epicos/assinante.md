@@ -26,11 +26,11 @@
 Eu,como técnico, desejo adicionar um patrocinador ao meu campeonato.
 
 #### Critérios de Aceitação:
-- Deve ser possível a adiconar banners do patrocinador ou propaganda.
+- Deve ser possível adicionar banners do patrocinador ou propaganda.
 - Deve ser possível que usuários visualizem banner dos patrocinadores.  
 
 ### US07 Adicionar notícias
-Eu, como técnico, desejo adicioanr notícias ao meu campeonato.
+Eu, como técnico, desejo adicioanar notícias ao meu campeonato.
 
 #### Critérios de Aceitação:
 - Deve ser possível a criação de notícias para meus campeonatos.
@@ -39,8 +39,8 @@ Eu, como técnico, desejo adicioanr notícias ao meu campeonato.
 Eu, como assinante, desejo pagar para poder mudar ou aderir a um plano. 
 
 #### Critérios de Aceitação:
-- Ser possível adquirir um plano.
-- Ser possível migrar de um plano para outro.
+- Dve ser possível adquirir um plano.
+- Deve ser possível migrar de um plano para outro.
 
 ### US09 Disponibilizar inscrição
 Eu, como técnico, desejo disponibilizar inscrições para um torneio que organizo. 
