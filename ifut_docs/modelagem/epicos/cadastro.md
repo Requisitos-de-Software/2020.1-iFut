@@ -1,5 +1,9 @@
-# Épico: <a href="../../lexico/#cadastrar">cadastro</a>
+# Épico: Cadastro
 
 
+### US01 Realizar cadastro 
 
-teste de link
+Eu,  como usuário, desejo me cadastrar no Ifut.
+
+#### Critérios de Aceitação:
+- Deve ser possível de cadastro no aplicativo.

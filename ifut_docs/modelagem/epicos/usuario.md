@@ -1,1 +1,1 @@
-# Épico: [recomendação](/modelagem/lexico#recomendacao) de [conteúdo](/modelagem/lexico#conteudo)
+# Épico: Usuário

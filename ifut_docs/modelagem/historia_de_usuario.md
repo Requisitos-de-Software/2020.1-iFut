@@ -23,3 +23,32 @@
         </tr>
     </tbody>
 </table>
+
+
+
+## Participantes
+- Bruna
+- Damarcondes
+- Isabella 
+- Geraldo
+- Lucas 
+
+
+## Backlog
+
+<img src="../../assets/images/productbacklog.png">
+
+## Épicos
+
+[Cadastro](epicos/cadastro.md)<br>
+[Assinante](epicos/assinante.md)<br>
+[Campeonato](epicos/campeonato.md)<br>
+[Homologacao](epicos/homologacao.md)<br>
+[Informações](epicos/informacoes.md)<br>
+[Usuário](epicos/usuario.md)<br>
+[Visualização](epicos/visualizacao.md)<br>
+
+<br>
+
+## Listagem das Histórias de Usuário
+[US01: Realizar cadastro](epicos/cadastro.md)<br>

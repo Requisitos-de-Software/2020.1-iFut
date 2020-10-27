@@ -1,1 +1,1 @@
-# Épico: Configurações do aplicativo
+# Épico: Informações
