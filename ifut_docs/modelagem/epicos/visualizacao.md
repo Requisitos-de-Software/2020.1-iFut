@@ -14,7 +14,7 @@ Eu,  como usuário, desejo visualizar os campeonatos cadastrados na plataforma i
 - Deve ser possível o usuário ver a lista dos campeonatos.
 - O usuário deve poder clicar no mesmo e ser levado para a página com informações do campeonato.
 
-### US26 Visualizar as estatísticas do usuário
+### US27 Visualizar as estatísticas do usuário
 Eu,  como usuário, desejo visualizar as estatísticas de outros usuários da plataforma iFut para que eu possa interagir com eles.
 
 #### Critérios de Aceitação:
