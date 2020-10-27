@@ -1,1 +1,0 @@
-# Épico:  <a href="../../lexico/#planos">planos</a>
