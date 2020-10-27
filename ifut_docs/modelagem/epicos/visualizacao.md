@@ -23,6 +23,7 @@
     </tbody>
 </table>
 <br>
+
 ### US25 Visualizar anúncios
 Eu,  como usuário, desejo visualizar os anúncios disponíveis na plataforma para que eu possa interagir com eles.
 
