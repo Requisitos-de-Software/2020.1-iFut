@@ -806,7 +806,7 @@
 </table>
 <br>
 
-##   <a href="../../modelagem/lexico/#confrontos">confontros</a>
+##   <a href="../../modelagem/lexico/#confrontos">Confrontos</a>
 
 <table class="table table-striped border">
     <tr>
@@ -814,7 +814,7 @@
             <b>Nome</b>
         </td>
         <td>
-          <a href="../../modelagem/lexico/#confrontos">confontros</a>
+          <a href="../../modelagem/lexico/#confrontos">Confrontos</a>
         </td>
     </tr>
     <tr>

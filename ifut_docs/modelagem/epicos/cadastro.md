@@ -49,7 +49,7 @@ Eu,  como usuário visitante desejo poder requisitar o reset da senha.
 - Validar trocar de senha usando o email como informação de checagem.
   
 
-### US06 Enviar convitea
+### US06 Enviar convite
 
 Eu,  como usuário administrador/ treinador desejo poder enviar convites de cadastro.
 
