@@ -1,178 +1,241 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-      <script>
-	// Hack for scrolling window when linking to anchor tag with fixed nav header
-        var shiftWindow = function() { scrollBy(0, -75) };
-        window.addEventListener("hashchange", shiftWindow);
-        function load() { if (window.location.hash) shiftWindow(); }
-      </script>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        
-        
-        <link rel="shortcut icon" href="../../images/favicon.ico">
-        
-        <title>Histórias de Usuário - iFut</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="../../css/font-awesome.min.css" rel="stylesheet">
-    <link href="../../css/base.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-    <link href="../../stylesheets/common.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      
+      
+      <link rel="shortcut icon" href="../../images/favicon.ico">
+      <title>Histórias de Usuário - iFut</title>
+      <script src="../../dist/bundle.js"></script>
+    
+  </head>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/http.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script src="../../js/base.js"></script> 
-    </head>
-
-    <body class="">
-
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-	<div class="container">
-	<a class="navbar-brand" href="../..">iFut</a>
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+  <body class="">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark navbar-fixed-top">
+      <div class="container">
+          <a class="navbar-brand" href="../..">iFut</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-top" aria-controls="navbar-top" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
-	</button>
+        </button>
 
-	<div class="collapse navbar-collapse">
-          <!-- Main navigation -->
-          <nav class="nav">
-            <ul class="navbar-nav">
-              <li >
-                <a class="nav-link" href="../..">Inicial</a>
-              </li>
-              <li >
-                <a class="nav-link" href="../../planejamento/">Planejamento</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Apresentações">Apresentações <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Apresentações">
-                  
-<a href="../../pontocontrole/" class="dropdown-item">Pontos de Controle</a>
-                  
-<a href="../../apresentacao/primeira_entrega/" class="dropdown-item">Primeira Entrega</a>
-                  
-<a href="../../apresentacao/segunda_entrega/" class="dropdown-item">Segunda Entrega</a>
-                  
-<a href="../../apresentacao/terceira_entrega/" class="dropdown-item">Terceira Entrega</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Pré-rastreabilidade">Pré-rastreabilidade <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Pré-rastreabilidade">
-                  
-<a href="../../pre-rastreabilidade/pre_rastreabilidade/" class="dropdown-item">Sobre</a>
-                  
-<a href="../../pre-rastreabilidade/rich-pictures/" class="dropdown-item">Rich Pictures</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Elicitação">Elicitação <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Elicitação">
-                  
-<a href="../../elicitacao/obs_part/" class="dropdown-item">Observação Participativa</a>
-                  
-<a href="../../elicitacao/introspeccao/" class="dropdown-item">Introspecção</a>
-                  
-<a href="../../elicitacao/questionario/" class="dropdown-item">Questionário</a>
-                  
-<a href="../../elicitacao/brainstorming/" class="dropdown-item">Brainstorming</a>
-                  
-<a href="../../elicitacao/analise_de_protocolo/" class="dropdown-item">Análise de Protocolo</a>
-                  
-<a href="../../elicitacao/analise_de_discurso/" class="dropdown-item">Análise de Discurso</a>
-                  
-<a href="../../elicitacao/personas/" class="dropdown-item">Personas</a>
-                  
-<a href="../../elicitacao/entrevista/" class="dropdown-item">Entrevista</a>
-                  
-<a href="../../elicitacao/storytelling/" class="dropdown-item">Storyboard</a>
-                  
-<a href="../../elicitacao/resultado/" class="dropdown-item">Resultado</a>
-                  
-<a href="../../elicitacao/moscow/" class="dropdown-item">MoScoW</a>
-                  
-<a href="../../elicitacao/first_things_first/" class="dropdown-item">First Things First</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown active">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Modelagem">Modelagem <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Modelagem">
-                  
-<a href="../cenarios/cenariosTotais/" class="dropdown-item">Cenários</a>
-                  
-<a href="../lexico/" class="dropdown-item">Léxico</a>
-                  
-<a href="../especificacao_suplementar/" class="dropdown-item">Especificação Suplementar</a>
-                  
-<a href="../casos_de_uso/casos/" class="dropdown-item">Casos de Uso</a>
-                  
-<a href="../diagramas_casos_de_uso/diagrama_caso_uso/" class="dropdown-item">Diagramas de Caso de Uso</a>
-                  
-<a href="./" class="dropdown-item active">Histórias de Usuário</a>
-                  
-<a href="../nfr/" class="dropdown-item">NFR</a>
-                  
-<a href="../iStar.md" class="dropdown-item">iStar</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Análise">Análise <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Análise">
-                  
-<a href="../../analise/verificacao/" class="dropdown-item">Verificação</a>
-                  
-<a href="../../analise/validacaoprototipo/" class="dropdown-item">Validação</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Pós-rastreabilidade">Pós-rastreabilidade <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Pós-rastreabilidade">
-                  
-<a href="../../pos-rastreabilidade/pos_rastreabilidade/" class="dropdown-item">Sobre</a>
-                  
-<a href="../../pos-rastreabilidade/forward_from/" class="dropdown-item">Forward-from</a>
-                </div>
-              </li>
-            </ul>
-          </nav>
+        <div id="navbar-top" class="collapse navbar-collapse">
+              <nav class="nav">
+                <ul class="navbar-nav">
+                      <li >
+                        <a class="nav-link" href="../..">Inicial</a>
+                      </li>
+                      <li >
+                        <a class="nav-link" href="../../planejamento/">Planejamento</a>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Apresentações <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../pontocontrole/" class="dropdown-item">Pontos de Controle</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/primeira_entrega/" class="dropdown-item">Primeira Entrega</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/segunda_entrega/" class="dropdown-item">Segunda Entrega</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/terceira_entrega/" class="dropdown-item">Terceira Entrega</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Pré-rastreabilidade <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../pre-rastreabilidade/pre_rastreabilidade/" class="dropdown-item">Sobre</a>
+  </li>
+                            
+  <li>
+    <a href="../../pre-rastreabilidade/rich-pictures/" class="dropdown-item">Rich Pictures</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Elicitação <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../elicitacao/obs_part/" class="dropdown-item">Observação Participativa</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/introspeccao/" class="dropdown-item">Introspecção</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/questionario/" class="dropdown-item">Questionário</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/brainstorming/" class="dropdown-item">Brainstorming</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/analise_de_protocolo/" class="dropdown-item">Análise de Protocolo</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/analise_de_discurso/" class="dropdown-item">Análise de Discurso</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/personas/" class="dropdown-item">Personas</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/entrevista/" class="dropdown-item">Entrevista</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/storytelling/" class="dropdown-item">Storyboard</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/resultado/" class="dropdown-item">Resultado</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/moscow/" class="dropdown-item">MoScoW</a>
+  </li>
+                            
+  <li>
+    <a href="../../elicitacao/first_things_first/" class="dropdown-item">First Things First</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown active">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Modelagem <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../cenarios/cenariosTotais/" class="dropdown-item">Cenários</a>
+  </li>
+                            
+  <li>
+    <a href="../lexico/" class="dropdown-item">Léxico</a>
+  </li>
+                            
+  <li>
+    <a href="../especificacao_suplementar/" class="dropdown-item">Especificação Suplementar</a>
+  </li>
+                            
+  <li>
+    <a href="../casos_de_uso/casos/" class="dropdown-item">Casos de Uso</a>
+  </li>
+                            
+  <li>
+    <a href="../diagramas_casos_de_uso/diagrama_caso_uso/" class="dropdown-item">Diagramas de Caso de Uso</a>
+  </li>
+                            
+  <li>
+    <a href="./" class="dropdown-item active">Histórias de Usuário</a>
+  </li>
+                            
+  <li>
+    <a href="../nfr/" class="dropdown-item">NFR</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Análise <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../analise/verificacao/" class="dropdown-item">Verificação</a>
+  </li>
+                            
+  <li>
+    <a href="../../analise/validacaoprototipo/" class="dropdown-item">Validação</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Pós-rastreabilidade <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../pos-rastreabilidade/pos_rastreabilidade/" class="dropdown-item">Sobre</a>
+  </li>
+                            
+  <li>
+    <a href="../../pos-rastreabilidade/forward_from/" class="dropdown-item">Forward-from</a>
+  </li>
+                        </ul>
+                      </li>
+                </ul>
+              </nav>
 
           <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-            <li class="nav-item">
-              <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-		<i class="fa fa-search"></i> Search
-              </a>
-            </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs-search-modal">
+                    <i class="fa fa-search"></i> Search
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" rel="next" href="../diagramas_casos_de_uso/diagrama_caso_uso/">
+                    <i class="fa fa-arrow-left"></i> Previous
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" rel="prev" href="../nfr/">
+                    Next <i class="fa fa-arrow-right"></i>
+                  </a>
+                </li>
           </ul>
-	</div>
-	</div>
-      </nav><div id="content" class="container">
-        
+        </div>
+      </div>
+    </nav><div id="content" class="container">
+          
       <div class="row">
         <div class="col-md-9" role="main">
 
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    
-    
-    <li class="breadcrumb-item">Modelagem</li>
-    
-    
-    <li class="breadcrumb-item active" aria-current="page">Histórias de Usuário</li>
-  </ol>
-</nav>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      
+        
+          <li class="breadcrumb-item">Modelagem</li>
+        
+      
+      
+        <li class="breadcrumb-item active" aria-current="page">
+          Histórias de Usuário
+        </li>
+      
+    </ol>
+  </nav>
 
 
 <h1 id="historias-de-usuario">Histórias de  <a href="../../modelagem/lexico/#usuario">usuário</a></h1>
@@ -194,122 +257,492 @@
       <tr>
             <td> 26.10.2020 </td>
             <td>  0.2   </td>
-            <td> Adição dos épicos e histórias de usuários</td>
-            <td> Isabella Carneiro, Bruna Almeida </td>
+            <td> Adição dos épicos e dos links dos épicos</td>
+            <td> Lucas Lopes </td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.3   </td>
+            <td> Adição das histórias de usuários do épico visualização</td>
+            <td> Isabella Carneiro</td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.4   </td>
+            <td> Adição das histórias de usuários do épico campeonato e a linkagem das histórias de usuário</td>
+            <td> Bruna Almeida </td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.5   </td>
+            <td> Adição das histórias de usuários do épico assinante</td>
+            <td> Damarcones Porto </td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.6  </td>
+            <td> Adição das histórias de usuários do épico cadastro e tabela backlog</td>
+            <td> Lucas Lopes </td>
         </tr>
     </tbody>
 </table></p>
-
-<ul class="metadata page-metadata" data-bi-name="page info" lang="en-us" dir="ltr">
-  <li class="last-updated-holder displayDate loading">
-    <span class="last-updated-text">Last updated:</span>
-    <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date"></time>
-  </li>
-<!--
-  <li class="readingTime">
-    2 minutes to read
-  </li>
--->
-  <li class="contributors-holder">
-    <span class="contributors-text">Contributors</span>
-    <ul class="contributors" data-bi-name="contributors"></ul>
-  </li>
+<h2 id="participantes">Participantes</h2>
+<ul>
+<li>Bruna</li>
+<li>Damarcondes</li>
+<li>Isabella </li>
+<li>Geraldo</li>
+<li>Lucas </li>
 </ul>
-</div>
-        <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
-            <span class="fa fa-angle-down"></span>
-        </button>
-    </div>
+<h2 id="backlog">Backlog</h2>
+<table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
+    <colgroup width="95"></colgroup>
+    <colgroup width="24"></colgroup>
+    <colgroup width="144"></colgroup>
+    <colgroup width="342"></colgroup>
+    <colgroup width="304"></colgroup>
+    <colgroup width="85"></colgroup>
+    <colgroup width="110"></colgroup>
+    <tr>
+        <td height="21" align="center" valign=bottom><b><font color="#000000">&Eacute;pico</font></b></td>
+        <td align="center" valign=bottom><b><font color="#000000">ID</font></b></td>
+        <td align="center" valign=bottom><b><font color="#000000">Eu, como</font></b></td>
+        <td align="center" valign=bottom><b><font color="#000000">Desejo</font></b></td>
+        <td align="center" valign=bottom><b><font color="#000000">Para que eu possa</font></b></td>
+        <td align="center" valign=bottom><b><font color="#000000">Pontua&ccedil;&atilde;o </font></b></td>
+        <td align="center" valign=bottom><b><font color="#000000">Prioridade</font></b></td>
+    </tr>
+    <tr>
+        <td rowspan=6 height="126" align="center" valign=middle bgcolor="#D5A6BD"><font color="#000000">Cadastro</font></td>
+        <td align="right" valign=bottom sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Realizar cadastro na plataforma</font></td>
+        <td align="left" valign=bottom><font color="#000000">me cadastrar no aplicativo</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="2" sdnum="1033;"><font color="#000000">2</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Fazer Login na plataforma</font></td>
+        <td align="left" valign=bottom><font color="#000000">estar logado</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio logado</font></td>
+        <td align="left" valign=bottom><font color="#000000">Fazer Logout na plataforma</font></td>
+        <td align="left" valign=bottom><font color="#000000">ter minhas credenciais desvinculadas</font></td>
+        <td align="center" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+        <td align="center" valign=bottom bgcolor="#00FF00"><font color="#000000">Baixa</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="4" sdnum="1033;"><font color="#000000">4</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio logado</font></td>
+        <td align="left" valign=bottom><font color="#000000">Editar perfil do tipo atleta</font></td>
+        <td align="left" valign=bottom><font color="#000000">atualizar meu perfil</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Recuperar senha de perfil atleta</font></td>
+        <td align="left" valign=bottom><font color="#000000">recuperar meu acesso</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="6" sdnum="1033;"><font color="#000000">6</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio logado</font></td>
+        <td align="left" valign=bottom><font color="#000000">Enviar convite</font></td>
+        <td align="left" valign=bottom><font color="#000000">convidar atletas para plataforma</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td rowspan=7 height="147" align="center" valign=bottom bgcolor="#B7E1CD"><font color="#000000">Assinante</font></td>
+        <td align="right" valign=bottom sdval="7" sdnum="1033;"><font color="#000000">7</font></td>
+        <td align="left" valign=bottom><font color="#000000">Eu como t&eacute;cnico</font></td>
+        <td align="left" valign=bottom><font color="#000000">Adicionar patrocinador a um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">vincular um patrocinador a um campeonato</font></td>
+        <td align="center" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+        <td align="center" valign=bottom bgcolor="#00FF00"><font color="#000000">Baixa</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="left" valign=bottom><font color="#000000">Eu como t&eacute;cnico</font></td>
+        <td align="left" valign=bottom><font color="#000000">Adicionar uma not&iacute;cia a um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">promover uma not&iacute;cia em um campeonato</font></td>
+        <td align="center" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+        <td align="center" valign=bottom bgcolor="#00FF00"><font color="#000000">Baixa</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="9" sdnum="1033;"><font color="#000000">9</font></td>
+        <td align="left" valign=bottom><font color="#000000">Eu como assinante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Assinar Planos Premium</font></td>
+        <td align="left" valign=bottom><font color="#000000">ter privil&eacute;gios de acordo com meu plano</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="10" sdnum="1033;"><font color="#000000">10</font></td>
+        <td align="left" valign=bottom><font color="#000000">Eu como t&eacute;cnico</font></td>
+        <td align="left" valign=bottom><font color="#000000">Disponibilizar inscri&ccedil;&atilde;o</font></td>
+        <td align="left" valign=bottom><font color="#000000">cadastrar participantes no campeonato</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="11" sdnum="1033;"><font color="#000000">11</font></td>
+        <td align="left" valign=bottom><font color="#000000">Eu como t&eacute;cnico</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar pagantes em um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">checar pagantes de um campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="12" sdnum="1033;"><font color="#000000">12</font></td>
+        <td align="left" valign=bottom><font color="#000000">Eu como t&eacute;cnico</font></td>
+        <td align="left" valign=bottom><font color="#000000">Editar pagantes em um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">editar pagantes de um campeonato</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="13" sdnum="1033;"><font color="#000000">13</font></td>
+        <td align="left" valign=bottom><font color="#000000">Eu como t&eacute;cnico</font></td>
+        <td align="left" valign=bottom><font color="#000000">Preencher informa&ccedil;&otilde;es sobre um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">atualizar informa&ccedil;&otilde;es de um campeonato</font></td>
+        <td align="center" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+        <td align="center" valign=bottom bgcolor="#00FF00"><font color="#000000">Baixa</font></td>
+    </tr>
+    <tr>
+        <td rowspan=6 height="126" align="left" valign=middle bgcolor="#FFF2CC"><font color="#000000">Campeonato</font></td>
+        <td align="right" valign=bottom sdval="14" sdnum="1033;"><font color="#000000">14</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Buscar Campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">encontrar um campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="15" sdnum="1033;"><font color="#000000">15</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio administrador</font></td>
+        <td align="left" valign=bottom><font color="#000000">Editar ou excluir rodada</font></td>
+        <td align="left" valign=bottom><font color="#000000">organizar um campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="16" sdnum="1033;"><font color="#000000">16</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio administrador</font></td>
+        <td align="left" valign=bottom><font color="#000000">Editar ou excluir time</font></td>
+        <td align="left" valign=bottom><font color="#000000">organizar um campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="17" sdnum="1033;"><font color="#000000">17</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio administrador</font></td>
+        <td align="left" valign=bottom><font color="#000000">Criar rodadas em um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">organizar um campeonato</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="18" sdnum="1033;"><font color="#000000">18</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio administrador</font></td>
+        <td align="left" valign=bottom><font color="#000000">Alterar chaveamento de um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">organizar um campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="19" sdnum="1033;"><font color="#000000">19</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio administrador</font></td>
+        <td align="left" valign=bottom><font color="#000000">Compartilhamento de informa&ccedil;&otilde;es</font></td>
+        <td align="left" valign=bottom><font color="#000000">possibilitar o compartilhamento de informa&ccedil;&otilde;es</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td rowspan=4 height="84" align="center" valign=middle bgcolor="#D9EAD3"><font color="#000000">Informa&ccedil;&otilde;es</font></td>
+        <td align="right" valign=bottom sdval="20" sdnum="1033;"><font color="#000000">20</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Verificar estat&iacute;stica de um time</font></td>
+        <td align="left" valign=bottom><font color="#000000">visualizar estat&iacute;sticas de um time</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="21" sdnum="1033;"><font color="#000000">21</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Verificar escala&ccedil;&atilde;o de jogos</font></td>
+        <td align="left" valign=bottom><font color="#000000">visualizar a escala&ccedil;&atilde;o dispon&iacute;vel</font></td>
+        <td align="center" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+        <td align="center" valign=bottom bgcolor="#00FF00"><font color="#000000">Baixa</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="22" sdnum="1033;"><font color="#000000">22</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Verificar jogadores de um time</font></td>
+        <td align="left" valign=bottom><font color="#000000">visualizar os jogadores participantes</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="23" sdnum="1033;"><font color="#000000">23</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Verificar jogos de um time</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver o hist&oacute;rico de jogos de um time</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td rowspan=2 height="42" align="center" valign=middle bgcolor="#B4A7D6"><font color="#000000">Usu&aacute;rio</font></td>
+        <td align="right" valign=bottom sdval="24" sdnum="1033;"><font color="#000000">24</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Favoritar Campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">lembrar meu time favorito </font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="25" sdnum="1033;"><font color="#000000">25</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Filtrar jogadores no ranking</font></td>
+        <td align="left" valign=bottom><font color="#000000">filtrar por jogadores</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td rowspan=10 height="210" align="center" valign=middle bgcolor="#C27BA0"><font color="#000000">Visualiza&ccedil;&atilde;o</font></td>
+        <td align="right" valign=bottom sdval="26" sdnum="1033;"><font color="#000000">26</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar an&uacute;ncios e interagir com eles</font></td>
+        <td align="left" valign=bottom><font color="#000000">interagir com os an&uacute;ncios</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="27" sdnum="1033;"><font color="#000000">27</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar os campeonatos cadastrados</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver o hist&oacute;rico de campeonatos realizados</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="28" sdnum="1033;"><font color="#000000">28</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar as estat&iacute;sticas do usu&aacute;rio</font></td>
+        <td align="left" valign=bottom><font color="#000000">visualizar estat&iacute;sticas de um usu&aacute;rio</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="29" sdnum="1033;"><font color="#000000">29</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar as not&iacute;cias de um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver as not&iacute;cias de um campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="30" sdnum="1033;"><font color="#000000">30</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar perfil de um jogador</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver as informa&ccedil;&otilde;es de um perfil de jogador</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="31" sdnum="1033;"><font color="#000000">31</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar o ranking de jogadores de um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver as posi&ccedil;&otilde;es dos jogadores no campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="32" sdnum="1033;"><font color="#000000">32</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar as rodadas de jogos de um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver as pr&oacute;ximas rodadas de um campeonato</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="33" sdnum="1033;"><font color="#000000">33</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar a tabela de jogos de um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver tabela&ccedil;&atilde;o do campeonato</font></td>
+        <td align="center" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+        <td align="center" valign=bottom bgcolor="#00FF00"><font color="#000000">Baixa</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="34" sdnum="1033;"><font color="#000000">34</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar agenda de jogos</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver os agendamentos de jogos </font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="35" sdnum="1033;"><font color="#000000">35</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Visualizar ranking de um campeonato</font></td>
+        <td align="left" valign=bottom><font color="#000000">ver um ranking geral do campeonato</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td rowspan=3 height="63" align="center" valign=middle bgcolor="#CFE2F3"><font color="#000000">Homologa&ccedil;&atilde;o</font></td>
+        <td align="right" valign=bottom sdval="36" sdnum="1033;"><font color="#000000">36</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio visitante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Verificar extrato de jogo</font></td>
+        <td align="left" valign=bottom><font color="#000000">tenha acesso ao extrato da  partida</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="37" sdnum="1033;"><font color="#000000">37</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio t&eacute;cnico</font></td>
+        <td align="left" valign=bottom><font color="#000000">Acessar s&uacute;mula digital</font></td>
+        <td align="left" valign=bottom><font color="#000000">visualizar a s&uacute;mula digital do jogo</font></td>
+        <td align="center" valign=bottom sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+        <td align="center" valign=bottom bgcolor="#FFFF00"><font color="#000000">M&eacute;dia</font></td>
+    </tr>
+    <tr>
+        <td align="right" valign=bottom sdval="38" sdnum="1033;"><font color="#000000">38</font></td>
+        <td align="left" valign=bottom><font color="#000000">usu&aacute;rio assinante</font></td>
+        <td align="left" valign=bottom><font color="#000000">Acessar s&uacute;mula f&iacute;sica</font></td>
+        <td align="left" valign=bottom><font color="#000000">possa gerar um download da s&uacute;mula do jogo</font></td>
+        <td align="center" valign=bottom sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
+        <td align="center" valign=bottom bgcolor="#FF0000"><font color="#000000">Alta</font></td>
+    </tr>
+</table>
 
-    <div id="toc-collapse" class="navbar-collapse collapse card">
-        <ul class="nav flex-column bs-sidenav">
-            <li class="nav-item main"><a class="nav-link" href="#historias-de-usuario">Histórias de  usuário</a></li>
-                <li class="nav-item">
-                    <a href="#historico-de-versao" class="nav-link">Histórico de Versão</a>
-                </li>
-        </ul>
-    </div>
+<h2 id="epicos">Épicos</h2>
+<p><a href="../epicos/cadastro/">Cadastro</a><br>
+<a href="../epicos/assinante/">Assinante</a><br>
+<a href="../epicos/campeonato/">Campeonato</a><br>
+<a href="../epicos/homologacao/">Homologação</a><br>
+<a href="../epicos/informacoes/">Informações</a><br>
+<a href="../epicos/usuario/">Usuário</a><br>
+<a href="../epicos/visualizacao/">Visualização</a><br></p>
+<p><br></p>
+<h2 id="listagem-das-historias-de-usuario">Listagem das Histórias de Usuário</h2>
+<!-- Cadastro -->
+
+<p><a href="../epicos/cadastro/">US01: Realizar cadastro</a><br>
+<a href="../epicos/cadastro/">US02: Fazer Login</a><br>
+<a href="../epicos/cadastro/">US03: Fazer Logout</a><br>
+<a href="../epicos/cadastro/">US04: Editar perfil</a><br>
+<a href="../epicos/cadastro/">US05: Recuperar senha</a><br>
+<a href="../epicos/cadastro/">US06: Enviar convite</a><br>
+<!-- Assinante -->
+<a href="../epicos/assinante/">US07: Adicionar patrocinador a um campeonato</a><br>
+<a href="../epicos/assinante/">US08: Adicionar uma notícia a um campeonato</a><br>
+<a href="../epicos/assinante/">US09: Assinar Planos Premium</a><br>
+<a href="../epicos/assinante/">US10: Disponibilizar inscrição</a><br>
+<a href="../epicos/assinante/">US11: Visualizar pagantes em um campeonato</a><br>
+<a href="../epicos/assinante/">US12: Editar pagantes em um campeonato</a><br>
+<a href="../epicos/assinante/">US13: Preencher informações sobre um campeonato</a><br>
+<!-- Campeonato -->
+<a href="../epicos/campeonato/">US14: Buscar Campeonato</a><br>
+<a href="../epicos/campeonato/">US15: Editar ou excluir rodada</a><br>
+<a href="../epicos/campeonato/">US16: Editar ou excluir time</a><br>
+<a href="../epicos/campeonato/">US17: Criar rodadas em um campeonato</a><br>
+<a href="../epicos/campeonato/">US18: Alterar chaveamento de um campeonato</a><br>
+<a href="../epicos/campeonato/">US19: Compartilhamento de informações</a><br>
+<!-- Informações -->
+<a href="../epicos/informacoes/">US20: Verificar estatística de um time</a><br>
+<a href="../epicos/informacoes/">US21: Verificar escalação de jogos</a><br>
+<a href="../epicos/informacoes/">US22: Verificar jogadores de um time</a><br>
+<a href="../epicos/informacoes/">US23: Verificar jogos de um time</a><br>
+<!-- Usuário -->
+<a href="../epicos/usuario/">US24: Favoritar Campeonato</a><br>
+<a href="../epicos/usuario/">US25: Filtrar jogadores no ranking</a><br>
+<!-- Visualização -->
+<a href="../epicos/visualizacao/">US26: Visualizar anúncios e interagir com eles</a><br>
+<a href="../epicos/visualizacao/">US27: Visualizar os campeonatos cadastrados</a><br>
+<a href="../epicos/visualizacao/">US28: Visualizar as estatísticas do usuário</a><br>
+<a href="../epicos/visualizacao/">US29: Visualizar as notícias de um campeonato</a><br>
+<a href="../epicos/visualizacao/">US30: Visualizar perfil de um jogador</a><br>
+<a href="../epicos/visualizacao/">US31: Visualizar o ranking de jogadores de um campeonato</a><br>
+<a href="../epicos/visualizacao/">US32: Visualizar as rodadas de jogos de um campeonato</a><br>
+<a href="../epicos/visualizacao/">US33: Visualizar a tabela de jogos de um campeonato</a><br>
+<a href="../epicos/visualizacao/">US34: Visualizar agenda de jogos</a><br>
+<a href="../epicos/visualizacao/">US35: Visualizar ranking de um campeonato</a><br>
+<!-- Homologação -->
+<a href="../epicos/homologacao/">US36: Verificar extrato de jogo</a><br>
+<a href="../epicos/homologacao/">US37: Acessar súmula digital</a><br>
+<a href="../epicos/homologacao/">US38: Acessar súmula física</a><br></p></div>
+        <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+      <span class="fa fa-angle-down"></span>
+    </button>
+  </div>
+
+  <div id="toc-collapse" class="navbar-collapse collapse card">
+    <ul class="nav flex-column bs-sidenav">
+        <li class="nav-item main"><a class="nav-link" href="#historias-de-usuario">Histórias de  usuário</a></li>
+          <li class="nav-item">
+            <a href="#historico-de-versao" class="nav-link">Histórico de Versão</a>
+          </li>
+          <li class="nav-item">
+            <a href="#participantes" class="nav-link">Participantes</a>
+          </li>
+          <li class="nav-item">
+            <a href="#backlog" class="nav-link">Backlog</a>
+          </li>
+          <li class="nav-item">
+            <a href="#epicos" class="nav-link">Épicos</a>
+          </li>
+          <li class="nav-item">
+            <a href="#listagem-das-historias-de-usuario" class="nav-link">Listagem das Histórias de Usuário</a>
+          </li>
+    </ul>
+  </div>
 </div></div>
       </div>
+        </div>
+
+    <footer class="col-md-12">
+      <hr>
+      <div class="container">
       </div>
-
-      <footer class="col-md-12">
-	<hr>
-	<div class="container">
-	</div>
-      </footer>
+    </footer>
       <script>
-	var base_url = "../..",
-            shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        var base_url = "../..";
       </script>
-      <script src="../../js/base.js" defer></script>
-      <script src="../../search/main.js" defer></script>
+        <script src="../../search/main.js" defer></script>
 
-      <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>
-                    From here you can search these documents. Enter
-                    your search terms below.
-                </p>
-                <form role="form">
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
+    <div class="modal" id="mkdocs-search-modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Search</h4>
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body">
+        <p>From here you can search these documents. Enter your search terms below.</p>
+        <form role="form">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+          </div>
+        </form>
+        <div id="mkdocs-search-results"></div>
+      </div>
+      <div class="modal-footer">
+      </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <p class="h4 modal-title">Keyboard Shortcuts</p>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-              <table class="table">
-                <thead>
-                  <tr>
-                    <th style="width: 20%;">Keys</th>
-                    <th>Action</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td class="help shortcut"><kbd>?</kbd></td>
-                    <td>Open this help</td>
-                  </tr>
-                  <tr>
-                    <td class="next shortcut"><kbd>n</kbd></td>
-                    <td>Next page</td>
-                  </tr>
-                  <tr>
-                    <td class="prev shortcut"><kbd>p</kbd></td>
-                    <td>Previous page</td>
-                  </tr>
-                  <tr>
-                    <td class="search shortcut"><kbd>s</kbd></td>
-                    <td>Search</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
+  </div>
 </div>
-
-    </body>
+  </body>
 </html>
+
