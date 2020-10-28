@@ -21,8 +21,8 @@
 
 ## Diagrama de usuário atleta
 
-<img height="320px" src="../imagens/iStar1.png"> 
+<img height="320px" src="../images/iStar1.png"> 
 
 ## Diagrama de usuário técnico
 
-<img height="320px" src="../imagens/iStar2.png"> 
+<img height="320px" src="../images/iStar2.png"> 
