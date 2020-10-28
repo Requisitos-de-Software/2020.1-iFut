@@ -92,6 +92,12 @@
             <td> Adição de informações no cronograma</td>
             <td> Isabella Carneiro </td>
         </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  1.5   </td>
+            <td> Adição de informações no cronograma sobre a 4ª entrega</td>
+            <td> Bruna Almeida </td>
+        </tr>
     </tbody>
 </table>
 
@@ -313,3 +319,89 @@
         </tr>
     </tbody>
 </table>
+<br>
+
+##### **Realizado de 10/10 até 28/10**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Entrega</th>
+        <th>Previsão</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Criar Backlog</td>
+            <td>Geraldo</td>
+            <td>Todos os integrantes</td>
+            <td>26/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar NFR</td>
+            <td>Damarcones, Geraldo</td>
+            <td></td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Classificar épicos</td>
+            <td>Lucas</td>
+            <td>Todos os integrantes</td>
+            <td>25/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar histórias de usuário - Épico Cadastro</td>
+            <td>Lucas</td>
+            <td></td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar histórias de usuário - Épico Assinante</td>
+            <td>Damarcones</td>
+            <td>Isabella, Bruna</td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar histórias de usuário - Épico Campeonato</td>
+            <td>Bruna</td>
+            <td>Isabella, Damarcones</td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar histórias de usuário - Épico Homologação</td>
+            <td>Isabella</td>
+            <td>Bruna, Damarcones</td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar histórias de usuário - Épico Informações</td>
+            <td>Bruna</td>
+            <td>Damarcones</td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar histórias de usuário - Épico Usuário</td>
+            <td>Damarcones</td>
+            <td>Bruna</td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+        <tr>
+            <td>Preparar histórias de usuário - Épico Visualização</td>
+            <td>Isabella</td>
+            <td>Bruna, Damarcones</td>
+            <td>27/10</td>
+            <td>27/10</td>
+        </tr>
+    </tbody>
+</table>
+<br>

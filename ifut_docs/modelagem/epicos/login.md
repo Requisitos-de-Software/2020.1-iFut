@@ -1,1 +1,0 @@
-# Épico:  <a href="../../lexico/#login">login</a>
