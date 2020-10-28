@@ -22,13 +22,13 @@
     </tbody>
 </table>
 
-### US23 Favoritar campeonato
+### US24 Favoritar campeonato
 Eu, como usuário, desejo favoritar os campeonatos que mais me interesso.
 
 #### Critérios de Aceitação:
 - Deve ser possível favoritar campeonatos para se obter mais informações.
 
-### US24 Filtrar jogadores
+### US25 Filtrar jogadores
 Eu, como usuário, quero poder encontrar jogadores pelos seus rankings
 
 #### Critérios de Aceitação:

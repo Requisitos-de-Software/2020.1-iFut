@@ -47,7 +47,7 @@
         <tr>
             <td> 16.09.2020 </td>
             <td>  0.7   </td>
-            <td> Removoção das imagens do cronograma e adição da tabela </td>
+            <td> Remoção das imagens do cronograma e adição da tabela </td>
             <td> Lucas Lopes</td>
         </tr>
         <tr>
@@ -356,7 +356,7 @@
         <tr>
             <td>Preparar histórias de usuário - Épico Cadastro</td>
             <td>Lucas</td>
-            <td></td>
+            <td>Geraldo</td>
             <td>27/10</td>
             <td>27/10</td>
         </tr>

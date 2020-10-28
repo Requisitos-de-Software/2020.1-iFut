@@ -41,7 +41,25 @@
         </tr>
         <tr>
             <td> 27.10.2020 </td>
-            <td>  0.6  </td>
+            <td>  0.6   </td>
+            <td> Adição das histórias de usuários do épico usuário</td>
+            <td> Damarcones Porto </td>
+        </tr>
+		<tr>
+            <td> 27.10.2020 </td>
+            <td>  0.7   </td>
+            <td> Adição das histórias de usuários do épico informação</td>
+		<td> Bruna Almeida </td>
+        </tr>
+		<tr>
+            <td> 27.10.2020 </td>
+            <td>  0.8   </td>
+            <td> Adição das histórias de usuários do épico homologação</td>
+            <td> Isabella Carneiro </td>
+        </tr>
+        <tr>
+            <td> 27.10.2020 </td>
+            <td>  0.9  </td>
             <td> Adição das histórias de usuários do épico cadastro e tabela backlog</td>
             <td> Lucas Lopes </td>
         </tr>
@@ -52,7 +70,7 @@
 
 ## Participantes
 - Bruna
-- Damarcondes
+- Damarcones
 - Isabella 
 - Geraldo
 - Lucas 
