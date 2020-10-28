@@ -1,4 +1,4 @@
-# Léxicos
+    # Léxicos
 
 <table class="table table-striped border">
     <thead>
@@ -66,7 +66,7 @@
 
 * ## A 
 
-### Acessibilidade
+## Acessibilidade
 
 <table class="table table-striped border">
     <tr>
@@ -90,7 +90,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Diz respeito a quanto acessível o App ou plataforma Web é para o usuário.
+            Diz respeito a quanto acessível o <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web é para o  <a href="../../modelagem/lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário consegue executar qualquer tarefa dentro do App ou plataforma Web.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> consegue executar qualquer tarefa dentro do <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -112,53 +112,7 @@
 </table>
 <br>
 
-### Agenda de jogos
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td> 
-        <td>
-            Agenda de jogos
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Marcações de jogos, rodadas.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Agenda com os jogos marcados que o usuário possui.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário  ao logar no App é direcionado para a agenda de jogos.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-### API
+###  <a href="../../modelagem/lexico/#applestore">AppleStore</a>
 
 <table class="table table-striped border">
     <tr>
@@ -166,99 +120,7 @@
             <b>Nome</b>
         </td>
         <td>
-            API
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Interface de programação de aplicativos.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-           Uma API é criada quando uma empresa de software tem a intenção de que outros criadores de software desenvolvam produtos associados ao seu serviço.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-### App
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td>
-        <td>
-            App
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Aplicação, programa aplicativo.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            A própria aplicação de um modo geral.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário poderá utilizar tanto aplicativo seja IOS ou Android como plataforma WeB.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-### AppleStore
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td>
-        <td>
-            AppleStore
+             <a href="../../modelagem/lexico/#applestore">AppleStore</a>
         </td>
     </tr>
     <tr>
@@ -282,7 +144,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder baixar o aplicativo pela loja da Apple.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder baixar o aplicativo pela loja da Apple.
         </td>
     </tr>
     <tr>
@@ -296,7 +158,53 @@
 </table>
 <br>
 
-### Árbitro
+## <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a>
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td> 
+        <td>
+            <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Marcações de jogos,  <a href="../../modelagem/lexico/#rodadas">rodadas</a>.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            Agenda com os jogos marcados que o  <a href="../../modelagem/lexico/#usuario">usuário</a> possui.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a>  ao logar no <a href="../../modelagem/lexico/#App">App</a> é direcionado para a <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a>.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## <a href="../../modelagem/lexico/#API">API</a>
 
 <table class="table table-striped border">
     <tr>
@@ -304,7 +212,99 @@
             <b>Nome</b>
         </td>
         <td>
-            Árbitro
+            <a href="../../modelagem/lexico/#API">API</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Interface de programação de aplicativos.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            <a href="../../modelagem/lexico/#API">API</a> é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+           Uma <a href="../../modelagem/lexico/#API">API</a> é criada quando uma empresa de software tem a intenção de que outros criadores de software desenvolvam produtos associados ao seu serviço.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## <a href="../../modelagem/lexico/#App">App</a>
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td>
+        <td>
+            <a href="../../modelagem/lexico/#App">App</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Sinônimos</b>
+        </td>
+        <td>
+            Aplicação, programa aplicativo.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Noção</b>
+        </td>
+        <td>
+            A própria aplicação de um modo geral.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Impacto</b>
+        </td>
+        <td>
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá utilizar tanto aplicativo seja  <a href="../../modelagem/lexico/#ios">IOS</a> ou Android como plataforma WeB.
+        </td>
+    </tr>
+    <tr>
+        <td style="width: 100px;">
+            <b>Classificação</b>
+        </td>
+        <td>
+            Objeto
+        </td>
+    </tr>
+</table>
+<br>
+
+## <a href="../../modelagem/lexico/#arbitro">Árbitro</a>
+
+<table class="table table-striped border">
+    <tr>
+        <td style="width: 100px;">
+            <b>Nome</b>
+        </td>
+        <td>
+            <a href="../../modelagem/lexico/#arbitro">Árbitro</a>
         </td>
     </tr>
     <tr>
@@ -328,7 +328,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            A partir das determinações do juiz o usuário poderá marcar essas informações nas estatísticas do jogo.
+            A partir das determinações do juiz o  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá marcar essas informações nas  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> do jogo.
         </td>
     </tr>
     <tr>
@@ -342,7 +342,7 @@
 </table>
 <br>
 
-### Atleta
+## <a href="../../modelagem/lexico/#atleta">Atleta</a>
 
 <table class="table table-striped border">
     <tr>
@@ -350,7 +350,7 @@
             <b>Nome</b>
         </td>
         <td>
-            Atleta
+            <a href="../../modelagem/lexico/#atleta">Atleta</a>
         </td>
     </tr>
     <tr>
@@ -366,7 +366,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Usuário que joga os jogos de fato, faz gols, faltas, pode ser escalado ou não, faz parte do time.
+             <a href="../../modelagem/lexico/#usuario">usuário</a> que joga os jogos de fato, faz gols, faltas, pode ser escalado ou não, faz parte do  <a href="../../modelagem/lexico/#time">time</a>.
         </td>
     </tr>
     <tr>
@@ -374,7 +374,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário jogador pode ver sua pontuação, quantos gols fez, quantas assistências deu.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> jogador pode ver sua  <a href="../../modelagem/lexico/#pontuacao">pontuação</a>, quantos gols fez, quantas assistências deu.
         </td>
     </tr>
     <tr>
@@ -388,7 +388,7 @@
 </table>
 <br>
 
-### Auto gerenciável
+## <a href="../../modelagem/lexico/#auto-gerenciavel">Auto gerenciável</a>
 
 <table class="table table-striped border">
     <tr>
@@ -396,7 +396,7 @@
             <b>Nome</b>
         </td>
         <td>
-            Auto gerenciável
+            <a href="../../modelagem/lexico/#auto-gerenciavel">Auto gerenciável</a>
         </td>
     </tr>
     <tr>
@@ -412,7 +412,7 @@
             <b>Noção</b>
         </td>
         <td>
-            O sistema de deve gerar as tabelas e confrontos de maneira que ela consiga se auto gerenciar.
+            O sistema de deve gerar as tabelas e   <a href="../../modelagem/lexico/#confrontos">confontros</a> de maneira que ela consiga se auto gerenciar.
         </td>
     </tr>
     <tr>
@@ -420,7 +420,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder colocar os resultados dos confrontos e o sistema gerar pra ele os resultados esperados automaticamente.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder colocar os resultados dos   <a href="../../modelagem/lexico/#confrontos">confontros</a> e o sistema gerar pra ele os resultados esperados automaticamente.
         </td>
     </tr>
     <tr>
@@ -436,7 +436,7 @@
 
 * ## B 
 
-### Baixar
+## <a href="../../modelagem/lexico/#baixar">Baixar</a>
 
 <table class="table table-striped border">
     <tr>
@@ -444,7 +444,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Baixar
+        <a href="../../modelagem/lexico/#baixar">Baixar</a>
         </td>
     </tr>
     <tr>
@@ -460,7 +460,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Atividade de puxar dados que estão armazenado em algum servidor externo para o dispositivo do usuário. 
+            Atividade de puxar dados que estão armazenado em algum servidor externo para o dispositivo do  <a href="../../modelagem/lexico/#usuario">usuário</a>. 
         </td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder baixar as súmulas dos seus campeonatos.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#baixar">baixar</a> as súmulas dos seus <a href="../../modelagem/lexico/#campeonato">campeonato</a>s.
         </td>
     </tr>
     <tr>
@@ -482,7 +482,7 @@
 </table>
 <br>
 
-### Buscador
+## <a href="../../modelagem/lexico/#buscador">Buscador</a>
 
 <table class="table table-striped border">
     <tr>
@@ -490,7 +490,7 @@
             <b>Nome</b>
         </td>
         <td>
-            Buscador
+            <a href="../../modelagem/lexico/#buscador">Buscador</a>
         </td>
     </tr>
     <tr>
@@ -506,7 +506,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Um meio pelo qual o usuário deve poder encontrar as informações de maneira mais rápida do que ter que procurar de forma manual a informação que ele deseja.
+            Um meio pelo qual o  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder encontrar as informações de maneira mais rápida do que ter que procurar de forma manual a informação que ele deseja.
         </td>
     </tr>
     <tr>
@@ -514,7 +514,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder buscar campeonatos pelo nome ao final da home.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder buscar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s pelo nome ao final da  <a href="../../modelagem/lexico/#home">home</a>.
         </td>
     </tr>
     <tr>
@@ -530,7 +530,7 @@
 
 * ## C 
 
-### Cadastrar
+## <a href="../../modelagem/lexico/#cadastrar">Cadastrar</a>
 
 <table class="table table-striped border">
     <tr>
@@ -538,7 +538,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Cadastrar
+        <a href="../../modelagem/lexico/#cadastrar">Cadastrar</a>
         </td>
     </tr>
     <tr>
@@ -554,7 +554,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Cadastro de alguma informação em alguma base de dados.
+            <a href="../../modelagem/lexico/#cadastrar">Cadastro</a> de alguma informação em alguma base de dados.
         </td>
     </tr>
     <tr>
@@ -562,7 +562,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder se cadastrar pelos meios disponibilizados.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder se <a href="../../modelagem/lexico/#cadastrar">cadastrar</a> pelos meios disponibilizados.
         </td>
     </tr>
     <tr>
@@ -576,7 +576,7 @@
 </table>
 <br>
 
-### Campeonato
+## <a href="../../modelagem/lexico/#campeonato">Campeonato</a>
 
 <table class="table table-striped border">
     <tr>
@@ -584,7 +584,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Campeonato
+        <a href="../../modelagem/lexico/#campeonato">Campeonato</a>
         </td>
     </tr>
     <tr>
@@ -600,7 +600,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Meio pelo qual os times se enfrentam onde é determinado um ganhador ao final do mesmo.
+            Meio pelo qual os  <a href="../../modelagem/lexico/#time">time</a>s se enfrentam onde é determinado um ganhador ao final do mesmo.
         </td>
     </tr>
     <tr>
@@ -608,7 +608,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O campeonado deve estar disponível para os usuários de maneira clara e de fácil compreensão.
+            O campeonado deve estar disponível para os  <a href="../../modelagem/lexico/#usuario">usuário</a>s de maneira clara e de fácil compreensão.
         </td>
     </tr>
     <tr>
@@ -622,7 +622,7 @@
 </table>
 <br>
 
-### Chaves
+## <a href="../../modelagem/lexico/#chaves">Chaves</a>
 
 <table class="table table-striped border">
     <tr>
@@ -630,7 +630,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Chaves
+        <a href="../../modelagem/lexico/#chaves">Chaves</a>
         </td>
     </tr>
     <tr>
@@ -646,7 +646,7 @@
             <b>Noção</b>
         </td>
         <td>
-            São as possíveis combinações de confrontos que venham a ocorrer entre os times.
+            São as possíveis combinações de   <a href="../../modelagem/lexico/#confrontos">confontros</a> que venham a ocorrer entre os  <a href="../../modelagem/lexico/#time">time</a>s.
         </td>
     </tr>
     <tr>
@@ -654,7 +654,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema deve gerar as chaves automaticamente para os campeonatos.
+            O sistema deve gerar as <a href="../../modelagem/lexico/#chaves">chaves</a> automaticamente para os <a href="../../modelagem/lexico/#campeonato">campeonato</a>s.
         </td>
     </tr>
     <tr>
@@ -668,7 +668,7 @@
 </table>
 <br>
 
-### Classificação
+## <a href="../../modelagem/lexico/#classificacao">Classificação</a>
 
 <table class="table table-striped border">
     <tr>
@@ -676,7 +676,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Classificação
+        <a href="../../modelagem/lexico/#classificacao">Classificação</a>
         </td>
     </tr>
     <tr>
@@ -692,7 +692,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Como os times são classificados de acordo com seu desempenho nos campeonatos.
+            Como os  <a href="../../modelagem/lexico/#time">time</a>s são classificados de acordo com seu desempenho nos <a href="../../modelagem/lexico/#campeonato">campeonato</a>s.
         </td>
     </tr>
     <tr>
@@ -700,7 +700,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder obter informações sobre as classificações dos times que ele desejar.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder obter informações sobre as classificações dos  <a href="../../modelagem/lexico/#time">time</a>s que ele desejar.
         </td>
     </tr>
     <tr>
@@ -714,7 +714,7 @@
 </table>
 <br>
 
-### Clientes
+## <a href="../../modelagem/lexico/#clientes">Clientes</a>
 
 <table class="table table-striped border">
     <tr>
@@ -722,7 +722,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Clientes
+        <a href="../../modelagem/lexico/#clientes">Clientes</a>
         </td>
     </tr>
     <tr>
@@ -730,7 +730,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Consumidores, utilizadores, usuários.
+            Consumidores, utilizadores,  <a href="../../modelagem/lexico/#usuario">usuário</a>s.
         </td>
     </tr>
     <tr>
@@ -746,7 +746,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Os usuários devem poder se sentir motivamos a serem clientes dos serviços, para que assim possa se obter lucro.
+            Os  <a href="../../modelagem/lexico/#usuario">usuário</a>s devem poder se sentir motivamos a serem <a href="../../modelagem/lexico/#clientes">clientes</a> dos serviços, para que assim possa se obter lucro.
         </td>
     </tr>
     <tr>
@@ -760,7 +760,7 @@
 </table>
 <br>
 
-### Compartilhar
+## <a href="../../modelagem/lexico/#compartilhar">Compartilhar</a>
 
 <table class="table table-striped border">
     <tr>
@@ -768,7 +768,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Compartilhar
+        <a href="../../modelagem/lexico/#compartilhar">Compartilhar</a>
         </td>
     </tr>
     <tr>
@@ -784,7 +784,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Divulgar de modo a disseminar o App para que outras pessoas possam conhecer.
+            Divulgar de modo a disseminar o <a href="../../modelagem/lexico/#App">App</a> para que outras pessoas possam conhecer.
         </td>
     </tr>
     <tr>
@@ -792,7 +792,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder compartilhar diversas informações relevantes dentro do contexto do aplicativo.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> diversas informações relevantes dentro do contexto do aplicativo.
         </td>
     </tr>
     <tr>
@@ -806,7 +806,7 @@
 </table>
 <br>
 
-### Criar
+##   <a href="../../modelagem/lexico/#confrontos">Confrontos</a>
 
 <table class="table table-striped border">
     <tr>
@@ -814,53 +814,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Criar
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Produzir, fazer, elaborar.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Criar jogos e times para que assim os campeonatos possam ocorrer.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário deve poder criar times e jogos para participação em campeonatos.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Ação.
-        </td>
-    </tr>
-</table>
-<br>
-
-### Confrontos
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td>
-        <td>
-        Confrontos
+          <a href="../../modelagem/lexico/#confrontos">Confrontos</a>
         </td>
     </tr>
     <tr>
@@ -876,7 +830,7 @@
             <b>Noção</b>
         </td>
         <td>
-            O confronto pode ser definido como a disputa entre dois times.
+            O confronto pode ser definido como a disputa entre dois  <a href="../../modelagem/lexico/#time">time</a>s.
         </td>
     </tr>
     <tr>
@@ -884,7 +838,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder conseguir visualizar os confrontos de cada campeonato.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder conseguir visualizar os   <a href="../../modelagem/lexico/#confrontos">confontros</a> de cada <a href="../../modelagem/lexico/#campeonato">campeonato</a>.
         </td>
     </tr>
     <tr>
@@ -903,7 +857,7 @@
 
 * ## E 
 
-### Eliminatórias
+##  <a href="../../modelagem/lexico/#eliminatorias">Eliminatórias</a>
 
 <table class="table table-striped border">
     <tr>
@@ -911,7 +865,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Eliminatórias
+         <a href="../../modelagem/lexico/#eliminatorias">Eliminatórias</a>
         </td>
     </tr>
     <tr>
@@ -927,7 +881,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Fases em que a dispota entre os times elimina o time perdedor das próximas fases.
+            Fases em que a dispota entre os  <a href="../../modelagem/lexico/#time">time</a>s elimina o  <a href="../../modelagem/lexico/#time">time</a> perdedor das próximas fases.
         </td>
     </tr>
     <tr>
@@ -935,7 +889,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema deve gerar as eliminatórias automaticamente.
+            O sistema deve gerar as  <a href="../../modelagem/lexico/#eliminatorias">eliminatórias</a> automaticamente.
         </td>
     </tr>
     <tr>
@@ -949,7 +903,7 @@
 </table>
 <br>
 
-### Escalação
+##  <a href="../../modelagem/lexico/#escalacao">Escalação</a>
 
 <table class="table table-striped border">
     <tr>
@@ -957,7 +911,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Escalação
+         <a href="../../modelagem/lexico/#escalacao">Escalação</a>
         </td>
     </tr>
     <tr>
@@ -973,7 +927,7 @@
             <b>Noção</b>
         </td>
         <td>
-            A escalação seria definir quais jogadores que vão jogar a partida.
+            A  <a href="../../modelagem/lexico/#escalacao">escalação</a> seria definir quais jogadores que vão jogar a partida.
         </td>
     </tr>
     <tr>
@@ -981,7 +935,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder ver a escalação dos times que estão participando dos campeonatos.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ver a  <a href="../../modelagem/lexico/#escalacao">escalação</a> dos  <a href="../../modelagem/lexico/#time">time</a>s que estão participando dos <a href="../../modelagem/lexico/#campeonato">campeonato</a>s.
         </td>
     </tr>
     <tr>
@@ -995,7 +949,7 @@
 </table>
 <br>
 
-### Esportes
+##  <a href="../../modelagem/lexico/#esportes">Esportes</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1003,7 +957,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Esportes
+         <a href="../../modelagem/lexico/#esportes">Esportes</a>
         </td>
     </tr>
     <tr>
@@ -1027,7 +981,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Um sugestão seria a de o usuário deve poder sugerir outros esportes para plataforma.
+            Um sugestão seria a de o  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder sugerir outros  <a href="../../modelagem/lexico/#esportes">esportes</a> para plataforma.
         </td>
     </tr>
     <tr>
@@ -1041,7 +995,7 @@
 </table>
 <br>
 
-### Estatísticas
+##  <a href="../../modelagem/lexico/#estatisticas">Estatísticas</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1049,7 +1003,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Estatísticas
+         <a href="../../modelagem/lexico/#estatisticas">Estatísticas</a>
         </td>
     </tr>
     <tr>
@@ -1065,7 +1019,7 @@
             <b>Noção</b>
         </td>
         <td>
-            São dados organizados de maneira lógica para que o usuário possa obter informações relevantes dentro do App ou plataforma Web.
+            São dados organizados de maneira lógica para que o  <a href="../../modelagem/lexico/#usuario">usuário</a> possa obter informações relevantes dentro do <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1073,7 +1027,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder ver estatísticas de cada campeonato, jogador, time, dentro do App.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ver  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> de cada <a href="../../modelagem/lexico/#campeonato">campeonato</a>, jogador,  <a href="../../modelagem/lexico/#time">time</a>, dentro do <a href="../../modelagem/lexico/#App">App</a>.
         </td>
     </tr>
     <tr>
@@ -1087,7 +1041,7 @@
 </table>
 <br>
 
-### Extrato do jogo
+##  <a href="../../modelagem/lexico/#extrato-do-jogo">Extrato do jogo</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1095,7 +1049,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Extrato do jogo
+         <a href="../../modelagem/lexico/#extrato-do-jogo">Extrato do jogo</a>
         </td>
     </tr>
     <tr>
@@ -1111,7 +1065,7 @@
             <b>Noção</b>
         </td>
         <td>
-            O saldo de gols cada time e de cada jogador, faltas que o jogador cometeu assim como assistências, substituições de cada time.
+            O saldo de gols cada  <a href="../../modelagem/lexico/#time">time</a> e de cada jogador, faltas que o jogador cometeu assim como assistências, substituições de cada  <a href="../../modelagem/lexico/#time">time</a>.
         </td>
     </tr>
     <tr>
@@ -1119,7 +1073,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder ter acesso a todas essa informações.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ter acesso a todas essa informações.
         </td>
     </tr>
     <tr>
@@ -1135,7 +1089,7 @@
 
 * ## F 
 
-### Favoritar
+##  <a href="../../modelagem/lexico/#favoritar">Favoritar</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1143,7 +1097,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Favoritar
+         <a href="../../modelagem/lexico/#favoritar">Favoritar</a>
         </td>
     </tr>
     <tr>
@@ -1159,7 +1113,7 @@
             <b>Noção</b>
         </td>
         <td>
-            O usuário quando busca o campeonato tem a opção de favoritá-lo, isso facilita para que ele possa ter uma lista dos seus campeonatos preferidos.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> quando busca o <a href="../../modelagem/lexico/#campeonato">campeonato</a> tem a opção de favoritá-lo, isso facilita para que ele possa ter uma lista dos seus <a href="../../modelagem/lexico/#campeonato">campeonato</a>s preferidos.
         </td>
     </tr>
     <tr>
@@ -1167,7 +1121,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder favoritar os campeonatos de sua preferência.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder  <a href="../../modelagem/lexico/#favoritar">favoritar</a> os <a href="../../modelagem/lexico/#campeonato">campeonato</a>s de sua preferência.
         </td>
     </tr>
     <tr>
@@ -1181,7 +1135,7 @@
 </table>
 <br>
 
-### Filtrar
+##  <a href="../../modelagem/lexico/#filtrar">Filtrar</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1189,7 +1143,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Filtrar
+         <a href="../../modelagem/lexico/#filtrar">Filtrar</a>
         </td>
     </tr>
     <tr>
@@ -1205,7 +1159,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Ao clicar em um time na tabela é possível ver os jogadores que jogam nele, os jogos que ele jogou e as estatísticas do time. É possível ver o ranking de pontuação dos atletas, podendo filtrar por posição ou por pontuações.
+            Ao clicar em um  <a href="../../modelagem/lexico/#time">time</a> na tabela é possível ver os jogadores que jogam nele, os jogos que ele jogou e as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> do  <a href="../../modelagem/lexico/#time">time</a>. É possível ver o  <a href="../../modelagem/lexico/#ranking">ranking</a> de  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> dos <a href="../../modelagem/lexico/#atleta">atleta</a>s, podendo  <a href="../../modelagem/lexico/#filtrar">filtrar</a> por posição ou por pontuações.
         </td>
     </tr>
     <tr>
@@ -1213,7 +1167,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder filtrar o ranking de pontuação dos atletas por posição ou por pontuação.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder  <a href="../../modelagem/lexico/#filtrar">filtrar</a> o  <a href="../../modelagem/lexico/#ranking">ranking</a> de  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> dos <a href="../../modelagem/lexico/#atleta">atleta</a>s por posição ou por  <a href="../../modelagem/lexico/#pontuacao">pontuação</a>.
         </td>
     </tr>
     <tr>
@@ -1227,7 +1181,7 @@
 </table>
 <br>
 
-### Formulário
+##  <a href="../../modelagem/lexico/#formulario">Formulário</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1235,7 +1189,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Formulário
+         <a href="../../modelagem/lexico/#formulario">Formulário</a>
         </td>
     </tr>
     <tr>
@@ -1251,7 +1205,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Formulário onde serão preenchidos dados pertinentes ao contexto, sendo eles campeonado ou cadastro, inscrições.
+             <a href="../../modelagem/lexico/#formulario">formulário</a> onde serão preenchidos dados pertinentes ao contexto, sendo eles campeonado ou <a href="../../modelagem/lexico/#cadastrar">cadastro</a>, inscrições.
         </td>
     </tr>
     <tr>
@@ -1259,7 +1213,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder preecher os dados necessários ao contexto em questão de forma que não haja dificuldade nessa tarefa.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder preecher os dados necessários ao contexto em questão de forma que não haja dificuldade nessa tarefa.
         </td>
     </tr>
     <tr>
@@ -1273,7 +1227,7 @@
 </table>
 <br>
 
-### Framework
+##  <a href="../../modelagem/lexico/#framework">Framework</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1281,7 +1235,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Framework
+         <a href="../../modelagem/lexico/#framework">Framework</a>
         </td>
     </tr>
     <tr>
@@ -1297,7 +1251,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Ferramenta que auxilia no desenvolvimento do App ou plataforma Web.
+            Ferramenta que auxilia no desenvolvimento do <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1305,7 +1259,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            A equipe de desenvolvimento deve saber como integrar o uso dos frameworks às suas atividades de desenvolvimento.
+            A equipe de desenvolvimento deve saber como integrar o uso dos  <a href="../../modelagem/lexico/#framework">Framework</a>s às suas atividades de desenvolvimento.
         </td>
     </tr>
     <tr>
@@ -1321,7 +1275,7 @@
 
 * ## G 
 
-### Guia de ajuda
+##  <a href="../../modelagem/lexico/#guia-de-ajuda">Guia de ajuda</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1329,7 +1283,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Guia de ajuda
+         <a href="../../modelagem/lexico/#guia-de-ajuda">Guia de ajuda</a>
         </td>
     </tr>
     <tr>
@@ -1345,7 +1299,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Trata-se de um guia que tem o objeto de instruir os usuários no que tange a utilização do App ou plataforma Web.
+            Trata-se de um guia que tem o objeto de instruir os  <a href="../../modelagem/lexico/#usuario">usuário</a>s no que tange a utilização do <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1353,7 +1307,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve ter acesso a esse guia para que assim consiga superar suas dificuldades para utilizar o App ou plataforma Web.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ter acesso a esse guia para que assim consiga superar suas dificuldades para utilizar o <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1369,7 +1323,7 @@
 
 * ## H 
 
-### Home
+##  <a href="../../modelagem/lexico/#home">Home</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1377,7 +1331,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Home
+         <a href="../../modelagem/lexico/#home">Home</a>
         </td>
     </tr>
     <tr>
@@ -1393,7 +1347,7 @@
             <b>Noção</b>
         </td>
         <td>
-            A tela principal que é exibida assim que o App ou plataforma Web é iniciado, nela são expostos as informações principais.
+            A tela principal que é exibida assim que o <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web é iniciado, nela são expostos as informações principais.
         </td>
     </tr>
     <tr>
@@ -1401,7 +1355,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder ter na tela principal as informações mais importantes do sistema.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ter na tela principal as informações mais importantes do sistema.
         </td>
     </tr>
     <tr>
@@ -1417,7 +1371,7 @@
 
 * ## I
 
-### Informações pessoais
+##  <a href="../../modelagem/lexico/#informacoes-pessoais">Informações pessoais</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1425,7 +1379,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Informações pessoais
+         <a href="../../modelagem/lexico/#informacoes-pessoais">Informações pessoais</a>
         </td>
     </tr>
     <tr>
@@ -1441,7 +1395,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Dados pessoais de cada usuário, como nome, email, telefone.
+            Dados pessoais de cada  <a href="../../modelagem/lexico/#usuario">usuário</a>, como nome, email, telefone.
         </td>
     </tr>
     <tr>
@@ -1449,7 +1403,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve ter seus dados pessoais resgardados de forma que se sinta seguro ao usar o App ou plataforma Web.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ter seus dados pessoais resgardados de forma que se sinta seguro ao usar o <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web.
         </td>
     </tr>
     <tr>
@@ -1463,7 +1417,7 @@
 </table>
 <br>
 
-### Informações técnicas
+##  <a href="../../modelagem/lexico/#informacoes-tecnicas">Informações técnicas</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1471,7 +1425,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Informações técnicas
+         <a href="../../modelagem/lexico/#informacoes-tecnicas">Informações técnicas</a>
         </td>
     </tr>
     <tr>
@@ -1495,7 +1449,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O jogador deve poder ter acesso às suas informações técnicas.
+            O jogador deve poder ter acesso às suas  <a href="../../modelagem/lexico/#informacoes-tecnicas">informações técnicas</a>.
         </td>
     </tr>
     <tr>
@@ -1509,7 +1463,7 @@
 </table>
 <br>
 
-### Inscrição
+##  <a href="../../modelagem/lexico/#inscricao">Inscrição</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1517,7 +1471,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Inscrição
+         <a href="../../modelagem/lexico/#inscricao">Inscrição</a>
         </td>
     </tr>
     <tr>
@@ -1533,7 +1487,7 @@
             <b>Noção</b>
         </td>
         <td>
-            O usuário acessa o site, clica em torneios, clica em times, acessa o menu inscrições, preenche os dados solicitados para incrição, clicar no botão de salvar.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> acessa o site, clica em torneios, clica em  <a href="../../modelagem/lexico/#time">time</a>s, acessa o menu inscrições, preenche os dados solicitados para incrição, clicar no botão de salvar.
         </td>
     </tr>
     <tr>
@@ -1541,7 +1495,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder se inscrever em campeonatos.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder se inscrever em <a href="../../modelagem/lexico/#campeonato">campeonato</a>s.
         </td>
     </tr>
     <tr>
@@ -1555,7 +1509,7 @@
 </table>
 <br>
 
-### Integração
+##  <a href="../../modelagem/lexico/#integracao">Integração</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1563,7 +1517,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Integração
+         <a href="../../modelagem/lexico/#integracao">Integração</a>
         </td>
     </tr>
     <tr>
@@ -1579,7 +1533,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Integrar o sistema com APIs que possam vir a facilitar o desenvolvimento de alguma funcioanlidade.
+            Integrar o sistema com <a href="../../modelagem/lexico/#API">API</a>s que possam vir a facilitar o desenvolvimento de alguma funcioanlidade.
         </td>
     </tr>
     <tr>
@@ -1587,7 +1541,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema deve ser multiplataforma e poder se integrar com APIs externas.
+            O sistema deve ser  <a href="../../modelagem/lexico/#multiplataforma">Multiplataforma</a> e poder se integrar com <a href="../../modelagem/lexico/#API">API</a>s externas.
         </td>
     </tr>
     <tr>
@@ -1601,7 +1555,7 @@
 </table>
 <br>
 
-### IOS
+##  <a href="../../modelagem/lexico/#ios">IOS</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1609,7 +1563,7 @@
             <b>Nome</b>
         </td>
         <td>
-        IOS
+         <a href="../../modelagem/lexico/#ios">IOS</a>
         </td>
     </tr>
     <tr>
@@ -1633,7 +1587,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder conseguir baixar o App pela AppleStore.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder conseguir <a href="../../modelagem/lexico/#baixar">baixar</a> o <a href="../../modelagem/lexico/#App">App</a> pela  <a href="../../modelagem/lexico/#applestore">AppleStore</a>.
         </td>
     </tr>
     <tr>
@@ -1649,7 +1603,7 @@
 
 * ## J 
 
-### Jogadores
+##  <a href="../../modelagem/lexico/#jogadores">Jogadores</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1657,7 +1611,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Jogadores
+         <a href="../../modelagem/lexico/#jogadores">Jogadores</a>
         </td>
     </tr>
     <tr>
@@ -1665,7 +1619,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Atletas, esportistas.
+            <a href="../../modelagem/lexico/#atleta">atleta</a>s, esportistas.
         </td>
     </tr>
     <tr>
@@ -1673,7 +1627,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Usuários que participam dos jogos e que tem sua pontuação gerada.
+             <a href="../../modelagem/lexico/#usuario">usuário</a>s que participam dos jogos e que tem sua  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> gerada.
         </td>
     </tr>
     <tr>
@@ -1681,7 +1635,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder ter todas as informações quanto ao jogos que participou.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ter todas as informações quanto ao jogos que participou.
         </td>
     </tr>
     <tr>
@@ -1700,7 +1654,7 @@
 
 * ## L 
 
-### Legislação
+###  <a href="../../modelagem/lexico/#legislacao">Legislação</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1708,7 +1662,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Legislação
+         <a href="../../modelagem/lexico/#legislacao">Legislação</a>
         </td>
     </tr>
     <tr>
@@ -1724,7 +1678,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Leis que determinam como o App ou plataforma Web deve proceder com dados dos seus usuários.
+            Leis que determinam como o App ou plataforma Web deve proceder com dados dos seus  <a href="../../modelagem/lexico/#usuario">usuário</a>s.
         </td>
     </tr>
     <tr>
@@ -1732,7 +1686,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema deve respeitar a legislação dos direitos dos usuários.
+            O sistema deve respeitar a  <a href="../../modelagem/lexico/#legislacao">legislação</a> dos direitos dos  <a href="../../modelagem/lexico/#usuario">usuário</a>s.
         </td>
     </tr>
     <tr>
@@ -1746,7 +1700,7 @@
 </table>
 <br>
 
-### LGPD
+##  <a href="../../modelagem/lexico/#lgpd">LGPD</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1754,7 +1708,7 @@
             <b>Nome</b>
         </td>
         <td>
-        LGPD
+         <a href="../../modelagem/lexico/#lgpd">LGPD</a>
         </td>
     </tr>
     <tr>
@@ -1770,7 +1724,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Lei que trata especificamente da proteção dos dados pessoais dos usuários.
+            Lei que trata especificamente da proteção dos dados pessoais dos  <a href="../../modelagem/lexico/#usuario">usuário</a>s.
         </td>
     </tr>
     <tr>
@@ -1778,7 +1732,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve ter seus dados protegidos contra qualquer ameaça.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ter seus dados protegidos contra qualquer ameaça.
         </td>
     </tr>
     <tr>
@@ -1792,7 +1746,7 @@
 </table>
 <br>
 
-### Links
+###  <a href="../../modelagem/lexico/#links">Links</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1800,7 +1754,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Links
+         <a href="../../modelagem/lexico/#links">Links</a>
         </td>
     </tr>
     <tr>
@@ -1824,7 +1778,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder gerar links de compartilhamento de campeonato. 
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder gerar links de compartilhamento de campeonato. 
         </td>
     </tr>
     <tr>
@@ -1838,7 +1792,7 @@
 </table>
 <br>
 
-### Login
+##  <a href="../../modelagem/lexico/#login">Login</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1846,7 +1800,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Login
+         <a href="../../modelagem/lexico/#login">Login</a>
         </td>
     </tr>
     <tr>
@@ -1862,7 +1816,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Acesso à certas funcionalidades dado a disponibilidade que o o usuário possui.
+            Acesso à certas funcionalidades dado a disponibilidade que o o  <a href="../../modelagem/lexico/#usuario">usuário</a> possui.
         </td>
     </tr>
     <tr>
@@ -1870,7 +1824,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve ser capaz de poder realizar o login inserindo os dados necessários para o mesmo.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ser capaz de poder realizar o login inserindo os dados necessários para o mesmo.
         </td>
     </tr>
     <tr>
@@ -1884,7 +1838,7 @@
 </table>
 <br>
 
-### Logout
+##  <a href="../../modelagem/lexico/#logout">Logout</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1892,7 +1846,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Logout
+         <a href="../../modelagem/lexico/#logout">Logout</a>
         </td>
     </tr>
     <tr>
@@ -1916,7 +1870,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve ser capaz de encerrar a sua sessão de acesso.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ser capaz de encerrar a sua sessão de acesso.
         </td>
     </tr>
     <tr>
@@ -1932,7 +1886,7 @@
 
 * ## M 
 
-### Media social
+##  <a href="../../modelagem/lexico/#media-social">Media social</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1940,7 +1894,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Media social
+         <a href="../../modelagem/lexico/#media-social">Media social</a>
         </td>
     </tr>
     <tr>
@@ -1956,7 +1910,7 @@
             <b>Noção</b>
         </td>
         <td>
-            São as redes sociais que o App ou plataforma Web permitem interação.
+            São as redes sociais que o <a href="../../modelagem/lexico/#App">App</a> ou plataforma Web permitem interação.
         </td>
     </tr>
     <tr>
@@ -1964,7 +1918,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder ter meios utilizar funcionalidades que tenham interação com as redes sociais.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ter meios utilizar funcionalidades que tenham interação com as redes sociais.
         </td>
     </tr>
     <tr>
@@ -1978,7 +1932,7 @@
 </table>
 <br>
 
-### Mensagem
+##  <a href="../../modelagem/lexico/#mensagem">Mensagem</a>
 
 <table class="table table-striped border">
     <tr>
@@ -1986,7 +1940,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Mensagem
+         <a href="../../modelagem/lexico/#mensagem">Mensagem</a>
         </td>
     </tr>
     <tr>
@@ -2002,7 +1956,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Mensagem que pode ser enviada tanto por email quanto para o telefone do usuário.
+             <a href="../../modelagem/lexico/#mensagem">Mensagem</a> que pode ser enviada tanto por email quanto para o telefone do  <a href="../../modelagem/lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -2010,7 +1964,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder recuperar a senha tanto pelo email quanto pelo telefone recebendo uma mensagem de confirmação.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder recuperar a senha tanto pelo email quanto pelo telefone recebendo uma  <a href="../../modelagem/lexico/#mensagem">mensagem</a> de confirmação.
         </td>
     </tr>
     <tr>
@@ -2024,7 +1978,7 @@
 </table>
 <br>
 
-### Multiplataforma
+##  <a href="../../modelagem/lexico/#multiplataforma">Multiplataforma</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2032,7 +1986,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Multiplataforma
+         <a href="../../modelagem/lexico/#multiplataforma">Multiplataforma</a>
         </td>
     </tr>
     <tr>
@@ -2048,7 +2002,7 @@
             <b>Noção</b>
         </td>
         <td>
-            App que seja disponível para mais de uma plataforma.
+            <a href="../../modelagem/lexico/#App">App</a> que seja disponível para mais de uma plataforma.
         </td>
     </tr>
     <tr>
@@ -2056,7 +2010,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve poder ter acesso ao App em mais de uma plataforma.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ter acesso ao <a href="../../modelagem/lexico/#App">App</a> em mais de uma plataforma.
         </td>
     </tr>
     <tr>
@@ -2074,7 +2028,8 @@
 <br>
 
 * ## O
-### Online
+
+##  <a href="../../modelagem/lexico/#online">Online</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2082,7 +2037,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Online
+         <a href="../../modelagem/lexico/#online">Online</a>
         </td>
     </tr>
     <tr>
@@ -2106,7 +2061,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário administrador/treinador poderá alterar o status de seu link como online.
+            O  <a href="../../modelagem/lexico/#usuario">usuário administrador/treinador </a>  poderá alterar o status de seu link como  <a href="../../modelagem/lexico/#online">online</a>.
         </td>
     </tr>
     <tr>
@@ -2114,7 +2069,7 @@
             <b>Classificação</b>
         </td>
         <td>
-            Classificação
+            <a href="../../modelagem/lexico/#classificacao">classificação</a>
         </td>
     </tr>
 </table>
@@ -2122,7 +2077,7 @@
 
  
 
-## Offline
+##  <a href="../../modelagem/lexico/#offline">Offline</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2130,7 +2085,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Offline
+         <a href="../../modelagem/lexico/#offline">Offline</a>
         </td>
     </tr>
     <tr>
@@ -2154,7 +2109,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário administrador/treinador poderá alterar o status de seu link como offline.
+            O  <a href="../../modelagem/lexico/#usuario">usuário administrador/treinador </a>  poderá alterar o status de seu link como  <a href="../../modelagem/lexico/#offline">offline</a>.
         </td>
     </tr>
     <tr>
@@ -2170,7 +2125,7 @@
 
 * ## P 
 
-### Parceiros
+##  <a href="../../modelagem/lexico/#parceiros">Parceiros</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2178,7 +2133,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Parceiros
+         <a href="../../modelagem/lexico/#parceiros">Parceiros</a>
         </td>
     </tr>
     <tr>
@@ -2202,7 +2157,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário deve ser capaz de ver os anúncios dos parceiros e interagir com os mesmos.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ser capaz de ver os anúncios dos  <a href="../../modelagem/lexico/#parceiros">parceiros</a> e interagir com os mesmos.
         </td>
     </tr>
     <tr>
@@ -2216,7 +2171,7 @@
 </table>
 <br>
 
-### Patrocinadores
+##  <a href="../../modelagem/lexico/#patrocinadores">Patrocinadores</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2224,7 +2179,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Patrocinadores
+         <a href="../../modelagem/lexico/#patrocinadores">Patrocinadores</a>
         </td>
     </tr>
     <tr>
@@ -2248,7 +2203,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário ELITE deve poder adicionar patrocinadores e produtos.
+            O  <a href="../../modelagem/lexico/#usuario-elite">usuário elite</a>  deve poder adicionar  <a href="../../modelagem/lexico/#patrocinadores">patrocinadores</a> e produtos.
         </td>
     </tr>
     <tr>
@@ -2262,7 +2217,7 @@
 </table>
 <br>
 
-### Perfil
+##  <a href="../../modelagem/lexico/#perfil">Perfil</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2270,7 +2225,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Perfil
+         <a href="../../modelagem/lexico/#perfil">Perfil</a>
         </td>
     </tr>
     <tr>
@@ -2286,7 +2241,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Perfil se refere a um cadastro de dados pessoais, de contato, e preferências de um determinado usuário.
+             <a href="../../modelagem/lexico/#perfil">Perfil</a> se refere a um <a href="../../modelagem/lexico/#cadastrar">cadastro</a> de dados pessoais, de contato, e preferências de um determinado  <a href="../../modelagem/lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -2294,7 +2249,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O perfil de JOGADOR deverá armazenar os times que ele participa.
+            O  <a href="../../modelagem/lexico/#perfil">perfil</a> de jogador deverá armazenar os  <a href="../../modelagem/lexico/#time">time</a>s que ele participa.
         </td>
     </tr>
     <tr>
@@ -2308,7 +2263,7 @@
 </table>
 <br>
 
-### Pesquisas
+##  <a href="../../modelagem/lexico/#pesquisas">Pesquisas</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2316,7 +2271,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Pesquisas
+         <a href="../../modelagem/lexico/#pesquisas">Pesquisas</a>
         </td>
     </tr>
     <tr>
@@ -2340,7 +2295,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário poderá pesquisar um jogador e ver suas informações.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá pesquisar um jogador e ver suas informações.
         </td>
     </tr>
     <tr>
@@ -2354,7 +2309,7 @@
 </table>
 <br>
 
-### Placar
+##  <a href="../../modelagem/lexico/#placar">Placar</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2362,7 +2317,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Placar
+         <a href="../../modelagem/lexico/#placar">Placar</a>
         </td>
     </tr>
     <tr>
@@ -2370,7 +2325,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Contagem, pontuação, score.
+            Contagem,  <a href="../../modelagem/lexico/#pontuacao">pontuação</a>, score.
         </td>
     </tr>
     <tr>
@@ -2378,7 +2333,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Placar é um quadro onde se registram os pontos nas competições esportivas.
+             <a href="../../modelagem/lexico/#placar">placar</a> é um quadro onde se registram os pontos nas competições esportivas.
         </td>
     </tr>
     <tr>
@@ -2386,7 +2341,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário poderá visualizar o placar de um jogo em tempo real.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá visualizar o  <a href="../../modelagem/lexico/#placar">placar</a> de um jogo em  <a href="../../modelagem/lexico/#tempo-real">tempo real</a>.
         </td>
     </tr>
     <tr>
@@ -2400,7 +2355,7 @@
 </table>
 <br>
 
-### Planos
+##  <a href="../../modelagem/lexico/#planos">Planos</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2408,7 +2363,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Planos
+         <a href="../../modelagem/lexico/#planos">Planos</a>
         </td>
     </tr>
     <tr>
@@ -2432,7 +2387,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário poderá adquirir um plano do tipo PREMIUM ou ELITE.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá adquirir um plano do tipo PREMIUM ou ELITE.
         </td>
     </tr>
     <tr>
@@ -2446,7 +2401,7 @@
 </table>
 <br>
 
-### PlayStore
+##  <a href="../../modelagem/lexico/#playstore">PlayStore</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2454,7 +2409,7 @@
             <b>Nome</b>
         </td>
         <td>
-        PlayStore
+         <a href="../../modelagem/lexico/#playstore">PlayStore</a>
         </td>
     </tr>
     <tr>
@@ -2462,7 +2417,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Loja de aplicativos, loja de apps.
+            Loja de aplicativos, loja de <a href="../../modelagem/lexico/#App">App</a>s.
         </td>
     </tr>
     <tr>
@@ -2478,7 +2433,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema pode ter otimização para ter SEO e para identificação por mecanismo de busca dentro de lojas de app.
+            O sistema pode ter otimização para ter  <a href="../../modelagem/lexico/#seo">SEO</a> e para identificação por mecanismo de busca dentro de lojas de <a href="../../modelagem/lexico/#App">App</a>.
         </td>
     </tr>
     <tr>
@@ -2492,7 +2447,7 @@
 </table>
 <br>
 
-### Política de privacidade
+##  <a href="../../modelagem/lexico/#pontuacao">Pontuação</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2500,53 +2455,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Política de privacidade
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Documento que gerencia os dados de um cliente ou cliente.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Política de privacidade é um conjunto de termos que descreve as práticas adotadas pelo site ou aplicativo em relação às informações dos usuários.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O App deverá ser compatível com normas de política de privacidade.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-### Pontuação
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td>
-        <td>
-        Pontuação
+         <a href="../../modelagem/lexico/#pontuacao">Pontuação</a>
         </td>
     </tr>
     <tr>
@@ -2562,7 +2471,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Pontos que determinado time obtém ao longo de uma competição.
+            Pontos que determinado  <a href="../../modelagem/lexico/#time">time</a> obtém ao longo de uma competição.
         </td>
     </tr>
     <tr>
@@ -2570,7 +2479,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário poderá visualizar tabela de pontuação e rodadas ao clicar em campeonato.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá visualizar tabela de  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> e  <a href="../../modelagem/lexico/#rodadas">rodadas</a> ao clicar em <a href="../../modelagem/lexico/#campeonato">campeonato</a>.
         </td>
     </tr>
     <tr>
@@ -2584,7 +2493,7 @@
 </table>
 <br>
 
-### Prática UX
+##  <a href="../../modelagem/lexico/#praticas-ux">Práticas UX</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2592,7 +2501,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Prática UX
+        Práticas UX
         </td>
     </tr>
     <tr>
@@ -2600,7 +2509,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Experiência do usuário.
+            Experiência do  <a href="../../modelagem/lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -2608,7 +2517,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Experiência UX é o conjunto de elementos e fatores relativos à interação do usuário com um determinado produto, sistema ou serviço cujo resultado gera uma percepção positiva ou negativa.
+            Experiência UX é o conjunto de elementos e fatores relativos à interação do  <a href="../../modelagem/lexico/#usuario">usuário</a> com um determinado produto, sistema ou serviço cujo resultado gera uma percepção positiva ou negativa.
         </td>
     </tr>
     <tr>
@@ -2616,7 +2525,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            A experiência do usuário deve ser a melhor possível.
+            A experiência do  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ser a melhor possível.
         </td>
     </tr>
     <tr>
@@ -2635,7 +2544,7 @@
 
 * ## R 
 
-### Ranking
+##  <a href="../../modelagem/lexico/#ranking">Ranking</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2643,7 +2552,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Ranking
+         <a href="../../modelagem/lexico/#ranking">Ranking</a>
         </td>
     </tr>
     <tr>
@@ -2659,7 +2568,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Ranking é a posição que algo ou alguém ocupa numa escala que destaca seu mérito em relação aos demais.
+             <a href="../../modelagem/lexico/#ranking">Ranking</a> é a posição que algo ou alguém ocupa numa escala que destaca seu mérito em relação aos demais.
         </td>
     </tr>
     <tr>
@@ -2667,7 +2576,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário poderá filtrar jogadores em um ranking.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá  <a href="../../modelagem/lexico/#filtrar">filtrar</a> jogadores em um  <a href="../../modelagem/lexico/#ranking">ranking</a>.
         </td>
     </tr>
     <tr>
@@ -2681,7 +2590,7 @@
 </table>
 <br>
 
-### Resultados
+## Resultados
 
 <table class="table table-striped border">
     <tr>
@@ -2713,7 +2622,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            A atualização de tabelas, ranking, resultados e estatísticas deverá ser feito de forma automática da cada fim de rodada.
+            A atualização de tabelas,  <a href="../../modelagem/lexico/#ranking">ranking</a>, resultados e  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> deverá ser feito de forma automática da cada fim de rodada.
         </td>
     </tr>
     <tr>
@@ -2727,7 +2636,7 @@
 </table>
 <br>
 
-### Rodadas
+##  <a href="../../modelagem/lexico/#rodadas">Rodadas</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2735,7 +2644,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Rodadas
+         <a href="../../modelagem/lexico/#rodadas">Rodadas</a>
         </td>
     </tr>
     <tr>
@@ -2759,7 +2668,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema de tabelas deve ser auto gerenciável a cada rodada.
+            O sistema de tabelas deve ser <a href="../../modelagem/lexico/#auto-gerenciavel">auto gerenciável</a> a cada rodada.
         </td>
     </tr>
     <tr>
@@ -2775,7 +2684,7 @@
 
 * ## S 
 
-### Server
+##  <a href="../../modelagem/lexico/#server">Server</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2783,7 +2692,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Server
+         <a href="../../modelagem/lexico/#server">Server</a>
         </td>
     </tr>
     <tr>
@@ -2807,7 +2716,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O App CLIENT deverá requisitar dados ao final de cada partida ao SERVER.
+            O <a href="../../modelagem/lexico/#App">App</a> CLIENT deverá requisitar dados ao final de cada partida ao  <a href="../../modelagem/lexico/#server">server</a>.
         </td>
     </tr>
     <tr>
@@ -2821,7 +2730,7 @@
 </table>
 <br>
 
-### SEO
+##  <a href="../../modelagem/lexico/#seo">SEO</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2829,7 +2738,7 @@
             <b>Nome</b>
         </td>
         <td>
-        SEO
+         <a href="../../modelagem/lexico/#seo">SEO</a>
         </td>
     </tr>
     <tr>
@@ -2853,7 +2762,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema pode ter otimização para ter SEO e para identificação por mecanismo de busca dentro de lojas de app.
+            O sistema pode ter otimização para ter  <a href="../../modelagem/lexico/#seo">SEO</a> e para identificação por mecanismo de busca dentro de lojas de <a href="../../modelagem/lexico/#App">App</a>.
         </td>
     </tr>
     <tr>
@@ -2867,7 +2776,7 @@
 </table>
 <br>
 
-### Súmula digital
+##  <a href="../../modelagem/lexico/#sumula-digital">Súmula digital</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2875,7 +2784,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Súmula digital
+         <a href="../../modelagem/lexico/#sumula-digital">Súmula digital</a>
         </td>
     </tr>
     <tr>
@@ -2883,7 +2792,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Quadro online.
+            Quadro  <a href="../../modelagem/lexico/#online">online</a>.
         </td>
     </tr>
     <tr>
@@ -2899,7 +2808,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário PREMIUM/ELITE deve poder ter acesso a súmula digital.
+            O  <a href="../../modelagem/lexico/#usuario">usuário premium </a> /ELITE deve poder ter acesso a  <a href="../../modelagem/lexico/#sumula-digital">súmula digital</a>.
         </td>
     </tr>
     <tr>
@@ -2913,7 +2822,7 @@
 </table>
 <br>
 
-### Súmula física
+##  <a href="../../modelagem/lexico/#sumula-fisica">Súmula fisica</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2921,7 +2830,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Súmula física
+         <a href="../../modelagem/lexico/#sumula-fisica">Súmula fisica</a>
         </td>
     </tr>
     <tr>
@@ -2945,7 +2854,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O sistema deve ser capaz de gerar súmula física.
+            O sistema deve ser capaz de gerar  <a href="../../modelagem/lexico/#sumula-fisica">súmula fisica</a>.
         </td>
     </tr>
     <tr>
@@ -2961,7 +2870,7 @@
 
 * ## T 
 
-### Tabela
+##  <a href="../../modelagem/lexico/#tabs">Tabs</a>
 
 <table class="table table-striped border">
     <tr>
@@ -2969,53 +2878,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Tabela
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Lista, esquema.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Designação de coisas segundo determinada ordem, para registro, fixação ou recordação.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O sistema de tabelas deve ser auto gerenciável a cada rodada.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-### Tabs
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td>
-        <td>
-        Tabs
+         <a href="../../modelagem/lexico/#tabs">Tabs</a>
         </td>
     </tr>
     <tr>
@@ -3039,7 +2902,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário pode acessar um menu tab.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> pode acessar um menu tab.
         </td>
     </tr>
     <tr>
@@ -3053,7 +2916,7 @@
 </table>
 <br>
 
-### Tecnologia de impulsionamento
+##  <a href="../../modelagem/lexico/#tecnologia-de-impulsionamento">Tecnologia de impulsionamento</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3061,7 +2924,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Tecnologia de impulsionamento
+         <a href="../../modelagem/lexico/#tecnologia-de-impulsionamento">Tecnologia de impulsionamento</a>
         </td>
     </tr>
     <tr>
@@ -3099,7 +2962,7 @@
 </table>
 <br>
 
-### Tempo real
+##  <a href="../../modelagem/lexico/#tempo-real">Tempo real</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3107,7 +2970,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Tempo real
+         <a href="../../modelagem/lexico/#tempo-real">Tempo real</a>
         </td>
     </tr>
     <tr>
@@ -3131,7 +2994,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário poderá visualizar o placar de um jogo em tempo real.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá visualizar o  <a href="../../modelagem/lexico/#placar">placar</a> de um jogo em  <a href="../../modelagem/lexico/#tempo-real">tempo real</a>.
         </td>
     </tr>
     <tr>
@@ -3146,7 +3009,7 @@
 <br>
 
 
-### Time
+##  <a href="../../modelagem/lexico/#time">Time</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3154,7 +3017,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Time
+         <a href="../../modelagem/lexico/#time">Time</a>
         </td>
     </tr>
     <tr>
@@ -3170,7 +3033,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Grupo de atletas que participam de certos esportes de conjunto.
+            Grupo de <a href="../../modelagem/lexico/#atleta">atleta</a>s que participam de certos  <a href="../../modelagem/lexico/#esportes">esportes</a> de conjunto.
         </td>
     </tr>
     <tr>
@@ -3178,7 +3041,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário poderá compartilhar por link informações de um time, campeonato ou jogador.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> por link informações de um  <a href="../../modelagem/lexico/#time">time</a>, <a href="../../modelagem/lexico/#campeonato">campeonato</a> ou jogador.
         </td>
     </tr>
     <tr>
@@ -3193,7 +3056,7 @@
 <br>
 
 
-### Torcedores
+##  <a href="../../modelagem/lexico/#torcedores">Torcedores</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3201,7 +3064,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Torcedores
+         <a href="../../modelagem/lexico/#torcedores">Torcedores</a>
         </td>
     </tr>
     <tr>
@@ -3217,7 +3080,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Admiradores de um time.
+            Admiradores de um  <a href="../../modelagem/lexico/#time">time</a>.
         </td>
     </tr>
     <tr>
@@ -3225,7 +3088,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Os torcedores poderão acompanhar os campeonatos que seus times participam através do aplicativo.
+            Os  <a href="../../modelagem/lexico/#torcedores">torcedores</a> poderão acompanhar os <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que seus  <a href="../../modelagem/lexico/#time">time</a>s participam através do aplicativo.
         </td>
     </tr>
     <tr>
@@ -3242,7 +3105,7 @@
 * ## U
 <br> 
 
-### Upload
+##  <a href="../../modelagem/lexico/#upload">Upload</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3250,7 +3113,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Upload
+         <a href="../../modelagem/lexico/#upload">Upload</a>
         </td>
     </tr>
     <tr>
@@ -3266,7 +3129,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Upload refere-se à transmissão de dados de um sistema de computador para outro por meio de uma rede.
+             <a href="../../modelagem/lexico/#upload">upload</a> refere-se à transmissão de dados de um sistema de computador para outro por meio de uma rede.
         </td>
     </tr>
     <tr>
@@ -3274,7 +3137,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário administrador de um campeonato pode fazer upload de arquivos.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> administrador de um <a href="../../modelagem/lexico/#campeonato">campeonato</a> pode fazer  <a href="../../modelagem/lexico/#upload">upload</a> de arquivos.
         </td>
     </tr>
     <tr>
@@ -3288,7 +3151,7 @@
 </table>
 <br>
 
-### Usuário
+##  <a href="../../modelagem/lexico/#usuario">Usuário</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3296,7 +3159,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Usuário
+         <a href="../../modelagem/lexico/#usuario">Usuário</a>
         </td>
     </tr>
     <tr>
@@ -3312,7 +3175,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Os usuários são pessoas que utilizam um determinado tipo de serviço e podem ser classificados segundo a área de interesse.
+            Os  <a href="../../modelagem/lexico/#usuario">usuário</a>s são pessoas que utilizam um determinado tipo de serviço e podem ser classificados segundo a área de interesse.
         </td>
     </tr>
     <tr>
@@ -3320,7 +3183,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            Um usuário logado poderá fazer logout.
+            Um  <a href="../../modelagem/lexico/#usuario">usuário</a> logado poderá fazer logout.
         </td>
     </tr>
     <tr>
@@ -3334,7 +3197,7 @@
 </table>
 <br>
 
-### Usuário básico
+##  <a href="../../modelagem/lexico/#usuario-elite">Usuário elite</a> 
 
 <table class="table table-striped border">
     <tr>
@@ -3342,53 +3205,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Usuário básico
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Sinônimos</b>
-        </td>
-        <td>
-            Utilizador do pacote básico.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Noção</b>
-        </td>
-        <td>
-            Os usuários básicos são pessoas que utilizam o pacote básico gratuito do iFut.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Impacto</b>
-        </td>
-        <td>
-            O usuário poderá pesquisar um jogador e ver suas informações.
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 100px;">
-            <b>Classificação</b>
-        </td>
-        <td>
-            Objeto
-        </td>
-    </tr>
-</table>
-<br>
-
-### Usuário elite
-
-<table class="table table-striped border">
-    <tr>
-        <td style="width: 100px;">
-            <b>Nome</b>
-        </td>
-        <td>
-        Usuário elite
+         <a href="../../modelagem/lexico/#usuario-elite">Usuário elite</a> 
         </td>
     </tr>
     <tr>
@@ -3404,7 +3221,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Os usuários elite são pessoas que utilizam o plano elite do iFut.
+            Os  <a href="../../modelagem/lexico/#usuario">usuário</a>s elite são pessoas que utilizam o plano elite do iFut.
         </td>
     </tr>
     <tr>
@@ -3412,7 +3229,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário ELITE deve poder adicionar notícias a um campeonato.
+            O  <a href="../../modelagem/lexico/#usuario-elite">usuário elite</a>  deve poder adicionar notícias a um <a href="../../modelagem/lexico/#campeonato">campeonato</a>.
         </td>
     </tr>
     <tr>
@@ -3427,7 +3244,7 @@
 <br>
 
 
-### Usuário premium
+##  <a href="../../modelagem/lexico/#usuario">Usuário premium </a> 
 
 <table class="table table-striped border">
     <tr>
@@ -3435,7 +3252,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Usuário premium
+         <a href="../../modelagem/lexico/#usuario">Usuário premium </a> 
         </td>
     </tr>
     <tr>
@@ -3451,7 +3268,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Os usuários premium são pessoas que utilizam o plano premium do iFut.
+            Os  <a href="../../modelagem/lexico/#usuario">usuário</a>s premium são pessoas que utilizam o plano premium do iFut.
         </td>
     </tr>
     <tr>
@@ -3459,7 +3276,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário PREMIUM deve poder ter acesso a súmula digital.
+            O  <a href="../../modelagem/lexico/#usuario">usuário premium </a>  deve poder ter acesso a  <a href="../../modelagem/lexico/#sumula-digital">súmula digital</a>.
         </td>
     </tr>
     <tr>
@@ -3473,7 +3290,7 @@
 </table>
 <br>
 
-### Usuário treinador/administrador
+##  <a href="../../modelagem/lexico/#usuario">Usuário administrador/treinador </a> 
 
 <table class="table table-striped border">
     <tr>
@@ -3481,7 +3298,7 @@
             <b>Nome</b>
         </td>
         <td>
-            Usuário treinador/administrador
+             <a href="../../modelagem/lexico/#usuario">Usuário administrador/treinador </a> 
         </td>
     </tr>
     <tr>
@@ -3489,7 +3306,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Usuário técnico.
+             <a href="../../modelagem/lexico/#usuario">usuário</a> técnico.
         </td>
     </tr>
     <tr>
@@ -3497,7 +3314,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Os usuários administradores são pessoas que podem criar campeonatos, através do site iFut.
+            Os  <a href="../../modelagem/lexico/#usuario">usuário</a>s administradores são pessoas que podem criar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s, através do site iFut.
         </td>
     </tr>
     <tr>
@@ -3505,7 +3322,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário administrador/treinador poderá restringir o compartilhamento de suas informações.
+            O  <a href="../../modelagem/lexico/#usuario">usuário administrador/treinador </a>  poderá restringir o compartilhamento de suas informações.
         </td>
     </tr>
     <tr>
@@ -3522,7 +3339,7 @@
 
 * ## V
 
-### Virtual
+## <a href="../../modelagem/lexico/#virtual">Virtual</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3530,7 +3347,7 @@
             <b>Nome</b>
         </td>
         <td>
-        Virtual
+        <a href="../../modelagem/lexico/#virtual">Virtual</a>
         </td>
     </tr>
     <tr>
@@ -3538,7 +3355,7 @@
             <b>Sinônimos</b>
         </td>
         <td>
-            Cibernético, online.
+            Cibernético,  <a href="../../modelagem/lexico/#online">online</a>.
         </td>
     </tr>
     <tr>
@@ -3546,7 +3363,7 @@
             <b>Noção</b>
         </td>
         <td>
-            Algum objeto que pode ser acessado online.
+            Algum objeto que pode ser acessado  <a href="../../modelagem/lexico/#online">online</a>.
         </td>
     </tr>
     <tr>
@@ -3554,7 +3371,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário pro pode acessar uma súmula de rodada de forma virtual.
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> pro pode acessar uma súmula de rodada de forma <a href="../../modelagem/lexico/#virtual">virtual</a>.
         </td>
     </tr>
     <tr>
@@ -3570,7 +3387,7 @@
 
 * ## W 
 
-### WhatApp
+## <a href="../../modelagem/lexico/#App">WhatApp</a>
 
 <table class="table table-striped border">
     <tr>
@@ -3578,7 +3395,7 @@
             <b>Nome</b>
         </td>
         <td>
-        WhatApp
+        <a href="../../modelagem/lexico/#whatsApp">WhatsApp</a></a>
         </td>
     </tr>
     <tr>
@@ -3594,7 +3411,7 @@
             <b>Noção</b>
         </td>
         <td>
-            WhatsApp é um aplicativo multiplataforma de mensagens instantâneas e chamadas de voz para smartphones.
+            Whats<a href="../../modelagem/lexico/#App">App</a> é um aplicativo  <a href="../../modelagem/lexico/#multiplataforma">Multiplataforma</a> de mensagens instantâneas e chamadas de voz para smartphones.
         </td>
     </tr>
     <tr>
@@ -3602,7 +3419,7 @@
             <b>Impacto</b>
         </td>
         <td>
-            O usuário administrador pode enviar o link inscrição para um campeonato através do whatsapp. 
+            O  <a href="../../modelagem/lexico/#usuario">usuário</a> administrador pode enviar o link  <a href="../../modelagem/lexico/#inscricao">inscrição</a> para um <a href="../../modelagem/lexico/#campeonato">campeonato</a> através do whats<a href="../../modelagem/lexico/#App">App</a>. 
         </td>
     </tr>
     <tr>

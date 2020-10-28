@@ -19,8 +19,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <b>Pré-condição:</b> Usuário logado no site iFut, usuário ser administrador do campeonato.
-            <p><b>Pós-condição:</b>O usuário deverá ter privilégios de administrador
+            <b>Pré-condição:</b>  <a href="../../lexico/#usuario">usuário</a> logado no site iFut,  <a href="../../lexico/#usuario">usuário</a> ser administrador do <a href="../../lexico/#campeonato">campeonato</a>.
+            <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> deverá ter privilégios de administrador
             </p>
         </td>
     </tr>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            <p>- Usuário administrador</p>
+            <p>-  <a href="../../lexico/#usuario">usuário</a> administrador</p>
         </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@
         <td>
             <b>Episódios</b>
         </td>
-        <td> <p>1. Ao selecionar um campeonato.</p>
+        <td> <p>1. Ao selecionar um <a href="../../lexico/#campeonato">campeonato</a>.</p>
             <p>2. Disponibilizar criação/edição de link compartilhável </p>
             <p>3. Poder selecionar desabilitação de link</p>
             <p>4. Salvar atualizações.</p>
@@ -64,7 +64,7 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. Usuário ser treinador</p>
+            <p>1.  <a href="../../lexico/#usuario">usuário</a> ser treinador</p>
         </td>
     </tr>
 </table>

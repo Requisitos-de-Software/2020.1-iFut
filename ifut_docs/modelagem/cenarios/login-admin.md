@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Login - Perfil do administrador
+             <a href="../../lexico/#login">login</a> -  <a href="../../lexico/#perfil">perfil</a> do administrador
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário não logado no site.</p>
-            <p>Pós-condição: Usuário logado no site.</p>
+            <p>Pré-condição:  <a href="../../lexico/#usuario">usuário</a> não logado no site.</p>
+            <p>Pós-condição:  <a href="../../lexico/#usuario">usuário</a> logado no site.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+             <a href="../../lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -48,10 +48,10 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa o site do iFut.</p>
-            <p>2. O usuário seleciona a opção “Entrar”.</p>
-            <p>3. O usuário preenche os campos “email” e “senha”.</p>
-            <p>4. Os dados do usuário são apresentados.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> acessa o site do iFut.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> seleciona a opção “Entrar”.</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> preenche os campos “email” e “senha”.</p>
+            <p>4. Os dados do  <a href="../../lexico/#usuario">usuário</a> são apresentados.</p>
         </td>
     </tr>
     <tr>
@@ -67,9 +67,9 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. O usuário não ter uma conta registrada no site.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> não ter uma conta registrada no site.</p>
             <p>2. A internet parar de funcionar no meio da ação.</p>
-            <p>3. O usuário fechar o site antes de terminar a ação.</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> fechar o site antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

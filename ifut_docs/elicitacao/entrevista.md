@@ -79,7 +79,7 @@
 ##  Resultado
 <div>
     <p align="justify">
-        Usaremos as personas para fazer o papel de entrevistado. As respostas serão com base no perfil de cada persona e no que imaginamos que se adapta nas características definidas para cada um.</p>
+        Usaremos as personas para fazer o papel de entrevistado. As respostas serão com base no  <a href="../../modelagem/lexico/#perfil">perfil</a> de cada persona e no que imaginamos que se adapta nas características definidas para cada um.</p>
     <p align="justify">
         </p>
     <p align="justify">
@@ -113,11 +113,11 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Eu participo de vários campeonatos que eu mesmo organizo. Eu perdia muito tempo na hora de montar as chaves, e muitas das vezes eu errava uma ou duas vezes esse processo. Então eu procurei algum aplicativo que me ajudasse nessa parte.</td>
+            <td>Eu participo de vários <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que eu mesmo organizo. Eu perdia muito tempo na hora de montar as <a href="../../modelagem/lexico/#chaves">chaves</a>, e muitas das vezes eu errava uma ou duas vezes esse processo. Então eu procurei algum aplicativo que me ajudasse nessa parte.</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Eu utilizo mais a geração de campeonatos e súmulas. Fora isso, não tem outra ferramenta que eu menos goste ou menos utilize.</td>
+            <td>Eu utilizo mais a geração de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s e súmulas. Fora isso, não tem outra ferramenta que eu menos goste ou menos utilize.</td>
         </tr>
         <tr>
             <td>3</td>
@@ -125,7 +125,7 @@
         </tr>
         <tr>
             <td>4</td>
-            <td>Ter que cadastrar todos os jogadores.</td>
+            <td>Ter que <a href="../../modelagem/lexico/#cadastrar">cadastrar</a> todos os jogadores.</td>
         </tr>
         <tr>
             <td>5</td>
@@ -149,11 +149,11 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Para organizar melhor o campeonato que eu e minhas amigas jogamos. </td>
+            <td>Para organizar melhor o <a href="../../modelagem/lexico/#campeonato">campeonato</a> que eu e minhas amigas jogamos. </td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Eu gosto da funcionalidade de poder ver as estatísticas de outros jogadores. Eu utilizo muito a agenda de jogos que me ajuda a sempre lembrar as datas. Não tem uma função que eu não goste.</td>
+            <td>Eu gosto da funcionalidade de poder ver as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> de outros jogadores. Eu utilizo muito a <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a> que me ajuda a sempre lembrar as datas. Não tem uma função que eu não goste.</td>
         </tr>
         <tr>
             <td>3</td>
@@ -185,7 +185,7 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Perdia muito tempo utilizando excel e outros meios para gerenciar minhas tarefas em relação ao time.</td>
+            <td>Perdia muito tempo utilizando excel e outros meios para gerenciar minhas tarefas em relação ao  <a href="../../modelagem/lexico/#time">time</a>.</td>
         </tr>
         <tr>
             <td>2</td>
@@ -193,7 +193,7 @@
         </tr>
         <tr>
             <td>3</td>
-            <td>A possibilidade de criar uma página personalizada para meu time.</td>
+            <td>A possibilidade de criar uma página personalizada para meu  <a href="../../modelagem/lexico/#time">time</a>.</td>
         </tr>
         <tr>
             <td>4</td>
@@ -221,11 +221,11 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Para me ajudar a organizar as estatísticas dos jogadores que estou interessado.</td>
+            <td>Para me ajudar a organizar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos jogadores que estou interessado.</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>A que eu mais utilizo e gosto é a de gerenciar as estatísticas dos jogadores. Todas as funcionalidades são interessantes, mas a que eu menos uso é a de criar campeonatos. Nunca usei, na verdade.</td>
+            <td>A que eu mais utilizo e gosto é a de gerenciar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos jogadores. Todas as funcionalidades são interessantes, mas a que eu menos uso é a de criar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s. Nunca usei, na verdade.</td>
         </tr>
         <tr>
             <td>3</td>
@@ -254,59 +254,59 @@
     <tbody>
         <tr>
             <td>ENT01</td>
-            <td>O usuário deve poder criar um campeonato</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar um <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O usuário deve poder compartilhar a classificação do seus torneios</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> a <a href="../../modelagem/lexico/#classificacao">classificação</a> do seus torneios</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O sistema deve poder gerar confrontos automaticamente</td>
+            <td>O sistema deve poder gerar   <a href="../../modelagem/lexico/#confrontos">confontros</a> automaticamente</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O usuário deve poder preencher o formulário com o formato do campeonato</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder preencher o  <a href="../../modelagem/lexico/#formulario">formulário</a> com o formato do <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O usuário deve poder criar manualmente os confrontos</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar manualmente os   <a href="../../modelagem/lexico/#confrontos">confontros</a></td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O usuário deve poder baixar uma súmula em branco</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#baixar">baixar</a> uma súmula em branco</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O usuário deve poder adicionar jogadores ao time</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder adicionar jogadores ao  <a href="../../modelagem/lexico/#time">time</a></td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O usuário deve poder preencher o formulário com as informações do campeonato</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder preencher o  <a href="../../modelagem/lexico/#formulario">formulário</a> com as informações do <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O usuário deve poder abrir inscrições online</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder abrir inscrições  <a href="../../modelagem/lexico/#online">online</a></td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O sistema deve ser capaz de gerar uma pontuação de cada jogador</td>
+            <td>O sistema deve ser capaz de gerar uma  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> de cada jogador</td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O usuário atleta deve poder, ao realizar login, ver informações dos campeonatos que ele está participando e suas estatísticas em jogos</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> <a href="../../modelagem/lexico/#atleta">atleta</a> deve poder, ao realizar login, ver informações dos <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que ele está participando e suas  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> em jogos</td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O usuário deve poder saber quem pagou a inscrição</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder saber quem pagou a  <a href="../../modelagem/lexico/#inscricao">inscrição</a></td>
         </tr>
         <tr>
             <td>ENT03</td>
-            <td>O sistema deve ser capaz de gerar links de compartilhamento do campeonato</td>
+            <td>O sistema deve ser capaz de gerar  <a href="../../modelagem/lexico/#links">links</a> de compartilhamento do <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
         </tr>
         <tr>
             <td>ENT04</td>
-            <td>O usuário deve poder ver estatísticas do jogadores</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ver  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> do jogadores</td>
         </tr>
         
 </table>

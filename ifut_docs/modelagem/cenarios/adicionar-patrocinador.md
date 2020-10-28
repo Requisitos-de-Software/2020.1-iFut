@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Adicionar um patrocinador a um campeonato.
+            Adicionar um patrocinador a um <a href="../../lexico/#campeonato">campeonato</a>.
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Adicionar imagem e link de um patrocinador de um campeonato.
+            Adicionar imagem e link de um patrocinador de um <a href="../../lexico/#campeonato">campeonato</a>.
         </td>
     </tr>
     <tr>
@@ -23,9 +23,9 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Ter um campeonato ativo
-            Ser usuário elite.</p>
-            <p>Pós-condição: Ter um patrocinador vinculado ao campeonato.</p>
+            <p>Pré-condição: Ter um <a href="../../lexico/#campeonato">campeonato</a> ativo
+            Ser  <a href="../../lexico/#usuario-elite">usuário elite</a> .</p>
+            <p>Pós-condição: Ter um patrocinador vinculado ao <a href="../../lexico/#campeonato">campeonato</a>.</p>
         </td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+             <a href="../../lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -52,12 +52,12 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa a página do campeonato;</p>
-            <p>2. O usuário seleciona a opção “Configurações”;</p>
-            <p>3. O usuário seleciona a opção “Patrocinadores”;</p>
-            <p>4. O usuário escolhe em qual página ele quer colocar a imagem do patrocinador;</p>
-            <p>5. O usuário preenche os campos: imagem e URL;</p>
-            <p>6. O usuário confirma as alterações.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> acessa a página do <a href="../../lexico/#campeonato">campeonato</a>;</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> seleciona a opção “Configurações”;</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> seleciona a opção “ <a href="../../lexico/#patrocinadores">patrocinadores</a>”;</p>
+            <p>4. O  <a href="../../lexico/#usuario">usuário</a> escolhe em qual página ele quer colocar a imagem do patrocinador;</p>
+            <p>5. O  <a href="../../lexico/#usuario">usuário</a> preenche os campos: imagem e URL;</p>
+            <p>6. O  <a href="../../lexico/#usuario">usuário</a> confirma as alterações.</p>
         </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação;</p>
-            <p>2. O usuário fechar o aplicativo antes de confirmar as edições.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de confirmar as edições.</p>
         </td>
     </tr>
 </table>

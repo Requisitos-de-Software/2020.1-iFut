@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Fazer login - Perfil do atleta
+            Fazer login -  <a href="../../lexico/#perfil">perfil</a> do <a href="../../lexico/#atleta">atleta</a>
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Carregar/Recuperar as informações de uma conta do tipo atleta do iFut.
+            Carregar/Recuperar as informações de uma conta do tipo <a href="../../lexico/#atleta">atleta</a> do iFut.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário não logado no aplicativo.</p>
-            <p>Pós-condição: Usuário logado no aplicativo.</p>
+            <p>Pré-condição:  <a href="../../lexico/#usuario">usuário</a> não logado no aplicativo.</p>
+            <p>Pós-condição:  <a href="../../lexico/#usuario">usuário</a> logado no aplicativo.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+             <a href="../../lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -49,10 +49,10 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário acessa o aplicativo iFut.</p>
-            <p>2. O usuário seleciona a opção “Atleta”.</p>
-            <p>3. O usuário preenche os campos “login do atleta” e “senha do atleta”.</p>
-            <p>4. O dados do usuário são apresentados.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> acessa o aplicativo iFut.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> seleciona a opção “<a href="../../lexico/#atleta">atleta</a>”.</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> preenche os campos “login do <a href="../../lexico/#atleta">atleta</a>” e “senha do <a href="../../lexico/#atleta">atleta</a>”.</p>
+            <p>4. O dados do  <a href="../../lexico/#usuario">usuário</a> são apresentados.</p>
         </td>
     </tr>
     <tr>
@@ -68,9 +68,9 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. O usuário não ter uma conta registrada no aplicativo.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> não ter uma conta registrada no aplicativo.</p>
             <p>2. A internet parar de funcionar no meio da ação.</p>
-            <p>3. O usuário fechar o aplicativo antes de terminar a ação.</p>
+            <p>3. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

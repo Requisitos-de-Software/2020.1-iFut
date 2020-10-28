@@ -12,7 +12,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-O usuário com com credenciais de administrador ou treinador poderá enviar link de convite para cadastro de jogador    </td>
+O  <a href="../../lexico/#usuario">usuário</a> com com credenciais de administrador ou treinador poderá enviar link de convite para <a href="../../lexico/#cadastrar">cadastro</a> de jogador    </td>
     </tr>
     <tr>
         <td>
@@ -46,8 +46,8 @@ O usuário com com credenciais de administrador ou treinador poderá enviar link
             <b>Episódios</b>
         </td>
         <td>
-           <p>1. Perfil logado no site iFut.</p>
-	       <p>2. Selecionar menu de um time ou time vinculado</p>
+           <p>1.  <a href="../../lexico/#perfil">perfil</a> logado no site iFut.</p>
+	       <p>2. Selecionar menu de um  <a href="../../lexico/#time">time</a> ou  <a href="../../lexico/#time">time</a> vinculado</p>
            <p>3. Selecionar enviar convite</p>
            <p>4. Validar email e enviar convite</p>
         </td>

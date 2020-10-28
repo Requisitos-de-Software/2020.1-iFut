@@ -1,6 +1,6 @@
 # Diagramas Casos de Uso
 
-## Visualizar perfil de outro jogador 
+## Visualizar<a href="../../lexico/#perfil">perfil</a> de outro jogador 
 
 <div class="toolgrid">
 	<div>

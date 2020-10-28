@@ -7,7 +7,7 @@
             <b>Título</b>
         </td>
         <td>
-            Logout - Perfil do atleta
+             <a href="../../lexico/#logout">logout</a> -  <a href="../../lexico/#perfil">perfil</a> do <a href="../../lexico/#atleta">atleta</a>
         </td>
     </tr>
     <tr>
@@ -15,7 +15,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-            Encerrar a sessão com o perfil de atleta.
+            Encerrar a sessão com o  <a href="../../lexico/#perfil">perfil</a> de <a href="../../lexico/#atleta">atleta</a>.
         </td>
     </tr>
     <tr>
@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Usuário logado no aplicativo.</p>
-            <p>Pós-condição: Usuário não logado no aplicativo.</p>
+            <p>Pré-condição:  <a href="../../lexico/#usuario">usuário</a> logado no aplicativo.</p>
+            <p>Pós-condição:  <a href="../../lexico/#usuario">usuário</a> não logado no aplicativo.</p>
         </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            Usuário.
+             <a href="../../lexico/#usuario">usuário</a>.
         </td>
     </tr>
     <tr>
@@ -49,8 +49,8 @@
             <b>Episódios</b>
         </td>
         <td>
-            <p>1. O usuário seleciona o botão “sair”.</p>
-            <p>2. O usuário é redirecionado para a tela inicial do aplicativo.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> seleciona o botão “sair”.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> é redirecionado para a tela inicial do aplicativo.</p>
         </td>
     </tr>
     <tr>

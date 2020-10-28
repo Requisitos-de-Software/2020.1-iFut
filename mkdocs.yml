@@ -35,6 +35,7 @@ nav:
         - Diagramas de Caso de Uso: modelagem/diagramas_casos_de_uso/diagrama_caso_uso.md
         - Histórias de Usuário: modelagem/historia_de_usuario.md
         - NFR: modelagem/nfr.md
+        - iStar: modelagem/iStar.md
     - Análise:
         - Verificação: analise/verificacao.md
         - Validação: analise/validacaoprototipo.md

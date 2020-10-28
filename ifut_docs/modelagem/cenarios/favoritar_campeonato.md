@@ -5,14 +5,14 @@
         <td>
             <b>Título</b>
         </td>
-        <td>      Favoritar campeonato.  </td>
+        <td>       <a href="../../lexico/#favoritar">favoritar</a> <a href="../../lexico/#campeonato">campeonato</a>.  </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-                Tornar um campeonato como favorito para facilitar o acesso a ele.
+                Tornar um <a href="../../lexico/#campeonato">campeonato</a> como favorito para facilitar o acesso a ele.
         </td>
     </tr>
     <tr>
@@ -20,8 +20,8 @@
             <b>Contexto</b>
         </td>
         <td>
-           <b>Pré-condição:</b> Possuir o app iFut;
-           <p><b>Pós-condição:</b>O usuário terá o campeonato escolhido como favorito.</p>
+           <b>Pré-condição:</b> Possuir o <a href="../../lexico/#App">App</a> iFut;
+           <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> terá o <a href="../../lexico/#campeonato">campeonato</a> escolhido como favorito.</p>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário
+            -  <a href="../../lexico/#usuario">usuário</a>
             <p>- Sistema</p> 
         </td>
     </tr>
@@ -46,9 +46,9 @@
             <b>Episódios</b>
         </td>
         <td>
-            1. Acessar o app ifut.
-	<p>2. Buscar um campeonato.</p>
-	<p>3. Selecionar o ícone de estrela ao lado do campeonato para favoritar.</p>
+            1. Acessar o <a href="../../lexico/#App">App</a> ifut.
+	<p>2. Buscar um <a href="../../lexico/#campeonato">campeonato</a>.</p>
+	<p>3. Selecionar o ícone de estrela ao lado do <a href="../../lexico/#campeonato">campeonato</a> para  <a href="../../lexico/#favoritar">favoritar</a>.</p>
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação.</p>
-            <p>2. O usuário fechar o aplicativo antes de terminar a ação.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

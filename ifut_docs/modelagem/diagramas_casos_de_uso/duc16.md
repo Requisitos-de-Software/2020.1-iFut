@@ -1,6 +1,6 @@
 # Diagramas Casos de Uso
 
-## Visualizar campeonatos cadastrados
+## Visualizar "<a href="../../lexico/#campeonato">campeonato</a>s cadastrados
 <div class="toolgrid">
 	<div>
         <img height="320px" src="../imagens/visualizar_campeonato.png"> 

@@ -5,14 +5,14 @@
         <td>
             <b>Título</b>
         </td>
-        <td>     Visualizar escalação de um time.  </td>
+        <td>     Visualizar  <a href="../../lexico/#escalacao">escalação</a> de um  <a href="../../lexico/#time">time</a>.  </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-    Ao clicar em um partida poder visualizar  a escalação de um time    </td>
+    Ao clicar em um partida poder visualizar  a  <a href="../../lexico/#escalacao">escalação</a> de um  <a href="../../lexico/#time">time</a>    </td>
     </tr>
     <tr>
         <td>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário 
+            -  <a href="../../lexico/#usuario">usuário</a> 
             <p>- Sistema</p> 
         </td>
     </tr>
@@ -46,9 +46,9 @@
             <b>Episódios</b>
         </td>
         <td>
-           <p>1. Ao acessar o app  iFut.</p>
+           <p>1. Ao acessar o <a href="../../lexico/#App">App</a>  iFut.</p>
 	       <p>2. Selecionar uma partida de jogo</p>
-           <p>3. Disponibilizar visualização de escalação ao selecionar time</p>
+           <p>3. Disponibilizar visualização de  <a href="../../lexico/#escalacao">escalação</a> ao selecionar  <a href="../../lexico/#time">time</a></p>
         </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p> Escalação não cadastrada</p>
+            <p>  <a href="../../lexico/#escalacao">escalação</a> não cadastrada</p>
         </td>
     </tr>
 </table>

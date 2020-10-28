@@ -67,16 +67,16 @@
     </thead>
     <tbody>
         <tr>
-            <td>1      </td> <td>O usuário deve ser capaz de visualizar a sua agenda de jogos.    </td>
+            <td>1      </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ser capaz de visualizar a sua <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a>.    </td>
         </tr>
         <tr>
-            <td>2      </td> <td>O sistema deve atualizar a agenda de jogos com base nos campeonatos do usuário.         </td>
+            <td>2      </td> <td>O sistema deve atualizar a <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a> com base nos <a href="../../modelagem/lexico/#campeonato">campeonato</a>s do  <a href="../../modelagem/lexico/#usuario">usuário</a>.         </td>
         </tr>
         <tr>
-            <td>3      </td> <td>O usuário deve ser capaz de visualizar suas estatísticas após os jogos.                                              </td>
+            <td>3      </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ser capaz de visualizar suas  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> após os jogos.                                              </td>
         </tr>
         <tr>
-            <td>4      </td> <td>O sistema deve atualizar constantemente as estatísticas dos jogadores.                                  </td>
+            <td>4      </td> <td>O sistema deve atualizar constantemente as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos jogadores.                                  </td>
         </tr>
         </tbody>
 </table>

@@ -12,7 +12,7 @@
             <b>Objetivo</b>
         </td>
         <td>
-                    Ver as notícias relacionadas ao campeonato selecionado. 
+                    Ver as notícias relacionadas ao <a href="../../lexico/#campeonato">campeonato</a> selecionado. 
         </td>
     </tr>
     <tr>
@@ -20,8 +20,8 @@
             <b>Contexto</b>
         </td>
         <td>
-           <b>Pré-condição:</b> Possuir o app iFut;
-           <p><b>Pós-condição:</b>O usuário verá as notícias do campeonato desejado.</p>
+           <b>Pré-condição:</b> Possuir o <a href="../../lexico/#App">App</a> iFut;
+           <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> verá as notícias do <a href="../../lexico/#campeonato">campeonato</a> desejado.</p>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário
+            -  <a href="../../lexico/#usuario">usuário</a>
             <p>- Sistema</p> 
         </td>
     </tr>
@@ -46,8 +46,8 @@
             <b>Episódios</b>
         </td>
         <td>
-            1. Acessar o app ifut.
-	<p>2. Selecionar um campeonato.</p>
+            1. Acessar o <a href="../../lexico/#App">App</a> ifut.
+	<p>2. Selecionar um <a href="../../lexico/#campeonato">campeonato</a>.</p>
 	<p>3. Selecionar a aba de Notícias</p>
         </td>
     </tr>
@@ -65,7 +65,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação.</p>
-            <p>2. O usuário fechar o aplicativo antes de terminar a ação.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

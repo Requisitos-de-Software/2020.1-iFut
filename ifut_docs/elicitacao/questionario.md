@@ -92,7 +92,7 @@
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../images/questionario/jogaFutebolOuOnline.png"> 
+        <img height="300px" src="../../images/questionario/jogaFutebolOu <a href="../../modelagem/lexico/#online">online</a>.png"> 
     </div>
 </div>
 
@@ -116,7 +116,7 @@
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../images/questionario/organizarCampeonato.png"> 
+        <img height="300px" src="../../images/questionario/organizar<a href="../../modelagem/lexico/#campeonato">campeonato</a>.png"> 
     </div>
 </div>
 
@@ -166,7 +166,7 @@
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../images/questionario/importanciaCampeonatos.png"> 
+        <img height="300px" src="../../images/questionario/importancia<a href="../../modelagem/lexico/#campeonato">campeonato</a>s.png"> 
     </div>
 </div>
 
@@ -188,7 +188,7 @@
     </div>
 </div>
 
-A partir dos resultados obtidos com o questionário, verificou-se que entre os usuários do aplicativo a funcionalidade de súmula automática é a mais importante e as funcionalidades de criar campeonato e visualização de estatísticas indivíduais são medianamente importantes. Além disso, baseando-se na quantidade de respostasde usuários que não usam o aplicativo, observa-se que há uma deficiência na visibilidade do aplicativo, visto que muitos nunca ouviram falar sobre o aplicativo iFut.
+A partir dos resultados obtidos com o questionário, verificou-se que entre os  <a href="../../modelagem/lexico/#usuario">usuário</a>s do aplicativo a funcionalidade de súmula automática é a mais importante e as funcionalidades de criar <a href="../../modelagem/lexico/#campeonato">campeonato</a> e visualização de  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> indivíduais são medianamente importantes. Além disso, baseando-se na quantidade de respostasde  <a href="../../modelagem/lexico/#usuario">usuário</a>s que não usam o aplicativo, observa-se que há uma deficiência na visibilidade do aplicativo, visto que muitos nunca ouviram falar sobre o aplicativo iFut.
 
 <table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
@@ -197,13 +197,13 @@ A partir dos resultados obtidos com o questionário, verificou-se que entre os u
     </thead>
     <tbody>
         <tr>
-            <td>1  </td> <td>O usuário deve poder gerar súmulas automáticamente</td>
+            <td>1  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder gerar súmulas automáticamente</td>
         </tr>
         <tr>
-            <td>2  </td> <td>O usuário deve poder ver estatísticas de jogadores e do time</td>
+            <td>2  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ver  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> de jogadores e do  <a href="../../modelagem/lexico/#time">time</a></td>
         </tr>
         <tr>
-            <td>3  </td> <td>O usuário deve poder criar campeonatos</td>
+            <td>3  </td> <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s</td>
         </tr>
     </tbody>
 </table>

@@ -5,14 +5,14 @@
         <td>
             <b>Título</b>
         </td>
-        <td>      Visualizar Ranking do campeonato.  </td>
+        <td>      Visualizar  <a href="../../lexico/#ranking">ranking</a> do <a href="../../lexico/#campeonato">campeonato</a>.  </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-                    Ver o ranking da pontuação dos jogadores do campeonato selecionado. 
+                    Ver o  <a href="../../lexico/#ranking">ranking</a> da  <a href="../../lexico/#pontuacao">pontuação</a> dos jogadores do <a href="../../lexico/#campeonato">campeonato</a> selecionado. 
         </td>
     </tr>
     <tr>
@@ -20,8 +20,8 @@
             <b>Contexto</b>
         </td>
         <td>
-           <b>Pré-condição:</b> Possuir o app iFut;
-           <p><b>Pós-condição:</b>O usuário verá as maiores pontuações dos jogadores do campeonato desejado.</p>
+           <b>Pré-condição:</b> Possuir o <a href="../../lexico/#App">App</a> iFut;
+           <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> verá as maiores pontuações dos jogadores do <a href="../../lexico/#campeonato">campeonato</a> desejado.</p>
         </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário
+            -  <a href="../../lexico/#usuario">usuário</a>
             <p>- Sistema</p> 
         </td>
     </tr>
@@ -46,9 +46,9 @@
             <b>Episódios</b>
         </td>
         <td>
-            1. Acessar o app ifut.
-	<p>2. Selecionar um campeonato.</p>
-	<p>3. Selecionar a aba de Ranking.</p>
+            1. Acessar o <a href="../../lexico/#App">App</a> ifut.
+	<p>2. Selecionar um <a href="../../lexico/#campeonato">campeonato</a>.</p>
+	<p>3. Selecionar a aba de  <a href="../../lexico/#ranking">ranking</a>.</p>
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
         </td>
         <td>
             <p>1. A internet parar de funcionar no meio da ação.</p>
-            <p>2. O usuário fechar o aplicativo antes de terminar a ação.</p>
+            <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</p>
         </td>
     </tr>
 </table>

@@ -1,5 +1,5 @@
 # Diagramas Casos de Uso
-## Editar Perfil
+## Editar <a href="../../lexico/#perfil">perfil</a>
 
 <div class="toolgrid">
 	<div>

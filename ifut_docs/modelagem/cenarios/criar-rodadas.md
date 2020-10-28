@@ -5,22 +5,22 @@
         <td>
             <b>Título</b>
         </td>
-        <td> Criar rodadas de um campeonato. </td>
+        <td> Criar  <a href="../../lexico/#rodadas">rodadas</a> de um <a href="../../lexico/#campeonato">campeonato</a>. </td>
     </tr>
     <tr>
         <td>
             <b>Objetivo</b>
         </td>
         <td>
-            Criação de rodadas a partir de times inscritos. </td>
+            Criação de  <a href="../../lexico/#rodadas">rodadas</a> a partir de  <a href="../../lexico/#time">time</a>s inscritos. </td>
     </tr>
     <tr>
         <td>
             <b>Contexto</b>
         </td>
         <td>
-            <b>Pré-condição:</b> Usuário logado no site iFut, usuário ser administrador do campeonato.
-            <p><b>Pós-condição:</b>O usuário deverá ter privilégios de administrador
+            <b>Pré-condição:</b>  <a href="../../lexico/#usuario">usuário</a> logado no site iFut,  <a href="../../lexico/#usuario">usuário</a> ser administrador do <a href="../../lexico/#campeonato">campeonato</a>.
+            <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> deverá ter privilégios de administrador
             </p>
         </td>
     </tr>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            - Usuário administrador
+            -  <a href="../../lexico/#usuario">usuário</a> administrador
             <p>- Sistema</p>
         </td>
     </tr>
@@ -47,8 +47,8 @@
         </td>
         <td> <p>1. Acessar o site ifut.</p>
             <p>2. Realizar login.</p>
-            <p>3. Criar campeonato.</p>
-            <p>4. Inscrever times.</p>
+            <p>3. Criar <a href="../../lexico/#campeonato">campeonato</a>.</p>
+            <p>4. Inscrever  <a href="../../lexico/#time">time</a>s.</p>
             <p>5. Finalizar validações.</p>
         </td>
     </tr>
@@ -65,8 +65,8 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. Usuário ser treinador</p>
-            <p>2. Criar campeonatos com sem número de inscritos.</p>
+            <p>1.  <a href="../../lexico/#usuario">usuário</a> ser treinador</p>
+            <p>2. Criar <a href="../../lexico/#campeonato">campeonato</a>s com sem número de inscritos.</p>
         </td>
     </tr>
 </table>

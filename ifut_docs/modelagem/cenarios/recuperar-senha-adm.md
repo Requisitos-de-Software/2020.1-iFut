@@ -5,7 +5,7 @@
         <td>
             <b>Título</b>
         </td>
-        <td>     Recupera a senha (perfil Administrador).  </td>
+        <td>     Recupera a senha ( <a href="../../lexico/#perfil">perfil</a> Administrador).  </td>
     </tr>
     <tr>
         <td>
@@ -19,7 +19,7 @@ O administrador poderá enviar link de recuperação de senha     </td>
             <b>Contexto</b>
         </td>
         <td>
-           <b>Pré-condição:</b> Possuir perfil de administrador;
+           <b>Pré-condição:</b> Possuir  <a href="../../lexico/#perfil">perfil</a> de administrador;
            <p><b>Pós-condição:</b>Confirmação de envio de link.
 </p>
         </td>
@@ -48,7 +48,7 @@ O administrador poderá enviar link de recuperação de senha     </td>
         <td>
            <p> 1. Acessar o site ifut.</p>
 	<p>2. Logar como administrador no site do iFut</p>
-    <p>3. Selecionar um perfil e clicar no menu de envio de link recuperar senha.</p>
+    <p>3. Selecionar um  <a href="../../lexico/#perfil">perfil</a> e clicar no menu de envio de link recuperar senha.</p>
         </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ O administrador poderá enviar link de recuperação de senha     </td>
             <b>Exceção</b>
         </td>
         <td>
-            <p>1. O usuário não ter senha cadastrada.</p>
+            <p>1. O  <a href="../../lexico/#usuario">usuário</a> não ter senha cadastrada.</p>
         </td>
     </tr>
 </table>
