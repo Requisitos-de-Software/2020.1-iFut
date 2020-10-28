@@ -1,227 +1,174 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      
-      
-      
-      <link rel="shortcut icon" href="../../../images/favicon.ico">
-      <title>Diagramas Casos de Uso - iFut</title>
-      <script src="../../../dist/bundle.js"></script>
-    
-  </head>
+    <head>
+      <script>
+	// Hack for scrolling window when linking to anchor tag with fixed nav header
+        var shiftWindow = function() { scrollBy(0, -75) };
+        window.addEventListener("hashchange", shiftWindow);
+        function load() { if (window.location.hash) shiftWindow(); }
+      </script>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../../images/favicon.ico">
+        
+        <title>Diagramas Casos de Uso - iFut</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+    <link href="../../../css/base.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+    <link href="../../../stylesheets/common.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-  <body class="">
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark navbar-fixed-top">
-      <div class="container">
-          <a class="navbar-brand" href="../../..">iFut</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-top" aria-controls="navbar-top" aria-expanded="false" aria-label="Toggle navigation">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/http.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="../../../js/base.js"></script> 
+    </head>
+
+    <body class="">
+
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+	<div class="container">
+	<a class="navbar-brand" href="../../..">iFut</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
-        </button>
+	</button>
 
-        <div id="navbar-top" class="collapse navbar-collapse">
-              <nav class="nav">
-                <ul class="navbar-nav">
-                      <li >
-                        <a class="nav-link" href="../../..">Inicial</a>
-                      </li>
-                      <li >
-                        <a class="nav-link" href="../../../planejamento/">Planejamento</a>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Apresentações <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../../../pontocontrole/" class="dropdown-item">Pontos de Controle</a>
-  </li>
-                            
-  <li>
-    <a href="../../../apresentacao/primeira_entrega/" class="dropdown-item">Primeira Entrega</a>
-  </li>
-                            
-  <li>
-    <a href="../../../apresentacao/segunda_entrega/" class="dropdown-item">Segunda Entrega</a>
-  </li>
-                            
-  <li>
-    <a href="../../../apresentacao/terceira_entrega/" class="dropdown-item">Terceira Entrega</a>
-  </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Pré-rastreabilidade <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../../../pre-rastreabilidade/pre_rastreabilidade/" class="dropdown-item">Sobre</a>
-  </li>
-                            
-  <li>
-    <a href="../../../pre-rastreabilidade/rich-pictures/" class="dropdown-item">Rich Pictures</a>
-  </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Elicitação <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../../../elicitacao/obs_part/" class="dropdown-item">Observação Participativa</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/introspeccao/" class="dropdown-item">Introspecção</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/questionario/" class="dropdown-item">Questionário</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/brainstorming/" class="dropdown-item">Brainstorming</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/analise_de_protocolo/" class="dropdown-item">Análise de Protocolo</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/analise_de_discurso/" class="dropdown-item">Análise de Discurso</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/personas/" class="dropdown-item">Personas</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/entrevista/" class="dropdown-item">Entrevista</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/storytelling/" class="dropdown-item">Storyboard</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/resultado/" class="dropdown-item">Resultado</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/moscow/" class="dropdown-item">MoScoW</a>
-  </li>
-                            
-  <li>
-    <a href="../../../elicitacao/first_things_first/" class="dropdown-item">First Things First</a>
-  </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Modelagem <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../../cenarios/cenariosTotais/" class="dropdown-item">Cenários</a>
-  </li>
-                            
-  <li>
-    <a href="../../lexico/" class="dropdown-item">Léxico</a>
-  </li>
-                            
-  <li>
-    <a href="../../especificacao_suplementar/" class="dropdown-item">Especificação Suplementar</a>
-  </li>
-                            
-  <li>
-    <a href="../../casos_de_uso/casos/" class="dropdown-item">Casos de Uso</a>
-  </li>
-                            
-  <li>
-    <a href="../diagrama_caso_uso/" class="dropdown-item">Diagramas de Caso de Uso</a>
-  </li>
-                            
-  <li>
-    <a href="../../historia_de_usuario/" class="dropdown-item">Histórias de Usuário</a>
-  </li>
-                            
-  <li>
-    <a href="../../nfr/" class="dropdown-item">NFR</a>
-  </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Análise <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../../../analise/verificacao/" class="dropdown-item">Verificação</a>
-  </li>
-                            
-  <li>
-    <a href="../../../analise/validacaoprototipo/" class="dropdown-item">Validação</a>
-  </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Pós-rastreabilidade <b class="caret"></b>
-                        </a>
-
-                        <ul class="dropdown-menu">
-                            
-  <li>
-    <a href="../../../pos-rastreabilidade/pos_rastreabilidade/" class="dropdown-item">Sobre</a>
-  </li>
-                            
-  <li>
-    <a href="../../../pos-rastreabilidade/forward_from/" class="dropdown-item">Forward-from</a>
-  </li>
-                        </ul>
-                      </li>
-                </ul>
-              </nav>
+	<div class="collapse navbar-collapse">
+          <!-- Main navigation -->
+          <nav class="nav">
+            <ul class="navbar-nav">
+              <li >
+                <a class="nav-link" href="../../..">Inicial</a>
+              </li>
+              <li >
+                <a class="nav-link" href="../../../planejamento/">Planejamento</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Apresentações">Apresentações <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Apresentações">
+                  
+<a href="../../../pontocontrole/" class="dropdown-item">Pontos de Controle</a>
+                  
+<a href="../../../apresentacao/primeira_entrega/" class="dropdown-item">Primeira Entrega</a>
+                  
+<a href="../../../apresentacao/segunda_entrega/" class="dropdown-item">Segunda Entrega</a>
+                  
+<a href="../../../apresentacao/terceira_entrega/" class="dropdown-item">Terceira Entrega</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Pré-rastreabilidade">Pré-rastreabilidade <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Pré-rastreabilidade">
+                  
+<a href="../../../pre-rastreabilidade/pre_rastreabilidade/" class="dropdown-item">Sobre</a>
+                  
+<a href="../../../pre-rastreabilidade/rich-pictures/" class="dropdown-item">Rich Pictures</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Elicitação">Elicitação <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Elicitação">
+                  
+<a href="../../../elicitacao/obs_part/" class="dropdown-item">Observação Participativa</a>
+                  
+<a href="../../../elicitacao/introspeccao/" class="dropdown-item">Introspecção</a>
+                  
+<a href="../../../elicitacao/questionario/" class="dropdown-item">Questionário</a>
+                  
+<a href="../../../elicitacao/brainstorming/" class="dropdown-item">Brainstorming</a>
+                  
+<a href="../../../elicitacao/analise_de_protocolo/" class="dropdown-item">Análise de Protocolo</a>
+                  
+<a href="../../../elicitacao/analise_de_discurso/" class="dropdown-item">Análise de Discurso</a>
+                  
+<a href="../../../elicitacao/personas/" class="dropdown-item">Personas</a>
+                  
+<a href="../../../elicitacao/entrevista/" class="dropdown-item">Entrevista</a>
+                  
+<a href="../../../elicitacao/storytelling/" class="dropdown-item">Storyboard</a>
+                  
+<a href="../../../elicitacao/resultado/" class="dropdown-item">Resultado</a>
+                  
+<a href="../../../elicitacao/moscow/" class="dropdown-item">MoScoW</a>
+                  
+<a href="../../../elicitacao/first_things_first/" class="dropdown-item">First Things First</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Modelagem">Modelagem <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Modelagem">
+                  
+<a href="../../cenarios/cenariosTotais/" class="dropdown-item">Cenários</a>
+                  
+<a href="../../lexico/" class="dropdown-item">Léxico</a>
+                  
+<a href="../../especificacao_suplementar/" class="dropdown-item">Especificação Suplementar</a>
+                  
+<a href="../../casos_de_uso/casos/" class="dropdown-item">Casos de Uso</a>
+                  
+<a href="../diagrama_caso_uso/" class="dropdown-item">Diagramas de Caso de Uso</a>
+                  
+<a href="../../historia_de_usuario/" class="dropdown-item">Histórias de Usuário</a>
+                  
+<a href="../../nfr/" class="dropdown-item">NFR</a>
+                  
+<a href="../../iStar.md" class="dropdown-item">iStar</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Análise">Análise <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Análise">
+                  
+<a href="../../../analise/verificacao/" class="dropdown-item">Verificação</a>
+                  
+<a href="../../../analise/validacaoprototipo/" class="dropdown-item">Validação</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Pós-rastreabilidade">Pós-rastreabilidade <b class="caret"></b></a>
+                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Pós-rastreabilidade">
+                  
+<a href="../../../pos-rastreabilidade/pos_rastreabilidade/" class="dropdown-item">Sobre</a>
+                  
+<a href="../../../pos-rastreabilidade/forward_from/" class="dropdown-item">Forward-from</a>
+                </div>
+              </li>
+            </ul>
+          </nav>
 
           <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-                <li class="nav-item">
-                  <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs-search-modal">
-                    <i class="fa fa-search"></i> Search
-                  </a>
-                </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+		<i class="fa fa-search"></i> Search
+              </a>
+            </li>
           </ul>
-        </div>
-      </div>
-    </nav><div id="content" class="container">
-          
+	</div>
+	</div>
+      </nav><div id="content" class="container">
+        
       <div class="row">
         <div class="col-md-9" role="main">
 
 
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-      
-      
-        <li class="breadcrumb-item active" aria-current="page">
-          Diagramas Casos de Uso
-        </li>
-      
-    </ol>
-  </nav>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    
+    <li class="breadcrumb-item active" aria-current="page">Diagramas Casos de Uso</li>
+  </ol>
+</nav>
 
 
 <h1 id="diagramas-casos-de-uso">Diagramas Casos de Uso</h1>
@@ -230,57 +177,118 @@
     <div>
         <img height="320px" src="../imagens/buscar_campeonato.png"> 
     </div>
-</div></p></div>
-        <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
-      <span class="fa fa-angle-down"></span>
-    </button>
-  </div>
+</div></p>
 
-  <div id="toc-collapse" class="navbar-collapse collapse card">
-    <ul class="nav flex-column bs-sidenav">
-        <li class="nav-item main"><a class="nav-link" href="#diagramas-casos-de-uso">Diagramas Casos de Uso</a></li>
-          <li class="nav-item">
-            <a href="#buscar-campeonatos" class="nav-link">Buscar "campeonato</a>
-          </li>
-    </ul>
-  </div>
+<ul class="metadata page-metadata" data-bi-name="page info" lang="en-us" dir="ltr">
+  <li class="last-updated-holder displayDate loading">
+    <span class="last-updated-text">Last updated:</span>
+    <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date"></time>
+  </li>
+<!--
+  <li class="readingTime">
+    2 minutes to read
+  </li>
+-->
+  <li class="contributors-holder">
+    <span class="contributors-text">Contributors</span>
+    <ul class="contributors" data-bi-name="contributors"></ul>
+  </li>
+</ul>
+</div>
+        <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    <div id="toc-collapse" class="navbar-collapse collapse card">
+        <ul class="nav flex-column bs-sidenav">
+            <li class="nav-item main"><a class="nav-link" href="#diagramas-casos-de-uso">Diagramas Casos de Uso</a></li>
+                <li class="nav-item">
+                    <a href="#buscar-campeonatos" class="nav-link">Buscar "campeonato</a>
+                </li>
+        </ul>
+    </div>
 </div></div>
       </div>
-        </div>
-
-    <footer class="col-md-12">
-      <hr>
-      <div class="container">
       </div>
-    </footer>
+
+      <footer class="col-md-12">
+	<hr>
+	<div class="container">
+	</div>
+      </footer>
       <script>
-        var base_url = "../../..";
+	var base_url = "../../..",
+            shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
       </script>
-        <script src="../../../search/main.js" defer></script>
+      <script src="../../../js/base.js" defer></script>
+      <script src="../../../search/main.js" defer></script>
 
-    <div class="modal" id="mkdocs-search-modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title">Search</h4>
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-      </div>
-      <div class="modal-body">
-        <p>From here you can search these documents. Enter your search terms below.</p>
-        <form role="form">
-          <div class="form-group">
-            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-          </div>
-        </form>
-        <div id="mkdocs-search-results"></div>
-      </div>
-      <div class="modal-footer">
-      </div>
+      <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
     </div>
-  </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p class="h4 modal-title">Keyboard Shortcuts</p>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
 </div>
-  </body>
-</html>
 
+    </body>
+</html>
