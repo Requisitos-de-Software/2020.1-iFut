@@ -38,7 +38,7 @@ nav:
         - iStar: modelagem/iStar.md
     - Análise:
         - Verificação: analise/verificacao.md
-        - Validação: analise/validacaoprototipo.md
+        - Validação: analise/validacao.md
     - Pós-rastreabilidade:
         - Sobre: pos-rastreabilidade/pos_rastreabilidade.md
         - Forward-from: pos-rastreabilidade/forward_from.md 

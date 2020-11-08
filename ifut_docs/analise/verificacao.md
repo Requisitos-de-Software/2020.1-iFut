@@ -1,7 +1,5 @@
 #  Verificação
 
-<p align="justify">A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Para a verificação dos artefatos do nosso projeto, será usada a técnica de inspeção.</p>
-<p align="justify">O objetivo básico das inspeções é verificar se o modelo de requisitos está de acordo com a notação do modelo e com o que se espera desse modelo.</p>
 <br>
 
 ## Histórico de Versão
@@ -35,6 +33,14 @@
 </table>
 <br>
 
+## Definição
+
+<p align="justify">A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Para a verificação dos artefatos do nosso projeto, será usada a técnica de inspeção.</p>
+<p align="justify">O objetivo básico das inspeções é verificar se o modelo de requisitos está de acordo com a notação do modelo e com o que se espera desse modelo.</p>
+<br>
+
+
+
 ## Participantes
 - Bruna Almeida
 - Damarcones Porto
@@ -46,7 +52,7 @@
 
 ## Verificações
 
-### Elicitação
+#### Elicitação
 [Verificação 01: Observação Participativa](verificacoes/observacao_participativa.md)<br>
 [Verificação 02: Introspeção](verificacoes/verificacao_introspeccao.md)<br>
 [Verificação 03: Questionário](verificacoes/questionario.md)<br>
@@ -61,7 +67,7 @@
 [Verificação 12: First Things First](verificacoes/.md)<br>
 [Verificação 13: Rich Picture](verificacoes/verificacao_richpicture.md)<br>
 
-### Modelagem
+#### Modelagem
 [Verificação 14: Cenários](verificacoes/mod_cenarios.md)<br>
 [Verificação 15: Léxicos](verificacoes/mod_lexicos.md)<br>
 [Verificação 16: Especificação suplementar](verificacoes/mod_especificacao.md)<br>
@@ -70,3 +76,4 @@
 [Verificação 19: Histórias de usuário](verificacoes/mod_historias.md)<br>
 [Verificação 20: NFR](verificacoes/mod_nfr.md)<br>
 [Verificação 21: iStar](verificacoes/mod_istar.md)<br>
+[Verificação 22: Backlog](verificacoes/mod_backlog.md)<br>
