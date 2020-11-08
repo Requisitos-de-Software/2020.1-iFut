@@ -46,6 +46,7 @@
 
 ## Verificações
 
+### Elicitação
 [Verificação 01: Observação Participativa](verificacoes/observacao_participativa.md)<br>
 [Verificação 02: Introspeção](verificacoes/verificacao_introspeccao.md)<br>
 [Verificação 03: Questionário](verificacoes/questionario.md)<br>
@@ -60,3 +61,12 @@
 [Verificação 12: First Things First](verificacoes/.md)<br>
 [Verificação 13: Rich Picture](verificacoes/verificacao_richpicture.md)<br>
 
+### Modelagem
+[Verificação 14: Cenários](verificacoes/mod_cenarios.md)<br>
+[Verificação 15: Léxicos](verificacoes/mod_lexicos.md)<br>
+[Verificação 16: Especificação suplementar](verificacoes/mod_especificacao.md)<br>
+[Verificação 17: Casos de uso](verificacoes/mod_casosuso.md)<br>
+[Verificação 18: Diagramas de casos de uso](verificacoes/mod_diagramas.md)<br>
+[Verificação 19: Histórias de usuário](verificacoes/mod_historias.md)<br>
+[Verificação 20: NFR](verificacoes/mod_nfr.md)<br>
+[Verificação 21: iStar](verificacoes/mod_istar.md)<br>
