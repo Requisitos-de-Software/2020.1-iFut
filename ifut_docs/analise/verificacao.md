@@ -46,7 +46,7 @@
 
 ## Verificações
 
-[Verificação 01: Observação Participativa](verificacoes/observacao_participativa.md))<br>
+[Verificação 01: Observação Participativa](verificacoes/observacao_participativa.md)<br>
 [Verificação 02: Introspeção](verificacoes/.md)<br>
 [Verificação 03: Questionário](verificacoes/questionario.md)<br>
 [Verificação 04: Brainstorming](verificacoes/verificacao_brainstorming.md)<br>
