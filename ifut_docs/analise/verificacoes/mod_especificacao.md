@@ -38,13 +38,14 @@
 Esse é o check-list que servirá de base para a inspeção da análise de discurso.
 <br>
 
-1. A conversa foi transcrita de forma clara?
-2. Todos os termos importantes possuem léxicos?
-3. Os léxicos estão linkados?
-4. Os requisitos elicitados estão presentes de alguma forma na conversa?
-5. Existe algum requisito relatado na conversa que não foi levantado?
-6. Não existem erros de digitação?
-7. Os requisitos estão bem escritos?
+1. O documento está no formato FURPS+?
+2. Os requisitos não funcionais estão representados?
+3. O documento especifica a compatibilidade?
+4. O documento especifica a usabilidade?
+5. O documento especifica a confiabilidade?
+6. O documento especifica o desempenho?
+7. Todos os termos importantes possuem léxicos?
+8. Os léxicos estão linkados?
 
 <br>
 
@@ -53,7 +54,7 @@ Esse é o check-list que servirá de base para a inspeção da análise de discu
 <table class="table table-striped border">
     <thead>
         <th>Checklist</th> 
-        <th>Análise de discurso</th>  
+        <th>Especificação suplementar</th> 
     </thead>
     <tbody>
 	    <tr>
@@ -62,7 +63,7 @@ Esse é o check-list que servirá de base para a inspeção da análise de discu
 	    </tr>
         <tr>
 		    <td>2</td>
-		    <td>NÃO</td>
+		    <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>3</td>
@@ -74,7 +75,7 @@ Esse é o check-list que servirá de base para a inspeção da análise de discu
 	    </tr>
         <tr>
 		    <td>5</td>
-		    <td>NÃO</td>
+		    <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>6</td>
@@ -84,12 +85,16 @@ Esse é o check-list que servirá de base para a inspeção da análise de discu
 		    <td>7</td>
 		    <td>SIM</td>
 	    </tr>
+        <tr>
+		    <td>8</td>
+		    <td>SIM</td>
+	    </tr>
     </tbody> 
 </table>
 <br>
 
 ## Conclusão
 
-<p align="justify">De acordo com a verificação, é preciso apenas adicionar alguns léxicos que faltam. De resto, o documento está de acordo com o que se espera.</p>
+<p align="justify">De acordo com a verificação, o documento está de acordo com o que se espera, com todas as especificações necessárias e com os léxicos linkados.</p>
 
 <br>

@@ -38,22 +38,16 @@
 <p align="justify">A validação de software, ou seja, a confirmação de que o produto é aquele desejado pelo usuário ocorre, normalmente, no fim do ciclo de vida. A validação procura assegurar que o sistema atenda as expectativas e necessidades do cliente. A pergunta principal que deve ser feita é: Estamos construindo o produto correto?</p>
 <p align="justify">Para a validação do nosso projeto, entramos em contato com o um dos desenvolvedores do app <i>iFut</i>, além de desenvolver um protótipo.</p>
 
-
- 
 <br>
-
-
 
 ## Participantes
 - Bruna Almeida
 - Damarcones Porto
 - Isabella Carneiro
 - Geraldo Victor
-- Lucas Lopes
 
 <br>
 
 ## Validação
-
 [Validação informal](./validacao_informal.md)<br>
 [Validação por prototipação](./validacaoprototipo.md)<br>

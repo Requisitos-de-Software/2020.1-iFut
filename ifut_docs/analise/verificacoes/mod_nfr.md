@@ -29,22 +29,27 @@
 
 ## Contexto
 - Técnica utilizada: Técnica de Leitura Check-List.
-- Autora do documento: Bruna Almeida, Damarcones Porto, Isabella Carneiro, Geraldo Victor, Lucas Lopes.
+- Autora do documento: Damarcones Porto, Geraldo Victor.
 - Inspetora: Bruna Almeida.
 
 <br>
 
 ## Checklist
-Esse é o check-list que servirá de base para a inspeção da análise de discurso.
+Esse é o check-list que servirá de base para a inspeção do NFR.
 <br>
 
-1. A conversa foi transcrita de forma clara?
-2. Todos os termos importantes possuem léxicos?
-3. Os léxicos estão linkados?
-4. Os requisitos elicitados estão presentes de alguma forma na conversa?
-5. Existe algum requisito relatado na conversa que não foi levantado?
-6. Não existem erros de digitação?
-7. Os requisitos estão bem escritos?
+1. O fluxo do diagrama está bem representado?
+2. Os softgoals condizem com o contexto?
+3. Existem softgoals suficientes no diagrama para representar o contexto?
+4. Os impactos foram corretamente propagados?
+5. As operacionalizações condizem com o contexto?
+6. Existem operacionalizações suficientes no diagrama para representar o contexto?
+7. Existem claims suficientes para que se entenda o diagrama?
+8. As claims estão bem escritas?
+9. As contribuições "AND" estão corretamente representadas e aplicadas?
+10. As contribuições "OR" estão corretamente representadas e aplicadas?
+11. As contribuições positivas estão corretamente representadas?
+12. As contribuições entre ramos diferentes estão corretamente representadas?
 
 <br>
 
@@ -53,36 +58,82 @@ Esse é o check-list que servirá de base para a inspeção da análise de discu
 <table class="table table-striped border">
     <thead>
         <th>Checklist</th> 
-        <th>Análise de discurso</th>  
+        <th>Compatibilidade</th>
+        <th>Confiabilidade</th>
+        <th>Usabilidade</th>  
     </thead>
     <tbody>
 	    <tr>
 		    <td>1</td>
 		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>2</td>
-		    <td>NÃO</td>
+		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>3</td>
 		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>4</td>
 		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>5</td>
-		    <td>NÃO</td>
+		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>6</td>
 		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
 	    </tr>
         <tr>
 		    <td>7</td>
 		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
+	    </tr>
+        <tr>
+		    <td>8</td>
+		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
+	    </tr>
+        <tr>
+		    <td>9</td>
+		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
+	    </tr>
+        <tr>
+		    <td>10</td>
+		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
+	    </tr>
+        <tr>
+		    <td>11</td>
+		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
+	    </tr>
+        <tr>
+		    <td>12</td>
+		    <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
 	    </tr>
     </tbody> 
 </table>
@@ -90,6 +141,6 @@ Esse é o check-list que servirá de base para a inspeção da análise de discu
 
 ## Conclusão
 
-<p align="justify">De acordo com a verificação, é preciso apenas adicionar alguns léxicos que faltam. De resto, o documento está de acordo com o que se espera.</p>
+<p align="justify">De acordo com a verificação, o documento de NFR está de acordo com o que se espera, com todos os elementos bem utilizados.</p>
 
 <br>
