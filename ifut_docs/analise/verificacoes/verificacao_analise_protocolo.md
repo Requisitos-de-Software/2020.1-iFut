@@ -48,7 +48,7 @@ Esse é o check-list que servirá de base para a inspeção do documento de aná
 <table class="table table-striped border">
     <thead>
         <th>Checklist</th> 
-        <th>Observação Participativa</th>  
+        <th>Análise de protocolo</th>  
     </thead>
     <tbody>
 	    <tr>
