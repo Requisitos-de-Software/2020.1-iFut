@@ -27,7 +27,7 @@
 ## Contexto
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autor do documento: Bruna Almdeida.
-- Inspetora: Damarcones Porto.
+- Inspetor: Damarcones Porto.
 
 
 ## Checklist
