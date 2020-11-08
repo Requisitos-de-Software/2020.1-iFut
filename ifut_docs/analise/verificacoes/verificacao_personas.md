@@ -107,3 +107,6 @@ Esse é o check-list que servirá de base para a inspeção das personas.
     </tbody>
 </table> 
 <br>
+
+## Conclusão
+Depois de fazer a verificação do documento, não foi encotrada nenhuma irregularidade.
