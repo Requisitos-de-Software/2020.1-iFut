@@ -94,3 +94,10 @@ Esse é o check-list que servirá de base para a inspeção das Rich Pictures.
 	    </tr>
     </tbody> 
 </table>
+<br>
+
+## Conclusão
+
+<p align="justify">De acordo com a verificação, a fronteira é o único elemento que falta para a conclusão das Rich Pictures. De resto, o documento está de acordo com o que se espera. </p>
+
+<br>
