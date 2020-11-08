@@ -53,10 +53,10 @@
 [Verificação 05: Análise de Protocolo](verificacoes/verificacao_analise_protocolo.md)<br>
 [Verificação 06: Análise de Discurso](verificacoes/verificacao_analise_discurso.md)<br>
 [Verificação 07: Personas](verificacoes/verificacao_personas.md)<br>
-[Verificação 08: Entrevista](verificacoes/.md)<br>
+[Verificação 08: Entrevista](verificacoes/verificacao_entrevista.md)<br>
 [Verificação 09: Storyboard](verificacoes/verificacao_storyboard.md)<br>
 [Verificação 10: Resultado](verificacoes/.md)<br>
-[Verificação 11: MosCoW](verificacoes/.md)<br>
+[Verificação 11: MosCoW](verificacoes/verificacao_moscow.md)<br>
 [Verificação 12: First Things First](verificacoes/.md)<br>
 [Verificação 13: Rich Picture](verificacoes/verificacao_richpicture.md)<br>
 
