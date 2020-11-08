@@ -18,7 +18,7 @@
         <tr>
             <td> 07.11.2020 </td>
             <td>  0.2   </td>
-            <td> Criação do documento</td>
+            <td> Verificação do Brainstorming</td>
             <td> Damarcones Porto </td>
         </tr>
     </tbody>
@@ -32,7 +32,7 @@
 
 
 ## Checklist
-Esse é o check-list que servirá de base para a inspeção da Análise de Protocolo.
+Esse é o check-list que servirá de base para a inspeção do Brainstorming.
 <br>
 
 1. O registro da reunião foi descrito de forma clara?
@@ -74,4 +74,4 @@ Esse é o check-list que servirá de base para a inspeção da Análise de Proto
 <br>
 
 ## Conclusão
-Depois de fazer a verificação do documento, não foi encotrada nenhuma irregularidade.
+Depois de fazer a verificação do documento, não foi encontrada nenhuma irregularidade.

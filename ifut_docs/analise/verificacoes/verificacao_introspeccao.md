@@ -17,7 +17,7 @@
         <tr>
             <td> 08.11.2020 </td>
             <td>  0.2   </td>
-            <td> Criação do documento</td>
+            <td> Verificação da Introspecção</td>
             <td> Damarcones Porto </td>
         </tr>
     </tbody>
@@ -29,6 +29,8 @@
 - Inspetora: Damarcones Porto.
 
 ## Checklist
+Esse é o check-list que servirá de base para a inspeção do introspecção.
+<br>
 
 1. O requisito está transcrito de forma clara?
 2. Todos os termos importantes possuem léxicos?

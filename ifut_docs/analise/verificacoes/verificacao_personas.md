@@ -18,7 +18,7 @@
         <tr>
             <td> 07.11.2020 </td>
             <td>  0.2   </td>
-            <td> Criação do documento</td>
+            <td> Verificação das personas</td>
             <td> Damarcones Porto </td>
         </tr>
     </tbody>
