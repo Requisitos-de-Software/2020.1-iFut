@@ -86,3 +86,10 @@ Esse é o check-list que servirá de base para a inspeção da análise de discu
 	    </tr>
     </tbody> 
 </table>
+<br>
+
+## Conclusão
+
+<p align="justify">De acordo com a verificação, é preciso apenas adicionar alguns léxicos que faltam. De resto, o documento está de acordo com o que se espera.</p>
+
+<br>
