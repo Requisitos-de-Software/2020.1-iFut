@@ -62,7 +62,6 @@ Esse é o check-list que servirá de base para a inspeção dos diagramas de cas
 <table class="table table-striped border">
     <thead>
         <th>Checklist</th> 
-        <th>Diagramas de Caso de Uso</th>
         <th>UCD01</th>
 	<th>UCD02</th>
 	<th>UCD03</th>
@@ -86,73 +85,380 @@ Esse é o check-list que servirá de base para a inspeção dos diagramas de cas
     <tbody>
 	    <tr>
 		    <td>1</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
+		     <td>Sim</td>
 	    </tr>
         <tr>
 		    <td>2</td>
-		    <td>...</td>
+		     <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
         <tr>
 		    <td>3</td>
-		    <td>...</td>
+		     <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
         <tr>
 		    <td>4</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>5</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>6</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>7</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>8</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>9</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>10</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>11</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>12</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>13</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>14</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>15</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>16</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
       <tr>
 		    <td>17</td>
-		    <td>...</td>
+		    <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
+		 <td>Sim</td>
 	    </tr>
     </tbody> 
 </table>
 
 ## Conclusão
+A partir da verificação, os diagramas estão de acordo com o esperado.
