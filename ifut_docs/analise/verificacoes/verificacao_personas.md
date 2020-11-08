@@ -1,212 +1,109 @@
-# Verificação dos Cenários damarcones
+# Verificação das Personas
 
+## Histórico de Versão
+<table class="table table-striped border">
+    <thead>
+        <th>Data</th>   
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 04.11.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento</td>
+            <td> Isabella Carneiro </td>
+        </tr>
+        <tr>
+            <td> 07.11.2020 </td>
+            <td>  0.2   </td>
+            <td> Criação do documento</td>
+            <td> Damarcones Porto </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Contexto
 - Técnica utilizada: Técnica de Leitura Check-List
-- Autor do documento: Eduardo Lima.
-- Inspetora: Micaella Gouveia.
+- Autor do documento: Bruna Almdeida.
+- Inspetora: Damarcones Porto.
 
 
 ## Checklist
-Esse é o check-list que servirá de base para a inspeção dos cenários.
+Esse é o check-list que servirá de base para a inspeção das personas.
 <br>
 
-1. O título é auto-explicativo?
-2. O objetivo é condizente com a explicação do cenário?
-3. Existe pré-condição?
-4. A pré-condição está completa?
-5. A pós-condição é consistente com o objetivo do cenário?
-6. Os atores foram listados de forma correta?
-7. Existem recursos?
-8. Os episódios estão corretos?
-9. Os episódios mostram as funcionalidades esperadas do cenário?
-10. Existem restrições?
-11. As restrições repetem informações da pré-condição e/ou dos recursos?
-12. Existem exceções?
-13. As exceções repetem informações da pré-condição, dos recursos e/ou das restrições?
-14. Todos os termos importantes estão presentes no Léxico?
-15. O cenário está totalmente linkado aos léxicos?
-16. O cenário se aplica corretamente aos requisitos?
+1. A descrição da persona está clara?
+2. A necessidade da persona foi exposta de maneira direta?
+3. O estilo de vida da persona foi elaborado de maneira clara?
+4. Está evidente se a persona é primária, seundária ou anti-persona?
+5. A condição que levou a persona a procurar o sistema foi criada de maneira correta?
+6. A descrição de como a persona lida atualmente com o problema que o sistema propõe solução está bem descrita?  
+
 
 ## Resposta
 
-<table class="checklist">
-	<tr>
-		<th class="checklist_header">Checklist</th>
-		<th>Cenário 1</th>
-		<th>Cenário 2</th>
-        <th>Cenário 3</th>
-        <th>Cenário 4</th>
-        <th>Cenário 5</th>
-        <th>Cenário 6</th>
-        <th>Cenário 7</th>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
+<table class="table table-striped border">
+    <thead>
+        <th>Check-List</th>
+		<th>Persona 1 (José)</th>
+		<th>Persona 2 (Helena)</th>
+        <th>Persona 3 (Carlos)</th>
+        <th>Persona 4 (Paulo)</th>
+        <th>Persona 5 (Vanessa)</th>
+    </thead>
+    <tbody> 
+        <tr>
+            <td>1</td>
+            <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td>
+            <td>SIM</td> 
+        </tr>
 	<tr>
 		<td>2</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
+		<td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
+		<td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
 	</tr>
+    </tbody>
+    <tbody>
     <tr>
 		<td>4</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
+		<td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
 	</tr>
     <tr>
 		<td>5</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-    <tr>
+		<td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+	</tr> 
+        <tr>
 		<td>6</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>OK</td>
-	</tr>
-        <tr>
-		<td>7</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-    <tr>
-		<td>8</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>9</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>10</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>11</td>
-		<td>X</td>
-        <td>X</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>12</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>13</td>
-		<td>OK</td>
-        <td>X</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>14</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>15</td>
-		<td>X</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>16</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
+		<td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+        <td>SIM</td>
+	</tr> 
+    </tbody>
 </table> 
 <br>
