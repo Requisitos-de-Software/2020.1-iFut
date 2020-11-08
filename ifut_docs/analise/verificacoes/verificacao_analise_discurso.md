@@ -1,178 +1,88 @@
-# Verificação dos Diagramas de Casos de Uso bruna
+# Verificação da análise de discurso
 
-
-## Contexto
-- Técnica utilizada: Técnica de Leitura Check-List
-- Autor do documento: Samuel Pereira.
-- Inspetora: Sofia Patrocinio.
-
-
-## Checklist
-Esse é o check-list que servirá de base para a inspeção dos casos de uso.
 <br>
 
-1. O título é auto-explicativo?
-2. O diagrama de caso de uso prova algum resultado observável e de valor para os atores ou outros interessados do sistema?
-3. Todos os casos de uso são uma ação?
-4. Todos os extends fazem sentido?
-5. Todos os extends estão na direção certa?
-6. A pré-condição está correta?
-7. Existe um include depois de algum extends?
-8. Todos os includes fazem sentido?
-9. Todos os includes estão na direção certa?
-10. Todas as heranças fazem sentido?
-11. Todos os casos de uso possuem especificações?
-12. Os atores fazem sentido?
-13. Os serviços externos se comunicam com os casos de uso?
-14. A comunicação está sendo feita de forma correta?
-15. O diagrama se aplica ao que ocorre na aplicação?
-16. Todos os termos estão documentados no léxicos?
+## Histórico de Versão
+<table class="table table-striped border">
+    <thead>
+        <th>Data</th> 
+        <th>Versão </th> 
+        <th>Descrição</th> 
+        <th>Autor(es)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 05.11.2020 </td>
+            <td>  0.1   </td>
+            <td> Criação do documento</td>
+            <td> Bruna Almeida </td>
+        </tr>
+		<tr>
+            <td> 07.11.2020 </td>
+            <td>  0.2   </td>
+            <td> Adição do conteúdo</td>
+            <td> Bruna Almeida </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+## Contexto
+- Técnica utilizada: Técnica de Leitura Check-List.
+- Autora do documento: Bruna Almeida, Damarcones Porto, Isabella Carneiro, Geraldo Victor, Lucas Lopes.
+- Inspetora: Bruna Almeida.
+
+<br>
+
+## Checklist
+Esse é o check-list que servirá de base para a inspeção da análise de discurso.
+<br>
+
+1. A conversa foi transcrita de forma clara?
+2. Todos os termos importantes possuem léxicos?
+3. Os léxicos estão linkados?
+4. Os requisitos elicitados estão presentes de alguma forma na conversa?
+5. Existe algum requisito relatado na conversa que não foi levantado?
+6. Não existem erros de digitação?
+7. Os requisitos estão bem escritos?
+
+<br>
 
 ## Resposta
 
-<table class="checklist">
-	<tr>
-		<th class="checklist_header">Checklist</th>
-		<th>Diagrama 1</th>
-		<th>Diagrama 2</th>
-        <th>Diagrama 3</th>
-        <th>Diagrama 4</th>
-        <th>Diagrama 5</th>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-    <tr>
-		<td>4</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-    <tr>
-		<td>5</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-    <tr>
-		<td>6</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
+<table class="table table-striped border">
+    <thead>
+        <th>Checklist</th> 
+        <th>Análise de discurso</th>  
+    </thead>
+    <tbody>
+	    <tr>
+		    <td>1</td>
+		    <td>SIM</td>
+	    </tr>
         <tr>
-		<td>7</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-    <tr>
-		<td>8</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
+		    <td>2</td>
+		    <td>NÃO</td>
+	    </tr>
         <tr>
-		<td>9</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
+		    <td>3</td>
+		    <td>SIM</td>
+	    </tr>
         <tr>
-		<td>10</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
+		    <td>4</td>
+		    <td>SIM</td>
+	    </tr>
         <tr>
-		<td>11</td>
-		<td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-	</tr>
-	</tr>
+		    <td>5</td>
+		    <td>NÃO</td>
+	    </tr>
         <tr>
-		<td>12</td>
-	    <td>X</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>OK</td>
-	</tr>
-	</tr>
+		    <td>6</td>
+		    <td>SIM</td>
+	    </tr>
         <tr>
-		<td>13</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>14</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>15</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-	</tr>
-        <tr>
-		<td>16</td>
-		<td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-        <td>OK</td>
-	</tr>
-</table> 
-<br>
+		    <td>7</td>
+		    <td>SIM</td>
+	    </tr>
+    </tbody> 
+</table>
