@@ -1,5 +1,4 @@
 # Verificação de Histórias de Usuário
-<br>
 
 ## Histórico de Versão
 <table class="table table-striped border">
