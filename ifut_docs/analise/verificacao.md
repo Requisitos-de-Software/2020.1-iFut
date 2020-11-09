@@ -62,18 +62,17 @@
 [Verificação 07: Personas](verificacoes/verificacao_personas.md)<br>
 [Verificação 08: Entrevista](verificacoes/verificacao_entrevista.md)<br>
 [Verificação 09: Storyboard](verificacoes/verificacao_storyboard.md)<br>
-[Verificação 10: Resultado](verificacoes/.md)<br>
-[Verificação 11: MosCoW](verificacoes/verificacao_moscow.md)<br>
-[Verificação 12: First Things First](verificacoes/.md)<br>
-[Verificação 13: Rich Picture](verificacoes/verificacao_richpicture.md)<br>
+[Verificação 10: MosCoW](verificacoes/verificacao_moscow.md)<br>
+[Verificação 11: First Things First](verificacoes/.md)<br>
+[Verificação 12: Rich Picture](verificacoes/verificacao_richpicture.md)<br>
 
 #### Modelagem
-[Verificação 14: Cenários](verificacoes/mod_cenarios.md)<br>
-[Verificação 15: Léxicos](verificacoes/mod_lexicos.md)<br>
-[Verificação 16: Especificação suplementar](verificacoes/mod_especificacao.md)<br>
-[Verificação 17: Casos de uso](verificacoes/mod_casosuso.md)<br>
-[Verificação 18: Diagramas de casos de uso](verificacoes/mod_diagramas.md)<br>
-[Verificação 19: Histórias de usuário](verificacoes/mod_historias.md)<br>
-[Verificação 20: NFR](verificacoes/mod_nfr.md)<br>
-[Verificação 21: iStar](verificacoes/mod_istar.md)<br>
-[Verificação 22: Backlog](verificacoes/mod_backlog.md)<br>
+[Verificação 13: Cenários](verificacoes/mod_cenarios.md)<br>
+[Verificação 14: Léxicos](verificacoes/mod_lexicos.md)<br>
+[Verificação 15: Especificação suplementar](verificacoes/mod_especificacao.md)<br>
+[Verificação 16: Casos de uso](verificacoes/mod_casosuso.md)<br>
+[Verificação 17: Diagramas de casos de uso](verificacoes/mod_diagramas.md)<br>
+[Verificação 18: Histórias de usuário](verificacoes/mod_historias.md)<br>
+[Verificação 19: NFR](verificacoes/mod_nfr.md)<br>
+[Verificação 20: iStar](verificacoes/mod_istar.md)<br>
+[Verificação 21: Backlog](verificacoes/mod_backlog.md)<br>
