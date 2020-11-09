@@ -37,6 +37,9 @@ Aguardo retorno.
 Att, 
 Isabella Carneiro
 
+
+<img src="../../images/questionamento.jpg"> 
+
 ## Feedback
 
 No dia 6 de novembro o grupo obteve a seguinte resposta:
@@ -46,6 +49,8 @@ Inicialmente a única coisa que eu tentaria deixar mais claro é a diferença do
 Onde a experiência com cada funcionalidade por variar de acordo com os perfis, como por exemplo, o administrador tem um perfil de alterações no torneio e configuração. 
 O atleta tem a possibilidade de usar o aplicativo e com um login acompanhar os eventos que está relacionado a ele. Enquanto o torcedor é o que tem disponível áreas públicas com informações do torneio tanto no site quanto no app.
 Mas no mais as funcionalidades estão de acordo com nossa plataforma e qualquer novo detalhe pode entrar em contato que esclareço com vocês. 
+
+<img src="../../images/questionamento_resposta.jpg"> 
 
 ## Conclusão
 
