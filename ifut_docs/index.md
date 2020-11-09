@@ -9,10 +9,16 @@
 
 ## Sobre o aplicativo
 
-<p align="justify"> O iFut é um gerenciador de campeonatos que facilita o planejamento de torneios de futebol. O app
+
+<div class="text-justify">
+
+<p> O iFut é um gerenciador de campeonatos que facilita o planejamento de torneios de futebol. O app
 	planeja todas as etapas de campeonatos de futebol, como inscrições, criação de tabelas e rodadas, além de oferecer
 	uma opção de gameficação que gera engajamento dos usuários na plataforma online. </p>
-	<p align="justify">Esse aplicativo possui três tipos de usuários que se diferenciam pelas funcionalidades que eles utilizam: administrador, torcedor ou atleta. o administrador tem um perfil que permite realizar alterações no torneio e configuração do mesmo. O atleta tem a possibilidade de usar o aplicativo e com um login acompanhar os eventos que estão relacionados a ele, além de acompanhar sua própria estatística nos campeonatos que participa. O torcedor é o que tem disponível áreas públicas com informações de torneios tanto no site quanto no app.</p>
+<p>Esse aplicativo possui três tipos de usuários que se diferenciam pelas funcionalidades que eles utilizam: administrador, torcedor ou atleta. o administrador tem um perfil que permite realizar alterações no torneio e configuração do mesmo. O atleta tem a possibilidade de usar o aplicativo e com um login acompanhar os eventos que estão relacionados a ele, além de acompanhar sua própria estatística nos campeonatos que participa. O torcedor é o que tem disponível áreas públicas com informações de torneios tanto no site quanto no app.</p>
+
+</div>
+
 
 ## Equipe
 
