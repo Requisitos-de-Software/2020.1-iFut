@@ -98,6 +98,12 @@
             <td> Adição de informações no cronograma sobre a 4ª entrega</td>
             <td> Bruna Almeida </td>
         </tr>
+        <tr>
+            <td> 08.11.2020 </td>
+            <td>  1.6   </td>
+            <td> Adição de informações no cronograma sobre a 5ª entrega</td>
+            <td> Bruna Almeida </td>
+        </tr>
     </tbody>
 </table>
 
@@ -115,6 +121,7 @@
 
 <br>
 
+### 1ª entrega
 ##### **Realizado de 18/08 até 07/09**
 
 <table class="table table-striped border" style="color:black;">
@@ -158,6 +165,7 @@
 </table>
 <br>
 
+### 2ª entrega
 ##### **Realizado de 08/09 até 28/09**
 
 <table class="table table-striped border" style="color:black;">
@@ -271,6 +279,7 @@
 </table>
 <br>
 
+### 3ª entrega
 ##### **Realizado de 15/09 até 09/10**
 
 <table class="table table-striped border" style="color:black;">
@@ -321,6 +330,7 @@
 </table>
 <br>
 
+### 4ª entrega
 ##### **Realizado de 10/10 até 28/10**
 
 <table class="table table-striped border" style="color:black;">
@@ -401,6 +411,155 @@
             <td>Bruna, Damarcones</td>
             <td>27/10</td>
             <td>27/10</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+### 5ª entrega
+##### **Realizado de 29/10 até 09/11**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Entrega</th>
+        <th>Previsão</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Verificação - Diagramas de caso de uso</td>
+            <td>Isabella</td>
+            <td>Bruna</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Cenários</td>
+            <td>Damarcones</td>
+            <td>Isabella</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Léxico</td>
+            <td>Damarcones</td>
+            <td>Lucas</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Casos de uso</td>
+            <td>Geraldo</td>
+            <td>Damarcones</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - NFR</td>
+            <td>Bruna</td>
+            <td>Isabella</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Especificação suplementar</td>
+            <td>Bruna</td>
+            <td>Damarcones</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - RichPicture</td>
+            <td>Bruna</td>
+            <td>Geraldo</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Questionário</td>
+            <td>Isabella</td>
+            <td>Bruna</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Storyboard</td>
+            <td>Lucas</td>
+            <td>Isabella</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - MosCoW</td>
+            <td>Geraldo</td>
+            <td>Isabella</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Entrevista</td>
+            <td>Geraldo</td>
+            <td>Lucas</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Observação Participativa</td>
+            <td>Isabella</td>
+            <td>Bruna</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Personas</td>
+            <td>Damarcones</td>
+            <td>Bruna</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Brainstorming</td>
+            <td>Damarcones</td>
+            <td>Isabella</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Análise de protocolo</td>
+            <td>Geraldo</td>
+            <td>Damarcones</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Introspecção</td>
+            <td>Damarcones</td>
+            <td>Lucas</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Verificação - Análise de discurso</td>
+            <td>Bruna</td>
+            <td>Damarcones</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Validação de todos os documentos- Comprovação informal</td>
+            <td>Isabella</td>
+            <td>Bruna, Damarcones</td>
+            <td>08/11</td>
+            <td>08/11</td>
+        </tr>
+        <tr>
+            <td>Validação - Prototipagem</td>
+            <td>Isabella, Geraldo</td>
+            <td>Bruna, Damarcones, Lucas</td>
+            <td>08/11</td>
+            <td>08/11</td>
         </tr>
     </tbody>
 </table>
