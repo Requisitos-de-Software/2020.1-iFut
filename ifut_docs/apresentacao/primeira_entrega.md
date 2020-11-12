@@ -1,4 +1,7 @@
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5ebnOhSN5ck?controls=0" frameborder="0"
+# 1ª entrega - Planejamento do projeto
+Realizado de 18/08 até 07/09
+
+<iframe width="850" height="500" src="https://www.youtube-nocookie.com/embed/5ebnOhSN5ck?controls=0" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 
