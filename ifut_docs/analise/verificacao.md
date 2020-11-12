@@ -63,7 +63,7 @@
 [Verificação 08: Entrevista](verificacoes/verificacao_entrevista.md)<br>
 [Verificação 09: Storyboard](verificacoes/verificacao_storyboard.md)<br>
 [Verificação 10: MosCoW](verificacoes/verificacao_moscow.md)<br>
-[Verificação 11: First Things First](verificacoes/.md)<br>
+[Verificação 11: First Things First](verificacoes/verificacao_first_things_first.md)<br>
 [Verificação 12: Rich Picture](verificacoes/verificacao_richpicture.md)<br>
 
 #### Modelagem
