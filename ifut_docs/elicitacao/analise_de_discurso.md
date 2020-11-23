@@ -28,6 +28,12 @@
             <td> Adição da tabela de versionamento </td>
             <td> Isabella Carneiro  </td>
         </tr>
+         <tr>
+            <td> 23.11.2020 </td>
+            <td>  0.4   </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro  </td>
+        </tr>
     </tbody>
 </table>
 
@@ -133,3 +139,6 @@ jogador e ficar marcando quantos gols o jogador fez..”
         </tr>
     </tbody>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
