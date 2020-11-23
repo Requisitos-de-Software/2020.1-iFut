@@ -30,7 +30,7 @@
             <b>Atores</b>
         </td>
         <td>
-            -  <a href="../../lexico/#usuario">usuário</a>
+            -  <a href="../../lexico/#usuario">Usuário</a>
             <p>- Sistema</p> 
         </td>
     </tr>
