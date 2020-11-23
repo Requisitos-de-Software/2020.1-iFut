@@ -34,6 +34,12 @@
             <td> Alteração da metodologia </td>
             <td> Bruna Almeida  </td>
         </tr>
+         <tr>
+            <td> 23.11.2020 </td>
+            <td>  0.5   </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro  </td>
+        </tr>
     </tbody>
 </table>
 
@@ -44,7 +50,7 @@
  <div>
     <p align="justify">&emsp;
         StoryBoard é a técnica que usa imagens ou ilustrações em sequência para contar uma história com o objetivo de ilustrar situações de uso dos requisitos de um sistema.</p>
-
+Foram feitas duas histórias que retratam exemplos de uso do aplicativo iFut no cotidiano dos usuários. A partir delas, foram elicitados alguns requisitos que o aplicativo deve seguir.
  </div>
 <div class="line"></div>
 
@@ -80,4 +86,8 @@
         </tr>
         </tbody>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07; 
+
 
