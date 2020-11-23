@@ -32,7 +32,7 @@
             <b>Atores</b>
         </td>
         <td>
-            <p> <a href="../../lexico/#usuario">usuário</a>;</p>
+            <p> <a href="../../lexico/#usuario">Usuário</a>;</p>
             <p>Sistema.</p>
         </td>
     </tr>
