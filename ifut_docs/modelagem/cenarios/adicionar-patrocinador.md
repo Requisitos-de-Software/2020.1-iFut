@@ -23,8 +23,8 @@
             <b>Contexto</b>
         </td>
         <td>
-            <p>Pré-condição: Ter um <a href="../../lexico/#campeonato">campeonato</a> ativo
-            Ser  <a href="../../lexico/#usuario-elite">usuário elite</a> .</p>
+            <p>Pré-condição: 
+                Ter um <a href="../../lexico/#campeonato">campeonato</a> ativo e ser  <a href="../../lexico/#usuario-elite">usuário elite</a> .</p>
             <p>Pós-condição: Ter um patrocinador vinculado ao <a href="../../lexico/#campeonato">campeonato</a>.</p>
         </td>
     </tr>
@@ -33,7 +33,7 @@
             <b>Atores</b>
         </td>
         <td>
-             <a href="../../lexico/#usuario">usuário</a>.
+             <a href="../../lexico/#usuario">Usuário</a>.
         </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@
             <p>1. Acesso à internet;</p>
             <p>2. Acesso ao site iFut;</p>
             <p>3. Imagem do patrocinador;</p>
-            <p>4. link que direciona para o site do patrocinador.</p>
+            <p>4. Link que direciona para o site do patrocinador.</p>
         </td>
     </tr>
     <tr>
@@ -65,8 +65,8 @@
             <b>Restrições</b>
         </td>
         <td>
-            <p> 1. Possuir link válido;</p>
-            <p> 2. Possuir imagem com tamanho adequado.</p>
+            <p> 1. Possuir um link válido;</p>
+            <p> 2. Possuir uma imagem com tamanho adequado.</p>
         </td>
     </tr>
     <tr>
