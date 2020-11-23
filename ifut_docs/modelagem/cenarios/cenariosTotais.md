@@ -46,11 +46,21 @@
             <td> Adição de cenários</td>
             <td> Lucas Lopes</td>
         </tr>
+	            <tr>
+            <td> 23.11.2020 </td>
+            <td>  0.6   </td>
+            <td> Revisão de documentos</td>
+            <td> Isabella Carneiro</td>
+        </tr>
     </tbody>
 </table>
 <br>
 
-## CENÁRIOS
+## Metodologia
+Um cenário descreve uma situação de uso do sistema
+Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição.
+
+## CENÁRIOS - Listagem
 <BR>
 <!-- Linkagens dos cenários -->
 <p><a href="../login-atleta">Login - Perfil atleta</a></p>
@@ -94,3 +104,6 @@
 <p><a href="../enviar-convite">Enviar convite</a></p>
 <p><a href="../verificar-extrato">Verificar extrato de jogo</a></p>
 <p><a href="../verificar-escalacao">Verificar escalação de jogos</a></p>
+	
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
