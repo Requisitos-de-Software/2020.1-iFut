@@ -19,7 +19,7 @@
             <b>Contexto</b>
         </td>
         <td>
-            <b>Pré-condição:</b>  <a href="../../lexico/#usuario">usuário</a> logado no site iFut,  <a href="../../lexico/#usuario">usuário</a> ser administrador do <a href="../../lexico/#campeonato">campeonato</a>.
+            <b>Pré-condição:</b>  <a href="../../lexico/#usuario">Usuário</a> deve estar logado no site iFut e o  <a href="../../lexico/#usuario">usuário</a> ser administrador do <a href="../../lexico/#campeonato">campeonato</a>.
             <p><b>Pós-condição:</b>O  <a href="../../lexico/#usuario">usuário</a> deverá ter privilégios de administrador
             </p>
         </td>
@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            -  <a href="../../lexico/#usuario">usuário</a> administrador
+            -  <a href="../../lexico/#usuario">Usuário</a> administrador
             <p>- Sistema</p>
         </td>
     </tr>
@@ -64,7 +64,7 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1.  <a href="../../lexico/#usuario">usuário</a> ser treinador/responsável</p>
+            <p>1.  <a href="../../lexico/#usuario">Usuário</a> não ser treinador/responsável</p>
             <p>2. Se não há número mínimo de  <a href="../../lexico/#time">time</a>s.</p>
         </td>
     </tr>
