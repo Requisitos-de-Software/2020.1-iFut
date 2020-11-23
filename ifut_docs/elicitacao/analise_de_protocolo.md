@@ -38,6 +38,12 @@
             <td> 05.10.2020 </td>
             <td> 0.5 </td>
             <td> Novos itens </td>
+            <td> Isabella Carneiro</td>
+        </tr>
+        <tr>
+            <td> 23.11.2020 </td>
+            <td> 0.6 </td>
+            <td> Revisão do documento </td>
             <td> Isabella </td>
         </tr>
     </tbody>
@@ -94,6 +100,8 @@
 </div>
 
 ## Requisitos Elicitados
+
+A partir da análise da narração do uso do app iFut foram elicitados os seguintes requisitos:
 
 <table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
@@ -163,3 +171,6 @@
         </tr>
     </tbody>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
