@@ -45,6 +45,12 @@
             <td> Adição das histórias de usuários do épico cadastro e tabela backlog</td>
             <td> Lucas Lopes </td>
         </tr>
+	    <tr>
+            <td> 23.11.2020 </td>
+            <td>  0.7  </td>
+            <td> Revisão do documento</td>
+            <td> Isabella Carneiro </td>
+        </tr>
     </tbody>
 </table>
 
@@ -59,6 +65,9 @@
 
 
 ## Backlog
+
+Backlog é uma lista que contém breves descrições de todas as funcionalidades desejadas para um produto específico ainda não atribuídas a um responsável. Essa lista traz os requisitos para um projeto, priorizados de acordo com o valor entregue para o cliente.
+Essas descrições podem se transformar em tarefas, que no futuro serão feitas pela equipe de desenvolvimento. Dessa forma, fica mais fácil priorizar o que deve ser feito em cada sprint. 
 
 <table cellspacing="0" border="0" class="table table-striped table-bordered table-responsive-sm" style="font-size: 10px;">
 	<colgroup width="95"></colgroup>
@@ -390,7 +399,11 @@
 	</tr>
 </table>
 
-## Épicos
+## Épicos - Metodologia
+
+Um épico é uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. O épico deve ser separado em histórias de usuário menores.
+
+## Épicos - Listagem
 
 [Cadastro](epicos/cadastro.md)<br>
 [Assinante](epicos/assinante.md)<br>
@@ -402,7 +415,11 @@
 
 <br>
 
-## Listagem das Histórias de Usuário
+## História de Usuário - Metodologia
+
+Uma história do usuário é uma explicação informal e geral sobre um recurso de software escrita a partir da perspectiva do usuário final ou cliente. O objetivo dela é articular como uma única tarefa pode oferecer um determinado valor ao cliente.
+
+## Histórias de Usuário - Listagem
 
 <!-- Cadastro -->
 [US01: Realizar cadastro](epicos/cadastro.md)<br>
@@ -449,3 +466,6 @@
 [US36: Verificar extrato de jogo](epicos/homologacao.md)<br>
 [US37: Acessar súmula digital](epicos/homologacao.md)<br>
 [US38: Acessar súmula física](epicos/homologacao.md)<br>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
