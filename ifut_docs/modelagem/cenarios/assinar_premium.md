@@ -70,8 +70,6 @@ Assinar  <a href="../../lexico/#planos">planos</a> premium para ter acesso a mai
             <p>2. O  <a href="../../lexico/#usuario">usuário</a> fechar o site antes de terminar a ação.</p>
             <p>3. O  <a href="../../lexico/#usuario">usuário</a> não estar logado no site.</p>
 	    <p>3. O  <a href="../../lexico/#usuario">usuário</a> não finalizar o pagamento.</p>
-
-
         </td>
     </tr>
 </table>
