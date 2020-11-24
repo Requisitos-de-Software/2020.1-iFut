@@ -1,4 +1,4 @@
-# CENÁRIO :
+# 36 - Cenário Preencher informações sobre um campeonato
 
 <table class="table table-striped border">
     <tr>

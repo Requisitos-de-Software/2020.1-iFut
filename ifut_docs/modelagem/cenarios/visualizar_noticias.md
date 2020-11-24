@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 23 - Visualizar as notícias de um campeonato
 
 <table class="table table-striped border">
     <tr>

@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 34 - Criar rodadas em um campeonato
 
 <table class="table table-striped border">
     <tr>

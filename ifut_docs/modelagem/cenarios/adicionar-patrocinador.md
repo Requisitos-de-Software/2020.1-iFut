@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 07 - Adicionar patrocinador a um campeonato
 <br>
 
 <table class="table table-striped border">

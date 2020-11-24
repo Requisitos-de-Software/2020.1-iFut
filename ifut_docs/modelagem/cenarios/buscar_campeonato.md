@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 10 -  Buscar Campeonato
 
 <table class="table table-striped border">
     <tr>

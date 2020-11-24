@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 28 - Visualizar agenda de jogos
 <br>
 
 <table class="table table-striped border">

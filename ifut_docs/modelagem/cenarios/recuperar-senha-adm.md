@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 38 - Recuperar senha
 
 <table class="table table-striped border">
     <tr>

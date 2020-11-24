@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 27 - Visualizar a tabela de jogos de um campeonato
 
 <table class="table table-striped border">
     <tr>

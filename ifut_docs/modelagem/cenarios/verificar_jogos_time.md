@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 19 - Verificar jogos de um time
 
 <table class="table table-striped border">
     <tr>

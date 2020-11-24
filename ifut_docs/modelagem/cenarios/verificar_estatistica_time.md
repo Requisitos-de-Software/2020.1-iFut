@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 17 - Verificar estatística de um time
 
 <table class="table table-striped border">
     <tr>

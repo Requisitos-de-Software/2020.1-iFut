@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 11 - Disponibilizar inscrição
 <br>
 
 <table class="table table-striped border">

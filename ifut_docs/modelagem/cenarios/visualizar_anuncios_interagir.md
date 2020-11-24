@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 20 - Visualizar anúncios e interagir com eles
 <br>
 
 <table class="table table-striped border">

@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 16 - Recuperar senha de perfil atleta
 
 <table class="table table-striped border">
     <tr>

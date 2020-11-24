@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 18 - Verificar jogadores de um time
 
 <table class="table table-striped border">
     <tr>

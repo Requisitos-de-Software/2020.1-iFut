@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 40 - Verificar extrato de jogo
 
 <table class="table table-striped border">
     <tr>

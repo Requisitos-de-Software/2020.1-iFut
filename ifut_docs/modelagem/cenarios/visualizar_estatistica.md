@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 22 - Visualizar as estatísticas do usuário
 
 <table class="table table-striped border">
     <tr>

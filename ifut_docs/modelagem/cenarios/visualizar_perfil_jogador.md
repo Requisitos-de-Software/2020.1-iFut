@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 24 - Visualizar perfil de um jogador
 
 <table class="table table-striped border">
     <tr>

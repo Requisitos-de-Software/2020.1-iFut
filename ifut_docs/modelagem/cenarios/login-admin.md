@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 02 - Login - Perfil administrador
 <br>
 
 <table class="table table-striped border">

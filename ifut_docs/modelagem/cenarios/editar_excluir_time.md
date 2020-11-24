@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 13 - Editar ou excluir time<
 <br>
 
 <table class="table table-striped border">

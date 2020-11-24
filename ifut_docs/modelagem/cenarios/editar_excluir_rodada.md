@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 12 - Editar ou excluir rodada
 <br>
 
 <table class="table table-striped border">

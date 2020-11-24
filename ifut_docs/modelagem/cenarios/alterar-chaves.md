@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 35 - Alterar chaveamento de um campeonato
 
 <table class="table table-striped border">
     <tr>

@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 09 - Assinar Planos Premium
 
 <table class="table table-striped border">
     <tr>

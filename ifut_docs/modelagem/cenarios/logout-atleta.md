@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 03 - Logout - Perfil atleta
 <br>
 
 <table class="table table-striped border">

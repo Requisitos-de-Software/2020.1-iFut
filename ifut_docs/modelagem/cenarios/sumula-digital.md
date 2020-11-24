@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 30 - Acessar súmula digital
 <br>
 
 <table class="table table-striped border">

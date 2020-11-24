@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 37 - Compartilhamento de informações
 
 <table class="table table-striped border">
     <tr>

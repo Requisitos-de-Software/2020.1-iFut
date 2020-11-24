@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 14 - Favoritar Campeonato
 
 <table class="table table-striped border">
     <tr>

@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 41 - Verificar escalação de jogos
 
 <table class="table table-striped border">
     <tr>

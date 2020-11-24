@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 06 - Editar perfil do tipo administrador
 <br>
 
 <table class="table table-striped border">

@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 33 - Visualizar ranking de um campeonato
 <br>
 
 <table class="table table-striped border">

@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 31 - Acessar súmula física
 <br>
 
 <table class="table table-striped border">

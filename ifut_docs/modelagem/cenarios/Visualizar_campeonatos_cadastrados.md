@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 21 - Visualizar os campeonatos cadastrados
 
 <table class="table table-striped border">
     <tr>

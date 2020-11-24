@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 25 - Visualizar o ranking de jogadores de um campeonato
 
 <table class="table table-striped border">
     <tr>

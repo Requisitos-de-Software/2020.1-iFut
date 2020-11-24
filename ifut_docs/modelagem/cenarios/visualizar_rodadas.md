@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 26 - Visualizar as rodadas de jogos de um campeonato
 
 <table class="table table-striped border">
     <tr>

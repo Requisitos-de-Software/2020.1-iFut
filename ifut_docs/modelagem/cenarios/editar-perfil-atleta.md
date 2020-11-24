@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 05 - Editar perfil do tipo atleta
 <br>
 
 <table class="table table-striped border">

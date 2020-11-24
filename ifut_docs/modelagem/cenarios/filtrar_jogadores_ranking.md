@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 15 - Filtrar jogadores no ranking
 
 <table class="table table-striped border">
     <tr>

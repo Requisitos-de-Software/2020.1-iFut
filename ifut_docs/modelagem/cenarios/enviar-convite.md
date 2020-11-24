@@ -1,4 +1,4 @@
-# CENÁRIO :
+# Cenário 39 - Enviar convite
 
 <table class="table table-striped border">
     <tr>

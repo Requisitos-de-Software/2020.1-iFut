@@ -1,4 +1,4 @@
-## CENÁRIO:
+## Cenário 08 - Adicionar uma notícia a um campeonato
 <br>
 
 <table class="table table-striped border">
