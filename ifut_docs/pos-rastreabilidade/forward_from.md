@@ -57,7 +57,7 @@
             <td>4</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá visualizar tabela de  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> e  <a href="../../modelagem/lexico/#rodadas">rodadas</a> ao clicar em <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 08 e UC 04</td>
             <td>US</td>
         </tr>
         <tr>
