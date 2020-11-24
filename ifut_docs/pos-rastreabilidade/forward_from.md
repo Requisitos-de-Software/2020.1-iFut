@@ -65,7 +65,7 @@
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> ao selecionar um <a href="../../modelagem/lexico/#campeonato">campeonato</a> poderá escolher <a href="../../modelagem/lexico/#classificacao">classificação</a>,  <a href="../../modelagem/lexico/#ranking">ranking</a> e notícias dentro daquele
                 <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 06, UC 08 e UC 09</td>
             <td>US</td>
         </tr>
         <tr>
