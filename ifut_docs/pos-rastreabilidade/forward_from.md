@@ -43,7 +43,7 @@
             <td>2</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> pode ser capaz de ver os <a href="../../modelagem/lexico/#campeonato">campeonato</a>s cadastrados</td>
              <td>C</td>
-            <td>UC 16 - Visualizar campeonatos cadastrados</td>
+            <td>UC 16 </td>
             <td>US</td>
         </tr>
         <tr>
@@ -72,7 +72,7 @@
             <td>6</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> cadastrado pode ser capaz de criar um <a href="../../modelagem/lexico/#campeonato">campeonato</a>.</td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 10</td>
             <td>US</td>
         </tr>
         <tr>
@@ -80,7 +80,7 @@
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá selecionar a visualização de classificações e  <a href="../../modelagem/lexico/#eliminatorias">eliminatórias</a> dentro de um <a href="../../modelagem/lexico/#campeonato">campeonato</a>
             </td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 03</td>
             <td>US</td>
         </tr>
         <tr>
@@ -94,7 +94,7 @@
             <td>9</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá buscar e  <a href="../../modelagem/lexico/#filtrar">filtrar</a> <a href="../../modelagem/lexico/#campeonato">campeonato</a>s</td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 15</td>
             <td>US</td>
         </tr>
         <tr>
@@ -122,21 +122,21 @@
             <td>13</td>
             <td> <a href="../../modelagem/lexico/#usuario">usuário</a> poderá visualizar o  <a href="../../modelagem/lexico/#placar">placar</a> de um jogo em  <a href="../../modelagem/lexico/#tempo-real">tempo real</a></td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 18</td>
             <td>US</td>
         </tr>
         <tr>
             <td>14</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá pesquisar um jogador e ver suas informações</td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 07</td>
             <td>US</td>
         </tr>
         <tr>
             <td>14</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> cadastrado poderá criar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s</td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 10</td>
             <td>US</td>
         </tr>
         <tr>
@@ -150,21 +150,21 @@
             <td>16</td>
             <td>O <a href="../../modelagem/lexico/#cadastrar">cadastro</a> terá com informações básicas nome, email, contato e senha</td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 01</td>
             <td>US</td>
         </tr>
         <tr>
             <td>17</td>
             <td>O login será por email e senha</td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 04</td>
             <td>US</td>
         </tr>
         <tr>
             <td>18</td>
             <td>A recuperação de senha do  <a href="../../modelagem/lexico/#perfil">perfil</a> <a href="../../modelagem/lexico/#atleta">atleta</a> poderá ser enviada por  <a href="../../modelagem/lexico/#mensagem">mensagem</a></td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 14</td>
             <td>US</td>
         </tr>
         <tr>
@@ -319,7 +319,7 @@
             <td>40</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve ser capaz de visualizar a sua <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a></td>
            <td>C</td>
-            <td>UC</td>
+            <td>UC 02</td>
             <td>US</td>
         </tr>
         <tr>
@@ -333,14 +333,14 @@
             <td>42 </td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> pode verificar o  <a href="../../modelagem/lexico/#extrato-do-jogo">extrato do jogo</a>, assim como sua  <a href="../../modelagem/lexico/#escalacao">escalação</a>.</td>
             <td>C</td>
-            <td>UC</td>
+            <td>UC 18</td>
             <td>US</td>
         </tr>
         <tr>
             <td>43 </td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> pode checar quem são os jogadores de um  <a href="../../modelagem/lexico/#time">time</a>, assim como os jogos que ele jogou e suas  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a>.</td>
             <td>C</td>
-            <td>UC</td>
+            <td>UC 17</td>
             <td>US</td>
         </tr>
     </tbody>
