@@ -43,7 +43,7 @@
             <td>2</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> pode ser capaz de ver os <a href="../../modelagem/lexico/#campeonato">campeonato</a>s cadastrados</td>
              <td>C</td>
-            <td>UC</td>
+            <td>UC 16 - Visualizar campeonatos cadastrados</td>
             <td>US</td>
         </tr>
         <tr>
