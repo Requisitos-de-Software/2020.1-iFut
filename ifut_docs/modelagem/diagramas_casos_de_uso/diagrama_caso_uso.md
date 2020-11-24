@@ -23,6 +23,12 @@
             <td> Adiciona Diagramas dos Casos de Uso</td>
             <td> Bruna, Damarcones </td>
         </tr>
+        <tr>
+            <td> 23.11.2020 </td>
+            <td>  0.3   </td>
+            <td>Revisão do documento</td>
+            <td> Bruna, Damarcones </td>
+        </tr>
     </tbody>
 </table>
 
@@ -47,3 +53,10 @@
 <p><a href = "../duc17"> UCD17 - Checar as informações de um time</a></p>
 <p><a href = "../duc18"> UCD18 - Verificar o extrato do jogo</a></p>
 <p><a href = "../duc19"> UCD19 - Adicionar patrocinadores e notícias a um campeonato</a></p>
+
+</br>
+
+## Referências
+
+- Livro: Vasquez,C. E.;Simões, G. S. Engenharia de Requisitos. BRASPORT; 1ª edição (19 outubro 2016).
+- Diagramas desenvolvidos na plataforma <a href = "https://app.diagrams.net/">Draw.io</a>, no dia 09 de outubro de 2020.

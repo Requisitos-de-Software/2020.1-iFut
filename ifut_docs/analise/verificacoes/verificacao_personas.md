@@ -37,7 +37,7 @@ Esse é o check-list que servirá de base para a inspeção das personas.
 1. A descrição da persona está clara?
 2. A necessidade da persona foi exposta de maneira direta?
 3. O estilo de vida da persona foi elaborado de maneira clara?
-4. Está evidente se a persona é primária, seundária ou anti-persona?
+4. Está evidente se a persona é primária, secundária ou anti-persona?
 5. A condição que levou a persona a procurar o sistema foi criada de maneira correta?
 6. A descrição de como a persona lida atualmente com o problema que o sistema propõe solução está bem descrita?  
 

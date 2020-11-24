@@ -230,3 +230,9 @@
 <p align="justify">
     Vanessa é uma antipersona, ou seja, ela não faz parte do público alvo da aplicação.
 </p>
+
+</br>
+
+## Referências
+
+- Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1a edição, Rio de Janeiro: Elsevier, 2010.

@@ -93,16 +93,28 @@ Através das ideias os seguintes requisitos foram levantados.
 </table>
 
 ##### Requisito 1
-O grupo chegou a conclusão que faz sentido que o aplicativo invista em publicidade para tornar-se mais conhecido, esse <i>marketing</i> por meio de cupons é bastante utilizado atualmente.
+<p align="justify">O grupo chegou à conclusão de que faz sentido que o aplicativo invista em publicidade para tornar-se mais conhecido. O <i>marketing</i> por meio de cupons é bastante utilizado atualmente.</p>
+
 ##### Requisito 2
-O grupo chegou a concluiu que ter um  <a href="../../modelagem/lexico/#placar">placar</a> no jogo em tempo faz com que pessoas acessem o aplicativo para ver o  <a href="../../modelagem/lexico/#placar">placar</a> e possivelmente aumente a chance de comprar algum dos produtos dos  <a href="../../modelagem/lexico/#patrocinadores">patrocinadores</a> já que o aplicativo contém anúncios.
+<p align="justify">O grupo chegou à conclusão de que ter um  <a href="../../modelagem/lexico/#placar">placar</a> no jogo em tempo real faz com que pessoas acessem o aplicativo para ver o  <a href="../../modelagem/lexico/#placar">placar</a>, e isso possivelmente pode aumentar a chance de comprar algum dos produtos dos  <a href="../../modelagem/lexico/#patrocinadores">patrocinadores</a>, já que o aplicativo contém anúncios.</p>
+
 ##### Requisito 3
-O grupo chegou a concordou que poder buscar um jogador pelo nome traz facilidade ao  <a href="../../modelagem/lexico/#usuario">usuário</a> para que ele ache as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> do jogador que deseja acompanhar.
+<p align="justify">O grupo concordou que poder buscar um jogador pelo nome traz facilidade ao  <a href="../../modelagem/lexico/#usuario">usuário</a>, para que ele ache as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> do jogador que deseja acompanhar.</p>
+
 ##### Requisito 4
-Foi de comum acordo por todos os integrantes que seria interessante ter uma maneira facilitada de criar um <a href="../../modelagem/lexico/#campeonato">campeonato</a> para categoria <a href="../../modelagem/lexico/#virtual">virtual</a>.
+<p align="justify">Foi de comum acordo, entre todos os integrantes, de que seria interessante ter uma maneira facilitada de criar um <a href="../../modelagem/lexico/#campeonato">campeonato</a> para a categoria <a href="../../modelagem/lexico/#virtual">virtual</a>.</p>
+
 ##### Requisito 5
-Por mais que não seja o escopo do aplicativo outros  <a href="../../modelagem/lexico/#esportes">esportes</a>, talvez possa existir a chance de um aplicativo mais abrangente ter uma demanda de mercado maior do que somente a de futebol, foi essa a conclusão que o grupo chegou. 
+<p align="justify">Por mais que outros <a href="../../modelagem/lexico/#esportes">esportes</a>, além do futebol, não estejam dentro do escopo do aplicativo, talvez possa existir a chance de um aplicativo mais abrangente ter uma demanda de mercado maior do que somente a de futebol, foi essa a conclusão que o grupo chegou. </p>
+
 ##### Requisito 6
-Ao fazer uma simples pesquisa foi constatado que o aplicativo em questão não aparecia nas primeiras página o que consequentemente ajuda a concorrência. O grupo reconheceu que nesse quesito o aplicativo poderia se beneficiar implementando em seu sistema algum mecanismo de impulsionamento.
+<p align="justify">Ao fazer uma simples pesquisa foi constatado que o aplicativo em questão não aparecia nas primeiras páginas, o que consequentemente ajuda a concorrência. O grupo reconheceu que nesse quesito o aplicativo poderia se beneficiar implementando em seu sistema algum mecanismo de impulsionamento.</p>
 
 A discussão sobre esses requisitos pode ser encontrada no link de [video](https://youtu.be/rwG9vel-nCk "Discursão para brainstorm").
+
+</br>
+
+## Referências
+
+- Livro: SOMMERVILLE, Ian. Engenharia de Software. 9a edição, São Paulo: Pearson, 2011.
+- Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1a edição, Rio de Janeiro: Elsevier, 2010.
