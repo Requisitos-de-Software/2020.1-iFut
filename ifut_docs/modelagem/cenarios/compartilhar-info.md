@@ -29,7 +29,7 @@
             <b>Atores</b>
         </td>
         <td>
-            <p>-  <a href="../../lexico/#usuario">usuário</a> administrador</p>
+            <p>-  <a href="../../lexico/#usuario">Usuário</a> administrador</p>
         </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@
             <b>Exceção</b>
         </td>
         <td>
-            <p>1.  <a href="../../lexico/#usuario">usuário</a> ser treinador</p>
+            <p>1.  <a href="../../lexico/#usuario">Usuário</a> não ser treinador.</p>
         </td>
     </tr>
 </table>
