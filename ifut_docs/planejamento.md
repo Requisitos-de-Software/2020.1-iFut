@@ -36,13 +36,13 @@
             <td> 10.09.2020 </td>
             <td>  0.5   </td>
             <td> Adição do cronograma formato de imagem </td>
-            <td> Isabella Carneiro Godinho</td>
+            <td> Isabella Carneiro </td>
         </tr>
         <tr>
             <td> 10.09.2020 </td>
             <td>  0.6   </td>
             <td> Adição do cronograma formato de imagem </td>
-            <td> Isabella Carneiro Godinho</td>
+            <td> Isabella Carneiro </td>
         </tr>
         <tr>
             <td> 16.09.2020 </td>
@@ -54,7 +54,7 @@
             <td> 24.06.2020 </td>
             <td>  0.8   </td>
             <td> Adição de informações </td>
-            <td>Isabella Carneiro Godinho</td>
+            <td>Isabella Carneiro </td>
         </tr>        
         <tr>
             <td> 26.09.2020 </td>
