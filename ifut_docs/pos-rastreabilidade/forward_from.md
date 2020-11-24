@@ -18,7 +18,9 @@
         </tr>
     </tbody>
 </table>
+
 ## Forward From Geral
+
 ### Requisitos Funcionais
 
 <table class="table table-striped border" style="color:black;">
