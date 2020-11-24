@@ -44,21 +44,21 @@
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> pode ser capaz de ver os <a href="../../modelagem/lexico/#campeonato">campeonato</a>s cadastrados</td>
              <td>C</td>
             <td>UC 16 </td>
-            <td>US</td>
+            <td>US 27</td>
         </tr>
         <tr>
             <td>3</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> terá uma função de  <a href="../../modelagem/lexico/#favoritar">favoritar</a> um <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
              <td>C</td>
             <td>UC</td>
-            <td>US</td>
+            <td>US 24</td>
         </tr>
         <tr>
             <td>4</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá visualizar tabela de  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> e  <a href="../../modelagem/lexico/#rodadas">rodadas</a> ao clicar em <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
              <td>C</td>
             <td>UC 08 e UC 04</td>
-            <td>US</td>
+            <td>US 32 e US 33</td>
         </tr>
         <tr>
             <td>5</td>
@@ -66,7 +66,7 @@
                 <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
              <td>C</td>
             <td>UC 06, UC 08 e UC 09</td>
-            <td>US</td>
+            <td>US 29 e US 31</td>
         </tr>
         <tr>
             <td>6</td>
