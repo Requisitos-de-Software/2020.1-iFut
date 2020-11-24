@@ -570,7 +570,9 @@
     </tbody>
 </table>
 <br>
+
 ### 6ª entrega
+
 ##### **Realizado de 09/011 até 25/11**
 
 <table class="table table-striped border" style="color:black;">
