@@ -32,6 +32,8 @@
 - Autora do documento: Damarcones Porto.
 - Inspetora: Bruna Almeida.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/pre-rastreabilidade/rich-pictures/">aqui</a>.
+
 </br>
 
 ## Checklist

@@ -1,4 +1,4 @@
-# Verificação da Análise de Protocolo
+# Verificação das Entrevistas
 
 ## Histórico de Versão
 <table class="table table-striped border">
@@ -25,7 +25,7 @@
 
 
 ## Checklist
-Esse é o check-list que servirá de base para a inspeção do documento de análise de protocolo.
+Esse é o check-list que servirá de base para a inspeção do documento de entrevistas.
 <br>
 
 1. A técnica foi aplicada de forma correta?

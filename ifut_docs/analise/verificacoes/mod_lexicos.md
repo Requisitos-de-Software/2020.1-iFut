@@ -28,6 +28,8 @@
 - Autor do documento: Bruna Almeida,  Geraldo Victor.
 - Inspetor: Damarcones.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/lexico/">aqui</a>. 
+
 
 ## Checklist
 Esse é o check-list que servirá de base para a inspeção dos léxicos.

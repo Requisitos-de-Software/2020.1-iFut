@@ -22,6 +22,8 @@
 - Autor do documento: Damarcones, Isabela Carneiro, Lucas Lopes.
 - Inspetor: Geraldo Victor.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/casos_de_uso/casos/">aqui</a>. 
+
 
 ## Checklist
 Esse é o check-list que servirá de base para a inspeção dos casos de uso.

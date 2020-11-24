@@ -30,6 +30,8 @@
 - Autores do documento: Bruna, Damarcones, Isabella, Geraldo, Lucas.
 - Inspetor: Lucas Lopes.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/historia_de_usuario/#epicos-metodologia">aqui</a>. 
+
 <br>
 
 ## Checklist

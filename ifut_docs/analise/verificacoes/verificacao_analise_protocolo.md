@@ -29,6 +29,8 @@
 - Autora do documento: Isabella Carneiro.
 - Inspetor: Geraldo Victor.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/elicitacao/analise_de_protocolo/">aqui</a>.
+
 
 ## Checklist
 Esse é o check-list que servirá de base para a inspeção do documento de análise de protocolo.
