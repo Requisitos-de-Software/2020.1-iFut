@@ -98,7 +98,7 @@ Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo nor
 <p><a href="../visualizar-ranking">Cenário 33 - Visualizar ranking de um campeonato</a></p>
 <p><a href="../criar-rodadas">Cenário 34 - Criar rodadas em um campeonato</a></p>
 <p><a href="../alterar-chaves">Cenário 35 - Alterar chaveamento de um campeonato</a></p>
-<p><a href="../preencher-dados-campeonato">36 - Cenário Preencher informações sobre um campeonato </a></p>
+<p><a href="../preencher-dados-campeonato">Cenário 36 - Preencher informações sobre um campeonato </a></p>
 <p><a href="../compartilhar-info">Cenário 37 - Compartilhamento de informações</a></p>
 <p><a href="../recuperar-senha-adm">Cenário 38 - Recuperar senha</a></p>
 <p><a href="../enviar-convite">Cenário 39 - Enviar convite</a></p>
