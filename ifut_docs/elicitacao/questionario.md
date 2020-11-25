@@ -23,6 +23,12 @@
             <td> Questionário </td>
             <td> Damarcones Porto </td>
         </tr>
+		 <tr>
+            <td> 25.11.2020 </td>
+            <td> 0.5 </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro </td>
+        </tr>
     </tbody>
 </table>
 
@@ -208,4 +214,6 @@ A partir dos resultados obtidos com o questionário, verificou-se que entre os  
     </tbody>
 </table>
 
-<br>
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+
