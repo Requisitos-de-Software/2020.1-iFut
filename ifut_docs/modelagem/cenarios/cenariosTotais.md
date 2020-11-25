@@ -59,6 +59,7 @@
 ## Metodologia
 Um cenário descreve uma situação de uso do sistema
 Inclui informações como Nome do Cenário, Ator(es), Pré-condição, Fluxo normal, Fluxos alternativos e Pós-condição.
+A partir dos requisitos elicitados, foram escritos 41 cenários.
 
 ## CENÁRIOS - Listagem
 <BR>
