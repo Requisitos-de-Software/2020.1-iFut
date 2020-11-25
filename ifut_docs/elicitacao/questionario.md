@@ -49,7 +49,12 @@
 
 * Damarcones Porto
 
+## Aplicação da técnica
+O grupo montou um questionário com perguntas genéricas para saber o perfil dos participantes e também questionamentos relacionados ao aplicativo.
+O formulário teve 27 respostas e os dados obtidos podem ser analisados a seguir.
+
 ##  Resultado
+
 ### 1. Informações Gerais
 
 <div class="toolgrid">
