@@ -23,6 +23,8 @@
 - Autores do documento: Bruna Almeida, Damarcones dos Santos, Isabella Carneiro, Lucas Lopes.
 - Inspetor: Geraldo Victor.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/elicitacao/entrevista/">aqui</a>.
+
 
 ## Checklist
 Esse é o check-list que servirá de base para a inspeção do documento de entrevistas.

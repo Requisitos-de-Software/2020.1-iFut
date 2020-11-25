@@ -34,6 +34,12 @@
             <td> Adição de mais uma persona </td>
             <td> Bruna Almeida  </td>
         </tr>
+        <tr>
+            <td> 24.11.2020 </td>
+            <td>  0.5   </td>
+            <td>Revisão do documento</td>
+            <td> Bruna Almeida</td>
+        </tr>
     </tbody>
 </table>
 
