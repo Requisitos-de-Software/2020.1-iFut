@@ -23,6 +23,12 @@
             <td> Adição da metodologia </td>
             <td> Bruna Almeida</td>
         </tr>
+        <tr>
+            <td> 25.11.2020 </td>
+            <td> 0.5 </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro </td>
+        </tr>
     </tbody>
 </table>
 
@@ -34,18 +40,17 @@ A observação participativa é uma técnica usada para elicitar requisitos, e a
 
 </p>
 
-<p align="justify">&emsp;
-
-O membro Geraldo Victor se <a href="../../modelagem/lexico/#cadastrar">cadastro</a>u e passou a ser  <a href="../../modelagem/lexico/#usuario">usuário</a>, e após 2 dias de análise, elecitou as principais funcionalidades por ele analisadas.
-
-</p>
-
 ## Participantes
 
 - Geraldo Victor
 
 ## Resultado
 
+<p align="justify">&emsp;
+
+O membro Geraldo Victor se <a href="../../modelagem/lexico/#cadastrar">cadastro</a>u e passou a ser  <a href="../../modelagem/lexico/#usuario">usuário</a>, e após 2 dias de análise, elicitou as principais funcionalidades por ele analisadas.
+
+</p>
 Data de realização: 19/09/2020.
 
 <table class="table table-striped border" style="color:black;">
@@ -248,3 +253,6 @@ Data de realização: 19/09/2020.
         </tr>
     </tbody>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
