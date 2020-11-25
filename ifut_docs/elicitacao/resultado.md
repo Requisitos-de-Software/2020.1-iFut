@@ -98,7 +98,7 @@ Este documento tem como objetivo reunir todos os requisitos elicitados através 
         </tr>
         <tr>
             <td>10</td>
-            <td>O login só será permitido aqueles  <a href="../../modelagem/lexico/#usuario">usuário</a>s que recebeu o acesso/<a href="../../modelagem/lexico/#cadastrar">cadastro</a> via email</td>
+            <td>O login só será permitido aqueles  <a href="../../modelagem/lexico/#usuario">usuário</a>s que receberam o acesso/<a href="../../modelagem/lexico/#cadastrar">cadastro</a> via email</td>
             <td>Introspecção</td>
         </tr>
         <tr>
