@@ -16,6 +16,12 @@
             <td> Criação do documento </td>
             <td> Isabella Carneiro </td>
         </tr>
+        <tr>
+            <td> 24.11.2020 </td>
+            <td> 0.2 </td>
+            <td> Adição de dados </td>
+            <td> Isabella Carneiro </td>
+        </tr>
     </tbody>
 </table>
 
