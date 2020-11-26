@@ -36,13 +36,13 @@
             <td> 10.09.2020 </td>
             <td>  0.5   </td>
             <td> Adição do cronograma formato de imagem </td>
-            <td> Isabella Carneiro Godinho</td>
+            <td> Isabella Carneiro </td>
         </tr>
         <tr>
             <td> 10.09.2020 </td>
             <td>  0.6   </td>
             <td> Adição do cronograma formato de imagem </td>
-            <td> Isabella Carneiro Godinho</td>
+            <td> Isabella Carneiro </td>
         </tr>
         <tr>
             <td> 16.09.2020 </td>
@@ -54,7 +54,7 @@
             <td> 24.06.2020 </td>
             <td>  0.8   </td>
             <td> Adição de informações </td>
-            <td>Isabella Carneiro Godinho</td>
+            <td>Isabella Carneiro </td>
         </tr>        
         <tr>
             <td> 26.09.2020 </td>
@@ -103,6 +103,12 @@
             <td>  1.6   </td>
             <td> Adição de informações no cronograma sobre a 5ª entrega</td>
             <td> Bruna Almeida </td>
+        </tr>
+        <tr>
+            <td> 24.11.2020 </td>
+            <td>  1.7   </td>
+            <td> Adição de informações no cronograma sobre a 6ª entrega</td>
+            <td> Isabella Carneiro </td>
         </tr>
     </tbody>
 </table>
@@ -560,6 +566,44 @@
             <td>Bruna, Damarcones, Lucas</td>
             <td>08/11</td>
             <td>08/11</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+### 6ª entrega
+
+##### **Realizado de 09/011 até 25/11**
+
+<table class="table table-striped border" style="color:black;">
+    <thead style="background-color: #00ff2b;">
+        <th>Tarefa</th>
+        <th>Participante(s)</th>
+        <th>Revisor(es)</th>
+        <th>Entrega</th>
+        <th>Previsão</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Revisão dos documentos</td>
+            <td>Isabella, Bruna, Geraldo, Damarcones e Lucas</td>
+            <td>Todos</td>
+            <td>25/11</td>
+            <td>25/11</td>
+        </tr>
+        <tr>
+            <td>Forward From</td>
+            <td>Isabella, Geraldo e Lucas</td>
+            <td>Todos</td>
+            <td>25/11</td>
+            <td>25/11</td>
+        </tr>
+        <tr>
+            <td>Backward From</td>
+            <td> Damarcones e Bruna</td>
+            <td>Todos</td>
+            <td>25/11</td>
+            <td>25/11</td>
         </tr>
     </tbody>
 </table>

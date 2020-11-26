@@ -30,6 +30,8 @@
 - Autores do documento: Isabella.
 - Inspetor: Lucas Lopes.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/iStar/">aqui</a>. 
+
 <br>
 
 ## Checklist

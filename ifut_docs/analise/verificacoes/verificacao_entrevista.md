@@ -1,4 +1,4 @@
-# Verificação da Análise de Protocolo
+# Verificação das Entrevistas
 
 ## Histórico de Versão
 <table class="table table-striped border">
@@ -23,9 +23,11 @@
 - Autores do documento: Bruna Almeida, Damarcones dos Santos, Isabella Carneiro, Lucas Lopes.
 - Inspetor: Geraldo Victor.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/elicitacao/entrevista/">aqui</a>.
+
 
 ## Checklist
-Esse é o check-list que servirá de base para a inspeção do documento de análise de protocolo.
+Esse é o check-list que servirá de base para a inspeção do documento de entrevistas.
 <br>
 
 1. A técnica foi aplicada de forma correta?

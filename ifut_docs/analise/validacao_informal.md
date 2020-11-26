@@ -1,5 +1,6 @@
 # Validação por Comprovação Informal
  <br>
+ 
 ## Histórico de Versão
 <table class="table table-striped border">
     <thead>
@@ -19,6 +20,12 @@
             <td> 08.11.2020 </td>
             <td>  0.2   </td>
             <td> Adição do conteúdo</td>
+            <td> Isabella Carneiro </td>
+        </tr>
+	    <tr>
+            <td> 24.11.2020 </td>
+            <td>  0.3   </td>
+            <td> Revisão do documento</td>
             <td> Isabella Carneiro </td>
         </tr>
     </tbody>
@@ -55,3 +62,6 @@ Mas no mais as funcionalidades estão de acordo com nossa plataforma e qualquer 
 ## Conclusão
 
 O grupo ficou muito satisfeito com o retorno obtido pela empresa e com relação à diferenciação dos usuários será feito uma página em que se explica melhor o aplicativo e seus objetivos, e na mesma se encontrará os perfis de usuários para que não haja dúvidas.
+
+## Referências
+ - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 20;

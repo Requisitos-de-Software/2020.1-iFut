@@ -28,6 +28,11 @@
             <td>  0.3   </td>
             <td> Revisão do documento </td>
             <td> Damarcones Porto </td>
+		 <tr>
+            <td> 25.11.2020 </td>
+            <td> 0.4 </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro </td>
         </tr>
     </tbody>
 </table>
@@ -49,7 +54,12 @@
 
 * Damarcones Porto
 
+## Aplicação da técnica
+O grupo montou um questionário com perguntas genéricas para saber o perfil dos participantes e também questionamentos relacionados ao aplicativo.
+O formulário teve 27 respostas e os dados obtidos podem ser analisados a seguir.
+
 ##  Resultado
+
 ### 1. Informações Gerais
 
 <div class="toolgrid">
@@ -218,3 +228,5 @@ A partir dos resultados obtidos com o questionário, verificou-se que entre os  
 
 ## Referências
 - Livro:Vasquez,C. E.;Simões, G. S. Engenharia de Requisitos. BRASPORT; 1ª edição (19 outubro 2016).
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
+

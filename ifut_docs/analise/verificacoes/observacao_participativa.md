@@ -32,6 +32,8 @@
 - Autores do documento: Bruna Almeida, Damarcones Porto, Isabella Carneiro, Geraldo Victor, Lucas Lopes.
 - Inspetora: Isabella Carneiro.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/elicitacao/obs_part/">aqui</a>. 
+
 <br>
 
 ## Checklist

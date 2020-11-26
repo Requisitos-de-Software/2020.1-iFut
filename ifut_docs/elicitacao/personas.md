@@ -34,6 +34,12 @@
             <td> Adição de mais uma persona </td>
             <td> Bruna Almeida  </td>
         </tr>
+        <tr>
+            <td> 24.11.2020 </td>
+            <td>  0.5   </td>
+            <td>Revisão do documento</td>
+            <td> Bruna Almeida</td>
+        </tr>
     </tbody>
 </table>
 
@@ -230,3 +236,9 @@
 <p align="justify">
     Vanessa é uma antipersona, ou seja, ela não faz parte do público alvo da aplicação.
 </p>
+
+</br>
+
+## Referências
+
+- Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1a edição, Rio de Janeiro: Elsevier, 2010.

@@ -22,12 +22,22 @@
             <td> Adição de itens</td>
             <td> Isabella </td>
         </tr>
+         <tr>
+            <td> 25.11.2020 </td>
+            <td> 0.5 </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro </td>
+        </tr>
     </tbody>
 </table>
 
 ## Participantes
 - Lucas Lopes
 <br>
+
+## Metodologia
+
+Este documento tem como objetivo reunir todos os requisitos elicitados através das técnicas empregadas pelo grupo.
 
 ## Requisitos funcionais
 
@@ -88,7 +98,7 @@
         </tr>
         <tr>
             <td>10</td>
-            <td>O login só será permitido aqueles  <a href="../../modelagem/lexico/#usuario">usuário</a>s que recebeu o acesso/<a href="../../modelagem/lexico/#cadastrar">cadastro</a> via email</td>
+            <td>O login só será permitido aqueles  <a href="../../modelagem/lexico/#usuario">usuário</a>s que receberam o acesso/<a href="../../modelagem/lexico/#cadastrar">cadastro</a> via email</td>
             <td>Introspecção</td>
         </tr>
         <tr>
@@ -312,3 +322,6 @@
         </tr>
     </tbody>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

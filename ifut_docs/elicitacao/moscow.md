@@ -24,6 +24,12 @@
            <td> Adição de itens </td>
            <td> Isabella Carneiro </td>
        </tr>
+       <tr>
+           <td> 24.11.2020 </td>
+           <td> 0.4 </td>
+           <td> Revisão do documento</td>
+           <td> Isabella Carneiro </td>
+       </tr>
    </tbody>
 </table>
 
@@ -58,7 +64,7 @@
 - Isabella
 
 ## Nota Importante
- <p>Este será o método em que o grupo baseará os outros artefatos.</p>
+ <p>Este será o método de priorização que o grupo utilizará para basear os artefatos das fases de modelagem, análise e pós-rastreabilidade.</p>
 
 ## Resultado
 
@@ -327,3 +333,6 @@
       </tr>
    </tbody>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

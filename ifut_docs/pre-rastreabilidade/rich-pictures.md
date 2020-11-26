@@ -23,6 +23,12 @@
             <td>  Rich Picture Visão Geral V1 </td>
             <td> Damarcones Porto </td>
         </tr>
+        <tr>
+            <td> 25.11.2020 </td>
+            <td>  0.3   </td>
+            <td>  Rich Picture Visão Geral V2 </td>
+            <td> Damarcones Porto </td>
+        </tr>
     </tbody>
 </table>
 
@@ -45,6 +51,16 @@
 <div class="row">
     <div class="col-sm container-img">
             <img height="400px" src="../../images/richpicture/richPictureVisaoGeral.png"></a>
+    </div>
+</div>
+
+<br>
+
+## Rich Picture Visão Geral V2; 
+
+<div class="row">
+    <div class="col-sm container-img">
+            <img height="400px" src="../../images/richpicture/richPictureVisaoGeral2    .png"></a>
     </div>
 </div>
 

@@ -1,7 +1,9 @@
 # **First Things First**
 
 <div class="line"></div>
+
 ## Histórico de Versão
+
 <table class="table table-striped border">
     <thead>
         <th>Data</th> 
@@ -28,6 +30,12 @@
             <td> Adição da tabela de versionamento </td>
             <td> Geraldo Victor</td>
         </tr>
+		<tr>
+            <td> 25.11.2020 </td>
+            <td>  0.4   </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro</td>
+        </tr>
     </tbody>
 </table>
 
@@ -53,7 +61,7 @@
 
 ## Resultado
 
-<hr>
+<hr> Todos os integrantes avaliaram os requisitos dentro da escala mencionada, a partir dessa avaliação foram desenvolvidas as seguintes tabelas com os resultados.
 
 ### Lucas
 
@@ -3102,3 +3110,6 @@
 		<td align="right" valign=bottom sdval="30.4835265913319" sdnum="1033;"><b><font color="#000000">30.4835265913319</font></b></td>
 	</tr>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;

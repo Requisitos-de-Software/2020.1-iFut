@@ -29,6 +29,8 @@
 - Autor do documento: Geraldo Victor, Lucas Lopes.
 - Inspetor: Damarcones Porto.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/elicitacao/first_things_first/">aqui</a>.
+
 
 ## Checklist
 Esse é o check-list que servirá de base para a inspeção das personas.

@@ -32,6 +32,8 @@
 - Autora do documento: Damarcones Porto, Geraldo Victor.
 - Inspetora: Bruna Almeida.
 
+O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/modelagem/nfr/">aqui</a>. 
+
 <br>
 
 ## Checklist

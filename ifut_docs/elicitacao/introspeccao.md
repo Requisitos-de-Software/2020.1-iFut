@@ -34,6 +34,12 @@
             <td> Formatação e ajustes </td>
             <td> Lucas Lopes </td>
         </tr>
+        <tr>
+            <td> 25.11.2020 </td>
+            <td> 0.5 </td>
+            <td> Revisão do documento </td>
+            <td> Isabella Carneiro </td>
+        </tr>
     </tbody>
 </table>
 <br>
@@ -61,6 +67,9 @@
 
 
 ## Resultado
+
+O integrante do grupo Lucas aplicou essa técnica se colocando no lugar de um usuário realizando uma atividade no aplicativo. Com isso, foi possível elicitar os seguintes requisitos. 
+
 <table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
         <th>Número</th>
@@ -138,3 +147,6 @@
         </tr>
     </tbody>
 </table>
+
+## Referências
+- SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
