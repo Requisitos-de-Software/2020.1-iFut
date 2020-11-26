@@ -14,7 +14,7 @@
             <td> 27.09.2020 </td>
             <td> 0.1 </td>
             <td> Criação do documento </td>
-            <td> Lucas Lopes </td>
+            <td> Lucas </td>
         </tr>
          <tr>
             <td> 05.10.2020 </td>
@@ -26,7 +26,13 @@
             <td> 25.11.2020 </td>
             <td> 0.5 </td>
             <td> Revisão do documento </td>
-            <td> Isabella Carneiro </td>
+            <td> Isabella </td>
+        </tr>
+        <tr>
+            <td> 26.11.2020 </td>
+            <td> 0.6 </td>
+            <td> Alteração de perfil técnico para administrador </td>
+            <td> Lucas </td>
         </tr>
     </tbody>
 </table>
@@ -108,7 +114,7 @@ Este documento tem como objetivo reunir todos os requisitos elicitados através 
         </tr>
         <tr>
             <td>12</td>
-            <td>O envio de convites para cadastrados só será permitido a  <a href="../../modelagem/lexico/#perfil">perfil</a>s de treinadores ou administradores</td>
+            <td>O envio de convites para cadastrados só será permitido a  <a href="../../modelagem/lexico/#perfil">perfil</a>s de administradores</td>
             <td>Introspecção</td>
         </tr>
         <tr>
@@ -153,17 +159,17 @@ Este documento tem como objetivo reunir todos os requisitos elicitados através 
         </tr>
         <tr>
             <td>20</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário administrador/treinador </a>  poderá alterar o status de seu link como  <a href="../../modelagem/lexico/#offline">offline</a>/ <a href="../../modelagem/lexico/#online">online</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário administrador </a>  poderá alterar o status de seu link como  <a href="../../modelagem/lexico/#offline">offline</a>/ <a href="../../modelagem/lexico/#online">online</a></td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
             <td>21</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário administrador/treinador </a>  poderá restringir o compartilhamento de suas informações</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário administrador </a>  poderá restringir o compartilhamento de suas informações</td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
             <td>22</td>
-            <td>o  <a href="../../modelagem/lexico/#usuario">usuário administrador/treinador </a>  poderá preencher informações de um <a href="../../modelagem/lexico/#campeonato">campeonato</a> quando responsável ou
+            <td>o  <a href="../../modelagem/lexico/#usuario">usuário administrador </a>  poderá preencher informações de um <a href="../../modelagem/lexico/#campeonato">campeonato</a> quando responsável ou
                 delegado</td>
             <td>Observação Participativa</td>
         </tr>
@@ -259,7 +265,7 @@ Este documento tem como objetivo reunir todos os requisitos elicitados através 
         </tr>
         <tr>
             <td>41</td>
-            <td>A recuperação de senha do  <a href="../../modelagem/lexico/#perfil">perfil</a> Técnico terá que ser enviada por email</td>
+            <td>A recuperação de senha do  <a href="../../modelagem/lexico/#perfil">perfil</a> administrador terá que ser enviada por email</td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
