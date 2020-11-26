@@ -60,7 +60,7 @@
 
 <div class="row">
     <div class="col-sm container-img">
-            <img height="400px" src="../../images/richpicture/richPictureVisaoGeral2    .png"></a>
+            <img height="400px" src="../../images/richpicture/richPictureVisaoGeral2.png"></a>
     </div>
 </div>
 
