@@ -26,7 +26,7 @@
 ## Contexto
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autor do documento: Lucas Lopes.
-- Inspetora: Damarcones Porto.
+- Inspetor: Damarcones Porto.
 
 ## Checklist
 Esse é o check-list que servirá de base para a inspeção do introspecção.
