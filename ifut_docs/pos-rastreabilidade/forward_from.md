@@ -72,7 +72,7 @@
                 <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
              <td>C 23, C 25 e C 26</td>
             <td>UC 06, UC 08 e UC 09</td>
-            <td>US 29 e US 31</td>
+            <td>US 29, US 31 e US 35</td>
         </tr>
         <tr>
             <td>6</td>
@@ -101,7 +101,7 @@
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> poderá buscar e  <a href="../../modelagem/lexico/#filtrar">filtrar</a> <a href="../../modelagem/lexico/#campeonato">campeonato</a>s</td>
              <td>C 10 e C 14</td>
             <td>UC 15</td>
-            <td>US</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>10</td>
@@ -347,7 +347,7 @@
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> pode checar quem são os jogadores de um  <a href="../../modelagem/lexico/#time">time</a>, assim como os jogos que ele jogou e suas  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a>.</td>
             <td>-</td>
             <td>UC 17</td>
-            <td>US 21, US 22 e US 23</td>
+            <td>US 20, US 21, US 22 e US 23</td>
         </tr>
     </tbody>
 </table>
