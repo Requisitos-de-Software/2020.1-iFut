@@ -38,7 +38,7 @@
 No dia 29 de outubro a integrante Isabella enviou o seguinte e-mail ao desenvolvedor do iFut Matheus Godinho:
 
 Olá, me chamo Isabella Carneiro e sou estudante de Engenharia de Software na UnB e estou cursando uma disciplina chamada Requisitos de Software.
-Eu e meu grupo escolhemos o aplicativo do iFut como objeto a ser estudado durante o semestre, fizemos o levantamento de dados documentais do aplicativo como se nós fossemos os responsáveis de prestar manutenção e melhorias futuras. No momento estamos na fase de verificação e validação (V&V), estamos precisando do auxílio da equipe desenvolvedora para validar nossos estudos em relação ao aplicativo, afim de conseguir criar um cenário o mais próximo da realidade.
+Nosso grupo escolheu o aplicativo do iFut como objeto a ser estudado durante o semestre, fizemos o levantamento de dados documentais do aplicativo como se nós fossemos os responsáveis de prestar manutenção e melhorias futuras. No momento estamos na fase de verificação e validação (V&V), estamos precisando do auxílio da equipe desenvolvedora para validar nossos estudos em relação ao aplicativo, afim de conseguir criar um cenário o mais próximo da realidade.característicascaracterísticas
 Se for possível nos ajudar com a validação vou deixar o link do nosso github Pages onde se encontra toda a documentação: https://requisitos-de-software.github.io/2020.1-iFut/
 Aguardo retorno.
 Att, 
