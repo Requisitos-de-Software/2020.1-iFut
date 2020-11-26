@@ -29,9 +29,9 @@ O documento verificado está disponível <a href="https://requisitos-de-software
 Esse é o check-list que servirá de base para a inspeção do documento de storyboard.
 <br>
 
-1. A história é condizente com o uso do app?
+1. A história é condizente com o uso do <a href="../../modelagem/lexico/#app">app</a>?
 2. A funcionalidade elicitada é válida?
-3. Os atores são condizentes com os usuários do app?
+3. Os atores são condizentes com os <a href="../../modelagem/lexico/#usuario">usuário</a>s do <a href="../../modelagem/lexico/#app">app</a>?
 4. A ferramenta utilizada foi adequada?
 
 ## Resposta

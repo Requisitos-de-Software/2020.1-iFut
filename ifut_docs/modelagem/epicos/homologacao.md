@@ -17,7 +17,7 @@
         <tr>
             <td> 27.10.2020 </td>
             <td>  0.2   </td>
-            <td> Adição do épico Campeonato e das histórias de usuário</td>
+            <td> Adição do épico Campeonato e das histórias de <a href="../../modelagem/lexico/#usuario">usuário</a></td>
             <td> Isabella Carneiro </td>
         </tr>
     </tbody>
@@ -26,21 +26,21 @@
 
 ### US36 Verificar extrato de jogo
 
-Eu como usuário, desejo verificar o extrato de um jogo para que eu possa me atualizar sobre o que ocorreu no mesmo.
+Eu como <a href="../../modelagem/lexico/#usuario">usuário</a>, desejo verificar o extrato de um jogo para que eu possa me atualizar sobre o que ocorreu no mesmo.
 
 ### Critérios de Aceitação
-- O usuário pode verificar o extrato de um jogo que já ocorreu.
+- O <a href="../../modelagem/lexico/#usuario">usuário</a> pode verificar o extrato de um jogo que já ocorreu.
 
-### US37 Acessar súmula digital
+### US37 Acessar <a href="../../modelagem/lexico/#sumula-digital">súmula digital</a>
 
-Eu como usuário, desejo  acessar a súmula digital de um jogo para que eu possa utilizar no jogo.
+Eu como <a href="../../modelagem/lexico/#usuario">usuário</a>, desejo  acessar a <a href="../../modelagem/lexico/#sumula-digital">súmula digital</a> de um jogo para que eu possa utilizar no jogo.
 
 ### Critérios de Aceitação
-- O usuário pode fazer uso da súmula digital pelo site.
+- O <a href="../../modelagem/lexico/#usuario">usuário</a> pode fazer uso da <a href="../../modelagem/lexico/#sumula-digital">súmula digital</a> pelo site.
 
 ### US38 Acessar súmula física
 
-Eu como usuário premium, desejo acessar a súmula física de um jogo para que eu possa imprimir e utilizar.
+Eu como <a href="../../modelagem/lexico/#usuario">usuário</a> premium, desejo acessar a súmula física de um jogo para que eu possa imprimir e utilizar.
 
 ### Critérios de Aceitação
-- O usuário premium pode baixar e imprimir a súmula.
+- O <a href="../../modelagem/lexico/#usuario">usuário</a> premium pode <a href="../../modelagem/lexico/#baixar">baixar</a> e imprimir a súmula.
