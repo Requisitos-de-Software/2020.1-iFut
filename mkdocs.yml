@@ -43,7 +43,8 @@ nav:
         - Validação: analise/validacao.md
     - Pós-rastreabilidade:
         - Sobre: pos-rastreabilidade/pos_rastreabilidade.md
-        - Forward-from: pos-rastreabilidade/forward_from.md 
+        - Forward-from: pos-rastreabilidade/forward_from.md
+        - Backward-from: pos-rastreabilidade/backward_from.md
 
         
 theme: bootstrap4

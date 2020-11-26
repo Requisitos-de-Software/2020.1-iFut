@@ -1,4 +1,4 @@
-# Forward From
+# Forward-From
 
 ## Histórico de Versão
 
@@ -25,7 +25,10 @@
     </tbody>
 </table>
 
-## Forward From Geral
+### Participante(s)
+- Isabella Carneiro
+
+## Forward-From Geral
 
 ### Requisitos Funcionais
 
