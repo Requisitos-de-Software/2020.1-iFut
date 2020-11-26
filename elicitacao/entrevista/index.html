@@ -1,182 +1,253 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-      <script>
-	// Hack for scrolling window when linking to anchor tag with fixed nav header
-        var shiftWindow = function() { scrollBy(0, -75) };
-        window.addEventListener("hashchange", shiftWindow);
-        function load() { if (window.location.hash) shiftWindow(); }
-      </script>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        
-        
-        <link rel="shortcut icon" href="../../images/favicon.ico">
-        
-        <title>Entrevista - iFut</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="../../css/font-awesome.min.css" rel="stylesheet">
-    <link href="../../css/base.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-    <link href="../../stylesheets/common.css" rel="stylesheet">
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      
+      
+      <link rel="shortcut icon" href="../../images/favicon.ico">
+      <title>Entrevista - iFut</title>
+      <script src="../../dist/bundle.js"></script>
+    
+  </head>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/http.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    <script src="../../js/base.js"></script> 
-    </head>
-
-    <body class="">
-
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-	<div class="container">
-	<a class="navbar-brand" href="../..">iFut</a>
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+  <body class="">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark navbar-fixed-top">
+      <div class="container">
+          <a class="navbar-brand" href="../..">iFut</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-top" aria-controls="navbar-top" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
-	</button>
+        </button>
 
-	<div class="collapse navbar-collapse">
-          <!-- Main navigation -->
-          <nav class="nav">
-            <ul class="navbar-nav">
-              <li >
-                <a class="nav-link" href="../..">Inicial</a>
-              </li>
-              <li >
-                <a class="nav-link" href="../../planejamento/">Planejamento</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Apresentações">Apresentações <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Apresentações">
-                  
-<a href="../../pontocontrole/" class="dropdown-item">Pontos de Controle</a>
-                  
-<a href="../../apresentacao/primeira_entrega/" class="dropdown-item">Primeira Entrega</a>
-                  
-<a href="../../apresentacao/segunda_entrega/" class="dropdown-item">Segunda Entrega</a>
-                  
-<a href="../../apresentacao/terceira_entrega/" class="dropdown-item">Terceira Entrega</a>
-                  
-<a href="../../apresentacao/quarta_entrega/" class="dropdown-item">Quarta Entrega</a>
-                  
-<a href="../../apresentacao/quinta_entrega/" class="dropdown-item">Quinta entrega</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Pré-rastreabilidade">Pré-rastreabilidade <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Pré-rastreabilidade">
-                  
-<a href="../../pre-rastreabilidade/pre_rastreabilidade/" class="dropdown-item">Sobre</a>
-                  
-<a href="../../pre-rastreabilidade/rich-pictures/" class="dropdown-item">Rich Pictures</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown active">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Elicitação">Elicitação <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Elicitação">
-                  
-<a href="../obs_part/" class="dropdown-item">Observação Participativa</a>
-                  
-<a href="../introspeccao/" class="dropdown-item">Introspecção</a>
-                  
-<a href="../questionario/" class="dropdown-item">Questionário</a>
-                  
-<a href="../brainstorming/" class="dropdown-item">Brainstorming</a>
-                  
-<a href="../analise_de_protocolo/" class="dropdown-item">Análise de Protocolo</a>
-                  
-<a href="../analise_de_discurso/" class="dropdown-item">Análise de Discurso</a>
-                  
-<a href="../personas/" class="dropdown-item">Personas</a>
-                  
-<a href="./" class="dropdown-item active">Entrevista</a>
-                  
-<a href="../storytelling/" class="dropdown-item">Storyboard</a>
-                  
-<a href="../resultado/" class="dropdown-item">Resultado</a>
-                  
-<a href="../moscow/" class="dropdown-item">MoScoW</a>
-                  
-<a href="../first_things_first/" class="dropdown-item">First Things First</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Modelagem">Modelagem <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Modelagem">
-                  
-<a href="../../modelagem/cenarios/cenariosTotais/" class="dropdown-item">Cenários</a>
-                  
-<a href="../../modelagem/lexico/" class="dropdown-item">Léxico</a>
-                  
-<a href="../../modelagem/especificacao_suplementar/" class="dropdown-item">Especificação Suplementar</a>
-                  
-<a href="../../modelagem/casos_de_uso/casos/" class="dropdown-item">Casos de Uso</a>
-                  
-<a href="../../modelagem/diagramas_casos_de_uso/diagrama_caso_uso/" class="dropdown-item">Diagramas de Caso de Uso</a>
-                  
-<a href="../../modelagem/historia_de_usuario/" class="dropdown-item">Histórias de Usuário</a>
-                  
-<a href="../../modelagem/nfr/" class="dropdown-item">NFR</a>
-                  
-<a href="../../modelagem/iStar/" class="dropdown-item">iStar</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Análise">Análise <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Análise">
-                  
-<a href="../../analise/verificacao/" class="dropdown-item">Verificação</a>
-                  
-<a href="../../analise/validacao/" class="dropdown-item">Validação</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="#" role="button" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="nav-dropdown-Pós-rastreabilidade">Pós-rastreabilidade <b class="caret"></b></a>
-                <div class="dropdown-menu" aria-labelledby="nav-dropdown-Pós-rastreabilidade">
-                  
-<a href="../../pos-rastreabilidade/pos_rastreabilidade/" class="dropdown-item">Sobre</a>
-                  
-<a href="../../pos-rastreabilidade/forward_from/" class="dropdown-item">Forward-from</a>
-                </div>
-              </li>
-            </ul>
-          </nav>
+        <div id="navbar-top" class="collapse navbar-collapse">
+              <nav class="nav">
+                <ul class="navbar-nav">
+                      <li >
+                        <a class="nav-link" href="../..">Inicial</a>
+                      </li>
+                      <li >
+                        <a class="nav-link" href="../../planejamento/">Planejamento</a>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Apresentações <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../pontocontrole/" class="dropdown-item">Pontos de Controle</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/primeira_entrega/" class="dropdown-item">Primeira Entrega</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/segunda_entrega/" class="dropdown-item">Segunda Entrega</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/terceira_entrega/" class="dropdown-item">Terceira Entrega</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/quarta_entrega/" class="dropdown-item">Quarta Entrega</a>
+  </li>
+                            
+  <li>
+    <a href="../../apresentacao/quinta_entrega/" class="dropdown-item">Quinta entrega</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Pré-rastreabilidade <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../pre-rastreabilidade/pre_rastreabilidade/" class="dropdown-item">Sobre</a>
+  </li>
+                            
+  <li>
+    <a href="../../pre-rastreabilidade/rich-pictures/" class="dropdown-item">Rich Pictures</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown active">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Elicitação <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../obs_part/" class="dropdown-item">Observação Participativa</a>
+  </li>
+                            
+  <li>
+    <a href="../introspeccao/" class="dropdown-item">Introspecção</a>
+  </li>
+                            
+  <li>
+    <a href="../questionario/" class="dropdown-item">Questionário</a>
+  </li>
+                            
+  <li>
+    <a href="../brainstorming/" class="dropdown-item">Brainstorming</a>
+  </li>
+                            
+  <li>
+    <a href="../analise_de_protocolo/" class="dropdown-item">Análise de Protocolo</a>
+  </li>
+                            
+  <li>
+    <a href="../analise_de_discurso/" class="dropdown-item">Análise de Discurso</a>
+  </li>
+                            
+  <li>
+    <a href="../personas/" class="dropdown-item">Personas</a>
+  </li>
+                            
+  <li>
+    <a href="./" class="dropdown-item active">Entrevista</a>
+  </li>
+                            
+  <li>
+    <a href="../storytelling/" class="dropdown-item">Storyboard</a>
+  </li>
+                            
+  <li>
+    <a href="../resultado/" class="dropdown-item">Resultado</a>
+  </li>
+                            
+  <li>
+    <a href="../moscow/" class="dropdown-item">MoScoW</a>
+  </li>
+                            
+  <li>
+    <a href="../first_things_first/" class="dropdown-item">First Things First</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Modelagem <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../modelagem/cenarios/cenariosTotais/" class="dropdown-item">Cenários</a>
+  </li>
+                            
+  <li>
+    <a href="../../modelagem/lexico/" class="dropdown-item">Léxico</a>
+  </li>
+                            
+  <li>
+    <a href="../../modelagem/especificacao_suplementar/" class="dropdown-item">Especificação Suplementar</a>
+  </li>
+                            
+  <li>
+    <a href="../../modelagem/casos_de_uso/casos/" class="dropdown-item">Casos de Uso</a>
+  </li>
+                            
+  <li>
+    <a href="../../modelagem/diagramas_casos_de_uso/diagrama_caso_uso/" class="dropdown-item">Diagramas de Caso de Uso</a>
+  </li>
+                            
+  <li>
+    <a href="../../modelagem/historia_de_usuario/" class="dropdown-item">Histórias de Usuário</a>
+  </li>
+                            
+  <li>
+    <a href="../../modelagem/nfr/" class="dropdown-item">NFR</a>
+  </li>
+                            
+  <li>
+    <a href="../../modelagem/iStar/" class="dropdown-item">iStar</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Análise <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../analise/verificacao/" class="dropdown-item">Verificação</a>
+  </li>
+                            
+  <li>
+    <a href="../../analise/validacao/" class="dropdown-item">Validação</a>
+  </li>
+                        </ul>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Pós-rastreabilidade <b class="caret"></b>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            
+  <li>
+    <a href="../../pos-rastreabilidade/pos_rastreabilidade/" class="dropdown-item">Sobre</a>
+  </li>
+                            
+  <li>
+    <a href="../../pos-rastreabilidade/forward_from/" class="dropdown-item">Forward-from</a>
+  </li>
+                        </ul>
+                      </li>
+                </ul>
+              </nav>
 
           <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
-            <li class="nav-item">
-              <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-		<i class="fa fa-search"></i> Search
-              </a>
-            </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#" data-toggle="modal" data-target="#mkdocs-search-modal">
+                    <i class="fa fa-search"></i> Search
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" rel="next" href="../personas/">
+                    <i class="fa fa-arrow-left"></i> Previous
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" rel="prev" href="../storytelling/">
+                    Next <i class="fa fa-arrow-right"></i>
+                  </a>
+                </li>
           </ul>
-	</div>
-	</div>
-      </nav><div id="content" class="container">
-        
+        </div>
+      </div>
+    </nav><div id="content" class="container">
+          
       <div class="row">
         <div class="col-md-9" role="main">
 
 
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    
-    
-    <li class="breadcrumb-item">Elicitação</li>
-    
-    
-    <li class="breadcrumb-item active" aria-current="page">Entrevista</li>
-  </ol>
-</nav>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      
+        
+          <li class="breadcrumb-item">Elicitação</li>
+        
+      
+      
+        <li class="breadcrumb-item active" aria-current="page">
+          Entrevista
+        </li>
+      
+    </ol>
+  </nav>
 
 
 <h1 id="entrevista"><strong>Entrevista</strong></h1>
@@ -231,19 +302,21 @@
             <td> Adição dos resultados da entrevista </td>
             <td> Bruna Almeida e Damarcones dos Santos</td>
         </tr>
+        <tr>
+            <td> 24.11.2020 </td>
+            <td>  0.8   </td>
+            <td>Revisão do documento</td>
+            <td> Bruna Almeida</td>
+        </tr>
     </tbody>
 </table>
 
 <div class="line"></div>
 
 <h2 id="metodologia">Metodologia</h2>
-<div>
-    <p align="justify">&emsp;
-        Essa técnica consiste em reuniões com os stakeholders, formais ou informais, onde são colocadas questões formuladas pela equipe de engenharia de requisitos sobre o processo de trabalho atual e sobre o sistema que está sendo estudado. A Entrevista está presente na maioria dos processos de elaboração de requisitos, até porque é a partir dela que poderá surgir a necessidade da utilização de outras técnicas.</p>
-    <p align="justify">&emsp;
-        A partir dela também é possível a elaboração de um esboço de prova e confirmação por parte do stakeholder para que o processo de elicitação de requisitos seja continuado.</p>
- </div>
-
+<p><div>
+    <p align="justify">&emsp; Essa técnica consiste em reuniões com os stakeholders, formais ou informais, onde são colocadas questões formuladas pela equipe de engenharia de requisitos sobre o processo de trabalho atual e sobre o sistema que está sendo estudado. A Entrevista está presente na maioria dos processos de elaboração de requisitos, até porque é a partir dela que poderá surgir a necessidade da utilização de outras técnicas.</p>
+ </div></p>
 <div class="line"></div>
 
 <h2 id="participantes">Participantes</h2>
@@ -255,26 +328,22 @@
 </ul>
 <div class="line"></div>
 
-<h2 id="resultado">Resultado</h2>
-<div>
-    <p align="justify">
-        Usaremos as personas para fazer o papel de entrevistado. As respostas serão com base no  <a href="../../modelagem/lexico/#perfil">perfil</a> de cada persona e no que imaginamos que se adapta nas características definidas para cada um.</p>
-    <p align="justify">
-        </p>
-    <p align="justify">
-        </p>
+<h2 id="resultados">Resultados</h2>
+<p><div>
+    <p align="justify">Usaremos as personas para o papel de entrevistados. As respostas serão com base no  <a href="../../modelagem/lexico/#perfil">perfil</a> de cada persona e no que imaginamos que se adapta às características definidas para cada um.</p>
 </div>
+<br></p>
+<h3 id="1-roteiro">1. Roteiro</h3>
+<ol>
+<li>O que te levou a usar o aplicativo iFut?</li>
+<li>Qual funcionalidade do iFut você mais gosta? E qual você mais utiliza? Qual você menos  gosta? Qual você menos utiliza?</li>
+<li>Na sua opinião, qual o diferencial do iFut em relação à outros aplicativos do gênero?</li>
+<li>Qual característica do iFut você não gosta?</li>
+<li>Como foi a experiência ao instalar o aplicativo iFut?</li>
+</ol>
 <p><br></p>
-<h4 id="1-roteiro">1. Roteiro</h4>
-<p align="justify">&emsp;1. O que te levou a usar o aplicativo iFut?</p>
-<p align="justify">&emsp;2. Qual funcionalidade do iFut você mais gosta? E qual você mais utiliza? Qual você menos  gosta? Qual você menos utiliza?</p>
-<p align="justify">&emsp;3. Na sua opinião, qual o diferencial do iFut em relação à outros aplicativos do gênero?</p>
-<p align="justify">&emsp;4. Qual característica do iFut você não gosta?</p>
-<p align="justify">&emsp;5. Como foi a experiência ao instalar o aplicativo iFut?</p>
-<p><br></p>
-<h4 id="2-entrevistas">2. Entrevistas</h4>
-<div class="line"></div>
-
+<h3 id="2-entrevistas">2. Entrevistas</h3>
+<p><div class="line"></div></p>
 <h5 id="entrevista-1"><strong>Entrevista 1</strong></h5>
 <ul>
 <li>Entrevistador: Damarcones dos Santos</li>
@@ -290,25 +359,26 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Eu participo de vários <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que eu mesmo organizo. Eu perdia muito tempo na hora de montar as <a href="../../modelagem/lexico/#chaves">chaves</a>, e muitas das vezes eu errava uma ou duas vezes esse processo. Então eu procurei algum aplicativo que me ajudasse nessa parte.</td>
+            <td>Eu participo de vários <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que eu mesmo organizo. Eu perdia muito tempo na hora de montar as <a href="../../modelagem/lexico/#chaves">chaves</a>, e muitas das vezes eu errava uma ou duas vezes esse processo. Então eu procurei algum <a href="../../modelagem/lexico/#app">aplicativo</a> que me ajudasse nessa parte.</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Eu utilizo mais a geração de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s e súmulas. Fora isso, não tem outra ferramenta que eu menos goste ou menos utilize.</td>
+            <td>Eu utilizo mais a geração de <a href="../../modelagem/lexico/#campeonato">campeonato</a>s e <a href="../../modelagem/lexico/#sumula-fisica">súmulas</a>. Fora isso, não tem outra ferramenta que eu menos goste ou menos utilize.</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>No iFut, eu tenho a opção de personalizar o aplicativo para a minha escolinha. Mas isso é um plano para o futuro.</td>
+            <td>No iFut, eu tenho a opção de personalizar o <a href="../../modelagem/lexico/#app">aplicativo</a> para a minha escolinha. Mas isso é um plano para o futuro.</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Ter que <a href="../../modelagem/lexico/#cadastrar">cadastrar</a> todos os jogadores.</td>
+            <td>Ter que <a href="../../modelagem/lexico/#cadastrar">cadastrar</a> todos os <a href="../../modelagem/lexico/#jogadores">jogadores</a>.</td>
         </tr>
         <tr>
             <td>5</td>
             <td>No início eu tive dificuldade, pois era algo novo para mim. Mas depois que aprendi a usar, poupei muito do meu tempo de serviço.</td>
         </tr>
 </table>
+
 <p><br></p>
 <h5 id="entrevista-2"><strong>Entrevista 2</strong></h5>
 <ul>
@@ -329,11 +399,11 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>Eu gosto da funcionalidade de poder ver as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> de outros jogadores. Eu utilizo muito a <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a> que me ajuda a sempre lembrar as datas. Não tem uma função que eu não goste.</td>
+            <td>Eu gosto da funcionalidade de poder ver as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> de outros <a href="../../modelagem/lexico/#jogadores">jogadores</a>. Eu utilizo muito a <a href="../../modelagem/lexico/#agenda-de-jogos">agenda de jogos</a> que me ajuda a sempre lembrar as datas. Não tem uma função que eu não goste.</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Eu não conheço a fundo os outros aplicativos que têm funções parecidas.</td>
+            <td>Eu não conheço a fundo os outros <a href="../../modelagem/lexico/#app">aplicativos</a> que têm funções parecidas.</td>
         </tr>
         <tr>
             <td>4</td>
@@ -344,6 +414,7 @@
             <td>Muito boa. Cumpriu as necessidades que eu tinha.</td>
         </tr>
 </table>
+
 <p><br></p>
 <h5 id="entrevista-3"><strong>Entrevista 3</strong></h5>
 <ul>
@@ -364,7 +435,7 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>Eu gosto e uso mais a geração de súmulas, me poupa muito tempo e esforço. Utilizo as outras igualmente e não tenho uma que eu goste menos.</td>
+            <td>Eu gosto e uso mais a geração de <a href="../../modelagem/lexico/#sumula-fisica">súmulas</a>, me poupa muito tempo e esforço. Utilizo as outras igualmente e não tenho uma que eu goste menos.</td>
         </tr>
         <tr>
             <td>3</td>
@@ -372,13 +443,14 @@
         </tr>
         <tr>
             <td>4</td>
-            <td>Não gosto das propagandas no aplicativo.</td>
+            <td>Não gosto das propagandas no <a href="../../modelagem/lexico/#app">aplicativo</a>.</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>Bem agradável, achei o aplicativo bem leve.</td>
+            <td>Bem agradável, achei o <a href="../../modelagem/lexico/#app">aplicativo</a> bem leve.</td>
         </tr>
 </table>
+
 <p><br></p>
 <h5 id="entrevista-4"><strong>Entrevista 4</strong></h5>
 <ul>
@@ -395,15 +467,15 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Para me ajudar a organizar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos jogadores que estou interessado.</td>
+            <td>Para me ajudar a organizar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos <a href="../../modelagem/lexico/#jogadores">jogadores</a> que estou interessado.</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>A que eu mais utilizo e gosto é a de gerenciar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos jogadores. Todas as funcionalidades são interessantes, mas a que eu menos uso é a de criar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s. Nunca usei, na verdade.</td>
+            <td>A que eu mais utilizo e gosto é a de gerenciar as  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos <a href="../../modelagem/lexico/#jogadores">jogadores</a>. Todas as funcionalidades são interessantes, mas a que eu menos uso é a de criar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s. Nunca usei, na verdade.</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Eu nunca usei outro aplicativo, mas acredito que o iFut seja o melhor. Pelo menos na parte da funcionalidade que eu mais uso.</td>
+            <td>Eu nunca usei outro <a href="../../modelagem/lexico/#app">aplicativo</a>, mas acredito que o iFut seja o melhor. Pelo menos na parte da funcionalidade que eu mais uso.</td>
         </tr>
         <tr>
             <td>4</td>
@@ -414,7 +486,9 @@
             <td>Realmente atendeu minhas expectativas. Achei bem simples de mexer.</td>
         </tr>
 </table>
+
 <p><br></p>
+<p><a href="../../modelagem/lexico/"></a></p>
 <h2 id="requisitos-elicitados"><strong>Requisitos elicitados</strong></h2>
 <ul>
 <li>ENT: Entrevista
@@ -428,185 +502,133 @@
     <tbody>
         <tr>
             <td>ENT01</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar um <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar um <a href="../../modelagem/lexico/#campeonato">campeonato</a>.</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> a <a href="../../modelagem/lexico/#classificacao">classificação</a> do seus torneios</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> a <a href="../../modelagem/lexico/#classificacao">classificação</a> dos seus <a href="../../modelagem/lexico/#campeonato">torneios</a>.</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O sistema deve poder gerar   <a href="../../modelagem/lexico/#confrontos">confontros</a> automaticamente</td>
+            <td>O sistema deve poder gerar <a href="../../modelagem/lexico/#confrontos">confontros</a> automaticamente.</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder preencher o  <a href="../../modelagem/lexico/#formulario">formulário</a> com o formato do <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder preencher o  <a href="../../modelagem/lexico/#formulario">formulário</a> com o formato do <a href="../../modelagem/lexico/#campeonato">campeonato</a>.</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar manualmente os   <a href="../../modelagem/lexico/#confrontos">confontros</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder criar manualmente os <a href="../../modelagem/lexico/#confrontos">confrontos</a>.</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#baixar">baixar</a> uma súmula em branco</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder <a href="../../modelagem/lexico/#baixar">baixar</a> uma <a href="../../modelagem/lexico/#sumula-fisica">súmula</a> em branco.</td>
         </tr>
         <tr>
             <td>ENT01</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder adicionar jogadores ao  <a href="../../modelagem/lexico/#time">time</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder adicionar <a href="../../modelagem/lexico/#jogadores">jogadores</a> ao  <a href="../../modelagem/lexico/#time">time</a>.</td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder preencher o  <a href="../../modelagem/lexico/#formulario">formulário</a> com as informações do <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder preencher o  <a href="../../modelagem/lexico/#formulario">formulário</a> com as informações do <a href="../../modelagem/lexico/#campeonato">campeonato</a>.</td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder abrir inscrições  <a href="../../modelagem/lexico/#online">online</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder abrir <a href="../../modelagem/lexico/#inscricao">inscrições</a> <a href="../../modelagem/lexico/#online">online</a>.</td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O sistema deve ser capaz de gerar uma  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> de cada jogador</td>
+            <td>O sistema deve ser capaz de gerar uma  <a href="../../modelagem/lexico/#pontuacao">pontuação</a> de cada <a href="../../modelagem/lexico/#jogadores">jogador</a>.</td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> <a href="../../modelagem/lexico/#atleta">atleta</a> deve poder, ao realizar login, ver informações dos <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que ele está participando e suas  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> em jogos</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> <a href="../../modelagem/lexico/#atleta">atleta</a> deve poder, ao realizar <a href="../../modelagem/lexico/#login">login</a>, ver informações dos <a href="../../modelagem/lexico/#campeonato">campeonato</a>s que ele está participando e suas  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> em jogos.</td>
         </tr>
         <tr>
             <td>ENT02</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder saber quem pagou a  <a href="../../modelagem/lexico/#inscricao">inscrição</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder saber quem pagou a  <a href="../../modelagem/lexico/#inscricao">inscrição</a>.</td>
         </tr>
         <tr>
             <td>ENT03</td>
-            <td>O sistema deve ser capaz de gerar  <a href="../../modelagem/lexico/#links">links</a> de compartilhamento do <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
+            <td>O sistema deve ser capaz de gerar  <a href="../../modelagem/lexico/#links">links</a> de compartilhamento do <a href="../../modelagem/lexico/#campeonato">campeonato</a>.</td>
         </tr>
         <tr>
             <td>ENT04</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ver  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> do jogadores</td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder ver as <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> dos <a href="../../modelagem/lexico/#jogadores">jogadores</a>.</td>
         </tr>
 
 </table>
 
-<ul class="metadata page-metadata" data-bi-name="page info" lang="en-us" dir="ltr">
-  <li class="last-updated-holder displayDate loading">
-    <span class="last-updated-text">Last updated:</span>
-    <time role="presentation" datetime="2018-10-25T00:00:00.000Z" data-article-date-source="ms.date"></time>
-  </li>
-<!--
-  <li class="readingTime">
-    2 minutes to read
-  </li>
--->
-  <li class="contributors-holder">
-    <span class="contributors-text">Contributors</span>
-    <ul class="contributors" data-bi-name="contributors"></ul>
-  </li>
-</ul>
-</div>
+<p></br></p>
+<h2 id="referencias">Referências</h2>
+<ul>
+<li>Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1a edição, Rio de Janeiro: Elsevier, 2010.</li>
+</ul></div>
         <div class="col-md-3"><div class="navbar-light navbar-expand-md hidden-print sticky-top sticky-offset" role="complementary">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
-            <span class="fa fa-angle-down"></span>
-        </button>
-    </div>
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+      <span class="fa fa-angle-down"></span>
+    </button>
+  </div>
 
-    <div id="toc-collapse" class="navbar-collapse collapse card">
-        <ul class="nav flex-column bs-sidenav">
-            <li class="nav-item main"><a class="nav-link" href="#entrevista">Entrevista</a></li>
-                <li class="nav-item">
-                    <a href="#historico-de-versao" class="nav-link">Histórico de Versão</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#metodologia" class="nav-link">Metodologia</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#participantes" class="nav-link">Participantes</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#resultado" class="nav-link">Resultado</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#requisitos-elicitados" class="nav-link">Requisitos elicitados</a>
-                </li>
-        </ul>
-    </div>
+  <div id="toc-collapse" class="navbar-collapse collapse card">
+    <ul class="nav flex-column bs-sidenav">
+        <li class="nav-item main"><a class="nav-link" href="#entrevista">Entrevista</a></li>
+          <li class="nav-item">
+            <a href="#historico-de-versao" class="nav-link">Histórico de Versão</a>
+          </li>
+          <li class="nav-item">
+            <a href="#metodologia" class="nav-link">Metodologia</a>
+          </li>
+          <li class="nav-item">
+            <a href="#participantes" class="nav-link">Participantes</a>
+          </li>
+          <li class="nav-item">
+            <a href="#resultados" class="nav-link">Resultados</a>
+          </li>
+          <li class="nav-item">
+            <a href="#requisitos-elicitados" class="nav-link">Requisitos elicitados</a>
+          </li>
+          <li class="nav-item">
+            <a href="#referencias" class="nav-link">Referências</a>
+          </li>
+    </ul>
+  </div>
 </div></div>
       </div>
+        </div>
+
+    <footer class="col-md-12">
+      <hr>
+      <div class="container">
       </div>
-
-      <footer class="col-md-12">
-	<hr>
-	<div class="container">
-	</div>
-      </footer>
+    </footer>
       <script>
-	var base_url = "../..",
-            shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        var base_url = "../..";
       </script>
-      <script src="../../js/base.js" defer></script>
-      <script src="../../search/main.js" defer></script>
+        <script src="../../search/main.js" defer></script>
 
-      <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title">Search</h4>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-                <p>
-                    From here you can search these documents. Enter
-                    your search terms below.
-                </p>
-                <form role="form">
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
-                    </div>
-                </form>
-                <div id="mkdocs-search-results"></div>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
+    <div class="modal" id="mkdocs-search-modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Search</h4>
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+      </div>
+      <div class="modal-body">
+        <p>From here you can search these documents. Enter your search terms below.</p>
+        <form role="form">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+          </div>
+        </form>
+        <div id="mkdocs-search-results"></div>
+      </div>
+      <div class="modal-footer">
+      </div>
     </div>
-</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <p class="h4 modal-title">Keyboard Shortcuts</p>
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            </div>
-            <div class="modal-body">
-              <table class="table">
-                <thead>
-                  <tr>
-                    <th style="width: 20%;">Keys</th>
-                    <th>Action</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td class="help shortcut"><kbd>?</kbd></td>
-                    <td>Open this help</td>
-                  </tr>
-                  <tr>
-                    <td class="next shortcut"><kbd>n</kbd></td>
-                    <td>Next page</td>
-                  </tr>
-                  <tr>
-                    <td class="prev shortcut"><kbd>p</kbd></td>
-                    <td>Previous page</td>
-                  </tr>
-                  <tr>
-                    <td class="search shortcut"><kbd>s</kbd></td>
-                    <td>Search</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="modal-footer">
-            </div>
-        </div>
-    </div>
+  </div>
 </div>
-
-    </body>
+  </body>
 </html>
+
