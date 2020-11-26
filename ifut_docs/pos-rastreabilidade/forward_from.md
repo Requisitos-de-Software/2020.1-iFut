@@ -191,7 +191,7 @@
             <td>21</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário administrador/treinador </a>  poderá restringir o compartilhamento de suas informações</td>
            <td>C 37</td>
-            <td>-</td>
+            <td>UC 13</td>
             <td>US 19</td>
         </tr>
         <tr>
@@ -206,14 +206,14 @@
             <td>23</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> administrador de um <a href="../../modelagem/lexico/#campeonato">campeonato</a> poderá criar  <a href="../../modelagem/lexico/#rodadas">rodadas</a> e alterar <a href="../../modelagem/lexico/#chaves">chaves</a></td>
             <td> C 34 e C 35</td>
-            <td>-</td>
+            <td>UC 12</td>
             <td>US 17 e US 18</td>
         </tr>
         <tr>
             <td>24</td>
             <td>O  <a href="../../modelagem/lexico/#usuario">usuário</a> administrador de um <a href="../../modelagem/lexico/#campeonato">campeonato</a> poderá editar, excluir  <a href="../../modelagem/lexico/#time">time</a>s e  <a href="../../modelagem/lexico/#rodadas">rodadas</a></td>
              <td>C 12</td>
-            <td>-</td>
+            <td>UC 12 e UC 11</td>
             <td>US 15 e US 16</td>
         </tr>
         <tr>
@@ -255,21 +255,21 @@
             <td>30</td>
             <td>O  <a href="../../modelagem/lexico/#usuario-elite">usuário elite</a>  deve poder adicionar notícias a um <a href="../../modelagem/lexico/#campeonato">campeonato</a></td>
              <td>C 08</td>
-            <td>-</td>
+            <td>UC 19</td>
             <td>US 08</td>
         </tr>
         <tr>
             <td>31</td>
             <td>Poderá ser adicionado produtos nos espaços de propaganda</td>
              <td>C 07</td>
-            <td>-</td>
+            <td>UC 19</td>
             <td>US 07</td>
         </tr>
         <tr>
             <td>32</td>
             <td>O sistema deve ser capaz de gerar  <a href="../../modelagem/lexico/#sumula-digital">súmula digital</a> e todos podem acessar</td>
              <td>C 30</td>
-            <td>-</td>
+            <td>UC 05</td>
             <td>US 37</td>
         </tr>
         <tr>
