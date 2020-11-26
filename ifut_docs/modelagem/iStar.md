@@ -31,7 +31,7 @@ A linguagem de modelagem i* foi introduzida para preencher a lacuna no espectro 
 
 ## Resultado
 
-A partir da notação gráfica do i* foram desenvolvidos dois diagramas utilizando o framework, visando facilitar a visualização das relações entre os atores.
+A partir da notação gráfica do i* foram desenvolvidos dois diagramas utilizando o <a href="../../modelagem/lexico/#framework">framework</a> , visando facilitar a visualização das relações entre os atores.
 
 ### Diagrama de usuário atleta
 
