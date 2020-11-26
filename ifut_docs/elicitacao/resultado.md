@@ -29,9 +29,9 @@
             <td> Isabella </td>
         </tr>
         <tr>
-            <td> 26.11.2020 </td>
+            <td> 25.11.2020 </td>
             <td> 0.6 </td>
-            <td> Alteração de perfil técnico para administrador </td>
+            <td> Alteração de perfil técnico para administrador e revisão</td>
             <td> Lucas </td>
         </tr>
     </tbody>
@@ -225,7 +225,7 @@ Este documento tem como objetivo reunir todos os requisitos elicitados através 
         </tr>
         <tr>
             <td>33</td>
-            <td>O  <a href="../../modelagem/lexico/#usuario">usuário premium </a> /ELITE tem acesso a  <a href="../../modelagem/lexico/#sumula-fisica">súmula fisica</a></td>
+            <td>O  <a href="../../modelagem/lexico/#usuario">usuário premium/elite </a>  tem acesso a  <a href="../../modelagem/lexico/#sumula-fisica">súmula fisica</a></td>
             <td>Observação Participativa</td>
         </tr>
         <tr>
