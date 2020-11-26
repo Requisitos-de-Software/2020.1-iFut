@@ -29,6 +29,18 @@
             <td> Adição dos links</td>
             <td> Damarcones </td>
         </tr>
+        <tr>
+            <td> 25.11.2020 </td>
+            <td>  0.3   </td>
+            <td> Verificação e validação do protótipo</td>
+            <td> Lucas  </td>
+        </tr>
+         <tr>
+            <td> 25.11.2020 </td>
+            <td>  0.4  </td>
+            <td> Conclusão e avaliação do protótipo</td>
+            <td> Lucas  </td>
+        </tr>
     </tbody>
 </table>
 <br>
