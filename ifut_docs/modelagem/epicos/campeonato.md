@@ -1,4 +1,4 @@
-# Épico: Campeonato
+# Épico: <a href="../../modelagem/lexico/#campeonato">Campeonato</a>
 <br>
 <table class="table table-striped border">
     <thead>
@@ -17,57 +17,57 @@
         <tr>
             <td> 27.10.2020 </td>
             <td>  0.2   </td>
-            <td> Adição do épico Campeonato e das histórias de usuário</td>
+            <td> Adição do épico <a href="../../modelagem/lexico/#campeonato">Campeonato</a> e das histórias de <a href="../../modelagem/lexico/#usuario">usuário</a></td>
             <td> Bruna Almeida </td>
         </tr>
     </tbody>
 </table>
 <br>
 
-### US14: Buscar Campeonato
-Eu, como usuário, desejo encontrar um campeonato específico.
+### US14: Buscar <a href="../../modelagem/lexico/#campeonato">Campeonato</a>
+Eu, como <a href="../../modelagem/lexico/#usuario">usuário</a>, desejo encontrar um <a href="../../modelagem/lexico/#<a href="../../modelagem/lexico/#campeonato">campeonato</a>"><a href="../../modelagem/lexico/#campeonato">campeonato</a></a> específico.
 
 #### Critérios de Aceitação:
-- Deve ser possível buscar campeonatos pelo nome;
-- Deve ser possível encontrar campeonatos através da rolagem da página.
+- Deve ser possível buscar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s pelo nome;
+- Deve ser possível encontrar <a href="../../modelagem/lexico/#campeonato">campeonato</a>s através da rolagem da página.
 <br>
 
 ### US15: Editar ou excluir rodada
-Eu, como usuário técnico, desejo editar as informações ou fazer a exclusão de uma rodada existente.
+Eu, como <a href="../../modelagem/lexico/#usuario">usuário</a> técnico, desejo editar as informações ou fazer a exclusão de uma rodada existente.
 
 #### Critérios de Aceitação:
 - Deve ser possível editar uma rodada;
 - Deve ser possível excluir uma rodada.
 <br>
 
-### US16: Editar ou excluir time
-Eu, como usuário técnico, desejo editar as informações ou fazer a exclusão de um time existente.
+### US16: Editar ou excluir <a href="../../modelagem/lexico/#Time">time</a>
+Eu, como <a href="../../modelagem/lexico/#usuario">usuário</a> técnico, desejo editar as informações ou fazer a exclusão de um <a href="../../modelagem/lexico/#Time">time</a> existente.
 
 #### Critérios de Aceitação:
-- Deve ser possível editar as informações de um time;
-- Deve ser possível exluir um time.
+- Deve ser possível editar as informações de um <a href="../../modelagem/lexico/#Time">time</a>;
+- Deve ser possível exluir um <a href="../../modelagem/lexico/#Time">time</a>.
 <br>
 
-### US17: Criar rodadas em um campeonato
-Eu, como usuário técnico, desejo criar uma rodada em um campeonato específico.
+### US17: Criar <a href="../../modelagem/lexico/#rodadas">rodadas</a> em um <a href="../../modelagem/lexico/#campeonato">campeonato</a>
+Eu, como <a href="../../modelagem/lexico/#usuario">usuário</a> técnico, desejo criar uma rodada em um <a href="../../modelagem/lexico/#campeonato">campeonato</a> específico.
 
 #### Critérios de Aceitação:
-- Deve ser possível criar rodadas em um campeonato;
-- O usuário técnico deve poder adicionar uma nova rodada a um campeonato.
+- Deve ser possível criar <a href="../../modelagem/lexico/#rodadas">rodadas</a> em um <a href="../../modelagem/lexico/#campeonato">campeonato</a>;
+- O <a href="../../modelagem/lexico/#usuario">usuário</a> técnico deve poder adicionar uma nova rodada a um <a href="../../modelagem/lexico/#campeonato">campeonato</a>.
 <br>
 
-### US18: Alterar chaveamento de um campeonato
-Eu, como usuário técnico, desejo alterar um chaveamento de rodada em um campeonato específico.
+### US18: Alterar chaveamento de um <a href="../../modelagem/lexico/#campeonato">campeonato</a>
+Eu, como <a href="../../modelagem/lexico/#usuario">usuário</a> técnico, desejo alterar um chaveamento de rodada em um <a href="../../modelagem/lexico/#campeonato">campeonato</a> específico.
 
 #### Critérios de Aceitação:
-- Deve ser possível alterar o chaveamento do campeonato;
-- O usuário técnico deve poder alterar a posição dos times no chaveamento da rodada do campeonato.
+- Deve ser possível alterar o chaveamento do <a href="../../modelagem/lexico/#campeonato">campeonato</a>;
+- O <a href="../../modelagem/lexico/#usuario">usuário</a> técnico deve poder alterar a posição dos <a href="../../modelagem/lexico/#Time">time</a>s no chaveamento da rodada do <a href="../../modelagem/lexico/#campeonato">campeonato</a>.
 <br>
 
 ### US19: Compartilhamento de informações
-Eu, como usuário técnico, desejo compartilhar informações de um campeonato através de links.
+Eu, como <a href="../../modelagem/lexico/#usuario">usuário</a> técnico, desejo <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> informações de um <a href="../../modelagem/lexico/#campeonato">campeonato</a> através de <a href="../../modelagem/lexico/#links">links</a>.
 
 #### Critérios de Aceitação:
-- Deve ser possível compartilhar informações de um campeonato.
-- Deve ser possível gerar um link com informações do campeonato.
-- O usuário deve poder copiar esse link para compartilhar com quem desejar.
+- Deve ser possível <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> informações de um <a href="../../modelagem/lexico/#campeonato">campeonato</a>.
+- Deve ser possível gerar um link com informações do <a href="../../modelagem/lexico/#campeonato">campeonato</a>.
+- O <a href="../../modelagem/lexico/#usuario">usuário</a> deve poder copiar esse link para <a href="../../modelagem/lexico/#compartilhar">compartilhar</a> com quem desejar.
