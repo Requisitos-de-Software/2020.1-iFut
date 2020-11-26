@@ -1,4 +1,4 @@
-# Verificação de Histórias de Usuário
+# Verificação de Histórias de <a href="../../modelagem/lexico/#usuario">Usuário</a>
 
 ## Histórico de Versão
 <table class="table table-striped border">
@@ -35,7 +35,7 @@ O documento verificado está disponível <a href="https://requisitos-de-software
 <br>
 
 ## Checklist
-Esse é o check-list que servirá de base para a inspeção das Histórias de Usuário.
+Esse é o check-list que servirá de base para a inspeção das Histórias de <a href="../../modelagem/lexico/#usuario">Usuário</a>.
 <br>
 
 1. O título é auto-explicativo?
@@ -198,6 +198,6 @@ Esse é o check-list que servirá de base para a inspeção das Histórias de Us
 
 ## Conclusão
 
-<p align="justify">De acordo com a verificação, o documento está de acordo com o que se espera e com suas respectivas Histórias de Usuário em concordância com a maioria dos questionamentos do checklist.</p>
+<p align="justify">De acordo com a verificação, o documento está de acordo com o que se espera e com suas respectivas Histórias de <a href="../../modelagem/lexico/#usuario">Usuário</a> em concordância com a maioria dos questionamentos do checklist.</p>
 
 <br>

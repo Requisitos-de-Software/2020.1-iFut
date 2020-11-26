@@ -77,3 +77,9 @@ Esse é o check-list que servirá de base para a inspeção das iStar.
     <td>2</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td>
 </tr>
 </table>
+
+## Conclusão
+
+<p align="justify">De acordo com a verificação, foi concluído que não há muito o que corrigir, apenas uma palavra que não está linkada ao léxico</p>
+
+<br>

@@ -26,7 +26,7 @@
 ## Contexto
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autor do documento: Lucas Lopes.
-- Inspetora: Damarcones Porto.
+- Inspetor: Damarcones Porto.
 
 O documento verificado está disponível <a href="https://requisitos-de-software.github.io/2020.1-iFut/elicitacao/introspeccao/">aqui</a>.
 

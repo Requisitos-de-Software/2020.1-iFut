@@ -23,9 +23,14 @@
             <td> Questionário </td>
             <td> Damarcones Porto </td>
         </tr>
+         <tr>
+            <td> 24.11.2020 </td>
+            <td>  0.3   </td>
+            <td> Revisão do documento </td>
+            <td> Damarcones Porto </td>
 		 <tr>
             <td> 25.11.2020 </td>
-            <td> 0.5 </td>
+            <td> 0.4 </td>
             <td> Revisão do documento </td>
             <td> Isabella Carneiro </td>
         </tr>
@@ -34,7 +39,7 @@
 
 <br>
 
-## Metodologia
+## Introdução
 
  <div>
     <p align="justify">&emsp;
@@ -103,7 +108,7 @@ O formulário teve 27 respostas e os dados obtidos podem ser analisados a seguir
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../images/questionario/jogaFutebolOu <a href="../../modelagem/lexico/#online">online</a>.png"> 
+        <img height="300px" src="../../images/questionario/jogaFutebolOuOnline.png"> 
     </div>
 </div>
 
@@ -127,7 +132,7 @@ O formulário teve 27 respostas e os dados obtidos podem ser analisados a seguir
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../images/questionario/organizar<a href="../../modelagem/lexico/#campeonato">campeonato</a>.png"> 
+        <img height="300px" src="../../images/questionario/organizarCampeonato.png"> 
     </div>
 </div>
 
@@ -177,7 +182,7 @@ O formulário teve 27 respostas e os dados obtidos podem ser analisados a seguir
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../images/questionario/importancia<a href="../../modelagem/lexico/#campeonato">campeonato</a>s.png"> 
+        <img height="300px" src="../../images/questionario/importanciaCampeonatos.png"> 
     </div>
 </div>
 
@@ -199,7 +204,7 @@ O formulário teve 27 respostas e os dados obtidos podem ser analisados a seguir
     </div>
 </div>
 
-A partir dos resultados obtidos com o questionário, verificou-se que entre os  <a href="../../modelagem/lexico/#usuario">usuário</a>s do aplicativo a funcionalidade de súmula automática é a mais importante e as funcionalidades de criar <a href="../../modelagem/lexico/#campeonato">campeonato</a> e visualização de  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> indivíduais são medianamente importantes. Além disso, baseando-se na quantidade de respostasde  <a href="../../modelagem/lexico/#usuario">usuário</a>s que não usam o aplicativo, observa-se que há uma deficiência na visibilidade do aplicativo, visto que muitos nunca ouviram falar sobre o aplicativo iFut.
+A partir dos resultados obtidos com o questionário, verificou-se que entre os  <a href="../../modelagem/lexico/#usuario">usuário</a>s do aplicativo a funcionalidade de súmula automática é a mais importante e as funcionalidades de criar <a href="../../modelagem/lexico/#campeonato">campeonato</a> e visualização de  <a href="../../modelagem/lexico/#estatisticas">estatísticas</a> indivíduais são medianamente importantes. Além disso, baseando-se na quantidade de respostas de  <a href="../../modelagem/lexico/#usuario">usuário</a>s que não usam o aplicativo, observa-se que há uma deficiência na visibilidade do aplicativo, visto que muitos nunca ouviram falar sobre o aplicativo iFut.
 
 <table class="table table-striped border" style="color:black;">
     <thead style="background-color: #00ff2b;">
@@ -219,6 +224,9 @@ A partir dos resultados obtidos com o questionário, verificou-se que entre os  
     </tbody>
 </table>
 
+<br>
+
 ## Referências
+- Livro:Vasquez,C. E.;Simões, G. S. Engenharia de Requisitos. BRASPORT; 1ª edição (19 outubro 2016).
 - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
